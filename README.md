@@ -1,6 +1,6 @@
 # Awesome Engineering Games
 
-[![Awesome](https://awesome.re/badge*flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of engineering-related video games rated Very Positive or higher on Steam.
 
