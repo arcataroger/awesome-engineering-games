@@ -11,8 +11,9 @@ Please feel free to suggest new games or update existing titles!
 ## Ratings & Symbols Explained
 * ❤️ = "Overwhelmingly Positive" overall reviews on Steam, meaning >= 95% of 500+ reviewers liked it.
 * 👍 = Curator's Choice: Personal recommendations by the maintainers(s) of this list. This is a TOTALLY SUBJECTIVE "best of" for each category.
-* All other games have a "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
 * ☁️ = Playable on [GeForce Now](https://www.nvidia.com/en-us/geforce-now/). You can stream this game from the cloud without PC gaming hardware (no GPU required). Works in your browser and most OSes.
+
+All other games have "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
 
 # Table of Contents
 <details>
