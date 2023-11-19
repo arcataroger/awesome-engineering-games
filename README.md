@@ -36,7 +36,7 @@ These games distill the genre down to its core, stripping away the manual resour
 
 * (2020) [shapez](https://store.steampowered.com/app/1318690/shapez/) ❤️ 👍
     * Curator's Choice: A minimalist Factorio with an emphasis on conveyor belts.
-* (2019) [MOLEK*SYNTEZ](https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/)
+* (2019) [MOLEK-SYNTEZ](https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/)
 * (2017) [Opus Magnum](https://store.steampowered.com/app/558990/Opus_Magnum/) ❤️ 👍
     * Curator's Choice: Another minimalist take on the genre, distilling it down into symbols and automated pickers, sorters, and movers on rails.
 * (2011) [SpaceChem](https://store.steampowered.com/app/92800/SpaceChem/) ❤️
@@ -68,7 +68,7 @@ These take place in the modern, post-industrial era with modern vehicles and pow
 * (2023) [Terra Nil](https://store.steampowered.com/app/1593030/Terra_Nil/)
 * (2022) [Captain of Industry](https://store.steampowered.com/app/1594320/Captain_of_Industry/)
 * (2019) [Tropico 6](https://store.steampowered.com/app/492720/Tropico_6/)
-* (2011) [Tropico 4](https://store.steampowered.com/app/57690/Tropico_4/?curator_clanid=34422534)
+  * (2011) [Tropico 4](https://store.steampowered.com/app/57690/Tropico_4/?curator_clanid=34422534)
 * (2015) [Cities: Skylines](https://store.steampowered.com/app/255710/Cities_Skylines/) 👍
     * Curator's Choice: Probably the most in-depth city builder available today, even compared to its sequel (Cities Skylines 2). A great simulation of zoning, routing, economy management, hydrology, and more. If you play only one game on this entire list, make it this one!
 
@@ -178,7 +178,7 @@ These games have a focus on programming and automation. Unlike factory games, th
 * (2021) [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) ❤️
 * (2019) [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 * (2018) [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) ❤️
-* (2016) [TIS*100](https://store.steampowered.com/app/370360/TIS100/) ❤️
+* (2016) [TIS-100](https://store.steampowered.com/app/370360/TIS100/) ❤️
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)
 
 ## Electrical Engineering
@@ -193,7 +193,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Ship Crews (Space or Naval)
 * (2023) [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/)
 * (2023) [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/)
-* (2017) [Star Trek™: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
+* (2017) [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
 * (2013) [Artemis Spaceship Bridge Simulator](https://store.steampowered.com/app/247350/Artemis_Spaceship_Bridge_Simulator/)
 
 ## Space Operations & Orbital Mechanics
