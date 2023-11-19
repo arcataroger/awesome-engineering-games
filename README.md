@@ -200,7 +200,7 @@ These games focus on building semi-realistic (or not) bridges over cliffs, river
     * (2016) [Poly Bridge](https://store.steampowered.com/app/367450)
 * (2017) [Bridge Constructor Portal](https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/)
     * (2014) [Bridge Constructor Medieval](https://store.steampowered.com/app/319850/Bridge_Constructor_Medieval/)
-
+* (2008) [World of Goo](https://store.steampowered.com/app/22000/World_of_Goo/)
 
 # Rube Goldberg Machines
 
@@ -218,8 +218,10 @@ These games have a focus on programming and automation. Unlike factory games, th
 * (2021) [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) ❤️
 * (2019) [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 * (2018) [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) ❤️
+* (2018) [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)
 * (2016) [TIS-100](https://store.steampowered.com/app/370360/TIS100/) ❤️
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) ☁️
+* (2015) [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 
 ## Electrical Engineering
 Similar to programming games, but at a lower level in the machine. Wire circuits instead of writing code.
