@@ -20,8 +20,6 @@ Please feel free to suggest new games or update existing titles!
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Awesome Engineering Games](#awesome-engineering-games)
-  - [Rating Symbols Explained](#rating-symbols-explained)
 - [Factory Management & Automation](#factory-management--automation)
   - [Factory Building](#factory-building)
   - [Puzzle & Casual](#puzzle--casual)
