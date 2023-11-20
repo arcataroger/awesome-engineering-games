@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of engineering-related video games rated Very Positive or higher on Steam.
+A curated list of some of the best engineering games on PC. All titles are rated Very Positive or higher on Steam.
 
 Games are divided into broad categories based on the type(s) of engineering they're most related to, such as civil
 engineering, electrical engineering, computer science, etc.
@@ -23,7 +23,7 @@ Please feel free to suggest new games or update existing titles!
 * 🎮 = Has full or partial controller support
 * 🆓 = Free to play (possibly with in-app purchases)
 
-All games have "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
+All games have at least "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
 
 # Table of Contents
 
@@ -33,31 +33,31 @@ All games have "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ r
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
@@ -77,17 +77,17 @@ often with multiple chains of inputs to intermediary outputs.
 This subcategory has games that involve building an actual factory, usually by manually mining resources first and then
 slowly adding automation.
 
-| Year | Title                                                                                                                     | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                     |
-|------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023 | [Techtonica](https://store.steampowered.com/app/1457320/Techtonica/)                                                      | 🛠️👥🎮                                 | Satisfactory underground with more emphasis on story                                                                                            |
-| 2023 | [Desynced: Autonomous Colony Simulator](https://store.steampowered.com/app/1450900/Desynced_Autonomous_Colony_Simulator/) | 🛠️☁️👥🥊🎮                             |                                                                                                                                                 |
-| 2021 | [Learning Factory](https://store.steampowered.com/app/1150090/Learning_Factory/)                                          | 🛠️                                     |                                                                                                                                                 |
-| 2021 | [Factory Town](https://store.steampowered.com/app/860890/Factory_Town/)                                                   | 🎮🎮                                    |                                                                                                                                                 |
-| 2021 | [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/)                                  | 🛠️❤️👍☁️                               | Curator's Choice (arcataroger): Factorio in space, but with much better 3D graphics and the ability to expand across planets and solar systems. |
-| 2020 | [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)                                                   | 🛠️❤️☁️👥                               |                                                                                                                                                 |
-| 2019 | [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/)                                             | ☁️👥🥊🎮                                |                                                                                                                                                 |
-| 2019 | [Mindustry](https://store.steampowered.com/app/1127400/Mindustry/)                                                        | ❤️👥🥊                                  |                                                                                                                                                 |
-| 2016 | [Factorio](https://store.steampowered.com/app/427520/Factorio/)                                                           | ❤️👍☁️👥🎮                              | Curator's Choice (arcataroger): The game that created the genre. Base game is incredibly deep, with lots to optimize. Mods add even more.       | 
+| Year | Title                                                                                                                     | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                     |
+|------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023 | [Techtonica](https://store.steampowered.com/app/1457320/Techtonica/)                                                      | 🛠️👥🎮                                 | Satisfactory underground with more emphasis on story                                                                                                                            |
+| 2023 | [Desynced: Autonomous Colony Simulator](https://store.steampowered.com/app/1450900/Desynced_Autonomous_Colony_Simulator/) | 🛠️☁️👥🥊🎮                             |                                                                                                                                                                                 |
+| 2021 | [Learning Factory](https://store.steampowered.com/app/1150090/Learning_Factory/)                                          | 🛠️                                     |                                                                                                                                                                                 |
+| 2021 | [Factory Town](https://store.steampowered.com/app/860890/Factory_Town/)                                                   | 🎮🎮                                    |                                                                                                                                                                                 |
+| 2021 | [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/)                                  | 🛠️❤️👍☁️                               | Curator's Choice (arcataroger): Factorio in space, but with much better 3D graphics and the ability to expand across planets and solar systems.                                 |
+| 2020 | [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)                                                   | 🛠️❤️☁️👥                               |                                                                                                                                                                                 |
+| 2019 | [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/)                                             | ☁️👥🥊🎮                                |                                                                                                                                                                                 |
+| 2019 | [Mindustry](https://store.steampowered.com/app/1127400/Mindustry/)                                                        | ❤️👥🥊                                  |                                                                                                                                                                                 |
+| 2016 | [Factorio](https://store.steampowered.com/app/427520/Factorio/)                                                           | ❤️👍☁️👥🎮                              | Curator's Choice (arcataroger): The game that popularized the genre after Minecraft mods pioneered it. Base game is incredibly deep, with lots to optimize. Mods add even more. | 
 
 ## Puzzle & Casual
 
@@ -288,6 +288,7 @@ of actions rather than resource inputs. Some are graphical, while others require
 
 | Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                          |
 |------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | [ComPressure](https://store.steampowered.com/app/1528120/ComPressure/)                      |
 | 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
 | 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                      |
 | 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                      |
@@ -384,6 +385,7 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list!
 
+* RA2lover for suggesting ComPressure
 * derrikcurran for recommending Else Heart.Break()
 * naet for recommending Garry's Mod
 * idoubtit for correcting some release dates
