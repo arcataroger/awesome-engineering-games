@@ -201,7 +201,7 @@ These games focus on building semi-realistic (or not) bridges over cliffs, river
 * (2017) [Bridge Constructor Portal](https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/)
     * (2014) [Bridge Constructor Medieval](https://store.steampowered.com/app/319850/Bridge_Constructor_Medieval/)
 * (2008) [World of Goo](https://store.steampowered.com/app/22000/World_of_Goo/)
-* 
+
 # Rube Goldberg Machines
 
 These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
