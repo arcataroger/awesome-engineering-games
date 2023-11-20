@@ -264,6 +264,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 
 ## Everything else
 * (2021) [Airport CEO](https://store.steampowered.com/app/673610/Airport_CEO/) ☁️
+* (2019) [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) ❤️
 * (2019) [PC Building Simulator](https://store.steampowered.com/app/621060) ☁️
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
 
