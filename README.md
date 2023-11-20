@@ -220,6 +220,7 @@ These games have a focus on programming and automation. Unlike factory games, th
 * (2018) [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) ❤️
 * (2018) [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)
 * (2016) [TIS-100](https://store.steampowered.com/app/370360/TIS100/) ❤️
+* (2016) [Screeps](https://store.steampowered.com/app/464350/Screeps_World/)
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) ☁️
 * (2015) [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 
