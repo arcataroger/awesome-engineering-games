@@ -269,7 +269,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
 
 # Contributors & Credits
-Thank you for everyone's who contributed to this list!
+Thank you to everyone who's contributed to this list!
 
 * @maxwofford for fixing a broken link to STATIONflow
 * @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2
