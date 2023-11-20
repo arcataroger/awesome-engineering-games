@@ -286,17 +286,18 @@ from lasers to ballons to cats, then use them in humorous ways to complete puzzl
 These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets
 of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
 
-| Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                          |
-|------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained)                                                                     | Description                                                                                                                                                                                                                                                          |
+|------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 | [ComPressure](https://store.steampowered.com/app/1528120/ComPressure/)                      |
-| 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
-| 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                      |
-| 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                      |
-| 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                         |
-| 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                      |
-| 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                      | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
-| 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                      |
-| 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                         |
+| 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                                                                                        | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
+| 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                                                                                          |
+| 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                                                                                          |
+| 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                                                                                             |
+| 2017 | [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/) | |  A puzzle game about CPU design using a variety of simple components, like Adders, Latches and Multiplexers                                                                                                                                                          |
+| 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                                                                                          |
+| 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                                                                                          | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
+| 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                                                                                          |
+| 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                                                                                             |
 
 ## Automation with Coding
 
@@ -385,6 +386,7 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list!
 
+* @arctenis for suggesting Silicon Zeroes
 * RA2lover for suggesting ComPressure
 * derrikcurran for recommending Else Heart.Break()
 * naet for recommending Garry's Mod
