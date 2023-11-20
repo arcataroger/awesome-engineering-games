@@ -282,3 +282,5 @@ Thank you to everyone who's contributed to this list!
 * @cybrox for adding Rail Route and an Early Access indicator
 * @TimothyFothergill for adding Baba is You
 * @Sch1nken for adding PULSAR: Lost Colony
+* @arcataroger compiled the initial list
+* Hackernews (https://news.ycombinator.com/) for an incredible community, and dang there for being such an amazing moderator
