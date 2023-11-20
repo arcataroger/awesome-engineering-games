@@ -12,7 +12,8 @@ Please feel free to suggest new games or update existing titles!
 * ❤️ = "Overwhelmingly Positive" overall reviews on Steam, meaning >= 95% of 500+ reviewers liked it.
 * 👍 = Curator's Choice: Personal recommendations by the maintainers(s) of this list. This is a TOTALLY SUBJECTIVE "best of" for each category.
 * ☁️ = Playable on [GeForce Now](https://www.nvidia.com/en-us/geforce-now/). You can stream this game from the cloud without PC gaming hardware (no GPU required). Works in your browser and most OSes.
-
+* 🛠️ = Playable but still in Early Access
+  
 All other games have "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
 
 # Table of Contents
@@ -146,6 +147,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 
 ## Realistic Route-building
 * (2021) [NIMBY Rails](https://store.steampowered.com/app/1134710/NIMBY_Rails/)
+* (2021) [Rail Route](https://store.steampowered.com/app/1124180/Rail_Route/) 🛠️
 * (2019) [Train Valley 2](https://store.steampowered.com/app/602320/Train_Valley_2/) ☁️
     *  (2015) [Train Valley](https://store.steampowered.com/app/353640/Train_Valley/)
 * (2018) [Railway Empire](https://store.steampowered.com/app/503940/Railway_Empire/) 👍 ☁️
