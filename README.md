@@ -221,11 +221,12 @@ These games replicate the "Incredible Machine" games of the 90s, where you build
 These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
 
 * (2021) [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) ❤️
+* (2019) [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) ❤️ is a well regarded logic puzzler that forms the basis of how programming languages function.
 * (2019) [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 * (2018) [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) ❤️
 * (2018) [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)
 * (2016) [TIS-100](https://store.steampowered.com/app/370360/TIS100/) ❤️
-* (2016) [Screeps](https://store.steampowered.com/app/464350/Screeps_World/)
+* (2016) [Screeps](https://store.steampowered.com/app/464350/Screeps_World/) is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) ☁️
 * (2015) [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 
@@ -264,13 +265,18 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 
 ## Everything else
 * (2021) [Airport CEO](https://store.steampowered.com/app/673610/Airport_CEO/) ☁️
-* (2019) [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) ❤️
 * (2019) [PC Building Simulator](https://store.steampowered.com/app/621060) ☁️
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
 
-# Credits & Contributors
-Thank you for everyone's who contributed to this list, either here on Github or from elsewhere (e.g. Hackernews):
+# Contributors & Credits
+Thank you for everyone's who contributed to this list!
+
 * @maxwofford for fixing a broken link to STATIONflow
 * @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2
 * @abeyer for adding World of Goo, Human Resource Machine, 7 Billion Humans
+* @pmarks-net for adding Cosmic Express
+* @dotvhs for correcting a miscategorized Infinifactory
+* @Papawy for adding Transport Fever 1 & 2
+* @cybrox for adding Rail Route and an Early Access indicator
+* @TimothyFothergill for adding Baba is You
 * 
