@@ -83,9 +83,9 @@ slowly adding automation.
 | 2021 | [Factory Town](https://store.steampowered.com/app/860890/Factory_Town/)                                                   | 🎮🎮                                    |                                                                                                                                                 |
 | 2021 | [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/)                                  | 🛠️❤️👍☁️                               | Curator's Choice (arcataroger): Factorio in space, but with much better 3D graphics and the ability to expand across planets and solar systems. |
 | 2020 | [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)                                                   | 🛠️❤️☁️👥                               |                                                                                                                                                 |
-| 2020 | [Factorio](https://store.steampowered.com/app/427520/Factorio/)                                                           | ❤️👍☁️👥🎮                              | Curator's Choice (arcataroger): The game that created the genre. Base game is incredibly deep, with lots to optimize. Mods add even more.       | 
 | 2019 | [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/)                                             | ☁️👥🥊🎮                                |                                                                                                                                                 |
 | 2019 | [Mindustry](https://store.steampowered.com/app/1127400/Mindustry/)                                                        | ❤️👥🥊                                  |                                                                                                                                                 |
+| 2016 | [Factorio](https://store.steampowered.com/app/427520/Factorio/)                                                           | ❤️👍☁️👥🎮                              | Curator's Choice (arcataroger): The game that created the genre. Base game is incredibly deep, with lots to optimize. Mods add even more.       | 
 
 ## Puzzle & Casual
 
@@ -358,7 +358,18 @@ mundane (or exciting!) job.
 | 2017 | [MudRunner](https://store.steampowered.com/app/675010/MudRunner/)                                             | 👍☁️👥🎮                                | Curator's Choice (arcataroger): Simulated mud physics and deformable terrain make for a unique experience driving large logging trucks through the wilderness.                                                                                                                                                                                                                                                                                        |
 | 2006 | [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)                                            | 👍☁️👥🥊                                | Curator's Choice (naet): A playground using the Half Life 2 physics and game engine. I had great fun slapping wheels on something like a bathtub and making a makeshift car, or making silly Rube Goldberg style machines using levers, ropes, thrusters, etc. Not a typical game since it didn't offer any typical goals or levels outside of have fun and be creative, but that IMO only heightened the inspiration to engineer stuff to play with. |
 
-## Everything else
+# Narrative Storytelling Games
+
+These adventure games are story-first, and may or may not have engineering in the primary gameplay mechanics. However,
+they do have stories about or involving engineers.
+
+| Year | Title                                                                            | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                                                                                     |
+|------|----------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2022 | [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)   | 🎮                                      | An minimialist adventure game about living in a post-capitalism space station/junkyard. Some story paths feature more engineering than others.                                                                                                                                                                                  |
+| 2015 | [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/) | 👍                                      | Curator's Choice (deerrikcurran): a fantastic story set in a fully dynamic and interactive world. Instead of rigid puzzles you will learn (with the help from other characters in the game) how the reality of the game can be changed through programming and how any problem can be solved in whatever way you find suitable. |
+
+# Everything else
+These games defy easy categorization, but were "engineer-y" enough in some way to warrant inclusion
 
 | Year | Title                                                                     | Tags&nbsp;[?](#ratings--tags-explained) | Description |
 |------|---------------------------------------------------------------------------|-----------------------------------------|-------------|
@@ -370,6 +381,7 @@ mundane (or exciting!) job.
 
 Thank you to everyone who's contributed to this list!
 
+* derrikcurran for recommending Else Heart.Break()
 * naet for recommending Garry's Mod
 * idoubtit for correcting some release dates
 * disintegore for suggesting TerraTech and Workers & Resources
