@@ -201,7 +201,6 @@ These games focus on building semi-realistic (or not) bridges over cliffs, river
 * (2017) [Bridge Constructor Portal](https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/)
     * (2014) [Bridge Constructor Medieval](https://store.steampowered.com/app/319850/Bridge_Constructor_Medieval/)
 
-
 # Rube Goldberg Machines
 
 These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
@@ -233,6 +232,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Ship Crews (Space or Naval)
 * (2023) [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) ☁️
 * (2023) [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/) ☁️
+* (2021) [Carrier Command 2](https://store.steampowered.com/app/1489630/Carrier_Command_2/)
 * (2017) [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
 * (2013) [Artemis Spaceship Bridge Simulator](https://store.steampowered.com/app/247350/Artemis_Spaceship_Bridge_Simulator/)
 
@@ -243,9 +243,12 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Construction & Demolition
 * (2022) [Instruments of Destruction](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/) ❤️
 * (2022) [Construction Simulator](https://store.steampowered.com/app/1273400/Construction_Simulator/) ☁️
+* (2020) [Teardown](https://store.steampowered.com/app/1167630/Teardown/) ❤️
 
 ## Vehicle Operations & Physics
 * (2023) [SimRail - The Railway Simulator](https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/) ☁️
+* (2022) [NEBULOUS: Fleet Command](https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/)
+* (2021) [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/)
 * (2017) [MudRunner](https://store.steampowered.com/app/675010/MudRunner/) 👍 ☁️
     * Curator's Choice: Simulated mud physics and deformable terrain make for a unique experience driving large logging trucks through the wilderness.
     *  (2021) [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) ☁️
