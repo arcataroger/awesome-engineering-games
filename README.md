@@ -153,7 +153,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 * (2004) [OpenTTD](https://store.steampowered.com/app/1536610/OpenTTD/) ❤️
 
 ## Metro/Train Station Management
-* (2020) [STATIONflow](https://store.steampowered.com/app/726110/Overcrowd_A_Commute_Em_Up/)
+* (2020) [STATIONflow](https://store.steampowered.com/app/1122120/STATIONflow/)
 * (2020) [Overcrowd: A Commute 'Em Up](https://store.steampowered.com/app/726110/Overcrowd_A_Commute_Em_Up/)
 
 ## Puzzle & Casual
@@ -235,6 +235,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Ship Crews (Space or Naval)
 * (2023) [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) ☁️
 * (2023) [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/) ☁️
+* (2021) [Carrier Command 2](https://store.steampowered.com/app/1489630/Carrier_Command_2/) operates weaponized UAVs and rovers against other weaponized UAVs and rovers.
 * (2017) [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
 * (2013) [Artemis Spaceship Bridge Simulator](https://store.steampowered.com/app/247350/Artemis_Spaceship_Bridge_Simulator/)
 
@@ -245,9 +246,12 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Construction & Demolition
 * (2022) [Instruments of Destruction](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/) ❤️
 * (2022) [Construction Simulator](https://store.steampowered.com/app/1273400/Construction_Simulator/) ☁️
+* (2020) [Teardown](https://store.steampowered.com/app/1167630/Teardown/) ❤️ is similar to similar to Instruments of Destruction. With nice voxel physics.
 
 ## Vehicle Operations & Physics
 * (2023) [SimRail - The Railway Simulator](https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/) ☁️
+* (2022) [NEBULOUS: Fleet Command](https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/)
+* (2021) [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/) is about building armed ships in a dusty, future/soviet theme
 * (2017) [MudRunner](https://store.steampowered.com/app/675010/MudRunner/) 👍 ☁️
     * Curator's Choice: Simulated mud physics and deformable terrain make for a unique experience driving large logging trucks through the wilderness.
     *  (2021) [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) ☁️
@@ -256,3 +260,10 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 * (2021) [Airport CEO](https://store.steampowered.com/app/673610/Airport_CEO/) ☁️
 * (2019) [PC Building Simulator](https://store.steampowered.com/app/621060) ☁️
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
+
+# Credits & Contributors
+Thank you for everyone's who contributed to this list, either here on Github or from elsewhere (e.g. Hackernews):
+* @maxwofford for fixing a broken link to STATIONflow
+* @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2
+* @abeyer for adding World of Goo, Human Resource Machine, 7 Billion Humans
+* 
