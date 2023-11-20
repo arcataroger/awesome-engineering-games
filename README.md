@@ -242,6 +242,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Ship Crews (Space or Naval)
 * (2023) [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) ☁️
 * (2023) [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/) ☁️
+* (2021) [PULSAR: Lost Colony](https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/) ☁️  
 * (2021) [Carrier Command 2](https://store.steampowered.com/app/1489630/Carrier_Command_2/) operates weaponized UAVs and rovers against other weaponized UAVs and rovers.
 * (2017) [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
 * (2013) [Artemis Spaceship Bridge Simulator](https://store.steampowered.com/app/247350/Artemis_Spaceship_Bridge_Simulator/)
@@ -279,3 +280,4 @@ Thank you to everyone who's contributed to this list!
 * @Papawy for adding Transport Fever 1 & 2
 * @cybrox for adding Rail Route and an Early Access indicator
 * @TimothyFothergill for adding Baba is You
+* @Sch1nken for adding PULSAR: Lost Colony
