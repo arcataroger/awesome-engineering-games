@@ -69,7 +69,6 @@ This subcategory has games that involve building an actual factory, usually by m
     * Curator's Choice: The game that created the genre. Base game is incredibly deep, with lots to optimize. Mods add even more.
 * (2019) [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/) ☁️
 * (2019) [Mindustry](https://store.steampowered.com/app/1127400/Mindustry/) ❤️
-* (2015) [Infinifactory](https://store.steampowered.com/app/300570/Infinifactory/) ❤️ ☁️
 
 ## Puzzle & Casual
 These games distill the genre down to its core, stripping away the manual resource management and focusing on routing & automation.
@@ -79,6 +78,7 @@ These games distill the genre down to its core, stripping away the manual resour
 * (2019) [MOLEK-SYNTEZ](https://store.steampowered.com/app/1168880/MOLEKSYNTEZ/)
 * (2017) [Opus Magnum](https://store.steampowered.com/app/558990/Opus_Magnum/) ❤️ 👍 ☁️
     * Curator's Choice: Another minimalist take on the genre, distilling it down into symbols and automated pickers, sorters, and movers on rails.
+* (2015) [Infinifactory](https://store.steampowered.com/app/300570/Infinifactory/) ❤️ ☁️
 * (2011) [SpaceChem](https://store.steampowered.com/app/92800/SpaceChem/) ❤️
 
 # Vehicle Building
