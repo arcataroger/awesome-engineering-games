@@ -286,7 +286,6 @@ of actions rather than resource inputs. Some are graphical, while others require
 
 | Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                          |
 |------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2021 | [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/)                          | ❤️🆓                                    |
 | 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
 | 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                      |
 | 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                      |
@@ -295,6 +294,17 @@ of actions rather than resource inputs. Some are graphical, while others require
 | 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                      | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
 | 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                      |
 | 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                         |
+
+## Automation with Coding
+
+This sub-genre with not many games is a blend of your typical factory game and coding game. Instead of building
+automation using assembly lines with pickers, sorters, etc.,
+you would actually write "code" (either real code or via graphical coding blocks) to optimize production.
+
+| Year | Title                                                              | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                   |
+|------|--------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2019 | [Autonauts](https://store.steampowered.com/app/979120/Autonauts/)  |                                         | Village/colony sim populated by robots, with visual programming                                                                                                               | 
+| 2016 | [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) | ❤️🆓                                    | A mix of hacking and automation optimization, as you gradually acquire more servers & compute power. [Browser version](https://bitburner-official.github.io/) also available. |
 
 ## Electrical Engineering
 
@@ -359,6 +369,7 @@ mundane (or exciting!) job.
 
 Thank you to everyone who's contributed to this list!
 
+* idoubtit for correcting some release dates
 * disintegore for suggesting TerraTech and Workers & Resources
 * greg-h for recommending RoboCo
 * @jweather for suggesting Techtonica
