@@ -151,6 +151,8 @@ These games turn the roads and rails of city builders into its own genre, with a
 * (2018) [Railway Empire](https://store.steampowered.com/app/503940/Railway_Empire/) 👍 ☁️
     * Curator's Choice: A great track-building and route management simulator, with detailed terrain-track interactions and different kinds of locomotives.
 * (2004) [OpenTTD](https://store.steampowered.com/app/1536610/OpenTTD/) ❤️
+* (2016) [Transport Fever](https://store.steampowered.com/app/446800/Transport_Fever/) ☁️
+* (2019) [Transport Fever 2](https://store.steampowered.com/app/1066780/Transport_Fever_2/) ☁️
 
 ## Metro/Train Station Management
 * (2020) [STATIONflow](https://store.steampowered.com/app/1122120/STATIONflow/)
