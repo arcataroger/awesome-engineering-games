@@ -222,7 +222,6 @@ These games have a focus on programming and automation. Unlike factory games, th
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) ☁️
 * (2016) [Screeps](https://store.steampowered.com/app/464350/Screeps_World/)
 
-
 ## Electrical Engineering
 Similar to programming games, but at a lower level in the machine. Wire circuits instead of writing code.
 
