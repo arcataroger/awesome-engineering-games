@@ -387,3 +387,4 @@ Thank you to everyone who's contributed to this list!
 * @arcataroger compiled the initial list
 * [Hackernews](https://news.ycombinator.com/) for an incredible community, and dang there for being such an amazing
   moderator
+* Extra special thanks to Zachtronics (many of the logic/hacking games), Wube Software (Factorio), and Youthcat Games (Dyson Sphere Program) for introducing me to these genres in the first place and inspiring this list
