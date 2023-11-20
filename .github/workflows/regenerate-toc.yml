@@ -16,8 +16,8 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        node-version: '20'
-        cache: 'npm'
+        node-version: 'lts'
+        cache-dependency-path: 'README.md'
     - run: npm i -g doctoc --no-package-lock # Install DocToc https://www.npmjs.com/package/doctoc
     - run: doctoc README.md # Process the file and regenerate its ToC
     
