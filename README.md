@@ -200,7 +200,8 @@ These games focus on building semi-realistic (or not) bridges over cliffs, river
     * (2016) [Poly Bridge](https://store.steampowered.com/app/367450)
 * (2017) [Bridge Constructor Portal](https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/)
     * (2014) [Bridge Constructor Medieval](https://store.steampowered.com/app/319850/Bridge_Constructor_Medieval/)
-
+* (2008) [World of Goo](https://store.steampowered.com/app/22000/World_of_Goo/)
+* 
 # Rube Goldberg Machines
 
 These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
@@ -217,8 +218,10 @@ These games have a focus on programming and automation. Unlike factory games, th
 * (2021) [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) ❤️
 * (2019) [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 * (2018) [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/) ❤️
+* (2018) [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)
 * (2016) [TIS-100](https://store.steampowered.com/app/370360/TIS100/) ❤️
 * (2015) [Hacknet](https://store.steampowered.com/app/365450/Hacknet/) ☁️
+* (2015) [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 
 ## Electrical Engineering
 Similar to programming games, but at a lower level in the machine. Wire circuits instead of writing code.
@@ -232,7 +235,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Ship Crews (Space or Naval)
 * (2023) [Void Crew](https://store.steampowered.com/app/1063420/Void_Crew/) ☁️
 * (2023) [Barotrauma](https://store.steampowered.com/app/602960/Barotrauma/) ☁️
-* (2021) [Carrier Command 2](https://store.steampowered.com/app/1489630/Carrier_Command_2/)
+* (2021) [Carrier Command 2](https://store.steampowered.com/app/1489630/Carrier_Command_2/) operates weaponized UAVs and rovers against other weaponized UAVs and rovers.
 * (2017) [Star Trek: Bridge Crew](https://store.steampowered.com/app/527100/Star_Trek_Bridge_Crew/)
 * (2013) [Artemis Spaceship Bridge Simulator](https://store.steampowered.com/app/247350/Artemis_Spaceship_Bridge_Simulator/)
 
@@ -243,12 +246,12 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 ## Construction & Demolition
 * (2022) [Instruments of Destruction](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/) ❤️
 * (2022) [Construction Simulator](https://store.steampowered.com/app/1273400/Construction_Simulator/) ☁️
-* (2020) [Teardown](https://store.steampowered.com/app/1167630/Teardown/) ❤️
+* (2020) [Teardown](https://store.steampowered.com/app/1167630/Teardown/) ❤️ is similar to similar to Instruments of Destruction. With nice voxel physics.
 
 ## Vehicle Operations & Physics
 * (2023) [SimRail - The Railway Simulator](https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/) ☁️
 * (2022) [NEBULOUS: Fleet Command](https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/)
-* (2021) [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/)
+* (2021) [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/) is about building armed ships in a dusty, future/soviet theme
 * (2017) [MudRunner](https://store.steampowered.com/app/675010/MudRunner/) 👍 ☁️
     * Curator's Choice: Simulated mud physics and deformable terrain make for a unique experience driving large logging trucks through the wilderness.
     *  (2021) [SnowRunner](https://store.steampowered.com/app/1465360/SnowRunner/) ☁️
@@ -257,3 +260,10 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 * (2021) [Airport CEO](https://store.steampowered.com/app/673610/Airport_CEO/) ☁️
 * (2019) [PC Building Simulator](https://store.steampowered.com/app/621060) ☁️
 * (2001) [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) ❤️ ☁️
+
+# Credits & Contributors
+Thank you for everyone's who contributed to this list, either here on Github or from elsewhere (e.g. Hackernews):
+* @maxwofford for fixing a broken link to STATIONflow
+* @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2
+* @abeyer for adding World of Goo, Human Resource Machine, 7 Billion Humans
+* 
