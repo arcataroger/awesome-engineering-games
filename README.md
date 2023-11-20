@@ -279,4 +279,3 @@ Thank you for everyone's who contributed to this list!
 * @Papawy for adding Transport Fever 1 & 2
 * @cybrox for adding Rail Route and an Early Access indicator
 * @TimothyFothergill for adding Baba is You
-* 
