@@ -163,6 +163,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 * (2021) [Mini Motorways](https://store.steampowered.com/app/1127500/Mini_Motorways/) ❤️ 👍
     * Curator's Choice: Minimalist but addictive take on transportation networks, with roundabouts, highways, and traffic galore.
 * (2020) [Unrailed!](https://store.steampowered.com/app/1016920/Unrailed/)
+* (2017) [Cosmic Express](https://store.steampowered.com/app/583270/Cosmic_Express/)
 * (2016) [Turmoil](https://store.steampowered.com/app/361280/Turmoil/)
 * (2015) [Mini Metro](https://store.steampowered.com/app/287980/Mini_Metro/) ❤️
 
