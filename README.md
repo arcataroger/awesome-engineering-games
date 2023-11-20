@@ -31,7 +31,6 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <summary>Click to expand Table of Contents</summary>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
 - [Factory Management & Automation](#factory-management--automation)
   - [Factory Building](#factory-building)
