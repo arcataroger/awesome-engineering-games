@@ -33,31 +33,31 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
@@ -252,7 +252,7 @@ resource management aspects.
 | 2021 | [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)             | ☁️🎮                                    |
 | 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2018 | [Subnautica](https://store.steampowered.com/app/264710)                                                | ❤️👍☁️🎮                                | Curator's Choice (arcataroger): Build your own underwater homestead on an alien planet, with lots of exotic flora, fauna, minerals and machines. |
-| 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🥊🎮                             |
+| 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🎮                               |
 | 2013 | [Project Zomboid](https://store.steampowered.com/app/108600)                                           | 🛠️☁️👥🥊🎮                             |
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |
 
@@ -287,18 +287,18 @@ from lasers to ballons to cats, then use them in humorous ways to complete puzzl
 These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets
 of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
 
-| Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained)                                                                     | Description                                                                                                                                                                                                                                                          |
-|------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                          |
+|------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 | [ComPressure](https://store.steampowered.com/app/1528120/ComPressure/)                      |
-| 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                                                                                        | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
-| 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                                                                                          |
-| 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                                                                                          |
-| 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                                                                                             |
-| 2017 | [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/) | |  A puzzle game about CPU design using a variety of simple components, like Adders, Latches and Multiplexers                                                                                                                                                          |
-| 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                                                                                          |
-| 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                                                                                          | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
-| 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                                                                                          |
-| 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                                                                                             |
+| 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
+| 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                      |
+| 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                      |
+| 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                         |
+| 2017 | [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/)                 |                                         | A puzzle game about CPU design using a variety of simple components, like Adders, Latches and Multiplexers                                                                                                                                                           |
+| 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                      |
+| 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                      | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
+| 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                      |
+| 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                         |
 
 ## Automation with Coding
 
@@ -387,6 +387,7 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list!
 
+* @mathieubruguier for suggesting Stationeers
 * @arctenis for suggesting Silicon Zeroes
 * RA2lover for suggesting ComPressure
 * derrikcurran for recommending Else Heart.Break()
