@@ -255,6 +255,7 @@ resource management aspects.
 | 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🎮                               |
 | 2013 | [Project Zomboid](https://store.steampowered.com/app/108600)                                           | 🛠️☁️👥🥊🎮                             |
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |
+| 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                               |
 
 ## Bridge-Building
 
