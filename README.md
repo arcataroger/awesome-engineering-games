@@ -249,9 +249,10 @@ resource management aspects.
 
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                      |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2021 | [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)             | ☁️🎮                                    |
+| 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2018 | [Subnautica](https://store.steampowered.com/app/264710)                                                | ❤️👍☁️🎮                                | Curator's Choice (arcataroger): Build your own underwater homestead on an alien planet, with lots of exotic flora, fauna, minerals and machines. |
+| 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🥊🎮                             |
 | 2013 | [Project Zomboid](https://store.steampowered.com/app/108600)                                           | 🛠️☁️👥🥊🎮                             |
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |
 
