@@ -254,12 +254,12 @@ resource management aspects.
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                      |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 | [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)             | ☁️🎮                                    |
+| 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                               |
 | 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2018 | [Subnautica](https://store.steampowered.com/app/264710)                                                | ❤️👍☁️🎮                                | Curator's Choice (arcataroger): Build your own underwater homestead on an alien planet, with lots of exotic flora, fauna, minerals and machines. |
 | 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🎮                               |
 | 2013 | [Project Zomboid](https://store.steampowered.com/app/108600)                                           | 🛠️☁️👥🥊🎮                             |
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |
-| 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                               |
 
 ## Bridge-Building
 
@@ -391,6 +391,8 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list!
 
+* @bhamiltoncx for adding The Witness
+* @cardinal23 for adding Valheim
 * @mathieubruguier for suggesting Stationeers
 * @arctenis for suggesting Silicon Zeroes
 * RA2lover for suggesting ComPressure
@@ -403,7 +405,7 @@ Thank you to everyone who's contributed to this list!
 * @ritog for suggesting a Free to Play tag
 * @twiclo for suggesting multiplayer tags
 * @maxwofford for fixing a broken link to STATIONflow
-* @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2
+* @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2, Airships, Cataclysm
 * @abeyer for adding World of Goo, Human Resource Machine, 7 Billion Humans
 * @pmarks-net for adding Cosmic Express
 * @dotvhs for correcting a miscategorized Infinifactory
