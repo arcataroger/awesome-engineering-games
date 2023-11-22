@@ -8,7 +8,9 @@ Games are divided into broad categories based on the type(s) of engineering they
 engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation),
 etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
 
-Feel free to suggest new games or update existing titles! For now, please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you know how). Easier submissions and better instructions are coming soon.
+Feel free to suggest new games or update existing titles! For now,
+please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you
+know how). Easier submissions and better instructions are coming soon.
 
 ### Ratings & Tags Explained
 
@@ -34,31 +36,31 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
@@ -174,6 +176,7 @@ These take place in the post-modern era, often in space.
 
 | Year | Title                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description |
 |------|-----------------------------------------------------------------------------|-----------------------------------------|-------------|
+| 2023 | [Infraspace](https://store.steampowered.com/app/1511460/InfraSpace/)        |
 | 2018 | [Surviving Mars](https://store.steampowered.com/app/464920/Surviving_Mars/) | ☁️🎮                                    |             | 
 
 ### Theme Parks & Dungeons
@@ -350,7 +353,7 @@ mundane (or exciting!) job.
 |------|-------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------|
 | 2021 | [ΔV: Rings of Saturn](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/)             | 🎮                                      |                                                 |
 | 2016 | [Children of a Dead Earth](https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/) |                                         | Scientifically accurate space warfare simulator |
-| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                     |                                                 |
+| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                    |                                                 |
 
 ### Construction & Demolition
 
