@@ -346,10 +346,11 @@ mundane (or exciting!) job.
 
 ### Space Operations & Orbital Mechanics
 
-| Year | Title                                                                                   | Tags&nbsp;[?](#ratings--tags-explained) | Description |
-|------|-----------------------------------------------------------------------------------------|-----------------------------------------|-------------|
-| 2021 | [ΔV: Rings of Saturn](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/)     | 🎮                                      |
-| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/) | ❤️🎮                                    |
+| Year | Title                                                                                           | Tags&nbsp;[?](#ratings--tags-explained) | Description                                     |
+|------|-------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------|
+| 2021 | [ΔV: Rings of Saturn](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/)             | 🎮                                      |                                                 |
+| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                     |                                                 |
+| 2016 | [Children of a Dead Earth](https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/) |                                         | Scientifically accurate space warfare simulator |
 
 ### Construction & Demolition
 
