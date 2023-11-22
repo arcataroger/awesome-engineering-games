@@ -8,8 +8,7 @@ Games are divided into broad categories based on the type(s) of engineering they
 engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation),
 etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
 
-Please feel free to suggest new games or update existing titles! (Please create a new Github Issue or Pull Request for
-now; easier submissions and better instructions are coming soon.)
+Feel free to suggest new games or update existing titles! For now, please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you know how). Easier submissions and better instructions are coming soon.
 
 ### Ratings & Tags Explained
 
