@@ -412,7 +412,7 @@ Thank you to everyone who's contributed to this list:
 **[@Sch1nken](https://github.com/Sch1nken), [@TimothyFothergill](https://github.com/TimothyFothergill), [@cybrox](https://github.com/cybrox), [@Papawy](https://github.com/Papawy), [@dotvhs](https://github.com/dotvhs), [@pmarks-net](https://github.com/pmarks-net), [@abeyer](https://github.com/abeyer), [@uwu64](https://github.com/uwu64), [@maxwofford](https://github.com/maxwofford), [@twiclo](https://github.com/twiclo), [@ritog](https://github.com/ritog),
 [@jweather](https://github.com/jweather), greg-h, disintegore, idoubtit, naet, derrikcurran,
 RA2lover, [@arctenis](https://github.com/arctenis), [@mathieubruguier](https://github.com/mathieubruguier), [@cardinal23](https://github.com/cardinal23),
-[@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars)**
+[@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars), [@neuron-whisperer](https://github.com/neuron-whisperer)**
 
 And extra special thanks to:
 
