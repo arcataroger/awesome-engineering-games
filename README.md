@@ -236,7 +236,7 @@ more about the micro aspects of daily life than big-picture population growth.
 
 | Year | Title                                                                                               | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023 | [Cataclysm: Dark Days Ahead](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) |                                         | Much older than the steam release date.                                                                                                                                                
+| 2023 | [Cataclysm: Dark Days Ahead](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) |                                         | Much older than the steam release date.                                                                                                                                                |
 | 2023 | [Stranded: Alien Dawn](https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/)             | ☁️🎮                                    |
 | 2022 | [Farthest Frontier](https://store.steampowered.com/app/1044720/Farthest_Frontier/)                  | 🛠️☁️                                   |
 | 2022 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                         | ☁️                                      |
@@ -396,9 +396,9 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list:
 
-**@Sch1nken, @TimothyFothergill, @cybrox, @Papawy, @dotvhs, @pmarks-net, @abeyer, @uwu64, @maxwofford, @twiclo, @ritog,
-@jweather, greg-h, disintegore, idoubtit, naet, derrikcurran, RA2lover, @arctenis, @mathieubruguier, @cardinal23,
-@bhamiltoncx, bdomars**
+**[@Sch1nken](https://github.com/Sch1nken), [@TimothyFothergill](https://github.com/TimothyFothergill), [@cybrox](https://github.com/cybrox), [@Papawy](https://github.com/Papawy), [@dotvhs](https://github.com/dotvhs), [@pmarks-net](https://github.com/pmarks-net), [@abeyer](https://github.com/abeyer), [@uwu64](https://github.com/uwu64), [@maxwofford](https://github.com/maxwofford), [@twiclo](https://github.com/twiclo), [@ritog](https://github.com/ritog),
+[@jweather](https://github.com/jweather), greg-h, disintegore, idoubtit, naet, derrikcurran, RA2lover, [@arctenis](https://github.com/arctenis), [@mathieubruguier](https://github.com/mathieubruguier), [@cardinal23](https://github.com/cardinal23),
+[@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars)**
 
 And extra special thanks to:
 
