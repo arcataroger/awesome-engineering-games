@@ -110,6 +110,7 @@ its driving behaviors. Some have combat, while others are peaceful.
 
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                                            |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023 | [The Last Starship](https://store.steampowered.com/app/1857080/The_Last_Starship/)                     |                                     |
 | 2023 | [Mars First Logistics](https://store.steampowered.com/app/1532200/Mars_First_Logistics/)               | 🛠️❤️👥🎮                               |                                                                                                                                                                                                                                                                                        |
 | 2023 | [Juno: New Origins](https://store.steampowered.com/app/870200/Juno_New_Origins/)                       | 🎮                                      |                                                                                                                                                                                                                                                                                        |
 | 2023 | [Brick Rigs](https://store.steampowered.com/app/552100/Brick_Rigs/)                                    | ☁️🥊🎮                                  |                                                                                                                                                                                                                                                                                        |
@@ -245,6 +246,7 @@ more about the micro aspects of daily life than big-picture population growth.
 | 2018 | [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)                                     | ❤️☁️🎮                                  |
 | 2018 | [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/)                                   | 👍☁️                                    | Curator's Choice (arcataroger): Tough survival simulator in a frozen wasteland, with enough resource, route, heat and energy management to make it interesting to the engineer-minded. |
 | 2017 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)             | 🎮                                      |
+| 2014 | [rymdkapsek](https://store.steampowered.com/app/253790/rymdkapsel/)                                 |                                         |
 
 ## Open-World Survival Sandboxes
 
@@ -255,10 +257,12 @@ resource management aspects.
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                      |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 | [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)             | ☁️🎮                                    |
+| 2021 | [Breathedge](https://store.steampowered.com/app/738520/Breathedge/)                                    |                                       |
 | 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                                |
 | 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2018 | [Subnautica](https://store.steampowered.com/app/264710)                                                | ❤️👍☁️🎮                                | Curator's Choice (arcataroger): Build your own underwater homestead on an alien planet, with lots of exotic flora, fauna, minerals and machines. |
 | 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🎮                               |
+[ 2016 | [Astroneer](https://store.steampowered.com/app/361420/ASTRONEER/)                                      |                                      |
 | 2013 | [Project Zomboid](https://store.steampowered.com/app/108600)                                           | 🛠️☁️👥🥊🎮                             |
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |
 
@@ -295,17 +299,23 @@ of actions rather than resource inputs. Some are graphical, while others require
 
 | Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                                                                                                          |
 |------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | [Comet 64](https://store.steampowered.com/app/1397290/Comet_64/)                            |                                        |
 | 2021 | [ComPressure](https://store.steampowered.com/app/1528120/ComPressure/)                      |
 | 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                       | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              |
 | 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)          | 🎮                                      |
+| 2019 | [NITE Team 4 - Military Hacking Division](https://store.steampowered.com/app/544390/NITE_Team_4__Military_Hacking_Division/)  |       |
 | 2018 | [EXAPUNKS](https://store.steampowered.com/app/716490/EXAPUNKS/)                             | ❤️                                      |
 | 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                         |
 | 2017 | [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/)                 |                                         | A puzzle game about CPU design using a variety of simple components, like Adders, Latches and Multiplexers                                                                                                                                                           |
+| 2017 | [Grey Hack](https://store.steampowered.com/app/605230/Grey_Hack/)                           |                                        |
+| 2017 | [Mainlining](https://store.steampowered.com/app/454950/Mainlining/)                         |                                        |
 | 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                      |
 | 2016 | [The Witness](https://store.steampowered.com/app/210970/The_Witness/)                       | 🎮                                      | Puzzle game which teaches the player a visual language of interlocking rules, similar to a programming language.                                                                                                                                                     |
 | 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                      | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
 | 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                      |
 | 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                         |
+| 2016 | [Mu Complex](https://store.steampowered.com/app/383690/Mu_Complex/)                         |                                         |
+| 2001 | [Uplink (Hacker Elite)](https://store.steampowered.com/app/1510/Uplink/)                    |                                         | One of the earliest "hack the Internet" games. |
 
 ### Automation with Coding
 
@@ -324,6 +334,7 @@ Similar to programming games, but at a lower level in the machine. Wire circuits
 
 | Year | Title                                                                          | Tags&nbsp;[?](#ratings--tags-explained) | Description |
 |------|--------------------------------------------------------------------------------|-----------------------------------------|-------------|
+| 2022 | [Electrician Simulator](https://store.steampowered.com/app/1080020/Electrician_Simulator/)  |                            |             |
 | 2021 | [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/) | ❤️                                      |
 | 2016 | [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/)         | ❤️                                      |
 
@@ -358,6 +369,7 @@ mundane (or exciting!) job.
 | 2022 | [Instruments of Destruction](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/) | ❤️🛠️                                   |
 | 2022 | [Construction Simulator](https://store.steampowered.com/app/1273400/Construction_Simulator/)         | ☁️👥🎮️                                 |
 | 2020 | [Teardown](https://store.steampowered.com/app/1167630/Teardown/)                                     | ❤️🎮                                    | is similar to similar to Instruments of Destruction. With nice voxel physics. |
+| 2015 | [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)                      |                                       |
 
 ### Vehicle Operations & Physics
 
