@@ -349,8 +349,8 @@ mundane (or exciting!) job.
 | Year | Title                                                                                           | Tags&nbsp;[?](#ratings--tags-explained) | Description                                     |
 |------|-------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------|
 | 2021 | [ΔV: Rings of Saturn](https://store.steampowered.com/app/846030/V_Rings_of_Saturn/)             | 🎮                                      |                                                 |
-| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                     |                                                 |
 | 2016 | [Children of a Dead Earth](https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/) |                                         | Scientifically accurate space warfare simulator |
+| 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                     |                                                 |
 
 ### Construction & Demolition
 
@@ -395,7 +395,7 @@ Thank you to everyone who's contributed to this list:
 
 **@Sch1nken, @TimothyFothergill, @cybrox, @Papawy, @dotvhs, @pmarks-net, @abeyer, @uwu64, @maxwofford, @twiclo, @ritog,
 @jweather, greg-h, disintegore, idoubtit, naet, derrikcurran, RA2lover, @arctenis, @mathieubruguier, @cardinal23,
-@bhamiltoncx**
+@bhamiltoncx, bdomars**
 
 And extra special thanks to:
 
