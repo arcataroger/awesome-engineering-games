@@ -5,9 +5,11 @@
 A curated list of some of the best engineering games on PC. All titles are rated Very Positive or higher on Steam.
 
 Games are divided into broad categories based on the type(s) of engineering they're most related to, such as [civil
-engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation), etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
+engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation),
+etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
 
-Please feel free to suggest new games or update existing titles! (Please create a new Github Issue or Pull Request for now; easier submissions and better instructions are coming soon.)
+Please feel free to suggest new games or update existing titles! (Please create a new Github Issue or Pull Request for
+now; easier submissions and better instructions are coming soon.)
 
 ### Ratings & Tags Explained
 
@@ -33,31 +35,31 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
@@ -114,7 +116,7 @@ its driving behaviors. Some have combat, while others are peaceful.
 | 2023 | [Brick Rigs](https://store.steampowered.com/app/552100/Brick_Rigs/)                                    | ☁️🥊🎮                                  |                                                                                                                                                                                                                                                                                        |
 | 2022 | [NEBULOUS: Fleet Command](https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/)           | 🛠️👥🥊                                 |
 | 2022 | [RoboCo](https://store.steampowered.com/app/1067220/RoboCo/)                                           | 👍🛠️                                   | Curator's Choice (gene-h): It has one of the best mechanism simulators I've seen in a game with all sorts of gears, differentials, slider joints, springs etc. I've found it handy for virtually prototyping, you can mock up and test machine concepts much faster than CAD software. |
-| 2021 | [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/)                                            |                                         | Building sideways 2D armed ships in a dusty, future/soviet theme |
+| 2021 | [HighFleet](https://store.steampowered.com/app/1434950/HighFleet/)                                     |                                         | Building sideways 2D armed ships in a dusty, future/soviet theme                                                                                                                                                                                                                       |
 | 2021 | [Sprocket](https://store.steampowered.com/app/1674170/Sprocket/)                                       | 🛠️                                     |                                                                                                                                                                                                                                                                                        |
 | 2021 | [Main Assembly](https://store.steampowered.com/app/1078920/Main_Assembly/)                             | ☁️👥🥊🎮                                |                                                                                                                                                                                                                                                                                        |
 | 2020 | [Stormworks: Build and Rescue](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/) | ☁️👥🥊🎮                                |                                                                                                                                                                                                                                                                                        |
@@ -122,7 +124,7 @@ its driving behaviors. Some have combat, while others are peaceful.
 | 2020 | [Besiege](https://store.steampowered.com/app/346010/Besiege/)                                          | ❤️☁️👥🥊                                |                                                                                                                                                                                                                                                                                        |
 | 2019 | [Trailmakers](https://store.steampowered.com/app/585420/Trailmakers/)                                  | ☁️👥🥊🎮                                |                                                                                                                                                                                                                                                                                        |
 | 2018 | [TerraTech](https://store.steampowered.com/app/285920/TerraTech/)                                      | 👥🥊🎮                                  | Very streamlined and surprisingly deep, although the campaign gameplay can be frustrating.                                                                                                                                                                                             |
-| 2018 | [Airships: Conquer the Skies](https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/)                                      | 🥊                                  | 
+| 2018 | [Airships: Conquer the Skies](https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/)   | 🥊                                      |
 | 2016 | [Scrap Mechanic](https://store.steampowered.com/app/387990/Scrap_Mechanic/)                            | 🛠️☁️👥🎮                               |                                                                                                                                                                                                                                                                                        |
 | 2015 | [SimplePlanes](https://store.steampowered.com/app/397340/SimplePlanes/)                                |                                         |                                                                                                                                                                                                                                                                                        |
 
@@ -230,20 +232,20 @@ Similar to city builders, but with a stronger focus on surviving harsh condition
 heat/cold, food, etc. In this genre, individual citizens are often more important and impactful, and the simulation is
 more about the micro aspects of daily life than big-picture population growth.
 
-| Year | Title                                                                                   | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                            |
-|------|-----------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023 | [Cataclysm: Dark Days Ahead](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) |                                          | Much older than the steam release date. 
-| 2023 | [Stranded: Alien Dawn](https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/) | ☁️🎮                                    |
-| 2022 | [Farthest Frontier](https://store.steampowered.com/app/1044720/Farthest_Frontier/)      | 🛠️☁️                                   |
-| 2022 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)             | ☁️                                      |
-| 2022 | [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/)      | 🛠️❤️☁️                                 |
-| 2021 | [Going Medieval](https://store.steampowered.com/app/1029780/Going_Medieval/)            | 🛠️☁️                                   |
-| 2020 | [Space Haven](https://store.steampowered.com/app/979110/Space_Haven/)                   | 🛠️☁️🎮                                 |
-| 2019 | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions/)       | ☁️                                      |
-| 2019 | [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)   | ❤️☁️                                    |
-| 2018 | [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)                         | ❤️☁️🎮                                  |
-| 2018 | [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/)                       | 👍☁️                                    | Curator's Choice (arcataroger): Tough survival simulator in a frozen wasteland, with enough resource, route, heat and energy management to make it interesting to the engineer-minded. |
-| 2017 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/) | 🎮                                      |
+| Year | Title                                                                                               | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                                                            |
+|------|-----------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023 | [Cataclysm: Dark Days Ahead](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) |                                         | Much older than the steam release date.                                                                                                                                                
+| 2023 | [Stranded: Alien Dawn](https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/)             | ☁️🎮                                    |
+| 2022 | [Farthest Frontier](https://store.steampowered.com/app/1044720/Farthest_Frontier/)                  | 🛠️☁️                                   |
+| 2022 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                         | ☁️                                      |
+| 2022 | [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/)                  | 🛠️❤️☁️                                 |
+| 2021 | [Going Medieval](https://store.steampowered.com/app/1029780/Going_Medieval/)                        | 🛠️☁️                                   |
+| 2020 | [Space Haven](https://store.steampowered.com/app/979110/Space_Haven/)                               | 🛠️☁️🎮                                 |
+| 2019 | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions/)                   | ☁️                                      |
+| 2019 | [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)               | ❤️☁️                                    |
+| 2018 | [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)                                     | ❤️☁️🎮                                  |
+| 2018 | [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/)                                   | 👍☁️                                    | Curator's Choice (arcataroger): Tough survival simulator in a frozen wasteland, with enough resource, route, heat and energy management to make it interesting to the engineer-minded. |
+| 2017 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)             | 🎮                                      |
 
 ## Open-World Survival Sandboxes
 
@@ -254,7 +256,7 @@ resource management aspects.
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Description                                                                                                                                      |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2021 | [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/)             | ☁️🎮                                    |
-| 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                               |
+| 2021 | [Valheim](https://store.steampowered.com/app/892970/Valheim/)                                          | ❤️☁️👥🎮                                |
 | 2020 | [Empyrion - Galactic Survival](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/) | ☁️👥🥊🎮                                |
 | 2018 | [Subnautica](https://store.steampowered.com/app/264710)                                                | ❤️👍☁️🎮                                | Curator's Choice (arcataroger): Build your own underwater homestead on an alien planet, with lots of exotic flora, fauna, minerals and machines. |
 | 2017 | [Stationeers](https://store.steampowered.com/app/544550/Stationeers/)                                  | 🛠️☁️👥🎮                               |
@@ -301,7 +303,7 @@ of actions rather than resource inputs. Some are graphical, while others require
 | 2018 | [7 Billion Humans](https://store.steampowered.com/app/792100/7_Billion_Humans/)             |                                         |
 | 2017 | [Silicon Zeroes](https://store.steampowered.com/app/684270/Silicon_Zeroes/)                 |                                         | A puzzle game about CPU design using a variety of simple components, like Adders, Latches and Multiplexers                                                                                                                                                           |
 | 2016 | [TIS-100](https://store.steampowered.com/app/370360/TIS100/)                                | ❤️                                      |
-| 2016 | [The Witness](https://store.steampowered.com/app/210970/The_Witness/)                       | 🎮                                     | Puzzle game which teaches the player a visual language of interlocking rules, similar to a programming language. |
+| 2016 | [The Witness](https://store.steampowered.com/app/210970/The_Witness/)                       | 🎮                                      | Puzzle game which teaches the player a visual language of interlocking rules, similar to a programming language.                                                                                                                                                     |
 | 2016 | [Screeps: World](https://store.steampowered.com/app/464350/Screeps_World/)                  | 🥊                                      | Open-source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you. |
 | 2015 | [Hacknet](https://store.steampowered.com/app/365450/Hacknet/)                               | ☁️                                      |
 | 2015 | [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/) |                                         |
@@ -389,32 +391,17 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 ## Contributors & Credits
 
-Thank you to everyone who's contributed to this list!
+Thank you to everyone who's contributed to this list:
 
-* @bhamiltoncx for adding The Witness
-* @cardinal23 for adding Valheim
-* @mathieubruguier for suggesting Stationeers
-* @arctenis for suggesting Silicon Zeroes
-* RA2lover for suggesting ComPressure
-* derrikcurran for recommending Else Heart.Break()
-* naet for recommending Garry's Mod
-* idoubtit for correcting some release dates
-* disintegore for suggesting TerraTech and Workers & Resources
-* greg-h for recommending RoboCo
-* @jweather for suggesting Techtonica
-* @ritog for suggesting a Free to Play tag
-* @twiclo for suggesting multiplayer tags
-* @maxwofford for fixing a broken link to STATIONflow
-* @uwu64 for adding Teardown, HighFleet, NEBULOUS, Carrier Command 2, Airships, Cataclysm
-* @abeyer for adding World of Goo, Human Resource Machine, 7 Billion Humans
-* @pmarks-net for adding Cosmic Express
-* @dotvhs for correcting a miscategorized Infinifactory
-* @Papawy for adding Transport Fever 1 & 2
-* @cybrox for adding Rail Route and an Early Access tag
-* @TimothyFothergill for adding Baba is You
-* @Sch1nken for adding PULSAR: Lost Colony
-* @arcataroger compiled the initial list
+**@Sch1nken, @TimothyFothergill, @cybrox, @Papawy, @dotvhs, @pmarks-net, @abeyer, @uwu64, @maxwofford, @twiclo, @ritog,
+@jweather, greg-h, disintegore, idoubtit, naet, derrikcurran, RA2lover, @arctenis, @mathieubruguier, @cardinal23,
+@bhamiltoncx**
+
+And extra special thanks to:
+
 * [Hackernews](https://news.ycombinator.com/) for an incredible community, and dang there for being such an amazing
-  moderator
-* Extra special thanks to Zachtronics (many of the logic/hacking games), Wube Software (Factorio), and Youthcat Games (
+  moderator!
+* [Zachtronics](https://www.zachtronics.com/) (many of the logic/hacking
+  games), [Wube Software](https://www.factorio.com/game/about) (Factorio),
+  and [Youthcat Games](https://store.steampowered.com/developer/YouthcatGames) (
   Dyson Sphere Program) for introducing me to these genres in the first place and inspiring this list
