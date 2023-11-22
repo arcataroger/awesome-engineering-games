@@ -36,31 +36,31 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
@@ -407,13 +407,10 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 
 Thank you to everyone who's contributed to this list:
 
-*
-
-*[@Sch1nken](https://github.com/Sch1nken), [@TimothyFothergill](https://github.com/TimothyFothergill), [@cybrox](https://github.com/cybrox), [@Papawy](https://github.com/Papawy), [@dotvhs](https://github.com/dotvhs), [@pmarks-net](https://github.com/pmarks-net), [@abeyer](https://github.com/abeyer), [@uwu64](https://github.com/uwu64), [@maxwofford](https://github.com/maxwofford), [@twiclo](https://github.com/twiclo), [@ritog](https://github.com/ritog),
+[@Sch1nken](https://github.com/Sch1nken), [@TimothyFothergill](https://github.com/TimothyFothergill), [@cybrox](https://github.com/cybrox), [@Papawy](https://github.com/Papawy), [@dotvhs](https://github.com/dotvhs), [@pmarks-net](https://github.com/pmarks-net), [@abeyer](https://github.com/abeyer), [@uwu64](https://github.com/uwu64), [@maxwofford](https://github.com/maxwofford), [@twiclo](https://github.com/twiclo), [@ritog](https://github.com/ritog),
 [@jweather](https://github.com/jweather), greg-h, disintegore, idoubtit, naet, derrikcurran,
 RA2lover, [@arctenis](https://github.com/arctenis), [@mathieubruguier](https://github.com/mathieubruguier), [@cardinal23](https://github.com/cardinal23),
 [@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars), [@neuron-whisperer](https://github.com/neuron-whisperer)
-**
 
 And extra special thanks to:
 
