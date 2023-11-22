@@ -246,7 +246,7 @@ more about the micro aspects of daily life than big-picture population growth.
 | 2018 | [RimWorld](https://store.steampowered.com/app/294100/RimWorld/)                                     | ❤️☁️🎮                                  |
 | 2018 | [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/)                                   | 👍☁️                                    | Curator's Choice (arcataroger): Tough survival simulator in a frozen wasteland, with enough resource, route, heat and energy management to make it interesting to the engineer-minded. |
 | 2017 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)             | 🎮                                      |
-| 2014 | [rymdkapsek](https://store.steampowered.com/app/253790/rymdkapsel/)                                 |                                         |
+| 2014 | [rymdkapsel](https://store.steampowered.com/app/253790/rymdkapsel/)                                 |                                         |
 
 ## Open-World Survival Sandboxes
 
