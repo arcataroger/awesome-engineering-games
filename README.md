@@ -64,19 +64,19 @@ All games (except the newer ones) have at least "Very Positive" overall reviews 
 
 
 ## Newly-released games
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These are newer engineering games that were recently released on Steam and don't have enough reviews yet. They're included here to give them exposure and a chance to accrue reviews, up to about 100 reviews or about a year or so after release, whichever comes first. They'll stay on the list if they reach Very Positive in that time.
 
 * August 8, 2023: [Lambda Spellcrafting Academy](https://store.steampowered.com/app/2323860/Lambda_Spellcrafting_Academy/) in [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation) 
 
 ## Factory Management & Automation
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games emphasize the building of assembly lines that consume input resources in order to produce output goods, often with multiple chains of inputs to intermediary outputs.
 
 ### Factory Building
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 This subcategory has games that involve building an actual factory, usually by manually mining resources first and then slowly adding automation.
 
@@ -93,7 +93,7 @@ This subcategory has games that involve building an actual factory, usually by m
 | 2016 | [Factorio](https://store.steampowered.com/app/427520/Factorio/)                                                           | ❤️👍☁️👥🎮                              | Curator's Choice (arcataroger): The game that popularized the genre after Minecraft mods pioneered it. Base game is incredibly deep, with lots to optimize. Mods add even more. | Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you. |
 
 ### Puzzle & Casual
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games distill the genre down to its core, stripping away the manual resource management and focusing on routing & automation.
 
@@ -106,7 +106,7 @@ These games distill the genre down to its core, stripping away the manual resour
 | 2011 | [SpaceChem](https://store.steampowered.com/app/92800/SpaceChem/)          | ❤️                                      |                                                                                                                                                            | Zachtronics is back with an ambitious new design-based puzzle game. Take on the role of a Reactor Engineer working for SpaceChem, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products! |
 
 ## Vehicle Building
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games let you create your own vehicle (whether a car, ship, aircraft, or otherwise) from parts and then simulate its driving behaviors. Some have combat, while others are peaceful.
 
@@ -132,14 +132,14 @@ These games let you create your own vehicle (whether a car, ship, aircraft, or o
 | 2015 | [SimplePlanes](https://store.steampowered.com/app/397340/SimplePlanes/)                                |                                         |                                                                                                                                                                                                                                                                                        | Build airplanes by snapping parts together, designing wing sections, and attaching engines. At any time, you can strap yourself into the cockpit and see how it flies with realistic physics. If you're not in the mood for building, over 100,000 airplanes are available to download for free.           |
 
 ## City Builders & Civil Engineering
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games have a primary focus on city building and utilities infrastructure (electricity, sewer, water, garbage, etc.). They are a typically blend of planning and economy management.
 
 There is a separate category, Transportation, for games that primarily deal with route-building without the accompanying city and economy management.
 
 ### Modern & Near-Future
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These take place in the modern, post-industrial era with modern vehicles and power grids.
 
@@ -153,7 +153,7 @@ These take place in the modern, post-industrial era with modern vehicles and pow
 | 2011 | [Tropico 4](https://store.steampowered.com/app/57690/Tropico_4/?curator_clanid=34422534)                              | ☁️                                      |                                                                                                                                                                                                                                                                                            | The world is changing and Tropico is moving with the times - geographical powers rise and fall and the world market is dominated by new players with new demands and offers - and you, as El Presidente, face a whole new set of challenges.                                                          |
 
 ### Rail & Sails
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 This is the pre-modern era, before open-sea shipping, trucks, and air freight were common. They have a focus on sailing craft, wagons & trains.
 
@@ -162,7 +162,7 @@ This is the pre-modern era, before open-sea shipping, trucks, and air freight we
 | 2019 | [Anno 1800](https://store.steampowered.com/app/916440/Anno_1800/) | ☁️👥🥊                                  |                    | Anno 1800™ – Lead the Industrial Revolution! Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you. |
 
 ### Medieval & Fantasy
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 Before industrialization, or in alternate realities with a typical "old world" fantasy theme.
 
@@ -174,7 +174,7 @@ Before industrialization, or in alternate realities with a typical "old world" f
 | 2019 | [Foundation](https://store.steampowered.com/app/690830/Foundation/)                                  | 🛠️☁️                                   |                                                                                                                                                                                                                                                        | Foundation is a grid-less, laidback medieval city-building game with a focus on organic development, monument construction and resource management.                                                                                                         |
 
 ### Sci-Fi & Far-Future
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These take place in the post-modern era, often in space.
 
@@ -184,7 +184,7 @@ These take place in the post-modern era, often in space.
 | 2018 | [Surviving Mars](https://store.steampowered.com/app/464920/Surviving_Mars/) | ☁️🎮                                    |                    | There will be challenges to overcome. Execute your strategy and improve your colony’s chances of survival while unlocking the mysteries of this alien world. Are you ready? Mars is waiting for you.       |
 
 ### Theme Parks & Dungeons
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 A genre started by RollerCoaster Tycoon back in the 90s, modern games still play homage to it.
 
@@ -196,12 +196,12 @@ A genre started by RollerCoaster Tycoon back in the 90s, modern games still play
 | 2018 | [Parkitect](https://store.steampowered.com/app/453090/Parkitect/)                                                                | ☁️👥                                    |                                                                                                                                                                | Parkitect is a business simulation game that charges you with the construction and management of theme parks! Bringing back the best of classic theme park games with many new features and content on top. Now supports online co-op with up to 8 players!                                                          |
 
 ## Transportation & Route Management
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games turn the roads and rails of city builders into its own genre, with a focus on route-building, traffic alleviation, and "traveling salesman" problems (finding the best route between points A, B, C, etc.).
 
 ### Realistic Route-building
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                              | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                  | Steam Description                                                                                                                                                                                                                                                                                      |
 |------|------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -215,7 +215,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 | 2004 | [OpenTTD](https://store.steampowered.com/app/1536610/OpenTTD/)                     | ❤️👥🥊🆓                                |                                                                                                                                                                     | OpenTTD is a business simulation game in which players earn money by transporting passengers and cargo via road, rail, water, and air. It is an open-source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe.                                                          |
 
 ### Metro/Train Station Management
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                               | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts | Steam Description                                                                                                                                                                                                                  |
 |------|-----------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -223,7 +223,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 | 2020 | [Overcrowd: A Commute 'Em Up](https://store.steampowered.com/app/726110/Overcrowd_A_Commute_Em_Up/) |                                         |                    | Design and build the most efficient metro stations known to man! Excavate. Expand. Set staff priorities. And manage the commuter flow. Overcrowd is a 2.5D management/tycoon/simulator set below the bustling city of Lubdon Town. |
 
 ### Puzzle & Casual
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                        | Steam Description                                                                                                                                                                                                                                                                                       |
 |------|--------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -237,7 +237,7 @@ These games turn the roads and rails of city builders into its own genre, with a
 | 2015 | [Mini Metro](https://store.steampowered.com/app/287980/Mini_Metro/)                  | ❤️                                      |                                                                                                                                           | Mini Metro is a strategy simulation game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving? |
 
 ## Survival & Settlement Builders, Colony Sims
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 Similar to city builders, but with a stronger focus on surviving harsh conditions and managing limited resources, heat/cold, food, etc. In this genre, individual citizens are often more important and impactful, and the simulation is more about the micro aspects of daily life than big-picture population growth.
 
@@ -258,7 +258,7 @@ Similar to city builders, but with a stronger focus on surviving harsh condition
 | 2006 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                         | ☁️                                      |                                                                                                                                                                                        | The deepest, most intricate simulation of a world that's ever been created. The legendary Dwarf Fortress is now on Steam. Build a fortress and try to help your dwarves survive against a deeply generated world.                                                                                         |
 
 ## Open-World Survival Sandboxes
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 A sibling genre to colony sims, here you take direct control of one person (or a small group) to try to gather resources, craft, and survive. While they don't all have the strongest engineering focus, most have at least building & resource management aspects.
 
@@ -275,7 +275,7 @@ A sibling genre to colony sims, here you take direct control of one person (or a
 | 2013 | [7 Days to Die](https://store.steampowered.com/app/251570/7_Days_to_Die/)                              | 🛠️☁️👥🥊🎮                             |                                                                                                                                                  | 7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!                                                                       |
 
 ## Bridge-Building
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games focus on building semi-realistic (or not) bridges over cliffs, rivers, etc. with physics simulation and load management. Different material strengths and stressors test your ability to build bridges that hold up under heavy use.
 
@@ -289,7 +289,7 @@ These games focus on building semi-realistic (or not) bridges over cliffs, river
 | 2008 | [World of Goo](https://store.steampowered.com/app/22000/World_of_Goo/)                                |                                         |                    | World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys.                                                                                                                                                                                            |
 
 ## Rube Goldberg Machines
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
 
@@ -301,7 +301,7 @@ These games replicate the "Incredible Machine" games of the 90s, where you build
 | 2014 | [Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/)           | 👥                                      |                                                                                                                                                                                        | Contraption Maker is a physics sandbox puzzle game from the designer/programmer of The Incredible Machine.Play 100s of puzzles. Build and share elaborate contraptions with an amazing variety of parts and critters.                                                                         |
 
 ## Hacking, Computer Science, Logic & Automation
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
 
@@ -325,7 +325,7 @@ These games have a focus on programming and automation. Unlike factory games, th
 | 2001 | [Uplink (Hacker Elite)](https://store.steampowered.com/app/1510/Uplink/)                                                     |                                         | One of the earliest "hack the Internet" games.                                                                                                                                                                                                                       | You play an Uplink Agent who makes a living by performing jobs for major corporations. Your tasks involve hacking into rival computer systems, stealing research data, sabotaging other companies, laundering money, erasing evidence, or framing innocent people.                                           |
 
 ### Automation with Coding
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 This sub-genre with not many games is a blend of your typical factory game and coding game. Instead of building automation using assembly lines with pickers, sorters, etc., you would actually write "code" (either real code or via graphical coding blocks) to optimize production.
 
@@ -335,7 +335,7 @@ This sub-genre with not many games is a blend of your typical factory game and c
 | 2016 | [Bitburner](https://store.steampowered.com/app/1812820/Bitburner/) | ❤️🆓                                    | A mix of hacking and automation optimization, as you gradually acquire more servers & compute power. [Browser version](https://bitburner-official.github.io/) also available. | Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.                                   |
 
 ### Electrical Engineering
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 Similar to programming games, but at a lower level in the machine. Wire circuits instead of writing code.
 
@@ -346,12 +346,12 @@ Similar to programming games, but at a lower level in the machine. Wire circuits
 | 2016 | [SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/)                     | ❤️                                      |                    | BUILD CIRCUITS. WRITE CODE. RTFM.                                                                                                                                                                                                                                            |
 
 ## Job Simulators & Unique Themes
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 This is sort of a catch-all category for games that don't neatly fit anywhere else, usually with a creative take on some mundane (or exciting!) job.
 
 ### Ship Crews (Space or Naval)
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                                                           | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                           | Steam Description                                                                                                                                                                                                                                                                  |
 |------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -365,7 +365,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 | 2012 | [FTL: Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)                                      | ❤️☁️                                    |                                                                              | This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.                                                                                                |
 
 ### Space Operations & Orbital Mechanics
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                           | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                              | Steam Description                                                                                                                                                                                                                                                                                           |
 |------|-------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -374,7 +374,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 | 2015 | [Kerbal Space Program](https://store.steampowered.com/app/220200/Kerbal_Space_Program/)         | ❤️🎮                                    |                                                 | In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.                                                 |
 
 ### Construction & Demolition
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                                | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                            | Steam Description                                                                                                                                                                                                                                                |
 |------|------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -384,7 +384,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 | 2015 | [Prison Architect](https://store.steampowered.com/app/233450/Prison_Architect/)                      |                                         |
 
 ### Vehicle Operations & Physics
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 | Year | Title                                                                                                         | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                                                                                                                                                                                                                                                                                    | Steam Description                                                                                                                                                                                                                                                                                          |
 |------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -394,7 +394,7 @@ This is sort of a catch-all category for games that don't neatly fit anywhere el
 | 2006 | [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)                                            | 👍☁️👥🥊                                | Curator's Choice (naet): A playground using the Half Life 2 physics and game engine. I had great fun slapping wheels on something like a bathtub and making a makeshift car, or making silly Rube Goldberg style machines using levers, ropes, thrusters, etc. Not a typical game since it didn't offer any typical goals or levels outside of have fun and be creative, but that IMO only heightened the inspiration to engineer stuff to play with. | Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.                                                                                                                                                                                  |
 
 ## Narrative Storytelling Games
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These adventure games are story-first, and may or may not have engineering in the primary gameplay mechanics. However, they do have stories about or involving engineers.
 
@@ -404,7 +404,7 @@ These adventure games are story-first, and may or may not have engineering in th
 | 2015 | [Else Heart.Break()](https://store.steampowered.com/app/400110/Else_HeartBreak/) | 👍                                      | Curator's Choice (deerrikcurran): a fantastic story set in a fully dynamic and interactive world. Instead of rigid puzzles you will learn (with the help from other characters in the game) how the reality of the game can be changed through programming and how any problem can be solved in whatever way you find suitable. | A game about friendship, love and technology in a place where bits have replaced atoms.                                                                                                                                                                                                                 |
 
 ## Everything else
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 These games defy easy categorization, but were "engineer-y" enough in some way to warrant inclusion
 
@@ -415,7 +415,7 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 | 2001 | [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) | ❤️☁️🎮                                  |                    | Work your way to a service empire. Get your hands dirty in a highly realistic simulation game that pays major attention to details. Pay a visit to a new Auction house and buy cars in various conditions. Expand your range of services by investing in a new work space and equipment. |
 
 ## Contributors & Credits
-[Back to Table of Contents ⬆](#table-of-contents)
+[↶ Back to Table of Contents](#table-of-contents)
 
 Thank you to everyone who's contributed to this list:
 
