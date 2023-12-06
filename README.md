@@ -2,31 +2,25 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of some of the best engineering games on PC. All titles are rated Very Positive or higher on Steam.
+A curated list of some of the best engineering games on PC. All titles are rated Very Positive or higher on Steam, unless they're newer games waiting for enough reviews.
 
-Games are divided into broad categories based on the type(s) of engineering they're most related to, such as [civil
-engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation),
-etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
+Games are divided into broad categories based on the type(s) of engineering they're most related to, such as [civil engineering & city-building](#city-builders--civil-engineering), [transportation & route-building](#transportation--route-management), [computer science & electrical engineering](#hacking-computer-science-logic--automation), etc. See the [Table of Contents](#table-of-contents) for a full breakdown of categories.
 
-Feel free to suggest new games or update existing titles! For now,
-please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you
-know how). Easier submissions and better instructions are coming soon.
+Feel free to suggest new games or update existing titles! For now, please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you know how). Easier submissions and better instructions are coming soon.
 
 ### Ratings & Tags Explained
 
 * ❤️ = "Overwhelmingly Positive" overall reviews on Steam, meaning >= 95% of 500+ reviewers liked it.
-* 👍 = Curator's Choice (arcataroger): Personal recommendations by the maintainers(s) of this list. This is a TOTALLY
-  SUBJECTIVE "best
-  of" for each category.
-* ☁️ = Playable on [GeForce Now](https://www.nvidia.com/en-us/geforce-now/). You can stream this game from the cloud
-  without PC gaming hardware (no GPU required). Works in your browser and most OSes.
+* 👍 = Curator's Choice (arcataroger): Personal recommendations by the maintainers(s) of this list. This is a TOTALLY SUBJECTIVE "best of" for each category.
+* ☁️ = Playable on [GeForce Now](https://www.nvidia.com/en-us/geforce-now/). You can stream this game from the cloud without PC gaming hardware (no GPU required). Works in your browser and most OSes.
 * 🛠️ = Playable but still in Early Access
 * 👥 = Multiplayer co-op
 * 🥊 = Multiplayer competitive / PvP
 * 🎮 = Has full or partial controller support
 * 🆓 = Free to play (possibly with in-app purchases)
+* 🌱 = Newer game (less than ~1 year old and/or < ~100 reviews). These are included to give them exposure and early reviews. They stay on the list if they reach Very Positive.
 
-All games have at least "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
+All games (except the newer ones) have at least "Very Positive" overall reviews on Steam, meaning >= 80% of 50+ reviewers liked it.
 
 ## Table of Contents
 
@@ -36,50 +30,60 @@ All games have at least "Very Positive" overall reviews on Steam, meaning >= 80%
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Factory Management & Automation](#factory-management--automation)
-  - [Factory Building](#factory-building)
-  - [Puzzle & Casual](#puzzle--casual)
+    - [Factory Building](#factory-building)
+    - [Puzzle & Casual](#puzzle--casual)
 - [Vehicle Building](#vehicle-building)
 - [City Builders & Civil Engineering](#city-builders--civil-engineering)
-  - [Modern & Near-Future](#modern--near-future)
-  - [Rail & Sails](#rail--sails)
-  - [Medieval & Fantasy](#medieval--fantasy)
-  - [Sci-Fi & Far-Future](#sci-fi--far-future)
-  - [Theme Parks & Dungeons](#theme-parks--dungeons)
+    - [Modern & Near-Future](#modern--near-future)
+    - [Rail & Sails](#rail--sails)
+    - [Medieval & Fantasy](#medieval--fantasy)
+    - [Sci-Fi & Far-Future](#sci-fi--far-future)
+    - [Theme Parks & Dungeons](#theme-parks--dungeons)
 - [Transportation & Route Management](#transportation--route-management)
-  - [Realistic Route-building](#realistic-route-building)
-  - [Metro/Train Station Management](#metrotrain-station-management)
-  - [Puzzle & Casual](#puzzle--casual-1)
+    - [Realistic Route-building](#realistic-route-building)
+    - [Metro/Train Station Management](#metrotrain-station-management)
+    - [Puzzle & Casual](#puzzle--casual-1)
 - [Survival & Settlement Builders, Colony Sims](#survival--settlement-builders-colony-sims)
 - [Open-World Survival Sandboxes](#open-world-survival-sandboxes)
 - [Bridge-Building](#bridge-building)
 - [Rube Goldberg Machines](#rube-goldberg-machines)
 - [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation)
-  - [Automation with Coding](#automation-with-coding)
-  - [Electrical Engineering](#electrical-engineering)
+    - [Automation with Coding](#automation-with-coding)
+    - [Electrical Engineering](#electrical-engineering)
 - [Job Simulators & Unique Themes](#job-simulators--unique-themes)
-  - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
-  - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
-  - [Construction & Demolition](#construction--demolition)
-  - [Vehicle Operations & Physics](#vehicle-operations--physics)
+    - [Ship Crews (Space or Naval)](#ship-crews-space-or-naval)
+    - [Space Operations & Orbital Mechanics](#space-operations--orbital-mechanics)
+    - [Construction & Demolition](#construction--demolition)
+    - [Vehicle Operations & Physics](#vehicle-operations--physics)
 - [Narrative Storytelling Games](#narrative-storytelling-games)
 - [Everything else](#everything-else)
 - [Contributors & Credits](#contributors--credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-*This Table of Contents was auto-generated by [DocToc](https://github.com/thlorenz/doctoc)*
+*This
+Table
+of
+Contents
+was
+auto-generated
+by [DocToc](https://github.com/thlorenz/doctoc)*
 
 </details>
 
+## Newly-released games
+
+These are newer engineering games that were recently released on Steam and don't have enough reviews yet. They're included here to give them exposure and a chance to accrue reviews, up to about 100 reviews or about a year or so after release, whichever comes first. They'll stay on the list if they reach Very Positive in that time.
+
+* August 8, 2023: [Lambda Spellcrafting Academy](https://store.steampowered.com/app/2323860/Lambda_Spellcrafting_Academy/) in [Hacking, Computer Science, Logic & Automation](hacking-computer-science-logic--automation) 
+
 ## Factory Management & Automation
 
-These games emphasize the building of assembly lines that consume input resources in order to produce output goods,
-often with multiple chains of inputs to intermediary outputs.
+These games emphasize the building of assembly lines that consume input resources in order to produce output goods, often with multiple chains of inputs to intermediary outputs.
 
 ### Factory Building
 
-This subcategory has games that involve building an actual factory, usually by manually mining resources first and then
-slowly adding automation.
+This subcategory has games that involve building an actual factory, usually by manually mining resources first and then slowly adding automation.
 
 | Year | Title                                                                                                                     | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                              | Steam Description                                                                                                                                                                                                                                                                                               |
 |------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -95,8 +99,7 @@ slowly adding automation.
 
 ### Puzzle & Casual
 
-These games distill the genre down to its core, stripping away the manual resource management and focusing on routing &
-automation.
+These games distill the genre down to its core, stripping away the manual resource management and focusing on routing & automation.
 
 | Year | Title                                                                     | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                         | Steam Description                                                                                                                                                                                                                                                                   |
 |------|---------------------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -108,8 +111,7 @@ automation.
 
 ## Vehicle Building
 
-These games let you create your own vehicle (whether a car, ship, aircraft, or otherwise) from parts and then simulate
-its driving behaviors. Some have combat, while others are peaceful.
+These games let you create your own vehicle (whether a car, ship, aircraft, or otherwise) from parts and then simulate its driving behaviors. Some have combat, while others are peaceful.
 
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                                                                                                                     | Steam Description                                                                                                                                                                                                                                                                                          |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -134,11 +136,9 @@ its driving behaviors. Some have combat, while others are peaceful.
 
 ## City Builders & Civil Engineering
 
-These games have a primary focus on city building and utilities infrastructure (electricity, sewer, water, garbage,
-etc.). They are a typically blend of planning and economy management.
+These games have a primary focus on city building and utilities infrastructure (electricity, sewer, water, garbage, etc.). They are a typically blend of planning and economy management.
 
-There is a separate category, Transportation, for games that primarily deal with route-building without the accompanying
-city and economy management.
+There is a separate category, Transportation, for games that primarily deal with route-building without the accompanying city and economy management.
 
 ### Modern & Near-Future
 
@@ -155,8 +155,7 @@ These take place in the modern, post-industrial era with modern vehicles and pow
 
 ### Rail & Sails
 
-This is the pre-modern era, before open-sea shipping, trucks, and air freight were common. They have a focus on sailing
-craft, wagons & trains.
+This is the pre-modern era, before open-sea shipping, trucks, and air freight were common. They have a focus on sailing craft, wagons & trains.
 
 | Year | Title                                                             | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts | Steam Description                                                                                                                                                                                                                                     |
 |------|-------------------------------------------------------------------|-----------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -195,8 +194,7 @@ A genre started by RollerCoaster Tycoon back in the 90s, modern games still play
 
 ## Transportation & Route Management
 
-These games turn the roads and rails of city builders into its own genre, with a focus on route-building, traffic
-alleviation, and "traveling salesman" problems (finding the best route between points A, B, C, etc.).
+These games turn the roads and rails of city builders into its own genre, with a focus on route-building, traffic alleviation, and "traveling salesman" problems (finding the best route between points A, B, C, etc.).
 
 ### Realistic Route-building
 
@@ -233,9 +231,7 @@ alleviation, and "traveling salesman" problems (finding the best route between p
 
 ## Survival & Settlement Builders, Colony Sims
 
-Similar to city builders, but with a stronger focus on surviving harsh conditions and managing limited resources,
-heat/cold, food, etc. In this genre, individual citizens are often more important and impactful, and the simulation is
-more about the micro aspects of daily life than big-picture population growth.
+Similar to city builders, but with a stronger focus on surviving harsh conditions and managing limited resources, heat/cold, food, etc. In this genre, individual citizens are often more important and impactful, and the simulation is more about the micro aspects of daily life than big-picture population growth.
 
 | Year | Title                                                                                               | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                     | Steam Description                                                                                                                                                                                                                                                                                         |
 |------|-----------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -255,9 +251,7 @@ more about the micro aspects of daily life than big-picture population growth.
 
 ## Open-World Survival Sandboxes
 
-A sibling genre to colony sims, here you take direct control of one person (or a small group) to try to gather
-resources, craft, and survive. While they don't all have the strongest engineering focus, most have at least building &
-resource management aspects.
+A sibling genre to colony sims, here you take direct control of one person (or a small group) to try to gather resources, craft, and survive. While they don't all have the strongest engineering focus, most have at least building & resource management aspects.
 
 | Year | Title                                                                                                  | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                               | Steam Description                                                                                                                                                                                                                                                                                          |
 |------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -273,8 +267,7 @@ resource management aspects.
 
 ## Bridge-Building
 
-These games focus on building semi-realistic (or not) bridges over cliffs, rivers, etc. with physics simulation and load
-management. Different material strengths and stressors test your ability to build bridges that hold up under heavy use.
+These games focus on building semi-realistic (or not) bridges over cliffs, rivers, etc. with physics simulation and load management. Different material strengths and stressors test your ability to build bridges that hold up under heavy use.
 
 | Year | Title                                                                                                 | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts | Steam Description                                                                                                                                                                                                                                                                                       |
 |------|-------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -287,8 +280,7 @@ management. Different material strengths and stressors test your ability to buil
 
 ## Rube Goldberg Machines
 
-These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything
-from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
+These games replicate the "Incredible Machine" games of the 90s, where you build crazy contraptions out of everything from lasers to ballons to cats, then use them in humorous ways to complete puzzles.
 
 | Year | Title                                                                                       | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                     | Steam Description                                                                                                                                                                                                                                                                             |
 |------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -299,11 +291,11 @@ from lasers to ballons to cats, then use them in humorous ways to complete puzzl
 
 ## Hacking, Computer Science, Logic & Automation
 
-These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets
-of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
+These games have a focus on programming and automation. Unlike factory games, they focus on optimizing repeatable sets of actions rather than resource inputs. Some are graphical, while others require some light scripting/coding.
 
 | Year | Title                                                                                                                        | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                                                                                                   | Steam Description                                                                                                                                                                                                                                                                                            |
 |------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023 | [Lambda Spellcrafting Academy](https://store.steampowered.com/app/2323860/Lambda_Spellcrafting_Academy/)                     | 🌱                                      |                                                                                                                                                                                                                                                                      | Develop magical programming abilities while building spells. Lambda Spellcrafting Academy is a card-based puzzle game where you build spells (programs) to solve puzzles. Fun for complete beginners or professional wizards.                                                                                |
 | 2021 | [ComPressure](https://store.steampowered.com/app/1528120/ComPressure/)                                                       |                                         |                                                                                                                                                                                                                                                                      | Design increasingly complex computation units powered by high pressure steam. From switches to steam based computers, all in a world of analogue pressure devices. Use previous designs to solve further challenges, unravel the mystery of the missing steam and discover a new field of science.           |
 | 2019 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                                                        | ❤️🎮                                    | Well-regarded logic puzzler that forms the basis of how programming languages function.                                                                                                                                                                              | Baba Is You is a puzzle game where the rules you have to follow are present as blocks you can interact with. By manipulating them, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!                                                             |
 | 2019 | [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)                                           | 🎮                                      |                                                                                                                                                                                                                                                                      | You’re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits, learn how machine learning really works! |
@@ -322,9 +314,7 @@ of actions rather than resource inputs. Some are graphical, while others require
 
 ### Automation with Coding
 
-This sub-genre with not many games is a blend of your typical factory game and coding game. Instead of building
-automation using assembly lines with pickers, sorters, etc.,
-you would actually write "code" (either real code or via graphical coding blocks) to optimize production.
+This sub-genre with not many games is a blend of your typical factory game and coding game. Instead of building automation using assembly lines with pickers, sorters, etc., you would actually write "code" (either real code or via graphical coding blocks) to optimize production.
 
 | Year | Title                                                              | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                            | Steam Description                                                                                                                                                                                                                          |
 |------|--------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -343,8 +333,7 @@ Similar to programming games, but at a lower level in the machine. Wire circuits
 
 ## Job Simulators & Unique Themes
 
-This is sort of a catch-all category for games that don't neatly fit anywhere else, usually with a creative take on some
-mundane (or exciting!) job.
+This is sort of a catch-all category for games that don't neatly fit anywhere else, usually with a creative take on some mundane (or exciting!) job.
 
 ### Ship Crews (Space or Naval)
 
@@ -387,8 +376,7 @@ mundane (or exciting!) job.
 
 ## Narrative Storytelling Games
 
-These adventure games are story-first, and may or may not have engineering in the primary gameplay mechanics. However,
-they do have stories about or involving engineers.
+These adventure games are story-first, and may or may not have engineering in the primary gameplay mechanics. However, they do have stories about or involving engineers.
 
 | Year | Title                                                                            | Tags&nbsp;[?](#ratings--tags-explained) | Curator's Thoughts                                                                                                                                                                                                                                                                                                              | Steam Description                                                                                                                                                                                                                                                                                       |
 |------|----------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -410,15 +398,11 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 Thank you to everyone who's contributed to this list:
 
 [@Sch1nken](https://github.com/Sch1nken), [@TimothyFothergill](https://github.com/TimothyFothergill), [@cybrox](https://github.com/cybrox), [@Papawy](https://github.com/Papawy), [@dotvhs](https://github.com/dotvhs), [@pmarks-net](https://github.com/pmarks-net), [@abeyer](https://github.com/abeyer), [@uwu64](https://github.com/uwu64), [@maxwofford](https://github.com/maxwofford), [@twiclo](https://github.com/twiclo), [@ritog](https://github.com/ritog),
-[@jweather](https://github.com/jweather), greg-h, disintegore, idoubtit, naet, derrikcurran,
-RA2lover, [@arctenis](https://github.com/arctenis), [@mathieubruguier](https://github.com/mathieubruguier), [@cardinal23](https://github.com/cardinal23),
-[@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars), [@neuron-whisperer](https://github.com/neuron-whisperer), [@sirpalee](https://github.com/sirpalee), [@zaeith](https://github.com/zaeith)
+[@jweather](https://github.com/jweather), greg-h, disintegore, idoubtit, naet, derrikcurran, RA2lover, [@arctenis](https://github.com/arctenis), [@mathieubruguier](https://github.com/mathieubruguier), [@cardinal23](https://github.com/cardinal23),
+[@bhamiltoncx](https://github.com/bhamiltoncx), [@bdomars](https://github.com/bdomars), [@neuron-whisperer](https://github.com/neuron-whisperer), [@sirpalee](https://github.com/sirpalee), [@zaeith](https://github.com/zaeith), [@BitTwiddleGames](https://github.com/BitTwiddleGames)
 
 And extra special thanks to:
 
-* [Hackernews](https://news.ycombinator.com/) for an incredible community, and dang there for being such an amazing
-  moderator!
-* [Zachtronics](https://www.zachtronics.com/) (many of the logic/hacking
-  games), [Wube Software](https://www.factorio.com/game/about) (Factorio),
-  and [Youthcat Games](https://store.steampowered.com/developer/YouthcatGames) (
+* [Hackernews](https://news.ycombinator.com/) for an incredible community, and dang there for being such an amazing moderator!
+* [Zachtronics](https://www.zachtronics.com/) (many of the logic/hacking games), [Wube Software](https://www.factorio.com/game/about) (Factorio), and [Youthcat Games](https://store.steampowered.com/developer/YouthcatGames) (
   Dyson Sphere Program) for introducing me to these genres in the first place and inspiring this list
