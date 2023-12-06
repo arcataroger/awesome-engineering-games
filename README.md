@@ -75,7 +75,7 @@ by [DocToc](https://github.com/thlorenz/doctoc)*
 
 These are newer engineering games that were recently released on Steam and don't have enough reviews yet. They're included here to give them exposure and a chance to accrue reviews, up to about 100 reviews or about a year or so after release, whichever comes first. They'll stay on the list if they reach Very Positive in that time.
 
-* August 8, 2023: [Lambda Spellcrafting Academy](https://store.steampowered.com/app/2323860/Lambda_Spellcrafting_Academy/) in [Hacking, Computer Science, Logic & Automation](hacking-computer-science-logic--automation) 
+* August 8, 2023: [Lambda Spellcrafting Academy](https://store.steampowered.com/app/2323860/Lambda_Spellcrafting_Academy/) in [Hacking, Computer Science, Logic & Automation](#hacking-computer-science-logic--automation) 
 
 ## Factory Management & Automation
 
