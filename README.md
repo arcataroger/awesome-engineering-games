@@ -11,7 +11,7 @@ Feel free to suggest new games or update existing titles! For now, please [creat
 ### Ratings & Tags Explained
 
 * ❤️ = "Overwhelmingly Positive" overall reviews on Steam, meaning >= 95% of 500+ reviewers liked it.
-* 👍 = Curator's Choice (arcataroger): Personal recommendations by the maintainers(s) of this list. This is a TOTALLY SUBJECTIVE "best of" for each category.
+* 👍 = Curator's Choice: Personal recommendations by the maintainers(s) of this list. This is a TOTALLY SUBJECTIVE "best of" for each category.
 * ☁️ = Playable on [GeForce Now](https://www.nvidia.com/en-us/geforce-now/). You can stream this game from the cloud without PC gaming hardware (no GPU required). Works in your browser and most OSes.
 * 🛠️ = Playable but still in Early Access
 * 👥 = Multiplayer co-op
