@@ -1,0 +1,22 @@
+{
+  "name": "awesome-engineering-games",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcataroger/awesome-engineering-games.md.git"
+  },
+  "scripts": {
+    "parse-to-json": "esrun scripts/parse-to-json.ts"
+  },
+  "private": true,
+  "devDependencies": {
+    "mdast-util-from-markdown": "^2.0.0",
+    "mdast-util-gfm": "^3.0.0",
+    "micromark-extension-gfm": "^3.0.0",
+    "@types/node": "^20.10.4",
+    "@digitak/esrun": "^3.2.25"
+  }
+}
