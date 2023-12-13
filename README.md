@@ -77,6 +77,8 @@ These are newer engineering games that were recently released on Steam and don't
 
 [^ Back to Table of Contents](#table-of-contents)
 
+<!-- games-to-parse-into-json start-->
+
 ## Factory Management & Automation
 
 These games emphasize the building of assembly lines that consume input resources in order to produce output goods, often with multiple chains of inputs to intermediary outputs.
@@ -443,6 +445,8 @@ These games defy easy categorization, but were "engineer-y" enough in some way t
 | 2001 | [Car Mechanic Simulator 2021](https://store.steampowered.com/app/1190000) | ❤️☁️🎮                                  |                    | Work your way to a service empire. Get your hands dirty in a highly realistic simulation game that pays major attention to details. Pay a visit to a new Auction house and buy cars in various conditions. Expand your range of services by investing in a new work space and equipment. |
 
 [^ Back to Table of Contents](#table-of-contents)
+
+<!-- games-to-parse-into-json end-->
 
 ## Contributors & Credits
 

@@ -13,10 +13,12 @@
   },
   "private": true,
   "devDependencies": {
+    "@digitak/esrun": "^3.2.25",
+    "@types/node": "^20.10.4",
+    "deepdash-es": "^5.3.9",
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-gfm": "^3.0.0",
-    "micromark-extension-gfm": "^3.0.0",
-    "@types/node": "^20.10.4",
-    "@digitak/esrun": "^3.2.25"
+    "mdast-zone": "^6.1.0",
+    "micromark-extension-gfm": "^3.0.0"
   }
 }
