@@ -1,0 +1,207 @@
+{
+  "527100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Star Trek™: Bridge Crew",
+      "steam_appid": 527100,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        806190
+      ],
+      "detailed_description": "<h1>Feature List</h1><p><ul class=\"bb_ul\"><li>Playable in both VR and non-VR, serve as an officer with hand tracking with full-body avatars and lip-sync.<br></li><li>Operate as a crew to make strategic decisions and coordinate actions as Captain, Helm, Tactical or Engineer.<br></li><li>Take command of the unique U.S.S. Aegis, the first ship of her kind.<br></li><li>Play on the original bridge of the legendary U.S.S. Enterprise NCC-1701. <br></li><li>Join a shared galactic adventure where communication, trust, and close coordination are the keys to victory.</li></ul></p><br><h1>About the Game</h1>Star Trek™: Bridge Crew, playable in both VR and non-VR, will immerse you in the Star Trek universe. The game puts you and your friends in the heart of the U.S.S. Aegis.<br>Your mission: explore a largely uncharted sector of space known as The Trench, in hopes of locating a suitable new home world for the decimated Vulcan populace. The Klingon Empire is also active in the region, and their purpose is a threat to the Federation’s plans. <br><br>Make strategic decisions and coordinate actions with your crew to complete the mission. <br>In co-op, you can form a crew of four players to serve in the roles of Captain, Helm, Tactical and Engineer. In addition to a dynamic storyline, the game features an “Ongoing Missions” mode, procedurally generating missions for countless hours of Solo and Co-op adventure. <br>  <br>In Star Trek™: Bridge Crew, you’ll need more than just individual skill to overcome the challenges; communication, trust, and close crew coordination are the keys to victory.  <br><br>Uplay account and Uplay PC application required for game activation and installation.<br>A permanent internet connection is required in order to play the game.",
+      "about_the_game": "Star Trek™: Bridge Crew, playable in both VR and non-VR, will immerse you in the Star Trek universe. The game puts you and your friends in the heart of the U.S.S. Aegis.<br />\r\nYour mission: explore a largely uncharted sector of space known as The Trench, in hopes of locating a suitable new home world for the decimated Vulcan populace. The Klingon Empire is also active in the region, and their purpose is a threat to the Federation’s plans. <br />\r\n<br />\r\nMake strategic decisions and coordinate actions with your crew to complete the mission. <br />\r\nIn co-op, you can form a crew of four players to serve in the roles of Captain, Helm, Tactical and Engineer. In addition to a dynamic storyline, the game features an “Ongoing Missions” mode, procedurally generating missions for countless hours of Solo and Co-op adventure. <br />\r\n  <br />\r\nIn Star Trek™: Bridge Crew, you’ll need more than just individual skill to overcome the challenges; communication, trust, and close crew coordination are the keys to victory.  <br />\r\n<br />\r\nUplay account and Uplay PC application required for game activation and installation.<br />\r\nA permanent internet connection is required in order to play the game.",
+      "short_description": "Star Trek™: Bridge Crew, playable in both VR and non-VR, will immerse you in the Star Trek universe. In co-op, form a crew of four players to serve in the roles of Captain, Helm, Tactical or Engineer. Make strategic decisions and coordinate actions with your crew.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/527100/header.jpg?t=1680013769",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/527100/capsule_231x87.jpg?t=1680013769",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/527100/capsule_184x69.jpg?t=1680013769",
+      "website": "http://startrekbridgecrew.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Core i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 Ti, AMD Radeon RX 570<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>VR Support:</strong> SteamVR<br></li><li><strong>Additional Notes:</strong> Resolution: 2160 x 1200 @90Hz; Video Preset: Msaa 2x, all video options ON; VSync:Off Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit versions only)<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD Ryzen 1500X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 / GTX 1060 6GB,  AMD Radeon R9 290X / RX 480<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Additional Notes:</strong> Resolution: 2160 x 1200 @90Hz; Video Preset: Msaa 2x, all video options ON; VSync:Off Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "TM & © 2016 CBS Studios Inc. © 2016 Paramount Pictures Corp. STAR TREK and related marks and logos are trademarks of CBS Studios Inc. All Rights Reserved. Game software © 2016 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.",
+      "ext_user_account_notice": "Ubisoft Account (Supports Linking to Steam Account)",
+      "developers": [
+        "Ubisoft"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        126294
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Star Trek™: Bridge Crew",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 126294,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Star Trek: Bridge Crew - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_8720c287b7e97b592ddcb3b57255be119cadb4fe.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_8720c287b7e97b592ddcb3b57255be119cadb4fe.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_380ff3420f6895d0a45a8c35bf3a2c56f8d656e4.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_380ff3420f6895d0a45a8c35bf3a2c56f8d656e4.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_e6d47b2b5a4885122d217d1ba9d30f5fd998ca3a.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_e6d47b2b5a4885122d217d1ba9d30f5fd998ca3a.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_98cd1da1a8e709964d28a7abdaf49372cffe5b04.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_98cd1da1a8e709964d28a7abdaf49372cffe5b04.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_63aa60227b163f2bfee34c5508865f2f5ef08e39.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_63aa60227b163f2bfee34c5508865f2f5ef08e39.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_207f62d519253d6d1d9dc10df219295524c05573.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_207f62d519253d6d1d9dc10df219295524c05573.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_526ff1b39a62baaf662f46f779e05be7ed6e1152.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_526ff1b39a62baaf662f46f779e05be7ed6e1152.1920x1080.jpg?t=1680013769"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_6950c9b9180c6f2f1f6f0531630e2a92159f68f0.600x338.jpg?t=1680013769",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/527100/ss_6950c9b9180c6f2f1f6f0531630e2a92159f68f0.1920x1080.jpg?t=1680013769"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256685949,
+          "name": "STBC - Launch trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256685949/movie.293x165.jpg?t=1496247451",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685949/movie480.webm?t=1496247451",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685949/movie_max.webm?t=1496247451"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685949/movie480.mp4?t=1496247451",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685949/movie_max.mp4?t=1496247451"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2243
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2017"
+      },
+      "support_info": {
+        "url": "https://support.ubi.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/527100/page_bg_generated_v6b.jpg?t=1680013769",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/527100/page.bg.jpg?t=1680013769",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

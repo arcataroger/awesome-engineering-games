@@ -1,0 +1,212 @@
+{
+  "253790": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "rymdkapsel",
+      "steam_appid": 253790,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "rymdkapsel is a game where you take command of a space station and its minions. You will have to plan your expansion and manage your resources to explore the galaxy.",
+      "about_the_game": "rymdkapsel is a game where you take command of a space station and its minions. You will have to plan your expansion and manage your resources to explore the galaxy.",
+      "short_description": "Build a space station. Command the tiny crew. Explore the galaxy. A meditative space strategy game.",
+      "supported_languages": "English",
+      "reviews": "“Some games nearly make me miss my subway stop. Some games tempt me to keep on playing them while I'm walking down the street. This is one of them.”<br><a href=\"http://kotaku.com/id-rather-be-playing-this-meditative-space-strategy-499893828\" target=\"_blank\" rel=\"\"  >Kotaku</a><br><br>“Rymdkapsel makes its more ornate competitors feel needlessly garnished.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.nytimes.com%2F2013%2F06%2F05%2Farts%2Fvideo-games%2Fvideo-games-metro-rymdkapsel-quell-memento-and-tetris-blitz.html%3F_r%3D0\" target=\"_blank\" rel=\" noopener\"  >New York Times</a><br><br>“The game punishes the greedy, and rewards the prudent. If you’re attentive, you’ll notice that there’s actually a happy medium between the two: optimal efficiency.”<br><a href=\"http://www.wired.com/gamelife/2013/08/rymdkapsel/\" target=\"_blank\" rel=\"\"  >WIRED</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/253790/header.jpg?t=1663245761",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/253790/capsule_231x87.jpg?t=1663245761",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/253790/capsule_184x69.jpg?t=1663245761",
+      "website": "http://rymdkapsel.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 1.5 GHz Core2Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.4 or better<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX Mountain Lion (10.8)<br></li><li><strong>Processor:</strong> 1.5 GHz Core2Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.4 or better<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.5 GHz Core2Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.4 or better<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "developers": [
+        "grapefrukt games"
+      ],
+      "publishers": [
+        "grapefrukt games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        31076
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy rymdkapsel",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 31076,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "rymdkapsel - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 77,
+        "url": "https://www.metacritic.com/game/pc/rymdkapsel?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_842f4bc0aeaaa3a1733d06dd617f7dc65e994c7b.600x338.jpg?t=1663245761",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_842f4bc0aeaaa3a1733d06dd617f7dc65e994c7b.1920x1080.jpg?t=1663245761"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_16e5ce226433486c397217d7457939c545661716.600x338.jpg?t=1663245761",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_16e5ce226433486c397217d7457939c545661716.1920x1080.jpg?t=1663245761"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_2f4bbcc65fdbbb3358c53e5b21fbc5d85de2ad28.600x338.jpg?t=1663245761",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_2f4bbcc65fdbbb3358c53e5b21fbc5d85de2ad28.1920x1080.jpg?t=1663245761"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_670e2cbecb640cca4babce52146cb8c0338c3d00.600x338.jpg?t=1663245761",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_670e2cbecb640cca4babce52146cb8c0338c3d00.1920x1080.jpg?t=1663245761"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_96682f23e5e2764ab20ae8535c706b0ce211d4f7.600x338.jpg?t=1663245761",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/253790/ss_96682f23e5e2764ab20ae8535c706b0ce211d4f7.1920x1080.jpg?t=1663245761"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256906105,
+          "name": "steam trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256906105/movie.293x165.jpg?t=1663245754",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256906105/movie480_vp9.webm?t=1663245754",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256906105/movie_max_vp9.webm?t=1663245754"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256906105/movie480.mp4?t=1663245754",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256906105/movie_max.mp4?t=1663245754"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 204
+      },
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "Research Any Monolith",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/d70141fec44b5ad228a3f96b5f00559d2f9c154a.jpg"
+          },
+          {
+            "name": "Research All Monoliths",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/e456858fdd9abdfaeafa8000f8b3e43d7eac57cf.jpg"
+          },
+          {
+            "name": "Last Many Waves",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/5700240bd0e7d73fb114920ea1dedc1e63232a1a.jpg"
+          },
+          {
+            "name": "Research All Monoliths with Haste",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/2409633e4130567ad7a1d8d4dfb3a0b88eb1a57e.jpg"
+          },
+          {
+            "name": "Point of Origin",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/853bfacc911ad3caaec6a52701634b9810f89b83.jpg"
+          },
+          {
+            "name": "Research All Monoliths (+)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/a98eec82a6808df371363905b532f3ba30340846.jpg"
+          },
+          {
+            "name": "Last Many Waves (+)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/5fe5da3583c979e2258777ffe2d77eae2f0d7272.jpg"
+          },
+          {
+            "name": "Research All Monoliths with Haste (+)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/4c521b760f488672047fe458b6dd5ad6316bd95f.jpg"
+          },
+          {
+            "name": "Extract Many Resources",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/7c8a7a210b201e0fc5a435bb826b7f0db0ff941d.jpg"
+          },
+          {
+            "name": "Last Many Waves Without Quarters",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/253790/5be2398654efaef288c70532c3e9d6da98162d60.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 30, 2014"
+      },
+      "support_info": {
+        "url": "http://grapefrukt.com/support/",
+        "email": "support@grapefrukt.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/253790/page_bg_generated_v6b.jpg?t=1663245761",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/253790/page.bg.jpg?t=1663245761",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

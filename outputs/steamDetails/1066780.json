@@ -1,0 +1,312 @@
+{
+  "1066780": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Transport Fever 2",
+      "steam_appid": 1066780,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2195610
+      ],
+      "detailed_description": "<h1>Digital Deluxe Edition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1066780/extras/TF2_beautyshot_deluxe_closeup_english_v4.jpg?t=1679083602\" /><br><br>The Deluxe Edition includes the following content:<br><ul class=\"bb_ul\"><li>The standard edition of the game<br></li><li>3 exclusive scenarios across all landscape types to challenge your skills<br></li><li>6 new and exclusive historical vehicles to play with:<br><ul class=\"bb_ul\"><li>Hong Kong Meridian Ferry<br></li><li>McDonnell Douglas DC-10-30<br></li><li>British High Speed Train HST ”Inter-City 125”<br></li><li>Kenworth K100E<br></li><li>Citroën U55 Currus Cityrama<br></li><li>Toyama Chihou Railway 8000 Series Tram</li></ul></li><li>3 surprising new animals for the three landscape types: wolf, puma and tropical fishes<br></li><li>2 new in-game soundtracks from the two prequels Train Fever and Transport Fever</li></ul></p><br><h1>About the Game</h1>The classic transport simulation genre has a new gold standard with Transport Fever 2. Discover a whole new world by navigating transport routes through land, water and air. May progress and prosperity find their way!<br><br>Provide the world with the transport infrastructure it needs and make a fortune with custom-made transport services. Watch your trains run on rails, your buses and trucks thunder along roads, your ships power through the water, and your planes soar through the skies. Carry people on their way to work or play, and be the reason cities grow and thrive. Deliver raw materials and goods to drive the economy. Experience the greatest logistical challenges from 1850 to the present day, and build a transport empire unrivaled anywhere else on the globe! <br><br>Free play offers a huge range of creative possibilities, while campaign mode re-writes transport history across three continents. Transport Fever 2 offers a choice of over 200 vehicles from Europe, America and Asia, modelled in extreme detail; and with the in-game map editor, you can re-create landscapes from three different climate zones. Finally, the realistic transport and economy simulator, along with comprehensive modding support, round off the gameplay experience.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1066780/extras/city_noise.jpg?t=1679083602\" /><br><br><strong>Open Up the World</strong><br>A huge game world is waiting for your railroads, road vehicles, aircraft and ships. Intuitive interactive rail construction tools and a modular construction system for stations make it easy to build and expand your transport empire; and thanks to a wide range of configuration options, every free play game provides a new challenge, where completely different strategies can lead to success.<br><br><strong>Write Transport History</strong><br>Three historic campaigns set in different time periods and located on three separate continents will challenge you with different objectives …only transport magnates will manage to complete all the missions! Voiceovers and cutscenes enrich the story and contribute to a thrilling gameplay experience, and even the free play mode will challenge you with different achievements to unlock.<br><br><strong>Optimize the Infrastructure</strong><br>It is vital to adapt your company to the needs of the economy and cities: bridges, tunnels, switches, rail signals, one-way streets, light signals, and bus lanes are just some of the possibilities you can use to optimize the transport infrastructure. Even train stations and airports can be expanded with modules in order to meet different requirements; and various data layers help you visualize traffic volumes and emissions, and provide information for further improvements.<br><br><strong>Free your Creativity</strong><br>Thanks to the detailed game world, you can develop your very own virtual railroad landscape: the map editor provides the possibility to create countless different worlds; the terrain in the game can be adjusted and painted; and thanks to the extensive modding support, new creations are being developed constantly, which are available for free via the Steam Workshop and which can be easily integrated into the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1066780/extras/cargo_yard.jpg?t=1679083602\" /><h2 class=\"bb_tag\">Game Features</h2><ul class=\"bb_ul\"><li>Free play with countless configuration possibilities<br></li><li>Three campaigns across three continents with over 20 hours of playing time<br></li><li>Editors for creating maps and editing saved games<br></li><li>Three landscape types: moderate, dry, and tropical<br></li><li>Realistically modelled vehicles from Europe, America and Asia<br></li><li>A total of over 200 vehicles: trains, buses, streetcars, trucks, aircraft and ships<br></li><li>Modular train stations, bus and truck stations, airports and harbors<br></li><li>Realistic transport simulation including one-way streets and light signals<br></li><li>Editable and paintable terrain with realistic effects<br></li><li>Intuitive construction tools for building railroads and more<br></li><li>Display important data such as traffic and emissions, on separate layers<br></li><li>Dynamic economy and city simulation<br></li><li>More than ten economic chains with associated factories and goods<br></li><li>Cities with countless residential, commercial and industrial buildings<br></li><li>Detailed game world with physics-based lighting<br></li><li>Individually simulated land animals, birds and fish<br></li><li>Over 50 challenging achievements in free play mode<br></li><li>Extensive modding support via the Steam Workshop</li></ul>",
+      "about_the_game": "The classic transport simulation genre has a new gold standard with Transport Fever 2. Discover a whole new world by navigating transport routes through land, water and air. May progress and prosperity find their way!<br><br>Provide the world with the transport infrastructure it needs and make a fortune with custom-made transport services. Watch your trains run on rails, your buses and trucks thunder along roads, your ships power through the water, and your planes soar through the skies. Carry people on their way to work or play, and be the reason cities grow and thrive. Deliver raw materials and goods to drive the economy. Experience the greatest logistical challenges from 1850 to the present day, and build a transport empire unrivaled anywhere else on the globe! <br><br>Free play offers a huge range of creative possibilities, while campaign mode re-writes transport history across three continents. Transport Fever 2 offers a choice of over 200 vehicles from Europe, America and Asia, modelled in extreme detail; and with the in-game map editor, you can re-create landscapes from three different climate zones. Finally, the realistic transport and economy simulator, along with comprehensive modding support, round off the gameplay experience.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1066780/extras/city_noise.jpg?t=1679083602\" /><br><br><strong>Open Up the World</strong><br>A huge game world is waiting for your railroads, road vehicles, aircraft and ships. Intuitive interactive rail construction tools and a modular construction system for stations make it easy to build and expand your transport empire; and thanks to a wide range of configuration options, every free play game provides a new challenge, where completely different strategies can lead to success.<br><br><strong>Write Transport History</strong><br>Three historic campaigns set in different time periods and located on three separate continents will challenge you with different objectives …only transport magnates will manage to complete all the missions! Voiceovers and cutscenes enrich the story and contribute to a thrilling gameplay experience, and even the free play mode will challenge you with different achievements to unlock.<br><br><strong>Optimize the Infrastructure</strong><br>It is vital to adapt your company to the needs of the economy and cities: bridges, tunnels, switches, rail signals, one-way streets, light signals, and bus lanes are just some of the possibilities you can use to optimize the transport infrastructure. Even train stations and airports can be expanded with modules in order to meet different requirements; and various data layers help you visualize traffic volumes and emissions, and provide information for further improvements.<br><br><strong>Free your Creativity</strong><br>Thanks to the detailed game world, you can develop your very own virtual railroad landscape: the map editor provides the possibility to create countless different worlds; the terrain in the game can be adjusted and painted; and thanks to the extensive modding support, new creations are being developed constantly, which are available for free via the Steam Workshop and which can be easily integrated into the game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1066780/extras/cargo_yard.jpg?t=1679083602\" /><h2 class=\"bb_tag\">Game Features</h2><ul class=\"bb_ul\"><li>Free play with countless configuration possibilities<br></li><li>Three campaigns across three continents with over 20 hours of playing time<br></li><li>Editors for creating maps and editing saved games<br></li><li>Three landscape types: moderate, dry, and tropical<br></li><li>Realistically modelled vehicles from Europe, America and Asia<br></li><li>A total of over 200 vehicles: trains, buses, streetcars, trucks, aircraft and ships<br></li><li>Modular train stations, bus and truck stations, airports and harbors<br></li><li>Realistic transport simulation including one-way streets and light signals<br></li><li>Editable and paintable terrain with realistic effects<br></li><li>Intuitive construction tools for building railroads and more<br></li><li>Display important data such as traffic and emissions, on separate layers<br></li><li>Dynamic economy and city simulation<br></li><li>More than ten economic chains with associated factories and goods<br></li><li>Cities with countless residential, commercial and industrial buildings<br></li><li>Detailed game world with physics-based lighting<br></li><li>Individually simulated land animals, birds and fish<br></li><li>Over 50 challenging achievements in free play mode<br></li><li>Extensive modding support via the Steam Workshop</li></ul>",
+      "short_description": "The classic transport simulation genre has a new gold standard with Transport Fever 2. Discover a whole new world by navigating transport routes through land, water and air. May progress and prosperity find their way!",
+      "supported_languages": "English<strong>*</strong>, French, German<strong>*</strong>, Spanish - Spain, Japanese, Dutch, Polish, Russian, Traditional Chinese, Simplified Chinese, Italian, Korean, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/header.jpg?t=1679083602",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/capsule_231x87.jpg?t=1679083602",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/capsule_184x69.jpg?t=1679083602",
+      "website": "http://www.transportfever2.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8 or 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel i5-2300 or AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 or AMD Radeon HD 7850, 2 GB VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8 or 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel i7-4770k or AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or AMD Radeon RX 580, 4 GB VRAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.14 or higher (64-bit)<br></li><li><strong>Processor:</strong> Intel i5 quad-core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R9 M290, 2 GB VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.14 or higher (64-bit)<br></li><li><strong>Processor:</strong> Intel i7 quad-core<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon Pro 580, 4 GB VRAM</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04 or higher (64-bit)<br></li><li><strong>Processor:</strong> Intel i5-2300 or AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 or AMD Radeon HD 7850, 2 GB VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04 or higher (64-bit)<br></li><li><strong>Processor:</strong> Intel i7-4770k or AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or AMD Radeon RX 580, 4 GB VRAM</li></ul>"
+      },
+      "developers": [
+        "Urban Games"
+      ],
+      "publishers": [
+        "Good Shepherd Entertainment"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3999,
+        "final": 3999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$39.99"
+      },
+      "packages": [
+        357100,
+        815925
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Transport Fever 2",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 357100,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Transport Fever 2 - $39.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3999
+            },
+            {
+              "packageid": 815925,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Transport Fever 2 - Deluxe Edition - $47.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 76,
+        "url": "https://www.metacritic.com/game/pc/transport-fever-2?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a6bb849ecc478467f2db7cf635c298dbc4fc686e.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a6bb849ecc478467f2db7cf635c298dbc4fc686e.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_df1b847fe1ad0282cc78caae5694cfa4d6581868.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_df1b847fe1ad0282cc78caae5694cfa4d6581868.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_b9c0034f6aa0cd88d0e0d6d4279f45e4c08456a8.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_b9c0034f6aa0cd88d0e0d6d4279f45e4c08456a8.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_f8d29baccb70a9118a09897a0159dfcf864d6033.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_f8d29baccb70a9118a09897a0159dfcf864d6033.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_b1fd04a855f5cb2a35d7d816b54ea81635a9ee9f.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_b1fd04a855f5cb2a35d7d816b54ea81635a9ee9f.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_4d989afce867ca774adca249e783195109f62efc.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_4d989afce867ca774adca249e783195109f62efc.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_16addbc44d2cc1ffd18159bd751fd89717481aa6.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_16addbc44d2cc1ffd18159bd751fd89717481aa6.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_17eb178bd0d02a49ffe9c0a79bee1cb941a3f04d.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_17eb178bd0d02a49ffe9c0a79bee1cb941a3f04d.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_f9bce48456f3466e0f00d11d26cff248c2456694.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_f9bce48456f3466e0f00d11d26cff248c2456694.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_2daa5380ff04a3eaa7c835260e295b2ade6b50b0.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_2daa5380ff04a3eaa7c835260e295b2ade6b50b0.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_529b088c415178dc9fde849227e2305e198faefe.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_529b088c415178dc9fde849227e2305e198faefe.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_241312417c4d9bdba5e5aa304d0aea0156149bac.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_241312417c4d9bdba5e5aa304d0aea0156149bac.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a10a34c4af4b6f9fe7b3a901b72b8fba85e3868b.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a10a34c4af4b6f9fe7b3a901b72b8fba85e3868b.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_075b6206c41493fbb69b8c55d8ac0b830c45657d.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_075b6206c41493fbb69b8c55d8ac0b830c45657d.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_931ee3a5c366bd6c3b330f16a6aa3d1a2ee88582.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_931ee3a5c366bd6c3b330f16a6aa3d1a2ee88582.1920x1080.jpg?t=1679083602"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a42b000a4fe9925263b65fade7b3cf9fe96ccf11.600x338.jpg?t=1679083602",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/ss_a42b000a4fe9925263b65fade7b3cf9fe96ccf11.1920x1080.jpg?t=1679083602"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256769604,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256769604/movie.293x165.jpg?t=1576058990",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256769604/movie480.webm?t=1576058990",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256769604/movie_max.webm?t=1576058990"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256769604/movie480.mp4?t=1576058990",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256769604/movie_max.mp4?t=1576058990"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256766474,
+          "name": "Release Date Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256766474/movie.293x165.jpg?t=1576058996",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256766474/movie480.webm?t=1576058996",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256766474/movie_max.webm?t=1576058996"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256766474/movie480.mp4?t=1576058996",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256766474/movie_max.mp4?t=1576058996"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256748840,
+          "name": "Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256748840/movie.293x165.jpg?t=1576059003",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256748840/movie480.webm?t=1576059003",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256748840/movie_max.webm?t=1576059003"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256748840/movie480.mp4?t=1576059003",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256748840/movie_max.mp4?t=1576059003"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 18336
+      },
+      "achievements": {
+        "total": 61,
+        "highlighted": [
+          {
+            "name": "First bus stop",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/8cd58f303425eeb2730024a65ffdbf2a09fc497a.jpg"
+          },
+          {
+            "name": "First train station",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/a02eee9c6fc72331ac6fc562c5d378bde48fbe0f.jpg"
+          },
+          {
+            "name": "First line",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/2ca64e69c1456bdf58697a6adb9efd410e69d63b.jpg"
+          },
+          {
+            "name": "First bus arrived",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/815566656dbaa87f5bc276eccad8912b954289f5.jpg"
+          },
+          {
+            "name": "First steam train arrived",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/9ad75b0425bf757184bad60f89eb69b9a9112c73.jpg"
+          },
+          {
+            "name": "First ship arrived",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/40d008020ab1403fea9fe51eb1b0f2edc2632d0b.jpg"
+          },
+          {
+            "name": "First electric train arrived",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/1ca1bc5b7cbbb79c555e868aebdd6a80d1d5d334.jpg"
+          },
+          {
+            "name": "First aircraft arrived",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/5c625c9ac380462afac1b8c17601a85179ab9496.jpg"
+          },
+          {
+            "name": "First passenger waiting",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/624d190c16ed911ac9bc6e95c0e0b2f88d51a158.jpg"
+          },
+          {
+            "name": "First passenger on board",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1066780/1fc30e73dd178443115a643dc5819e6d96ad6c1d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 11, 2019"
+      },
+      "support_info": {
+        "url": "https://www.transportfever2.com",
+        "email": "info@urbangames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/page_bg_generated_v6b.jpg?t=1679083602",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1066780/page_bg_generated.jpg?t=1679083602",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

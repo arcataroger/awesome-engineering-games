@@ -1,0 +1,281 @@
+{
+  "285920": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "TerraTech",
+      "steam_appid": 285920,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        331930,
+        1475870,
+        1475880,
+        1090730,
+        1199630,
+        1289390,
+        917190,
+        1751530
+      ],
+      "detailed_description": "<h1>CHECK OUT OUR UPCOMING GAME</h1><p><a href=\"https://store.steampowered.com/app/2313330/TerraTech_Worlds/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2313330/TerraTech_Worlds/</a></p><br><h1>JOIN OUR DISCORD</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2Fterratechgame\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Discord.png?t=1690558755\" /></a></p><br><h1>About the Game</h1>TerraTech is an open-world, sandbox adventure game, where you design and build your own creations through a mix of crafting, combat and discovery. Design cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/GameModes_SINGLEPLAYER.png?t=1690558755\" /><br>Start your career as an Intergalactic prospector in search of profit and glory in Campaign, build to your heart's content in Creative mode or pit your Techs against the clock in the Gauntlet Challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/GameModes_MULTIPLAYER.png?t=1690558755\" /><br>Team up with other intrepid prospectors in Co-op Campaign, build and create together in Co-op Creative, go head-to-head for glory in the Deathmatch Arena or battle for supremacy in Sumo.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Construction.png?t=1690558755\" /><br>Using the building blocks, guns, wheels, and wings from several Mining Corporations, you can build varied Techs to suit every purpose. Be it powerful armoured combat vehicles, unstoppable resource gathering machines, sprawling resource processing bases or a hybrid of all three - creativity is your key to exo-planetary success.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Exploration.png?t=1690558755\" /><br>The worlds in TerraTech are procedurally generated and infinite, so there are always new lands to discover and more resources to find. Treacherous mountain ranges, luscious grasslands and huge deserts are among the biomes you will encounter. More will be added as development progresses.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Combat.png?t=1690558755\" /><br>The intergalactic mining industry is a profitable one, but you are not the only miner in search for new worlds to exploit. Defending yourself from rival miners will take time, resources and skill, with success leading to new territory and new lands. All equipable blocks and items can be damaged or destroyed, so ensuring you are sufficiently armed and ready for battle is a key element of both survival and prosperity in TerraTech. Get out there and show them who’s boss!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Crafting.png?t=1690558755\" /><br>By gathering and processing natural resources, players are able to construct storage, refining and construction bases in order to craft new blocks in the game. Like the look of that Venture Hail Fire Rifle that just tore your vehicle apart? Go prospecting for the needed resources, and craft a couple for yourself in the shiny new Venture fabricator which you just acquired, by beating their time trial challenge in the nearby mountains.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/CorpLogos.png?t=1690558755\" /><br>All exo-planetary prospectors buy parts from the established Mining Corporations, where each have their own specific brand of mining technology. Get the job done with GSO, strip-mine to the max with the heavy-duty GeoCorp, zoom around with high-performance recon specialists Venture, function with military efficiency utilising the stealth focused Hawkeye, gain technological superiority with Enviro-giants Better Future or experiment with the bizarre weaponry of Reticule Research. Completing missions and discovering blocks for each Corp will improve your standing with them, and gain access to the more sought-after components in their arsenal.<br><br><strong>Please check the System Requirements to ensure your PC is compatible.</strong>",
+      "about_the_game": "TerraTech is an open-world, sandbox adventure game, where you design and build your own creations through a mix of crafting, combat and discovery. Design cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/GameModes_SINGLEPLAYER.png?t=1690558755\" /><br>Start your career as an Intergalactic prospector in search of profit and glory in Campaign, build to your heart's content in Creative mode or pit your Techs against the clock in the Gauntlet Challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/GameModes_MULTIPLAYER.png?t=1690558755\" /><br>Team up with other intrepid prospectors in Co-op Campaign, build and create together in Co-op Creative, go head-to-head for glory in the Deathmatch Arena or battle for supremacy in Sumo.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Construction.png?t=1690558755\" /><br>Using the building blocks, guns, wheels, and wings from several Mining Corporations, you can build varied Techs to suit every purpose. Be it powerful armoured combat vehicles, unstoppable resource gathering machines, sprawling resource processing bases or a hybrid of all three - creativity is your key to exo-planetary success.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Exploration.png?t=1690558755\" /><br>The worlds in TerraTech are procedurally generated and infinite, so there are always new lands to discover and more resources to find. Treacherous mountain ranges, luscious grasslands and huge deserts are among the biomes you will encounter. More will be added as development progresses.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Combat.png?t=1690558755\" /><br>The intergalactic mining industry is a profitable one, but you are not the only miner in search for new worlds to exploit. Defending yourself from rival miners will take time, resources and skill, with success leading to new territory and new lands. All equipable blocks and items can be damaged or destroyed, so ensuring you are sufficiently armed and ready for battle is a key element of both survival and prosperity in TerraTech. Get out there and show them who’s boss!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/Crafting.png?t=1690558755\" /><br>By gathering and processing natural resources, players are able to construct storage, refining and construction bases in order to craft new blocks in the game. Like the look of that Venture Hail Fire Rifle that just tore your vehicle apart? Go prospecting for the needed resources, and craft a couple for yourself in the shiny new Venture fabricator which you just acquired, by beating their time trial challenge in the nearby mountains.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/285920/extras/CorpLogos.png?t=1690558755\" /><br>All exo-planetary prospectors buy parts from the established Mining Corporations, where each have their own specific brand of mining technology. Get the job done with GSO, strip-mine to the max with the heavy-duty GeoCorp, zoom around with high-performance recon specialists Venture, function with military efficiency utilising the stealth focused Hawkeye, gain technological superiority with Enviro-giants Better Future or experiment with the bizarre weaponry of Reticule Research. Completing missions and discovering blocks for each Corp will improve your standing with them, and gain access to the more sought-after components in their arsenal.<br><br><strong>Please check the System Requirements to ensure your PC is compatible.</strong>",
+      "short_description": "TerraTech is an open-world, sandbox adventure game, where you design and build your own creations through a mix of crafting, combat and discovery. Design vehicles from a huge library of blocks. Scavenge, craft and buy new parts to survive and become the ultimate planetary prospector.",
+      "supported_languages": "English, German, Russian, French, Dutch, Polish, Portuguese - Portugal, Portuguese - Brazil, Italian, Swedish, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese, Czech, Danish",
+      "reviews": "“TerraTech is digital Lego Technic with guns”<br />\r\nKotaku<br />\r\n<br />\r\n“Absolutely brilliant ... It's The Incredible Machine does Robot Wars”<br />\r\nRock Paper Shotgun<br />\r\n<br />\r\n“This is a really cool game!”<br />\r\nJacksepticeye<br />\r\n",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/285920/header.jpg?t=1690558755",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_231x87.jpg?t=1690558755",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/285920/capsule_184x69.jpg?t=1690558755",
+      "website": "http://www.terratechgame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel Core2 Duo T7600 @ 2.33GHz or AMD Athlon 64 FX-60 Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 520M or Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Three-button mouse strongly recommended. Spec may be subject to revisions.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Intel Core i5 750 @ 2.67GHz or AMD Phenom II X4 945<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 260 or ATI Radeon HD 5670<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Three-button mouse strongly recommended. Spec may be subject to revisions.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 64-bit<br></li><li><strong>Processor:</strong> Intel Core2 Duo T7600 @ 2.33GHz or AMD Athlon 64 FX-60 Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 520M or Intel HD 4000<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Three-button mouse strongly recommended. Spec may be subject to revisions.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 64-bit or newer<br></li><li><strong>Processor:</strong> Intel Core i5 750 @ 2.67GHz or AMD Phenom II X4 945<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 260 or ATI Radeon HD 5670<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Three-button mouse strongly recommended. Spec may be subject to revisions.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 64-bit 12.04 or higher<br></li><li><strong>Processor:</strong> 2.33Ghz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3 Compatible GPU with 1GB Video RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Three-button mouse strongly recommended. Spec may be subject to revisions.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "©2021 Payload Studios",
+      "developers": [
+        "Payload Studios"
+      ],
+      "publishers": [
+        "Payload Studios"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        64804,
+        64805
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy TerraTech",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 64804,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "TerraTech - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            },
+            {
+              "packageid": 64805,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "TerraTech Deluxe Edition - $31.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_bf7673db446feb059cd9e676b774066ea1e59c3c.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_bf7673db446feb059cd9e676b774066ea1e59c3c.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_e32d61f1c6df21866197aa86a3fdc80180df8246.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_e32d61f1c6df21866197aa86a3fdc80180df8246.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_1cec1cc6c1fceb5b3087e79cf49dafcfd3fa897d.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_1cec1cc6c1fceb5b3087e79cf49dafcfd3fa897d.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_70eda5fc89a59918868f76b72178d88e31a40312.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_70eda5fc89a59918868f76b72178d88e31a40312.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_fa65cb24e4750e32f50a2fd34c4a32fa8e7a8d1a.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_fa65cb24e4750e32f50a2fd34c4a32fa8e7a8d1a.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_c80ad7913fc92b6c11fc3c8b139a62230af3c3ab.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_c80ad7913fc92b6c11fc3c8b139a62230af3c3ab.1920x1080.jpg?t=1690558755"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_2ee72f84d95334a83edf6d8148ebadb687199f04.600x338.jpg?t=1690558755",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/285920/ss_2ee72f84d95334a83edf6d8148ebadb687199f04.1920x1080.jpg?t=1690558755"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256725169,
+          "name": "Launch Trailer 1.0",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256725169/movie.293x165.jpg?t=1685531508",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256725169/movie480.webm?t=1685531508",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256725169/movie_max.webm?t=1685531508"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256725169/movie480.mp4?t=1685531508",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256725169/movie_max.mp4?t=1685531508"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256943475,
+          "name": "Circuits and Systems Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256943475/movie.293x165.jpg?t=1682610046",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943475/movie480_vp9.webm?t=1682610046",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943475/movie_max_vp9.webm?t=1682610046"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256943475/movie480.mp4?t=1682610046",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256943475/movie_max.mp4?t=1682610046"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 16742
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "Here Comes a New Challenger",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/a0bec3a38ea6af710f3636ec7ca7ac8c6a159c88.jpg"
+          },
+          {
+            "name": "Sniped",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/fc8f0c94180fe5c77c0223aa04aff5d22420be43.jpg"
+          },
+          {
+            "name": "Speed Demon",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/9a4b4e94252bef89581172375eef404fac67137e.jpg"
+          },
+          {
+            "name": "Combat Mechanic",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/ea3506a7909327195439ae602be5de543241452c.jpg"
+          },
+          {
+            "name": "Flipping Brilliant!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/ec1b1904be9ea7fc1c72e767c0e1f247e9f7c6fe.jpg"
+          },
+          {
+            "name": "Chock-a-Block",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/eb68a7fae8c0a2faf0116cdc217c0f64b94e1df6.jpg"
+          },
+          {
+            "name": "Falling with Style",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/371271dd6771e46ce86d30e783cf4e3683df21ff.jpg"
+          },
+          {
+            "name": "David vs Goliath",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/209708a4dadaed62a3d21816db84c02a77133f18.jpg"
+          },
+          {
+            "name": "Another World",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/6cbd0efa833e656089b84b76fd395be4b3c81501.jpg"
+          },
+          {
+            "name": "Whack-A-Troll",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/285920/9822134fec0e2743211526a0dc9fd0766f3ec8c3.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 10, 2018"
+      },
+      "support_info": {
+        "url": "http://www.terratechgame.com",
+        "email": "help@payloadstudios.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/285920/page_bg_generated_v6b.jpg?t=1690558755",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/285920/page.bg.jpg?t=1690558755",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

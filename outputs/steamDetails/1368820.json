@@ -1,0 +1,177 @@
+{
+  "1368820": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "RollerCoaster Tycoon® 3: Complete Edition",
+      "steam_appid": 1368820,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\">Your Park. Your Way</h2>Whatever you want to create, RollerCoaster Tycoon 3 gives you the tools and freedom to build the amusement park of your dreams.<h2 class=\"bb_tag\">Manage like a tycoon and make your way to the top</h2> Control park finances, shops, services and staff to succeed in dozens of scenarios. Become a true tycoon and embark on your promising new career, or create your ideal park without money woes in sandbox mode. Satisfy your guests’ needs and keep your park running smoothly to succeed.<h2 class=\"bb_tag\">Get ready to get ‘Soaked!’ and venture into the ‘Wild!’</h2> This complete edition includes all content from both Soaked! and Wild! expansion packs. Relish the added challenge of creating and managing exhilarating waterparks and spectacular animal habitats.<h2 class=\"bb_tag\">Enhanced for PC</h2>Play RollerCoaster Tycoon 3 in widescreen for the first time with full 1080p resolution and increased compatibility for new PC hardware.<h2 class=\"bb_tag\">Ride the Rides</h2>Ride your creations with RollerCoaster Tycoon 3’s signature coaster cam.<h2 class=\"bb_tag\">Packed full of content</h2> You’re free to fill your bustling park with more than 300 coasters and rides, 500 scenery pieces, 60 shops and services, and 20 animals to rear and raise.<h2 class=\"bb_tag\">Peep Designer</h2>Create your own guests and experience your creations through their eyes<h2 class=\"bb_tag\">MixMaster</h2>Wow your visitors with custom laser light and firework displays to delight and dazzle.<br><br><br><strong>Please note: </strong>The following languages are not supported on the Mac version: Italian, Spanish – Spain, Danish, Dutch, Finnish, Norwegian, Swedish",
+      "about_the_game": "<h2 class=\"bb_tag\">Your Park. Your Way</h2>Whatever you want to create, RollerCoaster Tycoon 3 gives you the tools and freedom to build the amusement park of your dreams.<h2 class=\"bb_tag\">Manage like a tycoon and make your way to the top</h2> Control park finances, shops, services and staff to succeed in dozens of scenarios. Become a true tycoon and embark on your promising new career, or create your ideal park without money woes in sandbox mode. Satisfy your guests’ needs and keep your park running smoothly to succeed.<h2 class=\"bb_tag\">Get ready to get ‘Soaked!’ and venture into the ‘Wild!’</h2> This complete edition includes all content from both Soaked! and Wild! expansion packs. Relish the added challenge of creating and managing exhilarating waterparks and spectacular animal habitats.<h2 class=\"bb_tag\">Enhanced for PC</h2>Play RollerCoaster Tycoon 3 in widescreen for the first time with full 1080p resolution and increased compatibility for new PC hardware.<h2 class=\"bb_tag\">Ride the Rides</h2>Ride your creations with RollerCoaster Tycoon 3’s signature coaster cam.<h2 class=\"bb_tag\">Packed full of content</h2> You’re free to fill your bustling park with more than 300 coasters and rides, 500 scenery pieces, 60 shops and services, and 20 animals to rear and raise.<h2 class=\"bb_tag\">Peep Designer</h2>Create your own guests and experience your creations through their eyes<h2 class=\"bb_tag\">MixMaster</h2>Wow your visitors with custom laser light and firework displays to delight and dazzle.<br><br><br><strong>Please note: </strong>The following languages are not supported on the Mac version: Italian, Spanish – Spain, Danish, Dutch, Finnish, Norwegian, Swedish",
+      "short_description": "Build the park of a lifetime and rediscover the critically acclaimed rollercoaster simulation bestseller. Feel the thrill of a genre-defining classic, complete with two huge expansion packs.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Finnish, Norwegian, Swedish",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/header.jpg?t=1667400683",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/capsule_231x87.jpg?t=1667400683",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/capsule_184x69.jpg?t=1667400683",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and Above<br></li><li><strong>Processor:</strong> Intel or AMD Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256mb Graphics Memory/Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and Above<br></li><li><strong>Processor:</strong> Intel i3 Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX560<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.11 (El Capitan)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo (2 Cores)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> (AMD) Radeon HD 2600 or (NVIDIA): GeForce 8800<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "RollerCoaster Tycoon® 3: Complete Edition game © Chris Sawyer 2020; code © Frontier Developments Plc 2020. All rights reserved. 'Frontier' 'Frontier Foundry' and the Frontier logo are trademarks of Frontier Developments plc. All rights reserved.",
+      "developers": [
+        "Frontier Developments",
+        "Aspyr (Mac)"
+      ],
+      "publishers": [
+        "Frontier Foundry",
+        "Aspyr (Mac)"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        480094
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy RollerCoaster Tycoon® 3: Complete Edition",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 480094,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "RollerCoaster Tycoon® 3: Complete Edition - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_aee64c598bd7d8361c3f2c8f7aff51d38ad76a63.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_aee64c598bd7d8361c3f2c8f7aff51d38ad76a63.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_b6f667f1beb16319c2f88bca728ea40d9712a3a4.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_b6f667f1beb16319c2f88bca728ea40d9712a3a4.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_569d87da325a5b814346cd5c7255ace94e0fa40f.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_569d87da325a5b814346cd5c7255ace94e0fa40f.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_ed0c00396a0a64db120e69f62869f7f46e7a04e2.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_ed0c00396a0a64db120e69f62869f7f46e7a04e2.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_d6051a9e11854500abae127e77cf12e70df76479.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_d6051a9e11854500abae127e77cf12e70df76479.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_3bc522ff1b2886119b8b2062876bc7ba9a023e88.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_3bc522ff1b2886119b8b2062876bc7ba9a023e88.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_ff1a8c9319cff547f8122a31314a4c2ca73074d8.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_ff1a8c9319cff547f8122a31314a4c2ca73074d8.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_d952290f66191d853ef81b0137257d0fb1db94a6.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_d952290f66191d853ef81b0137257d0fb1db94a6.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_aeaaf36c509e3cad43481ca53ebd64f29152bb83.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_aeaaf36c509e3cad43481ca53ebd64f29152bb83.1920x1080.jpg?t=1667400683"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_635b914c62ffed454b89a73b16be32ad1cc99598.600x338.jpg?t=1667400683",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/ss_635b914c62ffed454b89a73b16be32ad1cc99598.1920x1080.jpg?t=1667400683"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256802318,
+          "name": "Rollercoaster_Tycoon_3_Complete Edition_Launch_Trailer_ESRB",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256802318/movie.293x165.jpg?t=1600959508",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256802318/movie480_vp9.webm?t=1600959508",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256802318/movie_max_vp9.webm?t=1600959508"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256802318/movie480.mp4?t=1600959508",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256802318/movie_max.mp4?t=1600959508"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1544
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 24, 2020"
+      },
+      "support_info": {
+        "url": "https://support.frontier.co.uk/kb/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/page_bg_generated_v6b.jpg?t=1667400683",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1368820/page.bg.jpg?t=1667400683",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

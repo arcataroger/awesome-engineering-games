@@ -1,0 +1,309 @@
+{
+  "361280": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Turmoil",
+      "steam_appid": 361280,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        539310,
+        804760
+      ],
+      "detailed_description": "<h1>CHECK OUT OUR UPCOMING GAME</h1><p><a href=\"https://store.steampowered.com/app/1118240/Lake/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1118240/Lake/</a></p><br><h1>About the Game</h1>Turmoil offers players a visually charming, tongue-in-cheek take on the simulation genre inspired by the 19th century oil rush in North America. Get a taste of the rush and rivalry of the time as you earn your way to become a successful oil entrepreneur. As you make money digging up and selling oil, the town will grow along with you. <br><br>Lease land at the town auction and search for oil. Build a rig, create an efficient pipe network and bring up the oil to store it in silos. Sell the oil at the best times to maximize profits. Then buy essential upgrades in town to cope with rock, gas and ice. Acquire more town shares than your competitors in a bid to become the new mayor. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/361280/extras/walk_resized.gif?t=1676993558\" /><ul class=\"bb_ul\"><li>A campaign where you build your rags-to-riches oil baron career and beat your rivals.<br></li><li>Dozens of upgrades and new tools to improve your oil mining operations.<br></li><li>Meet the town’s characters in the saloon and make shady business deals.<br></li><li>Play single game mode to get one of literally millions of procedurally generated levels and earn as much as you can in one year.<br></li><li>Steam Achievements, Badges, Trading Cards and Cloud Saving.<br></li><li>Lease land at the town auction and search for oil using a dowser, mole or scanner. <br></li><li>Maximize your profits by using natural gas to boost the oil price.<br></li><li>Outbid your competitors at the stock auction.<br></li><li>Take on computer opponents, or challenge friends or random opponents in online multiplayer matches.</li></ul>",
+      "about_the_game": "Turmoil offers players a visually charming, tongue-in-cheek take on the simulation genre inspired by the 19th century oil rush in North America. Get a taste of the rush and rivalry of the time as you earn your way to become a successful oil entrepreneur. As you make money digging up and selling oil, the town will grow along with you. <br><br>Lease land at the town auction and search for oil. Build a rig, create an efficient pipe network and bring up the oil to store it in silos. Sell the oil at the best times to maximize profits. Then buy essential upgrades in town to cope with rock, gas and ice. Acquire more town shares than your competitors in a bid to become the new mayor. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/361280/extras/walk_resized.gif?t=1676993558\" /><ul class=\"bb_ul\"><li>A campaign where you build your rags-to-riches oil baron career and beat your rivals.<br></li><li>Dozens of upgrades and new tools to improve your oil mining operations.<br></li><li>Meet the town’s characters in the saloon and make shady business deals.<br></li><li>Play single game mode to get one of literally millions of procedurally generated levels and earn as much as you can in one year.<br></li><li>Steam Achievements, Badges, Trading Cards and Cloud Saving.<br></li><li>Lease land at the town auction and search for oil using a dowser, mole or scanner. <br></li><li>Maximize your profits by using natural gas to boost the oil price.<br></li><li>Outbid your competitors at the stock auction.<br></li><li>Take on computer opponents, or challenge friends or random opponents in online multiplayer matches.</li></ul>",
+      "short_description": "Drill for oil like it's 1899! Turmoil offers players a visually charming, tongue-in-cheek take on the simulation genre inspired by the 19th century oil rush in North America.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Hungarian, Japanese, Korean, Turkish",
+      "reviews": "“Turmoil makes for some of the best fun and strategic game-play in this oil tycoon game.”<br>9/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.fraggednation.com%2Farticles%2FTurmoil-Review-9-out-of-10-1082\" target=\"_blank\" rel=\" noopener\"  >Fragged Nation</a><br><br>“Turmoil is the epitome of simplicity”<br>4/5 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.hardcoregamer.com%2F2016%2F06%2F04%2Freview-turmoil%2F209833%2F\" target=\"_blank\" rel=\" noopener\"  >HardcoreGamer</a><br><br>“I love it to bits.”<br><a href=\"https://www.youtube.com/watch?v=FeoYYFtr0yQ\" target=\"_blank\" rel=\"\"  >Jacksepticeye</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/361280/header.jpg?t=1676993558",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/361280/capsule_231x87.jpg?t=1676993558",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/361280/capsule_184x69.jpg?t=1676993558",
+      "website": "https://gamious.com/portfolio/turmoil/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/8.1/10 64 bit<br></li><li><strong>Processor:</strong> 2,5 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13 High Sierra<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 and up, or the latest version of SteamOS<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Additional Notes:</strong> Other Linux distributions will probably also work.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Gamious"
+      ],
+      "publishers": [
+        "Gamious"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1299,
+        "final": 1299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$12.99"
+      },
+      "packages": [
+        64645
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Turmoil",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 64645,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Turmoil - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 73,
+        "url": "https://www.metacritic.com/game/pc/turmoil?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_374054d993536fedd3bf7d04193df094a147e1c0.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_374054d993536fedd3bf7d04193df094a147e1c0.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_dca8d84e799a252bcd322a2b959bedd8a3de4c4e.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_dca8d84e799a252bcd322a2b959bedd8a3de4c4e.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5a812739a7886f7a2bc4744a89945dd7abd0af57.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5a812739a7886f7a2bc4744a89945dd7abd0af57.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_d6414aa63e16775a624aa87f6aaf7e152365f88a.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_d6414aa63e16775a624aa87f6aaf7e152365f88a.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_2061d41c100252ccefe91a7e76209b3dbb62c8c9.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_2061d41c100252ccefe91a7e76209b3dbb62c8c9.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_8d5b6c8901dfa7a7898a8ee2eda0fafdee53df60.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_8d5b6c8901dfa7a7898a8ee2eda0fafdee53df60.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_608a074a7f744755bd807361a34e03ff630784af.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_608a074a7f744755bd807361a34e03ff630784af.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5e032ab8d7c7ecaa31df96f1c60da50d449bdc04.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5e032ab8d7c7ecaa31df96f1c60da50d449bdc04.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_ef2d9ca2265c1e431be3363db5fbf6da4126ee29.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_ef2d9ca2265c1e431be3363db5fbf6da4126ee29.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_6c7c5fafbdfbf19e89208852be582eac7be9cf53.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_6c7c5fafbdfbf19e89208852be582eac7be9cf53.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_3cdc3ea25478b6b1b451c8da2033e3e396a51173.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_3cdc3ea25478b6b1b451c8da2033e3e396a51173.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5da838fd5d4afad930e992389f68140809d13b40.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_5da838fd5d4afad930e992389f68140809d13b40.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_57b40afc678c79356d3d495b6477f2f6ad08d4d9.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_57b40afc678c79356d3d495b6477f2f6ad08d4d9.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_7e45dabbbb34121621ca31790f24ab9a6d9aceac.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_7e45dabbbb34121621ca31790f24ab9a6d9aceac.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_e72ca0d474f5a5675830900a3d3907f71d01192a.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_e72ca0d474f5a5675830900a3d3907f71d01192a.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_96e0b80a105f2f5db6fae6c61094df9096e25d1e.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_96e0b80a105f2f5db6fae6c61094df9096e25d1e.1920x1080.jpg?t=1676993558"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_382bf80e19a3c69f5c4453e5b7c49ef4a91dac4c.600x338.jpg?t=1676993558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/361280/ss_382bf80e19a3c69f5c4453e5b7c49ef4a91dac4c.1920x1080.jpg?t=1676993558"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256921112,
+          "name": "New with multiplayer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256921112/movie.293x165.jpg?t=1671023170",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256921112/movie480_vp9.webm?t=1671023170",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256921112/movie_max_vp9.webm?t=1671023170"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256921112/movie480.mp4?t=1671023170",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256921112/movie_max.mp4?t=1671023170"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256658108,
+          "name": "The Visual Evolution of Turmoil",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256658108/movie.293x165.jpg?t=1447378815",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256658108/movie480.webm?t=1447378815",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256658108/movie_max.webm?t=1447378815"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256658108/movie480.mp4?t=1447378815",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256658108/movie_max.mp4?t=1447378815"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 10142
+      },
+      "achievements": {
+        "total": 31,
+        "highlighted": [
+          {
+            "name": "Serious Money",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/996361471ee5e3e0ce3f867b37e0c43a98864f2b.jpg"
+          },
+          {
+            "name": "The Big Haul",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/5f8ca4094936cbcf237568dabdaccf1343c5ec02.jpg"
+          },
+          {
+            "name": "Millionaire",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/9a564fe1b1a38e4aa8ca44efc1b8b851c763c585.jpg"
+          },
+          {
+            "name": "Cake!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/ea104753235a5283488b99f6ffe980193e6c57a3.jpg"
+          },
+          {
+            "name": "Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/893258af4ee59faec89660ddcc79ffe9b486d1a4.jpg"
+          },
+          {
+            "name": "Filthy Rich",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/2a804267e8ee312221dc97889d420309211af7c0.jpg"
+          },
+          {
+            "name": "Mayor Shareholder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/76d683254ae0942717f9b099cef64137d333a08c.jpg"
+          },
+          {
+            "name": "Oil Tycoon",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/4e12b433ebf4340e8e06492e847913322452231d.jpg"
+          },
+          {
+            "name": "Empty Milkshake",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/f7f1fceb0281e00550f1e3ab980c15c470fad401.jpg"
+          },
+          {
+            "name": "Good Deal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/361280/4dac0c00d9f86e76bf70390f936ae0bb5af5a5b1.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 2, 2016"
+      },
+      "support_info": {
+        "url": "www.gamious.com",
+        "email": "info@gamious.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/361280/page_bg_generated_v6b.jpg?t=1676993558",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/361280/page.bg.jpg?t=1676993558",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

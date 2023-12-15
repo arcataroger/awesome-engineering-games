@@ -1,0 +1,333 @@
+{
+  "351920": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Crazy Machines 3",
+      "steam_appid": 351920,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/CM3_Shop_top_Logo_03.png?t=1668632247\" /><br><br><strong><i>Higher, faster, larger, crazier, trickier, and so much more 3D: that's Crazy Machines 3!</i></strong><br><br>Place missing pieces into zany chain reactions and turn them into ingeniously working machines to solve puzzles like these:<br><br>How do you successfully punch an Egyptian statue in the face? How do you shoot a kettle from the head of a clumsycorn with a 'high precision crossbow'? How do you jumpstart the grey-matter-engine of that old junker of a space taxi?<br>Find out in Crazy Machines 3!<br><br>Prepare yourself for the ultimate playground of vast Rube Goldberg style possibilities!<br><br>Use physical systems to your advantage, no matter if it’s electricity, explosions, lasers, lightning, or wind. By tinkering with chips you can delve into even deeper detail and provide objects with individual properties. Nothing is impossible. If you don't like that wooden plank, take your pick from different materials like metal or stone and change the size, rotation and color. It is, after all, your own machine... <br><br>Additionally, we invite you to use Steam® Workshop to gain access to a possibly infinite supply of puzzles and machines to implement into your game. And when you build your ultimate machine, you can share it with the whole world with a single click. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/Shop_top_Feature.png?t=1668632247\" /><br><ul class=\"bb_ul\"><li>Free content updates with new machines, parts and objects in the near future<br></li><li>Extensive and powerful editor for creating your own machine parts<br></li><li>More than 220 objects and over 300 single parts you can choose from<br></li><li>Creativity meets freedom: create and experiment with different materials and colors<br></li><li>Steam® Workshop access for a possible unlimited supply of parts and levels</li></ul><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/Shop_feed_Extra.png?t=1668632247\" />",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/CM3_Shop_top_Logo_03.png?t=1668632247\" /><br><br><strong><i>Higher, faster, larger, crazier, trickier, and so much more 3D: that's Crazy Machines 3!</i></strong><br><br>Place missing pieces into zany chain reactions and turn them into ingeniously working machines to solve puzzles like these:<br><br>How do you successfully punch an Egyptian statue in the face? How do you shoot a kettle from the head of a clumsycorn with a 'high precision crossbow'? How do you jumpstart the grey-matter-engine of that old junker of a space taxi?<br>Find out in Crazy Machines 3!<br><br>Prepare yourself for the ultimate playground of vast Rube Goldberg style possibilities!<br><br>Use physical systems to your advantage, no matter if it’s electricity, explosions, lasers, lightning, or wind. By tinkering with chips you can delve into even deeper detail and provide objects with individual properties. Nothing is impossible. If you don't like that wooden plank, take your pick from different materials like metal or stone and change the size, rotation and color. It is, after all, your own machine... <br><br>Additionally, we invite you to use Steam® Workshop to gain access to a possibly infinite supply of puzzles and machines to implement into your game. And when you build your ultimate machine, you can share it with the whole world with a single click. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/Shop_top_Feature.png?t=1668632247\" /><br><ul class=\"bb_ul\"><li>Free content updates with new machines, parts and objects in the near future<br></li><li>Extensive and powerful editor for creating your own machine parts<br></li><li>More than 220 objects and over 300 single parts you can choose from<br></li><li>Creativity meets freedom: create and experiment with different materials and colors<br></li><li>Steam® Workshop access for a possible unlimited supply of parts and levels</li></ul><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/351920/extras/Shop_feed_Extra.png?t=1668632247\" />",
+      "short_description": "Crazy Machines 3 is the latest, greatest, most amazing and craziest part of the series and fascinates once more with physic-based puzzles. Build your own crazy machines and share your awesomeness across the world thanks to the Steam® Workshop.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Polish, Russian",
+      "reviews": "“Clever level design and a pinch of humor make this immensely fun.”<br>80 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.gamestar.de%2Fspiele%2Fcrazy-machines-3%2Ftest%2Fcrazy_machines_3%2C53635%2C3304058.html\" target=\"_blank\" rel=\" noopener\"  >Gamestar</a><br><br>“The visual appeal of Crazy Machines 3 gets a well-deserved 10 out of 10.”<br>80 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fopnoobs.com%2Freviews%2Findie%2Fstrategy%2Fcrazy-machines-3\" target=\"_blank\" rel=\" noopener\"  >OpNoobs</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg?t=1668632247",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/351920/capsule_231x87.jpg?t=1668632247",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/351920/capsule_184x69.jpg?t=1668632247",
+      "website": "http://www.crazy-machines.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (latest SP) or higher (64-bit versions only)<br></li><li><strong>Processor:</strong> 1.8 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM, DirectX-11 compatible<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (latest SP) or higher (64-bit versions only)<br></li><li><strong>Processor:</strong> 2.8 GHz Quad Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB VRAM, Nvidia-Geforce 900-Serie or higher; AMD Radeon HD 8000 Series or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "© 2016. Daedalic Entertainment GmbH and the Daedalic logo are trademarks of Daedalic Entertainment GmbH. Crazy Machines is a registered trademark of FAKT Software GmbH. All rights reserved.",
+      "developers": [
+        "Fakt Software"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 99,
+        "discount_percent": 90,
+        "initial_formatted": "$9.99",
+        "final_formatted": "$0.99"
+      },
+      "packages": [
+        61292,
+        232466
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Crazy Machines 3",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 61292,
+              "percent_savings_text": "-90% ",
+              "percent_savings": 0,
+              "option_text": "Crazy Machines 3 - <span class=\"discount_original_price\">$9.99</span> $0.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 99
+            },
+            {
+              "packageid": 232466,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Crazy Machines 3 - Commercial License - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 71,
+        "url": "https://www.metacritic.com/game/pc/crazy-machines-3?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_60442c04a9edf542fdeb618cf75c1105c4d5bf06.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_60442c04a9edf542fdeb618cf75c1105c4d5bf06.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_b01838c79f5fcbaef90cf346593a417c1247087d.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_b01838c79f5fcbaef90cf346593a417c1247087d.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_c34cac35265cc903f3d15d9b2721cce5655bfc5e.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_c34cac35265cc903f3d15d9b2721cce5655bfc5e.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_0421b41190f87f0d87dbfa86f2f8b067d734b51a.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_0421b41190f87f0d87dbfa86f2f8b067d734b51a.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_7bec7897c699f981fffa23208c5e8dc671134dd0.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_7bec7897c699f981fffa23208c5e8dc671134dd0.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_b0242431717234911b324fe790c3a4a5892326a7.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_b0242431717234911b324fe790c3a4a5892326a7.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_f921e5d4f5e0a9acd97bc3fa92cf26922ef786fa.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_f921e5d4f5e0a9acd97bc3fa92cf26922ef786fa.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_e8871f126fccb187df6fffff0cb0847273da1542.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_e8871f126fccb187df6fffff0cb0847273da1542.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_4b13425277a33cbb4da20f53bf33e31093c08262.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_4b13425277a33cbb4da20f53bf33e31093c08262.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_11d4f464528a0d68990b793ffab2c80176005a4b.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_11d4f464528a0d68990b793ffab2c80176005a4b.1920x1080.jpg?t=1668632247"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_5415acccb0da4eebf7b3e4e6ac73daae2f5aaed6.600x338.jpg?t=1668632247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/351920/ss_5415acccb0da4eebf7b3e4e6ac73daae2f5aaed6.1920x1080.jpg?t=1668632247"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256680610,
+          "name": "Crazy Machines 3 Release Trailer - fischertechnik",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256680610/movie.293x165.jpg?t=1488451467",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256680610/movie480.webm?t=1488451467",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256680610/movie_max.webm?t=1488451467"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256680610/movie480.mp4?t=1488451467",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256680610/movie_max.mp4?t=1488451467"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256664562,
+          "name": "Crazy Machines 3 Editor Tutorial Part 1",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256664562/movie.293x165.jpg?t=1464267492",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664562/movie480.webm?t=1464267492",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664562/movie_max.webm?t=1464267492"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664562/movie480.mp4?t=1464267492",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664562/movie_max.mp4?t=1464267492"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256664563,
+          "name": "Crazy Machines 3 Editor Tutorial Part 2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256664563/movie.293x165.jpg?t=1464267617",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664563/movie480.webm?t=1464267617",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664563/movie_max.webm?t=1464267617"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664563/movie480.mp4?t=1464267617",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664563/movie_max.mp4?t=1464267617"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256664564,
+          "name": "Crazy Machines 3 Editor Tutorial Part 3",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256664564/movie.293x165.jpg?t=1464267626",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664564/movie480.webm?t=1464267626",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664564/movie_max.webm?t=1464267626"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664564/movie480.mp4?t=1464267626",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664564/movie_max.mp4?t=1464267626"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256664565,
+          "name": "Crazy Machines 3 Editor Tutorial Part 4",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256664565/movie.293x165.jpg?t=1464267634",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664565/movie480.webm?t=1464267634",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664565/movie_max.webm?t=1464267634"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664565/movie480.mp4?t=1464267634",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664565/movie_max.mp4?t=1464267634"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256670591,
+          "name": "Crazy Machines 3 Release Date Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256670591/movie.293x165.jpg?t=1473844059",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256670591/movie480.webm?t=1473844059",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256670591/movie_max.webm?t=1473844059"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256670591/movie480.mp4?t=1473844059",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256670591/movie_max.mp4?t=1473844059"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 7013
+      },
+      "achievements": {
+        "total": 41,
+        "highlighted": [
+          {
+            "name": "Got the basics right!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/9315efdbbe94faa5613df65197f7d02caafbdf4b.jpg"
+          },
+          {
+            "name": "Gears & Ropes specialist!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/8105ef4d26b58f7c4c8023fd39107dd5fe9fe382.jpg"
+          },
+          {
+            "name": "Electric & Light specialist!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/c72972bcd4c1ace1170f951499b6c71e7ece0345.jpg"
+          },
+          {
+            "name": "Laser & Lightning specialist!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/2c3a518fc3ef075bfe7ecd861ea4c7a1dd91da64.jpg"
+          },
+          {
+            "name": "Gravity & Radio specialist!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/8882c46be823d4b03fc9dc35df4ee4cc6ddb1572.jpg"
+          },
+          {
+            "name": "Problem solver!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/857455e1caef7c9055c9745bb25253b1f7313bc9.jpg"
+          },
+          {
+            "name": "Machine whiz!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/dc3212e28c23dcb5afbfe7ee576ca4b9b6c961f7.jpg"
+          },
+          {
+            "name": "Ace engineer!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/f03b317f965844928ad3c107607ca38fdcc77cd5.jpg"
+          },
+          {
+            "name": "Mastermind!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/b83a14044092a059884128a52b55523c5a26e42a.jpg"
+          },
+          {
+            "name": "Brainiac!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351920/462e627108238cb32d98874909083a91a3c0dcd5.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 18, 2016"
+      },
+      "support_info": {
+        "url": "http://www.daedalicsupport.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/351920/page_bg_generated_v6b.jpg?t=1668632247",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/351920/page.bg.jpg?t=1668632247",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

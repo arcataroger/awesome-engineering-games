@@ -1,0 +1,273 @@
+{
+  "681640": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "World of Contraptions",
+      "steam_appid": 681640,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_1a.gif?t=1648136394\" /><br><br>World of Contraptions is a physics-based building game in which you build the most varied contraptions to solve the most diverse types of obstacles and puzzles. Win dozens of levels with different types of obstacles. Design the best contraption for each challenge using a giant collection of blocks with different functionalities.<br><br>Each stage offers a unique challenge or a combination of challenges. These challenges can be physical obstacles such as ramps, walls, bridges, narrow passages, holes, etc. Or destructive obstacles like mines, explosive barrels and traps. Or even interactive obstacles such as levers that modify the scenario by opening doors, lowering bridges, etc.<br><br>For each challenge offered in the World of Contraptions levels, you can count on a gigantic collection of blocks with different types of functionality. Structural blocks to define the shape of your contraption, wheels for movement, motors to give life to your creation, in addition to several other auxiliary blocks that can be useful to overcome different types of obstacles.<h2 class=\"bb_tag\"><strong>Construction:</strong></h2>Plan and build your ideal contraption for each challenge in an easy and intuitive way.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_2b.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Logic Mode:</strong></h2>Create small routines using a set of instructions to facilitate the control of your contraption.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_2a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Level Editor:</strong></h2>Build and share your own levels using the level editor or play community-created levels.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_3a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Replay Mode:</strong></h2>Review your last move from other angles, in slow motion or backwards in replay mode.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_4a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Main Features:</strong></h2><br><ul class=\"bb_ul\"><li>A set of tools to build the contraptions:<br>- Construction system based on group of connected blocks.<br>- Full control over which blocks are connected with which.<br>- Pivot system that makes it easy to add blocks at several different points.<br>- Possibility to use axis connection (hinge) in any block.<br>- Possibility to transform groups of blocks into an inventory item for easy reuse.<br>- Logic mode to create routines using a set of instructions to facilitate the control of the contraption.<br></li><li>Level editor.<br></li><li>Replay mode.<br></li><li>Integration with the Steam workshop (Share or find contraptions and levels).<br></li><li>Steam leaderboards.<br></li><li>Steam achievements.<br></li><li>Partial support for XBOX joystick:<br>- Possibility to fully control your contraption using only the joystick.<br>- Some blocks are sensitive to the joystick's analog inputs.<br></li><li>110+ different blocks.<br></li><li>100 levels with different obstacles.<br></li><li>An open level sandbox.<br></li><li>A challenge level “mountain”.</li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_1a.gif?t=1648136394\" /><br><br>World of Contraptions is a physics-based building game in which you build the most varied contraptions to solve the most diverse types of obstacles and puzzles. Win dozens of levels with different types of obstacles. Design the best contraption for each challenge using a giant collection of blocks with different functionalities.<br><br>Each stage offers a unique challenge or a combination of challenges. These challenges can be physical obstacles such as ramps, walls, bridges, narrow passages, holes, etc. Or destructive obstacles like mines, explosive barrels and traps. Or even interactive obstacles such as levers that modify the scenario by opening doors, lowering bridges, etc.<br><br>For each challenge offered in the World of Contraptions levels, you can count on a gigantic collection of blocks with different types of functionality. Structural blocks to define the shape of your contraption, wheels for movement, motors to give life to your creation, in addition to several other auxiliary blocks that can be useful to overcome different types of obstacles.<h2 class=\"bb_tag\"><strong>Construction:</strong></h2>Plan and build your ideal contraption for each challenge in an easy and intuitive way.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_2b.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Logic Mode:</strong></h2>Create small routines using a set of instructions to facilitate the control of your contraption.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_2a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Level Editor:</strong></h2>Build and share your own levels using the level editor or play community-created levels.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_3a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Replay Mode:</strong></h2>Review your last move from other angles, in slow motion or backwards in replay mode.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/681640/extras/gif_4a.gif?t=1648136394\" /><h2 class=\"bb_tag\"><strong>Main Features:</strong></h2><br><ul class=\"bb_ul\"><li>A set of tools to build the contraptions:<br>- Construction system based on group of connected blocks.<br>- Full control over which blocks are connected with which.<br>- Pivot system that makes it easy to add blocks at several different points.<br>- Possibility to use axis connection (hinge) in any block.<br>- Possibility to transform groups of blocks into an inventory item for easy reuse.<br>- Logic mode to create routines using a set of instructions to facilitate the control of the contraption.<br></li><li>Level editor.<br></li><li>Replay mode.<br></li><li>Integration with the Steam workshop (Share or find contraptions and levels).<br></li><li>Steam leaderboards.<br></li><li>Steam achievements.<br></li><li>Partial support for XBOX joystick:<br>- Possibility to fully control your contraption using only the joystick.<br>- Some blocks are sensitive to the joystick's analog inputs.<br></li><li>110+ different blocks.<br></li><li>100 levels with different obstacles.<br></li><li>An open level sandbox.<br></li><li>A challenge level “mountain”.</li></ul>",
+      "short_description": "World of Contraptions is a physics-based building game in which you build the most varied contraptions to solve the most diverse types of puzzles. Win dozens of levels with different types of obstacles. Design the best contraption for each challenge using a giant collection of blocks.",
+      "supported_languages": "English, Portuguese - Brazil",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/681640/header.jpg?t=1648136394",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/681640/capsule_231x87.jpg?t=1648136394",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/681640/capsule_184x69.jpg?t=1648136394",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later (64-bit)<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core (64-bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 or similar<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> 2.6 GHz Quad Core (64-bit)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1050 or similar<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "JCP Games Studio"
+      ],
+      "publishers": [
+        "JCP Games Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        194702
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy World of Contraptions",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 194702,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "World of Contraptions - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_47cd193fa4766776eb3187825c2d505b557e0cf2.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_47cd193fa4766776eb3187825c2d505b557e0cf2.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8be34436a33be24225d13a45cf6e7a8e22e0c232.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8be34436a33be24225d13a45cf6e7a8e22e0c232.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8433c8abcaebc97209ef66e5d529d86269902bdc.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8433c8abcaebc97209ef66e5d529d86269902bdc.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8921db621239cf8e3d545a447403ef66d3b42993.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_8921db621239cf8e3d545a447403ef66d3b42993.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_2437eb4fa2a67a09276a749fb4c0cb72c9759dfc.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_2437eb4fa2a67a09276a749fb4c0cb72c9759dfc.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_097c82e5b8b08037fe2f573b484698fe29945897.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_097c82e5b8b08037fe2f573b484698fe29945897.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_d8505cec890ccaa2f8b3b6122d36b1beb10cc16d.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_d8505cec890ccaa2f8b3b6122d36b1beb10cc16d.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_48a1de6c4271467f80bf6c508e334672053c0529.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_48a1de6c4271467f80bf6c508e334672053c0529.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_66b06962844759a069a95f237ca3dd6e64b1cdea.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_66b06962844759a069a95f237ca3dd6e64b1cdea.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_d852189bcae62e94b5bc3e6be41c33e0d5841dc6.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_d852189bcae62e94b5bc3e6be41c33e0d5841dc6.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_b7901070629cfc552c2a5b9c0ed0806a69810e5b.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_b7901070629cfc552c2a5b9c0ed0806a69810e5b.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_a0d1203dcebc4c976d8f1a89aa444a5b2d8e1d97.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_a0d1203dcebc4c976d8f1a89aa444a5b2d8e1d97.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_44c3f377decb8f4aeb13b666dfaeef7dc31b88f6.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_44c3f377decb8f4aeb13b666dfaeef7dc31b88f6.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_902e0fb7a0a0c31e7c92be41d6847812ed3d70e3.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_902e0fb7a0a0c31e7c92be41d6847812ed3d70e3.1920x1080.jpg?t=1648136394"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_f182ddba72e1ec68951b760a9391903294250b49.600x338.jpg?t=1648136394",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/681640/ss_f182ddba72e1ec68951b760a9391903294250b49.1920x1080.jpg?t=1648136394"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256864139,
+          "name": "Trailer 3.1",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256864139/movie.293x165.jpg?t=1639056254",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256864139/movie480_vp9.webm?t=1639056254",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256864139/movie_max_vp9.webm?t=1639056254"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256864139/movie480.mp4?t=1639056254",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256864139/movie_max.mp4?t=1639056254"
+          },
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 30,
+        "highlighted": [
+          {
+            "name": "Graduated in contraptions",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/8ddf0bd3591246b06142e1d952413f75ce433774.jpg"
+          },
+          {
+            "name": "Level architect",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/c1ba956efddc1c7d7a0461047b8bdd3d75b2b205.jpg"
+          },
+          {
+            "name": "Level sommelier",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/418c8d1364786e12aca2649396b81dd622af5342.jpg"
+          },
+          {
+            "name": "Contraption exporter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/1985e20f9441deb847d5d7671c4a5a64df7eec47.jpg"
+          },
+          {
+            "name": "Test Driver",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/0d677a79f5299e4c5d228c8400ce7c132749da84.jpg"
+          },
+          {
+            "name": "Mountain for amateurs",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/54ceaea600973383d56b379e445d24d7aebbfc03.jpg"
+          },
+          {
+            "name": "Beginner climber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/cccac627afaea60e581e1d93b432e5651481868e.jpg"
+          },
+          {
+            "name": "Experienced climber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/d030804514007612cb2c2676e2f5b3a087999ff2.jpg"
+          },
+          {
+            "name": "Mountain master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/26a4990fa324738f32f9af8452b77e0b1eda0b53.jpg"
+          },
+          {
+            "name": "Easy group",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/681640/7aa77a5e3d035eb4de4f03441e79b5ce74bd5068.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 24, 2022"
+      },
+      "support_info": {
+        "url": "",
+        "email": "worldofcontraptions@gmail.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/681640/page_bg_generated_v6b.jpg?t=1648136394",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/681640/page.bg.jpg?t=1648136394",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

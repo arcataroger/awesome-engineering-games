@@ -1,0 +1,290 @@
+{
+  "1318690": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "shapez",
+      "steam_appid": 1318690,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1625400,
+        1573840
+      ],
+      "detailed_description": "<h1>Shapez 2 is in early development - Wishlist &amp; follow for updates!</h1><p><a href=\"https://store.steampowered.com/app/2162800/shapez_2/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2162800/shapez_2/</a></p><br><h1>About the Game</h1><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FHN7EVzV\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1318690/extras/join_discord.png?t=1696623535\" /></a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1318690/extras/store_page_gif.gif?t=1696623535\" /><br><br>Do you like automation games? Then you are in the right place!<br><br>shapez is a relaxed game in which you have to build factories for the automated production of geometric shapes. As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.<br><br>And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling! While you only have to process shapes at the beginning, you will later have to color them - by extracting and mixing colors!<br><br>Buying the game on Steam gives you access to the full version, but you can also play the steam demo first and decide later!<h2 class=\"bb_tag\">What people say about shapez</h2><br><ul class=\"bb_ul\"><li> <i>This game is great - I'm having a wonderful time playing, and time has flown by.</i><br><strong>- Northernlion, YouTuber</strong><br><br></li><li> <i>I really should sleep, but I think I just figured out how to make a computer in shapez</i><br><strong>- Notch, Creator of Minecraft</strong><br><br></li><li> <i>This game has stolen my life and I don't want it back. Very chill factory game that won't let me stop making my lines more efficient.</i><br><strong>- Steam User</strong></li></ul>",
+      "about_the_game": "<a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FHN7EVzV\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1318690/extras/join_discord.png?t=1696623535\" /></a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1318690/extras/store_page_gif.gif?t=1696623535\" /><br><br>Do you like automation games? Then you are in the right place!<br><br>shapez is a relaxed game in which you have to build factories for the automated production of geometric shapes. As the level increases, the shapes become more and more complex, and you have to spread out on the infinite map.<br><br>And as if that wasn't enough, you also have to produce exponentially more to satisfy the demands - the only thing that helps is scaling! While you only have to process shapes at the beginning, you will later have to color them - by extracting and mixing colors!<br><br>Buying the game on Steam gives you access to the full version, but you can also play the steam demo first and decide later!<h2 class=\"bb_tag\">What people say about shapez</h2><br><ul class=\"bb_ul\"><li> <i>This game is great - I'm having a wonderful time playing, and time has flown by.</i><br><strong>- Northernlion, YouTuber</strong><br><br></li><li> <i>I really should sleep, but I think I just figured out how to make a computer in shapez</i><br><strong>- Notch, Creator of Minecraft</strong><br><br></li><li> <i>This game has stolen my life and I don't want it back. Very chill factory game that won't let me stop making my lines more efficient.</i><br><strong>- Steam User</strong></li></ul>",
+      "short_description": "shapez is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.",
+      "supported_languages": "English, French, Czech, German, Korean, Spanish - Spain, Dutch, Polish, Portuguese - Portugal, Russian, Norwegian, Japanese, Portuguese - Brazil, Spanish - Latin America, Simplified Chinese, Traditional Chinese, Danish, Italian, Finnish, Hungarian, Romanian, Swedish, Turkish, Ukrainian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/header.jpg?t=1696623535",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/capsule_231x87.jpg?t=1696623535",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/capsule_184x69.jpg?t=1696623535",
+      "website": "https://shapez.io",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> 2 Ghz or faster<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> <br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Catalina or later<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Two Button Mouse recommended</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Catalina or later<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Two Button Mouse recommended</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2 Ghz or faster<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Please report any issues in the discord!</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card</li></ul>"
+      },
+      "legal_notice": "shapez | shapez.io | Copyright 2022 tobspr Games<br><strong>Privacy policy</strong>: <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ftobspr.io%2Fprivacy%2F\" target=\"_blank\" rel=\" noopener\"  >https://tobspr.io/privacy/</a>",
+      "developers": [
+        "Tobias Springer"
+      ],
+      "publishers": [
+        "tobspr Games",
+        "Doyoyo Games"
+      ],
+      "demos": [
+        {
+          "appid": 1930750,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        460467
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy shapez",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 460467,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "shapez - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_ee76fa2e3259ab077b8a711b394cf6668d4ec93a.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_ee76fa2e3259ab077b8a711b394cf6668d4ec93a.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_13235b05cdd091dc835c68419fa440e6bbfd5114.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_13235b05cdd091dc835c68419fa440e6bbfd5114.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_61485350ef27278b9986c183c6c31f1054a7a328.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_61485350ef27278b9986c183c6c31f1054a7a328.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c29698e5ed36295747bc6a6aec94a8ddcc0896ee.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c29698e5ed36295747bc6a6aec94a8ddcc0896ee.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_72e11e9a4f32d1f9d464322698a29f8d8e3cd610.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_72e11e9a4f32d1f9d464322698a29f8d8e3cd610.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_745de21042356e854b505f5c6d117a9975c5850f.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_745de21042356e854b505f5c6d117a9975c5850f.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_36db98483820927d22c12361afe32262030bf839.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_36db98483820927d22c12361afe32262030bf839.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c5dfe9bfe62ed66ea74df0cd73d0709edd5f9a0d.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c5dfe9bfe62ed66ea74df0cd73d0709edd5f9a0d.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_ae0b0a2881a3e383490b713f5930584000920193.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_ae0b0a2881a3e383490b713f5930584000920193.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_b6790c51cc24865faed6e02c86c479f4c8ae6088.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_b6790c51cc24865faed6e02c86c479f4c8ae6088.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_aebe262b458927b6c43f76608b1ad53cd7096e17.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_aebe262b458927b6c43f76608b1ad53cd7096e17.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_93efbcea3e54c837f290b2293c10715d7839d69a.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_93efbcea3e54c837f290b2293c10715d7839d69a.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_e0f7da9f2b4e77278c74e724032c922b77fa44f7.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_e0f7da9f2b4e77278c74e724032c922b77fa44f7.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c64adcc25c3935b343b2a6c63e1bad55c7e7a0f5.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_c64adcc25c3935b343b2a6c63e1bad55c7e7a0f5.1920x1080.jpg?t=1696623535"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_bff03f5015869dd98d298bbe67b7de02a2cf91a5.600x338.jpg?t=1696623535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/ss_bff03f5015869dd98d298bbe67b7de02a2cf91a5.1920x1080.jpg?t=1696623535"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256838241,
+          "name": "Main V2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256838241/movie.293x165.jpg?t=1623328630",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256838241/movie480_vp9.webm?t=1623328630",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256838241/movie_max_vp9.webm?t=1623328630"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256838241/movie480.mp4?t=1623328630",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256838241/movie_max.mp4?t=1623328630"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256887059,
+          "name": "Secondary EN",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256887059/movie.293x165.jpg?t=1652825506",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887059/movie480_vp9.webm?t=1652825506",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887059/movie_max_vp9.webm?t=1652825506"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256887059/movie480.mp4?t=1652825506",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256887059/movie_max.mp4?t=1652825506"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 9550
+      },
+      "achievements": {
+        "total": 45,
+        "highlighted": [
+          {
+            "name": "Painter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/5bfeacb11c3956d4a487c472c4a196d6117d8e17.jpg"
+          },
+          {
+            "name": "Cutter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/1c484ff8a7b9e1d653f224bc80aae18d1ed186d4.jpg"
+          },
+          {
+            "name": "Rotater",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/a00e14dac175fc6b8105891551fdaa0cf7a266ec.jpg"
+          },
+          {
+            "name": "Wait, they stack?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/7426e2c69bd8b1940d2092be1b976623d7f780a5.jpg"
+          },
+          {
+            "name": "Now it's easy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/8926b70ac081f1242d88c3cf1523dff149f4f8be.jpg"
+          },
+          {
+            "name": "Wires",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/f26f0a4a810c12e3660b76c624f103e0d29904b6.jpg"
+          },
+          {
+            "name": "Storage",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/be4b6647f6f385cc91bc117cffe35b79b3351fd8.jpg"
+          },
+          {
+            "name": "Freedom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/9631bb674822a499ce64f8358133512f02e25bb6.jpg"
+          },
+          {
+            "name": "Computer Guy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/4299c0edfbb6de70f7f472d99d9fb351fe9b6620.jpg"
+          },
+          {
+            "name": "The logo!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1318690/c1d3293964648714e21df60a62e15682cdacd7ba.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 7, 2020"
+      },
+      "support_info": {
+        "url": "https://tobspr.io",
+        "email": "support@tobspr.io"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/page_bg_generated_v6b.jpg?t=1696623535",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1318690/page_bg_generated.jpg?t=1696623535",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

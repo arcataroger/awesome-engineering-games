@@ -1,0 +1,293 @@
+{
+  "1029780": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Going Medieval",
+      "steam_appid": 1029780,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1612760
+      ],
+      "detailed_description": "<h1>EARLY ACCESS ROADMAP</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/Update10_Roadmap_Steam_600x200.png?t=1700567067\" /></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/logo_600.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>STAKE YOUR CLAIM</strong></h2><br>In the world of Going Medieval, dark age society is on its knees. At the end of the 14th century, 95% of the global population has perished due to rampant plague.<br><br>Eventually, survivors emerge from society’s ashes, and it’s now up to you to help them settle in a dangerous new land reclaimed by nature. Build your people a home, help shape their lives, and protect them from animals, bandits, and other dangers in a lawless post-calamity age.<h2 class=\"bb_tag\"><strong>BUILD YOUR FORTRESS</strong></h2><br>Design, build and expand your settlement from a small wooden hut into a colossal stone castle. With simple-to-use 3D terrain tools you can create the perfect stronghold, from winding underground caverns to sprawling multi-story forts.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/stake_600_2.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>DEFEND YOUR COLONY</strong></h2><br>This harsh new world is rife with external threats, but you can give your colonists the upper hand in battle by building impenetrable defences and traps. Research, craft and equip weapons and gear so that they can fight back against unrelenting waves of attackers.<h2 class=\"bb_tag\"><strong>PROTECT YOUR VILLAGERS</strong></h2><br>Your colonists have more than just raids to contend with. They need protection from starvation and the elements, so it’s essential to stock up on supplies and build shelter to keep them fed and warm. Maintain your villagers’ emotional states, as their moods are affected if their needs and wants aren’t met.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/GM_GIF_defend1_small.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>SHAPE YOUR STORY</strong></h2><br>Grow the population of your settlement by helping out strangers in dangerous situations, or by taking in like-minded travellers. Your villagers have personal histories and agendas, and you can get to know them by observing their behaviour and relationships with others.",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/logo_600.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>STAKE YOUR CLAIM</strong></h2><br>In the world of Going Medieval, dark age society is on its knees. At the end of the 14th century, 95% of the global population has perished due to rampant plague.<br><br>Eventually, survivors emerge from society’s ashes, and it’s now up to you to help them settle in a dangerous new land reclaimed by nature. Build your people a home, help shape their lives, and protect them from animals, bandits, and other dangers in a lawless post-calamity age.<h2 class=\"bb_tag\"><strong>BUILD YOUR FORTRESS</strong></h2><br>Design, build and expand your settlement from a small wooden hut into a colossal stone castle. With simple-to-use 3D terrain tools you can create the perfect stronghold, from winding underground caverns to sprawling multi-story forts.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/stake_600_2.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>DEFEND YOUR COLONY</strong></h2><br>This harsh new world is rife with external threats, but you can give your colonists the upper hand in battle by building impenetrable defences and traps. Research, craft and equip weapons and gear so that they can fight back against unrelenting waves of attackers.<h2 class=\"bb_tag\"><strong>PROTECT YOUR VILLAGERS</strong></h2><br>Your colonists have more than just raids to contend with. They need protection from starvation and the elements, so it’s essential to stock up on supplies and build shelter to keep them fed and warm. Maintain your villagers’ emotional states, as their moods are affected if their needs and wants aren’t met.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1029780/extras/GM_GIF_defend1_small.gif?t=1700567067\" /><h2 class=\"bb_tag\"><strong>SHAPE YOUR STORY</strong></h2><br>Grow the population of your settlement by helping out strangers in dangerous situations, or by taking in like-minded travellers. Your villagers have personal histories and agendas, and you can get to know them by observing their behaviour and relationships with others.",
+      "short_description": "Stake your claim in this colony building sim and survive a turbulent Medieval age. Construct a multi-storey fortress in a land reclaimed by wilderness, defend against raids, and keep your villagers happy as their lives are shaped by the world around them.",
+      "supported_languages": "English, Simplified Chinese, French, German, Japanese, Portuguese - Brazil, Russian, Spanish - Spain, Korean, Polish, Turkish",
+      "reviews": "“Going Medieval will be huge”<br><a href=\"https://www.rockpapershotgun.com/going-medieval-is-a-buildier-friendlier-rimworld-spinoff\" target=\"_blank\" rel=\"\"  >Rock Paper Shotgun</a><br><br>“One delightful Early Access package”<br><a href=\"https://kotaku.com/a-medieval-micromanagement-sim-is-tearing-up-the-steam-1847025804\" target=\"_blank\" rel=\"\"  >Kotaku</a><br><br>“I absolutely love this game”<br><a href=\"https://youtu.be/BwDD2EIZMng\" target=\"_blank\" rel=\"\"  >Drae</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/header_alt_assets_11.jpg?t=1700567067",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/capsule_231x87.jpg?t=1700567067",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/capsule_184x69.jpg?t=1700567067",
+      "website": "https://theirregularcorporation.com/promo/going-medieval/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> AMD or Intel, 3.3 GHz (AMD FX 8300, Intel i5 3000)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA dedicated GPU, 2GB dedicated VRAM (Radeon RX 560, Geforce GTX 1050)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> AMD or Intel, 4 GHz (AMD Ryzen 5 3600, Intel i5 8600)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA dedicated GPU, 4GB dedicated VRAM (Radeon RX 580, Geforce GTX 1080)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Foxy Voxel"
+      ],
+      "publishers": [
+        "The Irregular Corporation"
+      ],
+      "price_overview": {
+        "currency": "RUB",
+        "initial": 88000,
+        "final": 88000,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "880 pуб."
+      },
+      "packages": [
+        342472
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Going Medieval",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 342472,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Going Medieval - 880 pуб.",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 88000
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_3d887c94104f0ec9be52148aaeee879315b22b3e.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_3d887c94104f0ec9be52148aaeee879315b22b3e.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_eeda3e619339e77234755864fc5be112f052568c.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_eeda3e619339e77234755864fc5be112f052568c.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_59db5648e972ad1bd9d4db6b72a8c36da524e813.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_59db5648e972ad1bd9d4db6b72a8c36da524e813.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_75f294e1d464b09b2d5c27dcb8f188009bad0e02.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_75f294e1d464b09b2d5c27dcb8f188009bad0e02.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_264d76d9fb19c61da5f052a7e6378550e9fe24ae.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_264d76d9fb19c61da5f052a7e6378550e9fe24ae.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_e6c074a899764ad6f8477ee66eb0a77e911a2fea.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_e6c074a899764ad6f8477ee66eb0a77e911a2fea.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_52e9278905ccb7a8caf15dd2ef71da51612e3f93.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_52e9278905ccb7a8caf15dd2ef71da51612e3f93.1920x1080.jpg?t=1700567067"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_7af1b546e9be2f489ce949f13643de670e935d84.600x338.jpg?t=1700567067",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/ss_7af1b546e9be2f489ce949f13643de670e935d84.1920x1080.jpg?t=1700567067"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256845991,
+          "name": "Going Medieval - Accolades Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256845991/movie.293x165.jpg?t=1628507149",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256845991/movie480_vp9.webm?t=1628507149",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256845991/movie_max_vp9.webm?t=1628507149"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256845991/movie480.mp4?t=1628507149",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256845991/movie_max.mp4?t=1628507149"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256836942,
+          "name": "Going Medieval - Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256836942/movie.293x165.jpg?t=1622559551",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256836942/movie480_vp9.webm?t=1622559551",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256836942/movie_max_vp9.webm?t=1622559551"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256836942/movie480.mp4?t=1622559551",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256836942/movie_max.mp4?t=1622559551"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256950115,
+          "name": "Update #9 Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256950115/movie.293x165.jpg?t=1685613137",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950115/movie480_vp9.webm?t=1685613137",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950115/movie_max_vp9.webm?t=1685613137"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256950115/movie480.mp4?t=1685613137",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256950115/movie_max.mp4?t=1685613137"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256938394,
+          "name": "Update #8 Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938394/movie.293x165.jpg?t=1680101366",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938394/movie480_vp9.webm?t=1680101366",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938394/movie_max_vp9.webm?t=1680101366"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938394/movie480.mp4?t=1680101366",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938394/movie_max.mp4?t=1680101366"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256838224,
+          "name": "GM - Teaser Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256838224/movie.293x165.jpg?t=1623323302",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256838224/movie480_vp9.webm?t=1623323302",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256838224/movie_max_vp9.webm?t=1623323302"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256838224/movie480.mp4?t=1623323302",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256838224/movie_max.mp4?t=1623323302"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 12787
+      },
+      "achievements": {
+        "total": 31,
+        "highlighted": [
+          {
+            "name": "Having A Field Day",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/9ab9da0ad37b222edc5f779fec1ad1d971907412.jpg"
+          },
+          {
+            "name": "Green Thumb",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/4fcaf1c9c4586a546c264835b1b214b488f53f0d.jpg"
+          },
+          {
+            "name": "Home Cooked Meal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/d113ed4bc99645c7b57991d2e8000f7cb0c371d3.jpg"
+          },
+          {
+            "name": "Fit For A King",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/304d38958470d7b57c3a47f8f340586f0c6c1d6d.jpg"
+          },
+          {
+            "name": "Novice Researcher",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/f6f630bf2ef94279d3dc6cf6176fb17aeccc9d50.jpg"
+          },
+          {
+            "name": "Onward",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/dada6d4b5d529c515e65db6e9b33d218b5806b9b.jpg"
+          },
+          {
+            "name": "Beam Me Up",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/164681afc5fbb9fb77ac233a10c0884413a836fb.jpg"
+          },
+          {
+            "name": "Get A Room",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/35442d8ad46f976d5510acd06fdcb1e188ac6c4a.jpg"
+          },
+          {
+            "name": "Retribution",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/a86253820a33ed29a3c4bc17e7e4381c1653fdc7.jpg"
+          },
+          {
+            "name": "The First Day",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1029780/cbb94c185886fa0c0117c3c9f395b76c11ec1a8d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "1 Jun, 2021"
+      },
+      "support_info": {
+        "url": "https://discord.gg/goingmedieval",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/page_bg_generated_v6b.jpg?t=1700567067",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1029780/page.bg.jpg?t=1700567067",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

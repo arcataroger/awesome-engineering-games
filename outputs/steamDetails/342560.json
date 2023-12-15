@@ -1,0 +1,270 @@
+{
+  "342560": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Airships: Conquer the Skies",
+      "steam_appid": 342560,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        923580,
+        2333180
+      ],
+      "detailed_description": "<a href=\"https://store.steampowered.com/app/2333180/Airships_Heroes_and_Villains/\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/newdlc-616.png?t=1689872612\" /></a><br><br>In Airships: Conquer the Skies you'll need to use all of your creativity and skill to design and build fearsome airships and land vehicles to give you the edge in massive aerial battles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/build2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/build.jpg?t=1689872612\" /><br>Construct your vehicles by piecing together a vast array of modules, choosing weapons, armour types, structures, equipment and resources in near endless configurations to allow you to prevail against even the toughest foes.<br><br>The vehicles are highly detailed, teeming with sailors moving around performing their individual tasks to stay in the fight. Your choices of vehicle layouts are crucial, exploring the design space of different crafts and their matching tactics to make sure your fleet emerges victorious.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/battle2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/battle.jpg?t=1689872612\" /><br>Once your vehicles are ready for the fight, you’ll give high-level commands to your small fleet, swooping, soaring, ramming and boarding others to gain the upper hand in battle. Ships and terrain are fully destructible: they can catch fire, explode, break apart, and fall, so you’ll need to choose your tactics wisely. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/hunt2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/hunt.jpg?t=1689872612\" /><br>Face off against giant aerial kraken, fleshcracker mechs, huge venomous spiders, clockwork wasps, and more. Defeat them and reap the rewards.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/conquer2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/conquer.jpg?t=1689872612\" /><br>Play across three distinctly different modes: taking on (or creating your own) bespoke Missions; building a mighty empire in Conquest, or destroying your friends in Multiplayer matches online or via LAN.",
+      "about_the_game": "<a href=\"https://store.steampowered.com/app/2333180/Airships_Heroes_and_Villains/\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/newdlc-616.png?t=1689872612\" /></a><br><br>In Airships: Conquer the Skies you'll need to use all of your creativity and skill to design and build fearsome airships and land vehicles to give you the edge in massive aerial battles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/build2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/build.jpg?t=1689872612\" /><br>Construct your vehicles by piecing together a vast array of modules, choosing weapons, armour types, structures, equipment and resources in near endless configurations to allow you to prevail against even the toughest foes.<br><br>The vehicles are highly detailed, teeming with sailors moving around performing their individual tasks to stay in the fight. Your choices of vehicle layouts are crucial, exploring the design space of different crafts and their matching tactics to make sure your fleet emerges victorious.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/battle2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/battle.jpg?t=1689872612\" /><br>Once your vehicles are ready for the fight, you’ll give high-level commands to your small fleet, swooping, soaring, ramming and boarding others to gain the upper hand in battle. Ships and terrain are fully destructible: they can catch fire, explode, break apart, and fall, so you’ll need to choose your tactics wisely. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/hunt2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/hunt.jpg?t=1689872612\" /><br>Face off against giant aerial kraken, fleshcracker mechs, huge venomous spiders, clockwork wasps, and more. Defeat them and reap the rewards.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/conquer2.png?t=1689872612\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/342560/extras/conquer.jpg?t=1689872612\" /><br>Play across three distinctly different modes: taking on (or creating your own) bespoke Missions; building a mighty empire in Conquest, or destroying your friends in Multiplayer matches online or via LAN.",
+      "short_description": "Construct mighty steampunk airships and fly them into battle, waging war and conquering the skies!",
+      "supported_languages": "English, German, French, Russian, Japanese, Simplified Chinese, Korean",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/342560/header.jpg?t=1689872612",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/342560/capsule_231x87.jpg?t=1689872612",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/342560/capsule_184x69.jpg?t=1689872612",
+      "website": "http://www.zarkonnen.com/airships/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.8 Ghz+<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB VRAM+<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 2.2 Ghz+ Dual-core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB VRAM+<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7<br></li><li><strong>Processor:</strong> 1.8 Ghz+<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 1 GB VRAM+<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10<br></li><li><strong>Processor:</strong> 2.2 Ghz+ Dual-core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM+<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu/Debian/Mint<br></li><li><strong>Processor:</strong> 1.8 Ghz+<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 1 GB VRAM+<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers. May run on other Linux distros, but no guarantees.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu/Debian/Mint<br></li><li><strong>Processor:</strong> 2.2Ghz+ Dual-core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM+<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Not currently compatible with Intel HD graphics controllers. May run on other Linux distros, but no guarantees.</li></ul>"
+      },
+      "developers": [
+        "David Stark"
+      ],
+      "publishers": [
+        "David Stark"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        57789
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Airships: Conquer the Skies",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 57789,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Airships: Conquer the Skies - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 48,
+          "description": "LAN Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_29c81d930869536b3466990550e9f06f9527bd65.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_29c81d930869536b3466990550e9f06f9527bd65.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_edb9583a2bdcd9941212cd4abe576574ffc27900.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_edb9583a2bdcd9941212cd4abe576574ffc27900.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_ef978b3d41491958748262b0fb6802473ef098ed.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_ef978b3d41491958748262b0fb6802473ef098ed.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_9ed4ae681275b2a1533f2f9fb41d353541d2e86b.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_9ed4ae681275b2a1533f2f9fb41d353541d2e86b.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_4e2b78967491f8b4fe83accbb4df1c1fc832df1e.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_4e2b78967491f8b4fe83accbb4df1c1fc832df1e.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_151a19fc24062d0c7ddea4539ff0e58ff98d70b9.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_151a19fc24062d0c7ddea4539ff0e58ff98d70b9.1920x1080.jpg?t=1689872612"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_4a92f80313da417ac43985250ca50f03fed2083a.600x338.jpg?t=1689872612",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/342560/ss_4a92f80313da417ac43985250ca50f03fed2083a.1920x1080.jpg?t=1689872612"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256959193,
+          "name": "Airships Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256959193/movie.293x165.jpg?t=1689838528",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256959193/movie480_vp9.webm?t=1689838528",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256959193/movie_max_vp9.webm?t=1689838528"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256959193/movie480.mp4?t=1689838528",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256959193/movie_max.mp4?t=1689838528"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256740800,
+          "name": "Airships Cinematic-ish Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256740800/movie.293x165.jpg?t=1689838537",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256740800/movie480.webm?t=1689838537",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256740800/movie_max.webm?t=1689838537"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256740800/movie480.mp4?t=1689838537",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256740800/movie_max.mp4?t=1689838537"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 4921
+      },
+      "achievements": {
+        "total": 32,
+        "highlighted": [
+          {
+            "name": "Smash the Skies",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/1521162f91167e4de8bea09dd3dcb8e30d87a72b.jpg"
+          },
+          {
+            "name": "Forced Landing",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/fea20be73d6845bb9452e5d7eff1be41dff16d18.jpg"
+          },
+          {
+            "name": "A Convenient Perch",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/048b621a5174a648965d7f12fa2c0b5325e59157.jpg"
+          },
+          {
+            "name": "Heraldry",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/b5f88192c2b8e46a3aa8c8239b7fc405ab505885.jpg"
+          },
+          {
+            "name": "Mandatory Change of Ownership",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/9faa4da9079ad8d657190445131e949f2f6d048a.jpg"
+          },
+          {
+            "name": "One Giant (Unplanned) Leap",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/bf99979e8a2dcf48283afa166aeb62683034a785.jpg"
+          },
+          {
+            "name": "Broadside",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/22c248b7cf9ec908eb10a4af767e748981135f26.jpg"
+          },
+          {
+            "name": "Conquer the 'Net",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/da0e3ffc16a50c7d46af1b8bd383c267ab99961d.jpg"
+          },
+          {
+            "name": "Dogfight",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/8cf8cfb920b79389abd4bd8849f4d12d40752ce4.jpg"
+          },
+          {
+            "name": "Dumb Ways to Die",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/342560/963de6093fc475aab1de516b5a5180ce47e4c8b4.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 16, 2018"
+      },
+      "support_info": {
+        "url": "https://airships.zarkonnen.com",
+        "email": "david.stark@zarkonnen.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/342560/page_bg_generated_v6b.jpg?t=1689872612",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/342560/page.bg.jpg?t=1689872612",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "476530": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Children of a Dead Earth",
+      "steam_appid": 476530,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<strong>The Most Scientifically Accurate Space Warfare Simulator Ever Made.</strong><br><br><strong>Children of a Dead Earth</strong> is a simulation of true-to-life space warfare. Design your spacecrafts using real world technologies. Traverse the solar system using actual orbit mechanics. Command fleets as the solar system descends into war, and see if you have what it takes to become the victor.<br><br>Features<br><ul class=\"bb_ul\"><li><strong>REAL SCIENCE, REAL TECHNOLOGY</strong> - Every technology, from the Nuclear Thermal Rockets, to the Railguns, to the Magnetoplasmadynamic Thrusters, was implemented using actual equations from Engineering and Physics textbooks and white papers. Every aspect of these systems, efficiency, size, mass, power usage, heat dissipation, are all derived from valid equations.<br><br></li><li><strong>CAMPAIGN AND SANDBOX MODES</strong> - Assume the role of an admiral and fight through a detailed storyline chronicling the descent of the solar system into all out war, spanning every planet in the solar system and everything in between. Or simply play in the sandbox, designing ships and pitting them against other ships.<br><br></li><li><strong>EXTREMELY ACCURATE ORBITAL MECHANICS</strong> - With an N-Body Simulator (the kind NASA uses to plot spacecraft trajectories), all orbital phenomenon from hyperbolic orbits, Lagrange points, and orbital perturbation are all correctly simulated. Spacecrafts can stationkeep orbits, or enter into free falling perturbed orbits.<br><br></li><li><strong>1:1 SCALE</strong> - The solar system is modeled completely to scale. The sizes of all planets, moons, and asteroids are accurately enormous, and the distance between them is similarly huge. The extremely high orbital speed of your ships deep in high gravity orbits is correspondingly correct.<br><br></li><li><strong>FREEFORM SHIP DESIGN</strong> - Build your spacecrafts out of rockets, propellant tanks, weapons, powerplants, radiators, and crew modules. Wrap it all up with multiple armor layers, and maybe a Whipple Shield to boot. The acceleration, moment of inertia, delta-v, and much more are all correctly calculated for all spacecrafts you design.<br><br></li><li><strong>HIGHLY GRANULAR MODULE DESIGN</strong> - Tweak everything from the nozzle length or stoichiometric mixture ratio of your bipropellant rockets to the armature and rail dimensions of your railguns. The results of every change is seen in real time, from the change in your rocket's exhaust velocity, to your railgun's inductance or muzzle velocity.<br><br></li><li><strong>PHYSICALLY ACCURATE MATERIAL PROPERTIES</strong> - All materials, chemical reactions, and spectra are physically correct. When your arclamp pumps your solid state laser, the pumping bands need to match up with the actual emission spectra of your excitation gas. When the photon absorption of a material is needed, it is derived from actual refractive index spectra data.<br><br></li><li><strong>IN-ENGINE MOD SUPPORT</strong> - The engine supports black box creation of untested or far future technology for modders to work with. All other game data, from levels to material properties, is also accessible to modders.<br><br></li><li><strong>STEAM WORKSHOP SUPPORT</strong> - Subscribe to mods on Steam Workshop, and they will automatically load. In-game export tools allow instant uploading of your own designs to Steam Workshop.</li></ul><br>All of the above aspects combine to yield a space warfare simulator that is unparalleled in scientific realism. No other game combines the extremely accurate orbital mechanics, 1:1 scale of the solar system, and technology which is implemented 100% by scientific equations. If you ever wanted to know what space warfare would <i>actually</i> be like, this is the game for you.",
+      "about_the_game": "<strong>The Most Scientifically Accurate Space Warfare Simulator Ever Made.</strong><br><br><strong>Children of a Dead Earth</strong> is a simulation of true-to-life space warfare. Design your spacecrafts using real world technologies. Traverse the solar system using actual orbit mechanics. Command fleets as the solar system descends into war, and see if you have what it takes to become the victor.<br><br>Features<br><ul class=\"bb_ul\"><li><strong>REAL SCIENCE, REAL TECHNOLOGY</strong> - Every technology, from the Nuclear Thermal Rockets, to the Railguns, to the Magnetoplasmadynamic Thrusters, was implemented using actual equations from Engineering and Physics textbooks and white papers. Every aspect of these systems, efficiency, size, mass, power usage, heat dissipation, are all derived from valid equations.<br><br></li><li><strong>CAMPAIGN AND SANDBOX MODES</strong> - Assume the role of an admiral and fight through a detailed storyline chronicling the descent of the solar system into all out war, spanning every planet in the solar system and everything in between. Or simply play in the sandbox, designing ships and pitting them against other ships.<br><br></li><li><strong>EXTREMELY ACCURATE ORBITAL MECHANICS</strong> - With an N-Body Simulator (the kind NASA uses to plot spacecraft trajectories), all orbital phenomenon from hyperbolic orbits, Lagrange points, and orbital perturbation are all correctly simulated. Spacecrafts can stationkeep orbits, or enter into free falling perturbed orbits.<br><br></li><li><strong>1:1 SCALE</strong> - The solar system is modeled completely to scale. The sizes of all planets, moons, and asteroids are accurately enormous, and the distance between them is similarly huge. The extremely high orbital speed of your ships deep in high gravity orbits is correspondingly correct.<br><br></li><li><strong>FREEFORM SHIP DESIGN</strong> - Build your spacecrafts out of rockets, propellant tanks, weapons, powerplants, radiators, and crew modules. Wrap it all up with multiple armor layers, and maybe a Whipple Shield to boot. The acceleration, moment of inertia, delta-v, and much more are all correctly calculated for all spacecrafts you design.<br><br></li><li><strong>HIGHLY GRANULAR MODULE DESIGN</strong> - Tweak everything from the nozzle length or stoichiometric mixture ratio of your bipropellant rockets to the armature and rail dimensions of your railguns. The results of every change is seen in real time, from the change in your rocket's exhaust velocity, to your railgun's inductance or muzzle velocity.<br><br></li><li><strong>PHYSICALLY ACCURATE MATERIAL PROPERTIES</strong> - All materials, chemical reactions, and spectra are physically correct. When your arclamp pumps your solid state laser, the pumping bands need to match up with the actual emission spectra of your excitation gas. When the photon absorption of a material is needed, it is derived from actual refractive index spectra data.<br><br></li><li><strong>IN-ENGINE MOD SUPPORT</strong> - The engine supports black box creation of untested or far future technology for modders to work with. All other game data, from levels to material properties, is also accessible to modders.<br><br></li><li><strong>STEAM WORKSHOP SUPPORT</strong> - Subscribe to mods on Steam Workshop, and they will automatically load. In-game export tools allow instant uploading of your own designs to Steam Workshop.</li></ul><br>All of the above aspects combine to yield a space warfare simulator that is unparalleled in scientific realism. No other game combines the extremely accurate orbital mechanics, 1:1 scale of the solar system, and technology which is implemented 100% by scientific equations. If you ever wanted to know what space warfare would <i>actually</i> be like, this is the game for you.",
+      "short_description": "The most scientifically accurate space warfare simulator ever made. Now with Steam Workshop!",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/476530/header.jpg?t=1665275976",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/476530/capsule_231x87.jpg?t=1665275976",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/476530/capsule_184x69.jpg?t=1665275976",
+      "website": "http://childrenofadeadearth.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i5 @ 1.70 GHz processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7+<br></li><li><strong>Processor:</strong> Intel Core i5 @ 1.70 GHz processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "Q Switched Productions, LLC"
+      ],
+      "publishers": [
+        "Q Switched Productions, LLC"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        114943
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Children of a Dead Earth",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 114943,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Children of a Dead Earth - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_afa08265d73ba8c73555755ee185b38c77b5d1bb.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_afa08265d73ba8c73555755ee185b38c77b5d1bb.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_80349e6690d2957ac9a6eb80e0f6d5a3e3f1ced8.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_80349e6690d2957ac9a6eb80e0f6d5a3e3f1ced8.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_03281b02516fa3435cbd739abae565c301a65cf4.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_03281b02516fa3435cbd739abae565c301a65cf4.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_795ee03dd291b9cc1aa4bedc9b7af0e623da87cb.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_795ee03dd291b9cc1aa4bedc9b7af0e623da87cb.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_709112cb4872e474f97806767e33d0b52a8eb6f1.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_709112cb4872e474f97806767e33d0b52a8eb6f1.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2910b91209d08b63be633af870b4ed27d0eeba94.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2910b91209d08b63be633af870b4ed27d0eeba94.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_741580e3a001ccc23b6a1e036321abaca4e3b41b.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_741580e3a001ccc23b6a1e036321abaca4e3b41b.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_3daad1711836c64321ce872ae8bdf30d5d02a374.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_3daad1711836c64321ce872ae8bdf30d5d02a374.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_4d7657d76451246486eaa69ff1e9a0cd172e9a3e.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_4d7657d76451246486eaa69ff1e9a0cd172e9a3e.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_3c6c37f990f534043ab7052d5d5fcb9e7d705890.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_3c6c37f990f534043ab7052d5d5fcb9e7d705890.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2b3a996b0d00501b2a1ef644025b5e9c7d9f729b.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2b3a996b0d00501b2a1ef644025b5e9c7d9f729b.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_dfe9b56219dad76f9fa5218bcbcd6183abfeaebf.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_dfe9b56219dad76f9fa5218bcbcd6183abfeaebf.1920x1080.jpg?t=1665275976"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2726246409d4f3a358434a554771cd9b5a25a662.600x338.jpg?t=1665275976",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/476530/ss_2726246409d4f3a358434a554771cd9b5a25a662.1920x1080.jpg?t=1665275976"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256669721,
+          "name": "Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256669721/movie.293x165.jpg?t=1472852599",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256669721/movie480.webm?t=1472852599",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256669721/movie_max.webm?t=1472852599"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256669721/movie480.mp4?t=1472852599",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256669721/movie_max.mp4?t=1472852599"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 696
+      },
+      "achievements": {
+        "total": 9,
+        "highlighted": [
+          {
+            "name": "Bronze",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/6286f7627a777bfe10c2eba636f7253ee19a9878.jpg"
+          },
+          {
+            "name": "Silver",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/e925f8aef06c74526fe3121877a2add34b27be59.jpg"
+          },
+          {
+            "name": "Gold",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/95855facaacb902b27a39b4c8d4ccef53ed1ea3a.jpg"
+          },
+          {
+            "name": "Fresh Recruit",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/d796a2745f46c1929530b29a135093fdb452c9f8.jpg"
+          },
+          {
+            "name": "Battle Tested",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/b502f03ee1645140be8eef4c40b476fd4f86cc10.jpg"
+          },
+          {
+            "name": "Surgical Striker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/ee4f4c8526934b64200bcb31eb7d59802d393bb1.jpg"
+          },
+          {
+            "name": "Warfare Technician",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/8b3a94170ef4ce0e67525cbd667488327d422a29.jpg"
+          },
+          {
+            "name": "Battle Engineer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/f29b23bb1069d53aa326df7b2e516bf0d3d4e335.jpg"
+          },
+          {
+            "name": "Lone Wolf",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/476530/6c33c94716eae74c48ac02fa4097df830204d014.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 23, 2016"
+      },
+      "support_info": {
+        "url": "",
+        "email": "info@childrenofadeadearth.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/476530/page_bg_generated_v6b.jpg?t=1665275976",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/476530/page.bg.jpg?t=1665275976",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "916440": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Anno 1800",
+      "steam_appid": 916440,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        2622040,
+        1066850,
+        1247710,
+        1530880,
+        1933240,
+        1933242,
+        2622020,
+        1125790,
+        1125792,
+        1125794,
+        2400950,
+        1247680,
+        1314950,
+        1442810,
+        1530882,
+        1626970,
+        1704680,
+        1933244,
+        2074410,
+        2222640,
+        1066852,
+        1210040,
+        1465650,
+        1383240,
+        1626972,
+        1704690,
+        1803742,
+        1881100,
+        2055760,
+        2222650,
+        2277980,
+        2504950
+      ],
+      "detailed_description": "<h1>Comparative Grid</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/AN18_Y5_COMPGRID_SQUARE_UK.jpg?t=1699970719\" /></p><br><h1>Anno 1800™ Definitive Annoversary Edition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/AN18_Y5_DEFINITIVE_SQUARE_UK.jpg?t=1699970719\" /><br><br>Unlock the entire Anno 1800 experience with the Definitive Annoversary Edition, which includes the following digital content: <br><br>- The base game.<br>- The Season 1 Pass.<br>- The Season 2 Pass.<br>- The Season 3 Pass.<br>- The Season 4 Pass.<br>- All DLC cosmetic packs including those released in 2023 as well as new ones coming later in 2024.<br>- The Deluxe Pack including the Anarchist AI character, the soundtrack, a digital art book, and more!</p><br><h1>Anno 1800 Gold Edition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/AN18_Y5_GOLD_SQUARE_UK.jpg?t=1699970719\" /><br><br>Unlock the entire Anno 1800 experience with the Gold Edition, which includes the following digital content:<br><br>- Season 1 Pass with three DLCs: Sunken Treasures, Botanica, and The Passage.<br>- Season 2 Pass with three DLCs: Seat of Power, Bright Harvest, and Land of Lions.<br>- Season 3 Pass with three DLCs: Docklands, Tourist Season, and The High Life.<br>- Season 4 Pass with three DLCs: Seeds of Change, Empire of the Skies, and New World Rising.<br>- Deluxe Pack with the Anarchist AI character, the soundtrack, a digital art book, and more.</p><br><h1>About the Game</h1>Anno 1800™ – Lead the Industrial Revolution!<br><br>Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you.<br><br>In Anno 1800, players will take charge of their own fortune as they navigate the rapidly evolving technological landscape and malicious political arena of the 19th century in their quest to build an empire that will reach from the smog-filled cities of Europe to the teeming jungles of South America. <br><br>Combining beloved features with innovative gameplay, Anno 1800 is the beginning of a new era for the Anno franchise as players leave their mark on a crucial moment in human history.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26650_ANNO_STEAM_GIFS_DAWN_ERA.gif?t=1699970719\" /><br>Welcome to the 19th century, a time of industrialization, diplomacy, and discovery. Rich with technological innovations, conspiracies, and changing allegiances, this era presents the perfect setting for classic Anno gameplay. Anno 1800 provides players ample opportunity to prove their skills as a ruler as they create huge metropolises, plan efficient logistic networks, settle an exotic new continent, send out expeditions around the globe, and dominate their opponents by diplomacy, trade, or warfare.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26650_ANNO_STEAM_GIFS_CLASSIC_ANNO.gif?t=1699970719\" /><br>Anno 1800 combines beloved features from 20 years of Anno history. It delivers a rich city-building experience, including a story-based campaign, a highly customizable sandbox mode, and the classic Anno multiplayer experience. Anno 1800 will see the return of beloved features such as individual AI opponents, shippable trade goods, randomly generated maps, multi-session gameplay, items, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26652_ANNO_STEAM_GIFS_NEW_FEATURESc.gif?t=1699970719\" /><br>To bring this pivotal historical era to life, Anno 1800 introduces many all-new features to the franchise’s rich tradition. Expeditions allow players to send crews of specialists across the globe as they seek fame and fortune, while the new workforce feature makes managing your factories more demanding and realistic than ever. Finally, players will settle South America as they lay claim to the black gold powering this new age of industry.  <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26653_ANNO_STEAM_GIFS_STRATEGYb.gif?t=1699970719\" /><br>Leading prosperous metropolises requires you to adapt your strategy to new situations. Fulfil the needs of your inhabitants by establishing numerous production chains, deal with other AI rulers sharing your world, and rise to prosperity by building a profitable network of trade routes.",
+      "about_the_game": "Anno 1800™ – Lead the Industrial Revolution!<br><br>Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you.<br><br>In Anno 1800, players will take charge of their own fortune as they navigate the rapidly evolving technological landscape and malicious political arena of the 19th century in their quest to build an empire that will reach from the smog-filled cities of Europe to the teeming jungles of South America. <br><br>Combining beloved features with innovative gameplay, Anno 1800 is the beginning of a new era for the Anno franchise as players leave their mark on a crucial moment in human history.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26650_ANNO_STEAM_GIFS_DAWN_ERA.gif?t=1699970719\" /><br>Welcome to the 19th century, a time of industrialization, diplomacy, and discovery. Rich with technological innovations, conspiracies, and changing allegiances, this era presents the perfect setting for classic Anno gameplay. Anno 1800 provides players ample opportunity to prove their skills as a ruler as they create huge metropolises, plan efficient logistic networks, settle an exotic new continent, send out expeditions around the globe, and dominate their opponents by diplomacy, trade, or warfare.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26650_ANNO_STEAM_GIFS_CLASSIC_ANNO.gif?t=1699970719\" /><br>Anno 1800 combines beloved features from 20 years of Anno history. It delivers a rich city-building experience, including a story-based campaign, a highly customizable sandbox mode, and the classic Anno multiplayer experience. Anno 1800 will see the return of beloved features such as individual AI opponents, shippable trade goods, randomly generated maps, multi-session gameplay, items, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26652_ANNO_STEAM_GIFS_NEW_FEATURESc.gif?t=1699970719\" /><br>To bring this pivotal historical era to life, Anno 1800 introduces many all-new features to the franchise’s rich tradition. Expeditions allow players to send crews of specialists across the globe as they seek fame and fortune, while the new workforce feature makes managing your factories more demanding and realistic than ever. Finally, players will settle South America as they lay claim to the black gold powering this new age of industry.  <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/916440/extras/26653_ANNO_STEAM_GIFS_STRATEGYb.gif?t=1699970719\" /><br>Leading prosperous metropolises requires you to adapt your strategy to new situations. Fulfil the needs of your inhabitants by establishing numerous production chains, deal with other AI rulers sharing your world, and rise to prosperity by building a profitable network of trade routes.",
+      "short_description": "Anno 1800™ – Lead the Industrial Revolution! Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Japanese, Korean, Polish, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/916440/header.jpg?t=1699970719",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/916440/capsule_231x87.jpg?t=1699970719",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/916440/capsule_184x69.jpg?t=1699970719",
+      "website": "https://www.anno-union.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10(64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5 3470, AMD FX 6350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10(64-bit versions only)<br></li><li><strong>Processor:</strong> Intel i5 4690k, AMD Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2018 Ubisoft Entertainment. All Rights Reserved. Anno 1800, Ubisoft and the Ubisoft logo are registered or unregistered trademarks of Ubisoft Entertainment in the US and/or other countries. Anno, Blue Byte and the Blue Byte logo are registered or unregistered trademarks of Ubisoft GmbH in the US and/or other countries.",
+      "drm_notice": "Denuvo Anti-tamper",
+      "ext_user_account_notice": "Ubisoft Account ",
+      "developers": [
+        "Ubisoft Mainz"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 5999,
+        "final": 5999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$59.99"
+      },
+      "packages": [
+        799852,
+        935343,
+        935346
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Anno 1800",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 799852,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Anno 1800 - $59.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 5999
+            },
+            {
+              "packageid": 935343,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Anno 1800 - Year 5 Gold Edition - $99.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 9999
+            },
+            {
+              "packageid": 935346,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Anno 1800 - Definitive Annoversary - $129.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 12999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 81,
+        "url": "https://www.metacritic.com/game/pc/anno-1800?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_9756553b540fbfefc2d96baafc33aecd7ef1dc44.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_9756553b540fbfefc2d96baafc33aecd7ef1dc44.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_cad25bea4177e0c49c104c54138c0b8ba4c1ab3e.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_cad25bea4177e0c49c104c54138c0b8ba4c1ab3e.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_5cd9e958b856c98900a65328b51bfe41636e0bde.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_5cd9e958b856c98900a65328b51bfe41636e0bde.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_fcafb5754256f29391149381df88bf7081e23a3f.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_fcafb5754256f29391149381df88bf7081e23a3f.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_7f87c42efa4c27ea6d605f99eabb19c2b129cf55.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_7f87c42efa4c27ea6d605f99eabb19c2b129cf55.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3c1af0da20902fa7c4071f66bbbf756c96125e1f.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3c1af0da20902fa7c4071f66bbbf756c96125e1f.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_53dd533a72ea489e60f971adc79bb2357fdd2f17.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_53dd533a72ea489e60f971adc79bb2357fdd2f17.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_b2b95105edcec7e3de4792586760e51f667ec5ea.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_b2b95105edcec7e3de4792586760e51f667ec5ea.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3ddfcb3772d8f9c3bc0a35e4b6a7728165f40f8a.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3ddfcb3772d8f9c3bc0a35e4b6a7728165f40f8a.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_a6c2577e5e554cd23a27be841d4029e604f03a31.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_a6c2577e5e554cd23a27be841d4029e604f03a31.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_9818d0b8bfa588956eac5234815db185ce7ae64b.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_9818d0b8bfa588956eac5234815db185ce7ae64b.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_b6c0de141256ee8262be14355ab772cb5cf8c70f.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_b6c0de141256ee8262be14355ab772cb5cf8c70f.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_02fd4ecf8dc9f7b800360a8ea6d42e3b5667a48d.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_02fd4ecf8dc9f7b800360a8ea6d42e3b5667a48d.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3ce23f02b4520280f58c98ea09030888ae281ed5.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_3ce23f02b4520280f58c98ea09030888ae281ed5.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_1da8bda360922688c7472f2c3de741fd6e64b7ae.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_1da8bda360922688c7472f2c3de741fd6e64b7ae.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_f5e2df6b407d213f3b48f0e95709a2ebb8bed740.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_f5e2df6b407d213f3b48f0e95709a2ebb8bed740.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_cdf977f0b464f16efdd21adc5a2dcd377db2f91d.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_cdf977f0b464f16efdd21adc5a2dcd377db2f91d.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_7d62a9123d794aee280bba37c6c13aab1ac895cb.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_7d62a9123d794aee280bba37c6c13aab1ac895cb.1920x1080.jpg?t=1699970719"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_adf7b3aab4c2afeedf421a8aa9d865938fa349b1.600x338.jpg?t=1699970719",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/916440/ss_adf7b3aab4c2afeedf421a8aa9d865938fa349b1.1920x1080.jpg?t=1699970719"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256918685,
+          "name": "B-roll",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256918685/movie.293x165.jpg?t=1670594582",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256918685/movie480_vp9.webm?t=1670594582",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256918685/movie_max_vp9.webm?t=1670594582"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256918685/movie480.mp4?t=1670594582",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256918685/movie_max.mp4?t=1670594582"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 11824
+      },
+      "achievements": {
+        "total": 112,
+        "highlighted": [
+          {
+            "name": "A Ticket Home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/5da25c2f3258c7801c171ca5e1872a5606861469.jpg"
+          },
+          {
+            "name": "Nosey Parker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/5da25c2f3258c7801c171ca5e1872a5606861469.jpg"
+          },
+          {
+            "name": "Discreet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/5da25c2f3258c7801c171ca5e1872a5606861469.jpg"
+          },
+          {
+            "name": "Back in Business",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/5da25c2f3258c7801c171ca5e1872a5606861469.jpg"
+          },
+          {
+            "name": "Dutiful Child",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/5da25c2f3258c7801c171ca5e1872a5606861469.jpg"
+          },
+          {
+            "name": "Isabel Found",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/9d7780bb6ded089ee6829c41b9f44d5b66680790.jpg"
+          },
+          {
+            "name": "Special Operations",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/9d7780bb6ded089ee6829c41b9f44d5b66680790.jpg"
+          },
+          {
+            "name": "The Truth Uncovered",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/9d7780bb6ded089ee6829c41b9f44d5b66680790.jpg"
+          },
+          {
+            "name": "Fire and Rescue",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/8ca64e953bf6acc896abd18cbc93695cf53024fb.jpg"
+          },
+          {
+            "name": "Supply Chain Management",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/916440/8ca64e953bf6acc896abd18cbc93695cf53024fb.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 2019"
+      },
+      "support_info": {
+        "url": "https://support.ubi.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/916440/page_bg_generated_v6b.jpg?t=1699970719",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/916440/page.bg.jpg?t=1699970719",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

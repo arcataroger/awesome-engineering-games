@@ -1,0 +1,206 @@
+{
+  "583270": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Cosmic Express",
+      "steam_appid": 583270,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Check out our upcoming game</h1><p><a href=\"https://store.steampowered.com/app/1701330/Sokobond_Express/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1701330/Sokobond_Express/</a></p><br><h1>About the Game</h1>Cosmic Express is a puzzle game about planning the train route for the world's most awkward space colony, from the minds behind A Good Snowman Is Hard To Build and the art of Tyu from Klondike. It's cute, harder than it looks, and guaranteed to give you hours of frustrating fun across hundreds of levels.<br><br>Awards:<br><br><ul class=\"bb_ul\"><li>Finalist - IMGA Global, 2017<br></li><li>Finalist - IndiePlus, 2017<br></li><li>Official Selection - Indie Megabooth, GDC 2017<br></li><li>Official Selection - Google Play Indie Corner, PAX 2016</li></ul>",
+      "about_the_game": "Cosmic Express is a puzzle game about planning the train route for the world's most awkward space colony, from the minds behind A Good Snowman Is Hard To Build and the art of Tyu from Klondike. It's cute, harder than it looks, and guaranteed to give you hours of frustrating fun across hundreds of levels.<br><br>Awards:<br><br><ul class=\"bb_ul\"><li>Finalist - IMGA Global, 2017<br></li><li>Finalist - IndiePlus, 2017<br></li><li>Official Selection - Indie Megabooth, GDC 2017<br></li><li>Official Selection - Google Play Indie Corner, PAX 2016</li></ul>",
+      "short_description": "Plan the train route for the universe's most awkward space colony!",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/583270/header.jpg?t=1667090063",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/583270/capsule_231x87.jpg?t=1667090063",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/583270/capsule_184x69.jpg?t=1667090063",
+      "website": "https://cosmicexpressgame.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB NVidia or ATI graphics card, Intel HD Graphics 3000 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.14+<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB NVidia or ATI graphics card, Intel HD Graphics 3000 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04+, SteamOS<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB NVidia or ATI graphics card, Intel HD Graphics 3000 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "developers": [
+        "Cosmic Engineers",
+        "Alan Hazelden",
+        "Benjamin Davis",
+        "Tyu"
+      ],
+      "publishers": [
+        "Draknek"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        149872
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Cosmic Express",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 149872,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Cosmic Express - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_f22f616803dbecddf677f77b4efffdd9b2888325.600x338.jpg?t=1667090063",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_f22f616803dbecddf677f77b4efffdd9b2888325.1920x1080.jpg?t=1667090063"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_203874f6d7129ceb0dfc4e29c4672523ae223234.600x338.jpg?t=1667090063",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_203874f6d7129ceb0dfc4e29c4672523ae223234.1920x1080.jpg?t=1667090063"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_943c0ed132b38ea00ae7d289d8dc3eb3e7de7a93.600x338.jpg?t=1667090063",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_943c0ed132b38ea00ae7d289d8dc3eb3e7de7a93.1920x1080.jpg?t=1667090063"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_db37b2e6f8ec18739db320fe7fd8d65e0e5aab73.600x338.jpg?t=1667090063",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_db37b2e6f8ec18739db320fe7fd8d65e0e5aab73.1920x1080.jpg?t=1667090063"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_3ff1b2c245e456bc8c0d860a872033783fde8352.600x338.jpg?t=1667090063",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/583270/ss_3ff1b2c245e456bc8c0d860a872033783fde8352.1920x1080.jpg?t=1667090063"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256681244,
+          "name": "Release",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256681244/movie.293x165.jpg?t=1489677736",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256681244/movie480.webm?t=1489677736",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256681244/movie_max.webm?t=1489677736"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256681244/movie480.mp4?t=1489677736",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256681244/movie_max.mp4?t=1489677736"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 353
+      },
+      "achievements": {
+        "total": 12,
+        "highlighted": [
+          {
+            "name": "Andromeda",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/8bcf57705f1b2949bd0d80ce48629f5b3f793ac7.jpg"
+          },
+          {
+            "name": "Cassiopeia",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/a75224691725636a8a99f43a18769c75fad16597.jpg"
+          },
+          {
+            "name": "Delphinus",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/63c445f15dfcbf50a8157af34d6bead7e6076bb9.jpg"
+          },
+          {
+            "name": "Nova",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/a5340b6ef3cccdfe6273b2f95a104639a3e5c0cb.jpg"
+          },
+          {
+            "name": "Orion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/d7f94a38673bf5607b059bf376a6d38194be9df3.jpg"
+          },
+          {
+            "name": "Perseus",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/73aa8077d1e0cd55af8dd3ae087dd8ee51f309a4.jpg"
+          },
+          {
+            "name": "Taurus",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/7a00a1a384720cd8d64363b0e3cc93d78783decf.jpg"
+          },
+          {
+            "name": "Ursa Major",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/57086cdf52fe1e3c632c645f5f295e80f99def97.jpg"
+          },
+          {
+            "name": "Ursa Minor",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/d3f2cef06c4c80e6a45f187af3255a9710bbcd74.jpg"
+          },
+          {
+            "name": "Vela",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/583270/1c621f52c8de2378ad400eb6593f55eddc37ba99.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 16, 2017"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@cosmicexpressgame.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/583270/page_bg_generated_v6b.jpg?t=1667090063",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/583270/page.bg.jpg?t=1667090063",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

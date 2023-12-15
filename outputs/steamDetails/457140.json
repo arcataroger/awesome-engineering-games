@@ -1,0 +1,351 @@
+{
+  "457140": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Oxygen Not Included",
+      "steam_appid": 457140,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1452490,
+        1244160
+      ],
+      "detailed_description": "<h1>Language Packs</h1><p><a href=\"http://steamcommunity.com/workshop/browse/?appid=457140\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_LanguagesBanner_610x150.png?t=1701909927\" /></a></p><br><h1>About the Game</h1>In the space-colony simulation game <i>Oxygen Not Included</i> you’ll find that scarcities of oxygen, warmth and sustenance are constant threats to your colony's survival. Guide colonists through the perils of subterranean asteroid living and watch as their population grows until they're not simply surviving, but <i>thriving... </i><br><br><strong>Just make sure you don't forget to breathe.</strong><h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_01_BuildExtensiveBases.gif?t=1701909927\" /><br>Build Extensive Bases and Discover What it Takes to Survive:</h2>Everything in your space colony is under your control, from excavation and resource allocation right down to plumbing and power systems. Resources will begin depleting with your first breath, however, so be sure to dig fast if you want to live.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_02_ItsMindOverMatter.gif?t=1701909927\" /><br>It’s Mind Over Matter with Stress Simulations:</h2>Keep the psychological impact of survival at bay with fun leisure activities, great accommodations and even better food for your colony. Duplicants each have different and potentially destructive ways of reacting to stress, so be sure to always keep them happy. Whatever the cost.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_03_AvoidBoilingWithThermoDynamics.gif?t=1701909927\" /><br>Avoid Boiling with Thermodynamics:</h2>Temperature control is a constant concern in space; too cold and you'll freeze, too hot and you'll fry. Keep tabs on ambient environmental temperatures and your colony's heat production to maintain a nice, cozy atmosphere for your colonists.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_04_EnhanceEfficiencyThroughGas.gif?t=1701909927\" /><br>Enhance Efficiency through Complex Gas and Liquid Simulations:</h2>Create interlocking pipe systems to swiftly deliver fuel and liquid to critical areas of your base. Plan well and be rewarded as your colony transforms into an imperishable, well-oiled machine.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_05_TakeChargeWithpowerGrid.gif?t=1701909927\" /><br>Take Charge with Power Grid Simulations:</h2>Choose from a multitude of power sources including coal, hydrogen, natural gas or just plain old elbow grease. Manage power runoff, circuit overloads and meltdowns to keep your colony running smoothly.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_06_AlwaysKeepYourselfBreathing.gif?t=1701909927\" /><br>Always Keep Yourself Breathing:</h2>Enter the Oxygen Overlay and watch air moving through your base in real time. Monitor carbon dioxide accumulation and oversee oxygen generation processes to mold your colony into a veritable deep-space oasis.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_07_WasteNothing.gif?t=1701909927\" /><br>Waste Nothing through Extreme Recycling:</h2>Make use of every last resource for a base that truly exemplifies efficiency. Recycle waste into precious fuel, process unbreathable gas into air or harness the natural bodily processes of wild creatures for food. If you’re clever, you might even be able to run a base off colonist farts.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_08_ExploreDiverseProceduralWorlds.gif?t=1701909927\" /><br>Explore Diverse, Procedurally Generated New Worlds:</h2>Summon new worlds with a push of a button. Experience tons of untamed space rocks, then suffocate to death in them!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/HeadingDivider.png?t=1701909927\" />",
+      "about_the_game": "In the space-colony simulation game <i>Oxygen Not Included</i> you’ll find that scarcities of oxygen, warmth and sustenance are constant threats to your colony's survival. Guide colonists through the perils of subterranean asteroid living and watch as their population grows until they're not simply surviving, but <i>thriving... </i><br><br><strong>Just make sure you don't forget to breathe.</strong><h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_01_BuildExtensiveBases.gif?t=1701909927\" /><br>Build Extensive Bases and Discover What it Takes to Survive:</h2>Everything in your space colony is under your control, from excavation and resource allocation right down to plumbing and power systems. Resources will begin depleting with your first breath, however, so be sure to dig fast if you want to live.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_02_ItsMindOverMatter.gif?t=1701909927\" /><br>It’s Mind Over Matter with Stress Simulations:</h2>Keep the psychological impact of survival at bay with fun leisure activities, great accommodations and even better food for your colony. Duplicants each have different and potentially destructive ways of reacting to stress, so be sure to always keep them happy. Whatever the cost.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_03_AvoidBoilingWithThermoDynamics.gif?t=1701909927\" /><br>Avoid Boiling with Thermodynamics:</h2>Temperature control is a constant concern in space; too cold and you'll freeze, too hot and you'll fry. Keep tabs on ambient environmental temperatures and your colony's heat production to maintain a nice, cozy atmosphere for your colonists.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_04_EnhanceEfficiencyThroughGas.gif?t=1701909927\" /><br>Enhance Efficiency through Complex Gas and Liquid Simulations:</h2>Create interlocking pipe systems to swiftly deliver fuel and liquid to critical areas of your base. Plan well and be rewarded as your colony transforms into an imperishable, well-oiled machine.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_05_TakeChargeWithpowerGrid.gif?t=1701909927\" /><br>Take Charge with Power Grid Simulations:</h2>Choose from a multitude of power sources including coal, hydrogen, natural gas or just plain old elbow grease. Manage power runoff, circuit overloads and meltdowns to keep your colony running smoothly.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_06_AlwaysKeepYourselfBreathing.gif?t=1701909927\" /><br>Always Keep Yourself Breathing:</h2>Enter the Oxygen Overlay and watch air moving through your base in real time. Monitor carbon dioxide accumulation and oversee oxygen generation processes to mold your colony into a veritable deep-space oasis.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_07_WasteNothing.gif?t=1701909927\" /><br>Waste Nothing through Extreme Recycling:</h2>Make use of every last resource for a base that truly exemplifies efficiency. Recycle waste into precious fuel, process unbreathable gas into air or harness the natural bodily processes of wild creatures for food. If you’re clever, you might even be able to run a base off colonist farts.<h2 class=\"bb_tag\"><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/ONI_GIF_08_ExploreDiverseProceduralWorlds.gif?t=1701909927\" /><br>Explore Diverse, Procedurally Generated New Worlds:</h2>Summon new worlds with a push of a button. Experience tons of untamed space rocks, then suffocate to death in them!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/457140/extras/HeadingDivider.png?t=1701909927\" />",
+      "short_description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
+      "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/457140/header_alt_assets_12.jpg?t=1701909927",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_231x87_alt_assets_12.jpg?t=1701909927",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/457140/capsule_184x69_alt_assets_12.jpg?t=1701909927",
+      "website": "https://www.kleientertainment.com/games/oxygen-not-included",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 (AMD or NVIDIA equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.13<br></li><li><strong>Processor:</strong> Dual Core 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 (AMD or NVIDIA equivalent)<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04<br></li><li><strong>Processor:</strong> Dual Core 2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4600 (AMD or NVIDIA equivalent)<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Klei Entertainment"
+      ],
+      "publishers": [
+        "Klei Entertainment"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        99174
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Oxygen Not Included",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 99174,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Oxygen Not Included - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 86,
+        "url": "https://www.metacritic.com/game/pc/oxygen-not-included?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_78d1c92edeecc7b17cafa9248867fe7d4390a0a0.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_78d1c92edeecc7b17cafa9248867fe7d4390a0a0.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_67ab224dd8c781d5a27ee52657173298873d439a.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_67ab224dd8c781d5a27ee52657173298873d439a.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_ba2b8c362327add29b08182d13b04bf502e065cd.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_ba2b8c362327add29b08182d13b04bf502e065cd.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_c5e20abaf2c82f9156da9c80b2ec7c0aefc46254.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_c5e20abaf2c82f9156da9c80b2ec7c0aefc46254.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_24a4ffeaf41ea6d782fef203177243d36c185506.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_24a4ffeaf41ea6d782fef203177243d36c185506.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_02af9f36ca186bba1d0f2d5819d169e741076b46.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_02af9f36ca186bba1d0f2d5819d169e741076b46.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_a481601e529d5fd3acc25a55557dfd1775cc6c96.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_a481601e529d5fd3acc25a55557dfd1775cc6c96.1920x1080.jpg?t=1701909927"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_936e1756325dbd936f5b5227bdfb3357b57b356c.600x338.jpg?t=1701909927",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/457140/ss_936e1756325dbd936f5b5227bdfb3357b57b356c.1920x1080.jpg?t=1701909927"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256983075,
+          "name": "Packed Snacks",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256983075/movie.293x165.jpg?t=1700199880",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983075/movie480_vp9.webm?t=1700199880",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983075/movie_max_vp9.webm?t=1700199880"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256983075/movie480.mp4?t=1700199880",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256983075/movie_max.mp4?t=1700199880"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256757654,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256757654/movie.293x165.jpg?t=1564503300",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256757654/movie480.webm?t=1564503300",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256757654/movie_max.webm?t=1564503300"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256757654/movie480.mp4?t=1564503300",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256757654/movie_max.mp4?t=1564503300"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256938717,
+          "name": "Whatta Blast!",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938717/movie.293x165.jpg?t=1680201092",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938717/movie480_vp9.webm?t=1680201092",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938717/movie_max_vp9.webm?t=1680201092"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938717/movie480.mp4?t=1680201092",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938717/movie_max.mp4?t=1680201092"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256732663,
+          "name": "Space Industry",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256732663/movie.293x165.jpg?t=1540515738",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732663/movie480.webm?t=1540515738",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732663/movie_max.webm?t=1540515738"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732663/movie480.mp4?t=1540515738",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732663/movie_max.mp4?t=1540515738"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256685295,
+          "name": "Early Access 2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256685295/movie.293x165.jpg?t=1495142922",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685295/movie480.webm?t=1495142922",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685295/movie_max.webm?t=1495142922"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685295/movie480.mp4?t=1495142922",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685295/movie_max.mp4?t=1495142922"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256719917,
+          "name": "Cosmic Upgrade",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256719917/movie.293x165.jpg?t=1528996831",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719917/movie480.webm?t=1528996831",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719917/movie_max.webm?t=1528996831"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719917/movie480.mp4?t=1528996831",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719917/movie_max.mp4?t=1528996831"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256708317,
+          "name": "Occupational Upgrade",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256708317/movie.293x165.jpg?t=1518112971",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256708317/movie480.webm?t=1518112971",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256708317/movie_max.webm?t=1518112971"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256708317/movie480.mp4?t=1518112971",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256708317/movie_max.mp4?t=1518112971"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256701212,
+          "name": "Automation Upgrade",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256701212/movie.293x165.jpg?t=1510854853",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256701212/movie480.webm?t=1510854853",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256701212/movie_max.webm?t=1510854853"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256701212/movie480.mp4?t=1510854853",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256701212/movie_max.mp4?t=1510854853"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256693600,
+          "name": "Outbreak Upgrade",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256693600/movie.293x165.jpg?t=1503595564",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256693600/movie480.webm?t=1503595564",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256693600/movie_max.webm?t=1503595564"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256693600/movie480.mp4?t=1503595564",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256693600/movie_max.mp4?t=1503595564"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256665154,
+          "name": "Teaser",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256665154/movie.293x165.jpg?t=1465840964",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256665154/movie480.webm?t=1465840964",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256665154/movie_max.webm?t=1465840964"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256665154/movie480.mp4?t=1465840964",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256665154/movie_max.mp4?t=1465840964"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 102315
+      },
+      "achievements": {
+        "total": 45,
+        "highlighted": [
+          {
+            "name": "The Great Escape",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/02df127f4164a11c8a851e8ac4450b3e5d49dae6.jpg"
+          },
+          {
+            "name": "Home Sweet Home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/dd8e3df4bb4b1db8d3e978290230aca423908697.jpg"
+          },
+          {
+            "name": "Locavore",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/e2a4623263efeb4a36e63582e089d8079bdef5d8.jpg"
+          },
+          {
+            "name": "Carnivore",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/64a47bf85c50775017a14aa328687fa94ed6292d.jpg"
+          },
+          {
+            "name": "Some Reservations",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/465d4962e1fd1f27ed7a04c5355a613aed0e6ceb.jpg"
+          },
+          {
+            "name": "No Place Like Clone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/895c8fa87baa2dd836f468c89fd9b3406c2d2ba5.jpg"
+          },
+          {
+            "name": "Turn of the Century",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/e1748510f1d438ed8320e3ca4109cdfab9c7c981.jpg"
+          },
+          {
+            "name": "Moovin' On Up",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/b7b21ef22d34662273ef8f9c309697311747bea1.jpg"
+          },
+          {
+            "name": "Not 0K, But Pretty Cool",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/631fdeeb97c05eef670ec30d10d2064c8a3ffc99.jpg"
+          },
+          {
+            "name": "Super Sustainable",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/457140/bbe10e4dc769b2b6a0e34d4d524afdbbab950941.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 30, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "livesupport@kleientertainment.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/457140/page_bg_generated_v6b.jpg?t=1701909927",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/457140/page.bg.jpg?t=1701909927",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

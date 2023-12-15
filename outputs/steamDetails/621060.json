@@ -1,0 +1,322 @@
+{
+  "621060": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "PC Building Simulator",
+      "steam_appid": 621060,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1252990,
+        1642950,
+        1591920,
+        1416670,
+        1295800,
+        1198960,
+        1067590,
+        982590,
+        973910,
+        1263560,
+        823720
+      ],
+      "detailed_description": "<h1>Featured DLC</h1><p><a href=\"https://store.steampowered.com/app/1252990/PC_Building_Simulator__Esports_Expansion\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Esports_Banner_Store_Page_v3.png?t=1653555111\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_HeaderMain.png?t=1653555111\" /><br>Build your very own PC empire, from simple diagnosis and repairs to bespoke, boutique creations that would be the envy of any enthusiast. With an ever-expanding marketplace full of real-world components you can finally stop dreaming of that ultimate PC and get out there, build it and see how it benchmarks in 3DMark!<br><br>PC Building Simulator has already enjoyed viral success with over 650,000+ downloads of its pre-alpha demo and has now been lovingly developed into a fully-fledged simulation to allow you to build the PC of your dreams.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/IT_Expansion.jpg?t=1653555111\" /><br><br>Take charge of IT support for Irratech Corp in the IT Expansion which features over 20 hours of additional story content, included in PC Building Simulator completely for free.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Partners.png?t=1653555111\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Partners-Grid-2022.jpg?t=1653555111\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Business.png?t=1653555111\" /><br>The career mode in PC Building Simulator puts you in charge of your very own PC building and repair business. From your own cozy workshop, you must use all your technical skills to complete the various jobs that come your way.<br>Customers will provide you with a range of jobs from simple upgrades and repairs to full system builds which you must complete while balancing your books to ensure you are still making a profit!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Business.gif?t=1653555111\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Dream.png?t=1653555111\" /><br>PC Building Simulator will allow you to experiment with a large selection of accurately modelled, fully licensed parts from your favourite real-world manufacturers.<br>If money was no object, what would you build?<br><br>Build your PC from the case up with your favourite parts and express your building flair by choosing your favourite LED and cabling colors to really make it stand out. Choose from a range of air and water cooling solutions to keep it cool or even go all out with fully customizable water cooling loops! Once your rig is ready to go, turn it on and see how it benchmarks. Not happy with the results? Jump into the bios and try your hand at overclocking to see if you can get better results without breaking anything!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Dream.gif?t=1653555111\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Learn.png?t=1653555111\" /><br>Does building your own PC seem like an impossible task?<br>PC Building Simulator aims to teach even the most novice PC user how their machine is put together with step-by-step instructions explaining the order parts should be assembled and providing useful information on what each part is and its function.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Learn.gif?t=1653555111\" />",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_HeaderMain.png?t=1653555111\" /><br>Build your very own PC empire, from simple diagnosis and repairs to bespoke, boutique creations that would be the envy of any enthusiast. With an ever-expanding marketplace full of real-world components you can finally stop dreaming of that ultimate PC and get out there, build it and see how it benchmarks in 3DMark!<br><br>PC Building Simulator has already enjoyed viral success with over 650,000+ downloads of its pre-alpha demo and has now been lovingly developed into a fully-fledged simulation to allow you to build the PC of your dreams.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/IT_Expansion.jpg?t=1653555111\" /><br><br>Take charge of IT support for Irratech Corp in the IT Expansion which features over 20 hours of additional story content, included in PC Building Simulator completely for free.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Partners.png?t=1653555111\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Partners-Grid-2022.jpg?t=1653555111\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Business.png?t=1653555111\" /><br>The career mode in PC Building Simulator puts you in charge of your very own PC building and repair business. From your own cozy workshop, you must use all your technical skills to complete the various jobs that come your way.<br>Customers will provide you with a range of jobs from simple upgrades and repairs to full system builds which you must complete while balancing your books to ensure you are still making a profit!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Business.gif?t=1653555111\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Dream.png?t=1653555111\" /><br>PC Building Simulator will allow you to experiment with a large selection of accurately modelled, fully licensed parts from your favourite real-world manufacturers.<br>If money was no object, what would you build?<br><br>Build your PC from the case up with your favourite parts and express your building flair by choosing your favourite LED and cabling colors to really make it stand out. Choose from a range of air and water cooling solutions to keep it cool or even go all out with fully customizable water cooling loops! Once your rig is ready to go, turn it on and see how it benchmarks. Not happy with the results? Jump into the bios and try your hand at overclocking to see if you can get better results without breaking anything!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Dream.gif?t=1653555111\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/PCSim_Learn.png?t=1653555111\" /><br>Does building your own PC seem like an impossible task?<br>PC Building Simulator aims to teach even the most novice PC user how their machine is put together with step-by-step instructions explaining the order parts should be assembled and providing useful information on what each part is and its function.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/621060/extras/Learn.gif?t=1653555111\" />",
+      "short_description": "Build and grow your very own computer repair enterprise as you learn to diagnose, fix and build PCs. With real-world licensed components and comprehensive hardware and software simulation, you can plan and bring your ultimate PC to life.",
+      "supported_languages": "English, French, German, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Spain, Korean, Polish",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/621060/header.jpg?t=1653555111",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/621060/capsule_231x87.jpg?t=1653555111",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/621060/capsule_184x69.jpg?t=1653555111",
+      "website": "http://www.pcbuildingsim.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Core i5-2500K or AMD Athlon X4 740 (or equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 (2048 MB) or Radeon R9 285 (2048 MB) - Integrated GPUs may work but are not supported.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Claudiu Kiss",
+        "The Irregular Corporation"
+      ],
+      "publishers": [
+        "The Irregular Corporation"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        166868,
+        269661
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy PC Building Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 166868,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "PC Building Simulator - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            },
+            {
+              "packageid": 269661,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "PC Building Simulator - Commercial License - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_1892565852a14a83465ff6032226b2ecba85eaf0.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_1892565852a14a83465ff6032226b2ecba85eaf0.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_20744bfd39bbb259a4b1da3a64f0adaff112c9de.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_20744bfd39bbb259a4b1da3a64f0adaff112c9de.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_cf5069fc35b3e8b45b6bf75e2ea0d65cc2a21fe5.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_cf5069fc35b3e8b45b6bf75e2ea0d65cc2a21fe5.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_d663a3ff5b14ba7f2afc2290c542fa8b14dc80bd.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_d663a3ff5b14ba7f2afc2290c542fa8b14dc80bd.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_c53c85636744da76595b452673e450b589dd6d85.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_c53c85636744da76595b452673e450b589dd6d85.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_8d01a8bbb6fc411f0e54a9ea4914f54879604726.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_8d01a8bbb6fc411f0e54a9ea4914f54879604726.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_0ce636d46896a59556a48fa84225e02884182861.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_0ce636d46896a59556a48fa84225e02884182861.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_23384427b8c44ac453007d9361afeaedfe4f2316.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_23384427b8c44ac453007d9361afeaedfe4f2316.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_ee4654e66133456c7abb08c321aa28879eade334.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_ee4654e66133456c7abb08c321aa28879eade334.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_b813b856217f9eebf428bfc8880bb9b7a4ac7ab9.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_b813b856217f9eebf428bfc8880bb9b7a4ac7ab9.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_d9c50bbcf6c7a29a673eb81ddabe65f7472d78df.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_d9c50bbcf6c7a29a673eb81ddabe65f7472d78df.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_2e7300ee60f2db716f307e78604f30c8e35dd1f5.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_2e7300ee60f2db716f307e78604f30c8e35dd1f5.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_3e70451d841e11ea3e66fde5ef366922ff7caa58.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_3e70451d841e11ea3e66fde5ef366922ff7caa58.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_57f20a99cc3aaff01577d40527375ea631b2f676.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_57f20a99cc3aaff01577d40527375ea631b2f676.1920x1080.jpg?t=1653555111"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_dd2022dc99055c34f5f91441d464f63731188120.600x338.jpg?t=1653555111",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/621060/ss_dd2022dc99055c34f5f91441d464f63731188120.1920x1080.jpg?t=1653555111"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256741664,
+          "name": "v1 Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256741664/movie.293x165.jpg?t=1559904538",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256741664/movie480.webm?t=1559904538",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256741664/movie_max.webm?t=1559904538"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256741664/movie480.mp4?t=1559904538",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256741664/movie_max.mp4?t=1559904538"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256857379,
+          "name": "IT Expansion Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256857379/movie.293x165.jpg?t=1635412621",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256857379/movie480_vp9.webm?t=1635412621",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256857379/movie_max_vp9.webm?t=1635412621"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256857379/movie480.mp4?t=1635412621",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256857379/movie_max.mp4?t=1635412621"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256740151,
+          "name": "Community Builds",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256740151/movie.293x165.jpg?t=1548076040",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256740151/movie480.webm?t=1548076040",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256740151/movie_max.webm?t=1548076040"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256740151/movie480.mp4?t=1548076040",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256740151/movie_max.mp4?t=1548076040"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 39163
+      },
+      "achievements": {
+        "total": 94,
+        "highlighted": [
+          {
+            "name": "But can it run Crysis?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/b8bab37d8d24607496c3df69f40967ae3540e816.jpg"
+          },
+          {
+            "name": "Stop it",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/31dd4c9fb79352b0f7c5cec69736401f110ba58c.jpg"
+          },
+          {
+            "name": "If you fail the first time...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/f43b33bf603299f6189c0e003d42d0d9efb87715.jpg"
+          },
+          {
+            "name": "1920x1080",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/c8bfa61ccca6955f0c2066825d06b06476b33241.jpg"
+          },
+          {
+            "name": "Calling in Sick",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/9567ed40222f57f7cbfff2ae72b59773e8a66eb7.jpg"
+          },
+          {
+            "name": "I'm broke, Uncle!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/5fd873f9f6c5495ecabf30fee1277cf6308b3064.jpg"
+          },
+          {
+            "name": "Overvolted",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/b4fb0f6e80a0bbca81f13f7afe20e8b23cf35566.jpg"
+          },
+          {
+            "name": "Building isn't cheap!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/408cb3c34af7b395074d4f14345de72f689dbc34.jpg"
+          },
+          {
+            "name": "The Best of Both Worlds",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/391181ed290aa29ae907e650d9b9ed7420e53d0a.jpg"
+          },
+          {
+            "name": "Perfection",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/621060/46e979a5c6a1c3e08a2ff3b8663e838bc867b03d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 29, 2019"
+      },
+      "support_info": {
+        "url": "https://www.pcbuildingsim.com/",
+        "email": "support@theirregularcorp.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/621060/page_bg_generated_v6b.jpg?t=1653555111",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/621060/page_bg_generated.jpg?t=1653555111",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

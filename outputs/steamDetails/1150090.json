@@ -1,0 +1,293 @@
+{
+  "1150090": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Learning Factory",
+      "steam_appid": 1150090,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1545760,
+        1545770
+      ],
+      "detailed_description": "<h1>Wishlist to stay updated!</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcrowdin.com%2Fproject%2Flearning-factory\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/EACrowdin.png?t=1702635506\" /></a><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FW8KhjSf\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/EADiscord_no_text.png?t=1702635506\" /></a><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/roadmap.png?t=1702635506\" /></p><br><h1>About the Game</h1><a href=\"https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/Animation4.gif?t=1702635506\" /><br><br>Learning Factory is a relaxing automation game, which lets you concentrate on the most important task in the Universe: making cats happy again.<br><br>You're a humble genius scientist who gets invited to become the chief engineer at an abandoned Factory on Mars, designed to <strong>produce and sell exquisite goods for cats</strong>. It was conceived to learn everything about cats and make them happy, but it is desolated now, and cats are leaving Factory Stores<strong> unhappy and empty-pawed</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/advantages.png?t=1702635506\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/storegif04_transporter_roll.gif?t=1702635506\" /><br><br>Now you have a chance to continue the research and development of goods that feline hearts long for! Simply follow these steps on your way to a scientific breakthrough:<br><br><ul class=\"bb_ul\"><li>Renovate an abandoned factory on Mars<br></li><li>Design and automate production chains<br></li><li>Produce and sell exquisite goods to cats<br></li><li>Collect and analyze data with Machine Learning<br></li><li>Scale and make the factory more efficient<br></li><li>Make cats happy!<br></li><li>Rebuild the ancient Monument<br></li><li>Establish Catopia in the feline society!</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/catship.gif?t=1702635506\" /><br><br>Sales at the Factory Stores generate tons of data which is later analyzed by real-life machine learning in order to unlock the in-depth nature of the feline mind. <br><br>But hey: no pressure! In this <strong>fail-safe environment</strong>, the key to success is to keep trying and stay curious. Experiment, optimize, automate - and keep creating a giant cat-catering factory on Mars. Eventually you will find the key to a better future for humans and cats (and also maybe dogs, dogs are kinda ok, too)!<br><br><strong>The game is backed up with real Machine Learning, links to handpicked educational videos, and an in-game wiki to be used as learning material.</strong>",
+      "about_the_game": "<a href=\"https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/</a><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/Animation4.gif?t=1702635506\" /><br><br>Learning Factory is a relaxing automation game, which lets you concentrate on the most important task in the Universe: making cats happy again.<br><br>You're a humble genius scientist who gets invited to become the chief engineer at an abandoned Factory on Mars, designed to <strong>produce and sell exquisite goods for cats</strong>. It was conceived to learn everything about cats and make them happy, but it is desolated now, and cats are leaving Factory Stores<strong> unhappy and empty-pawed</strong>.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/advantages.png?t=1702635506\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/storegif04_transporter_roll.gif?t=1702635506\" /><br><br>Now you have a chance to continue the research and development of goods that feline hearts long for! Simply follow these steps on your way to a scientific breakthrough:<br><br><ul class=\"bb_ul\"><li>Renovate an abandoned factory on Mars<br></li><li>Design and automate production chains<br></li><li>Produce and sell exquisite goods to cats<br></li><li>Collect and analyze data with Machine Learning<br></li><li>Scale and make the factory more efficient<br></li><li>Make cats happy!<br></li><li>Rebuild the ancient Monument<br></li><li>Establish Catopia in the feline society!</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1150090/extras/catship.gif?t=1702635506\" /><br><br>Sales at the Factory Stores generate tons of data which is later analyzed by real-life machine learning in order to unlock the in-depth nature of the feline mind. <br><br>But hey: no pressure! In this <strong>fail-safe environment</strong>, the key to success is to keep trying and stay curious. Experiment, optimize, automate - and keep creating a giant cat-catering factory on Mars. Eventually you will find the key to a better future for humans and cats (and also maybe dogs, dogs are kinda ok, too)!<br><br><strong>The game is backed up with real Machine Learning, links to handpicked educational videos, and an in-game wiki to be used as learning material.</strong>",
+      "short_description": "Build and manage a factory that produces goods for cats. It's a cozy and relaxing but complex game where you will learn about machine learning, logistics, and other fancy technologies to get better at meeting your furry clients' needs and grow your purr-fect cat-centric empire.",
+      "supported_languages": "English, Russian, Simplified Chinese, Traditional Chinese, German, French, Italian, Spanish - Spain, Portuguese - Brazil, Korean, Japanese, Polish",
+      "reviews": "“...an adorable factory game about machine learning and cats”<br><a href=\"https://www.pcgamer.com/heres-an-adorable-factory-game-about-machine-learning-and-cats/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“...a cute and incredibly likeable introduction into the endlessly, weirdly satisfying world of production logistics”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fhardcoregamer.com%2F2021%2F03%2F03%2Fworking-the-feline-supply-and-demand-in-learning-factory%2F399986%2F\" target=\"_blank\" rel=\" noopener\"  >Hardcore Gamer</a><br><br>“Learning Factory is like Factorio with lots of cats and plenty of automation”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamingonlinux.com%2F2021%2F02%2Flearning-factory-is-like-factorio-with-lots-of-cats-and-plenty-of-automation\" target=\"_blank\" rel=\" noopener\"  >GamingOnLinux</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/header_alt_assets_7.jpg?t=1702635506",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/capsule_231x87_alt_assets_7.jpg?t=1702635506",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/capsule_184x69_alt_assets_7.jpg?t=1702635506",
+      "website": "https://luden.io/lf/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13+<br></li><li><strong>Processor:</strong> Apple Silicon is supported / Intel 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "All rights reserved. All trademarks and registered trademarks are the property of their respective owners.",
+      "developers": [
+        "Luden.io"
+      ],
+      "publishers": [
+        "Luden.io"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        391931
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Learning Factory",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 391931,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Learning Factory - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_6f4eaa3cf5754803d7025acb5b531333ba9d3bd4.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_6f4eaa3cf5754803d7025acb5b531333ba9d3bd4.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_4378b1d6457b2e3103a6ea0180d9b0054bf7ae83.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_4378b1d6457b2e3103a6ea0180d9b0054bf7ae83.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2a07dad054d2536b9f49dedb7c3e88564f8f16fa.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2a07dad054d2536b9f49dedb7c3e88564f8f16fa.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_415e5a2e8cac6bffc0df2520de8f2e9eb4b1f4d2.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_415e5a2e8cac6bffc0df2520de8f2e9eb4b1f4d2.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_e2032cf58f7ed4b6793b435a1f3e7636c4210220.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_e2032cf58f7ed4b6793b435a1f3e7636c4210220.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_e56f92b92a719f14df5eeb5e5d5a8b6629cd3bda.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_e56f92b92a719f14df5eeb5e5d5a8b6629cd3bda.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_f43cce8bbf5c4f543eaaea52f060574e4ebe40e9.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_f43cce8bbf5c4f543eaaea52f060574e4ebe40e9.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_ebbc634e115a420d53196feda823a847b220ea68.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_ebbc634e115a420d53196feda823a847b220ea68.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2eb9093fb2b17952e48e98180c5ccfd7db612912.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2eb9093fb2b17952e48e98180c5ccfd7db612912.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2d060b2d0a39dcb8d5fc96e949adb4fd3625ed78.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2d060b2d0a39dcb8d5fc96e949adb4fd3625ed78.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_bc2a75713ba76c14a3cf99b2399ed20fcbfa76c8.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_bc2a75713ba76c14a3cf99b2399ed20fcbfa76c8.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2c901b0aecfd26ee2c4fb895f97e9491518d05b1.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_2c901b0aecfd26ee2c4fb895f97e9491518d05b1.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_31d7e83030c7ba1df55a7bba60e86fdd46ebfdac.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_31d7e83030c7ba1df55a7bba60e86fdd46ebfdac.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_60c2476d4f6ea234eeac853e7d1e9b32bef63404.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_60c2476d4f6ea234eeac853e7d1e9b32bef63404.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_cc7bffd6cfa795b5a3cdcae68cf38bc32b504424.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_cc7bffd6cfa795b5a3cdcae68cf38bc32b504424.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_7d2522164d382a8b3d405d21406d4f5e841f3440.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_7d2522164d382a8b3d405d21406d4f5e841f3440.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_f1e5362afcdc382e197688f7eea9f72d0d7f3bfe.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_f1e5362afcdc382e197688f7eea9f72d0d7f3bfe.1920x1080.jpg?t=1702635506"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_98b2ab0e2a1b225a6f2ef24a7cf63dc9af5e646e.600x338.jpg?t=1702635506",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/ss_98b2ab0e2a1b225a6f2ef24a7cf63dc9af5e646e.1920x1080.jpg?t=1702635506"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256901623,
+          "name": "Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256901623/movie.293x165.jpg?t=1696430579",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901623/movie480_vp9.webm?t=1696430579",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901623/movie_max_vp9.webm?t=1696430579"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901623/movie480.mp4?t=1696430579",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901623/movie_max.mp4?t=1696430579"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 250
+      },
+      "achievements": {
+        "total": 72,
+        "highlighted": [
+          {
+            "name": "Happy cats",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/735ec5077735ecc21960196b646d213676c8fb70.jpg"
+          },
+          {
+            "name": "Happiness spreads",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/861aeda08d94b6c2ca64ff8151eeabf7fcfcd738.jpg"
+          },
+          {
+            "name": "Happiness for everybody (not free)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/aa4c7d600c672b665026ccbee5ea2d1216974329.jpg"
+          },
+          {
+            "name": "Economics basics",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/414ecfdcc9f6abeef3d885a6d86c995155779d51.jpg"
+          },
+          {
+            "name": "PhD in Economics",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/dabd102413a6a6a1312dbfd65d416deedcf222d3.jpg"
+          },
+          {
+            "name": "Factory renovation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/07f82a24f66948947027e80ccf9c9a76051f78b3.jpg"
+          },
+          {
+            "name": "Factory expansion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/1f456e571b5ea3c6c1b1f1dcef9d065a1e5dd8c8.jpg"
+          },
+          {
+            "name": "The Invitation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/a9314704c2b3d95c39704e9f00ba236bd8619bed.jpg"
+          },
+          {
+            "name": "The Prototype",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/d169c599b1d5c10280e9caa36d6d7b3ef2e461d4.jpg"
+          },
+          {
+            "name": "We need to go deeper",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1150090/8a36685654671e37c7437d6dac3d55fb2465cd89.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 18, 2021"
+      },
+      "support_info": {
+        "url": "https://luden.io/lf",
+        "email": "info@luden.io"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/page_bg_generated_v6b.jpg?t=1702635506",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1150090/page.bg.jpg?t=1702635506",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

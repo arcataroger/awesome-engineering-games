@@ -1,0 +1,203 @@
+{
+  "504210": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "SHENZHEN I/O",
+      "steam_appid": 504210,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/504210/extras/logo.jpg?t=1667071700\" /><br><ul class=\"bb_ul\"><li> Build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.<br></li><li> Write code in a compact and powerful assembly language where every instruction can be conditionally executed.<br></li><li> Read the included manual, which includes over 30 pages of original datasheets, reference guides, and technical diagrams.<br></li><li> Get to know the colorful cast of characters at your new employer, 深圳龙腾科技有限公司 (Shenzhen Longteng Electronics Co., Ltd.), located in the electronics capital of the world.<br></li><li> Get creative! Design and test your own games and devices in the sandbox.<br></li><li> Engineering is hard! Take a break and play a brand-new twist on solitaire.</li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/504210/extras/logo.jpg?t=1667071700\" /><br><ul class=\"bb_ul\"><li> Build circuits using a variety of components from different manufacturers, like microcontrollers, memory, logic gates, and LCD screens.<br></li><li> Write code in a compact and powerful assembly language where every instruction can be conditionally executed.<br></li><li> Read the included manual, which includes over 30 pages of original datasheets, reference guides, and technical diagrams.<br></li><li> Get to know the colorful cast of characters at your new employer, 深圳龙腾科技有限公司 (Shenzhen Longteng Electronics Co., Ltd.), located in the electronics capital of the world.<br></li><li> Get creative! Design and test your own games and devices in the sandbox.<br></li><li> Engineering is hard! Take a break and play a brand-new twist on solitaire.</li></ul>",
+      "short_description": "BUILD CIRCUITS. WRITE CODE. RTFM.",
+      "supported_languages": "English, Simplified Chinese",
+      "reviews": "“A polished and compelling puzzler.”<br><a href=\"https://www.rockpapershotgun.com/2016/10/17/premature-evaluation-shenzhen-io/\" target=\"_blank\" rel=\"\"  >Rock Paper Shotgun</a><br><br>“A true gem.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamingnexus.com%2FArticle%2F5423%2FShenzhen-IO%2F\" target=\"_blank\" rel=\" noopener\"  >Gaming Nexus</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/504210/header.jpg?t=1667071700",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/504210/capsule_231x87.jpg?t=1667071700",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/504210/capsule_184x69.jpg?t=1667071700",
+      "website": "http://www.zachtronics.com/shenzhen-io/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0, 1366 x 768<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        116043
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy SHENZHEN I/O",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 116043,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SHENZHEN I/O - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f82dbe324f90188e80c1b576735b11d0470aa599.600x338.jpg?t=1667071700",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f82dbe324f90188e80c1b576735b11d0470aa599.1920x1080.jpg?t=1667071700"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f32d4d5ee3cba2519041436e325f304044302687.600x338.jpg?t=1667071700",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f32d4d5ee3cba2519041436e325f304044302687.1920x1080.jpg?t=1667071700"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_6453fda807249663ee2da607b378f9afd29240d5.600x338.jpg?t=1667071700",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_6453fda807249663ee2da607b378f9afd29240d5.1920x1080.jpg?t=1667071700"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f115cbf2ac40510b14071482271f8da918271856.600x338.jpg?t=1667071700",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_f115cbf2ac40510b14071482271f8da918271856.1920x1080.jpg?t=1667071700"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_cd0868d4ca1e22da7ac4c10b45c072ad05581577.600x338.jpg?t=1667071700",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/504210/ss_cd0868d4ca1e22da7ac4c10b45c072ad05581577.1920x1080.jpg?t=1667071700"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256670167,
+          "name": "SHENZHEN I/O Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256670167/movie.293x165.jpg?t=1475772380",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256670167/movie480.webm?t=1475772380",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256670167/movie_max.webm?t=1475772380"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256670167/movie480.mp4?t=1475772380",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256670167/movie_max.mp4?t=1475772380"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 3100
+      },
+      "achievements": {
+        "total": 6,
+        "highlighted": [
+          {
+            "name": "SECRET PUZZLE",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/afa03caa2fb134f893780f70fd788dacb95b5c2e.jpg"
+          },
+          {
+            "name": "CLIMB THE MOUNTAIN",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/79c6e43211d0bde5117beec883d0c34889c6a81b.jpg"
+          },
+          {
+            "name": "MEET THE DRAGON",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/305814c9382dbc74e0bb9ec9f775bcf962cbe738.jpg"
+          },
+          {
+            "name": "BECOME IMMORTAL",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/866b39267823f415ccf4419cad34b775a1086f15.jpg"
+          },
+          {
+            "name": "EMPLOYEE OF THE MONTH",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/e02dc1364c9726f0399e26a7c16e5765c3e959c7.jpg"
+          },
+          {
+            "name": "TURBOCHARGE YOUR BRAIN!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/504210/355364ecfe52260f850c37281ab6260edd2db0fa.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 17, 2016"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support/",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/504210/page_bg_generated_v6b.jpg?t=1667071700",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/504210/page.bg.jpg?t=1667071700",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

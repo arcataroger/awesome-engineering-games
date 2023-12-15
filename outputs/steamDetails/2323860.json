@@ -1,0 +1,173 @@
+{
+  "2323860": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Lambda Spellcrafting Academy",
+      "steam_appid": 2323860,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/welcome_edit.png?t=1698709989\" /><h2 class=\"bb_tag\">Welcome to Lambda Spellcrafting Academy!</h2><br>Follow along with Professor Whiskers as you learn to combine your magic cards to create your own spells(programs).<br><br>Each card features a unique ability, or represents some real world object. Arrange your cards to construct elaborate spells to solve magic themed puzzles. Shrink objects, make them float, open locks, and more!<h2 class=\"bb_tag\">Learn real programming</h2>The system used in this game focuses on core programming concepts. After playing through the game, you will be ready to apply your new problem solving ability to nearly any programming language you wish to use outside of the game.<h2 class=\"bb_tag\">Programming should be fun</h2>See the results of your spells immediately, with a checklist that updates as you change your spell. Want to take a closer look? Cast your spells and watch the magic rules play out, so you can detect issues and also develop a better understanding of how things work.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/run_blueberry.gif?t=1698709989\" /><h2 class=\"bb_tag\">Nothing to memorize</h2>Some programming tools require you to memorize a bunch of syntax rules as well as a long list of special words. At Lambda Spellcrafting Academy, you build your spells/programs by arranging your hand of magic cards. Everything you need is in front of you, you just need to figure out how to put them together.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/build_shrinking.gif?t=1698709989\" /><h2 class=\"bb_tag\">Lessons and Puzzles included</h2>New concepts are taught through small lessons and a little puzzle to help you apply your learning. By participating actively in your learning, you will better understand and learn more quickly.<h2 class=\"bb_tag\">Multiple solutions to each puzzle: Unleash your creativity</h2>Unlike some puzzle games, there are many solutions to each puzzle. You are free to solve the puzzle in any way that works. Unleash your creativity as you develop various different approaches.<h2 class=\"bb_tag\">Frequently Asked Questions</h2><ul class=\"bb_ul\"><li><strong> Q. I've never programmed before. Will this be too hard for me?</strong><br></li><li> A. You don't need to know anything before getting started :) The levels start from the complete basics, and slowly work up to new ideas.<br></li><li><strong> Q. Does this cover every programming language?</strong><br></li><li> A. The programming system used in the game focuses on general problem solving techniques, rather than a specific programming language. After playing through the game you should be able to easily apply your new abilities to most programming languages, including Javascript / Python / Ruby and more.<br></li><li><strong> Q. I like puzzles but I dont want to program. Will I enjoy this game?</strong><br></li><li> A. If I didn't tell you it was a programming game, you might not even notice ;) Programming is really just problem solving, and I think I've made the experience pretty fun. Feel free to try the demo and see what you think.</li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/welcome_edit.png?t=1698709989\" /><h2 class=\"bb_tag\">Welcome to Lambda Spellcrafting Academy!</h2><br>Follow along with Professor Whiskers as you learn to combine your magic cards to create your own spells(programs).<br><br>Each card features a unique ability, or represents some real world object. Arrange your cards to construct elaborate spells to solve magic themed puzzles. Shrink objects, make them float, open locks, and more!<h2 class=\"bb_tag\">Learn real programming</h2>The system used in this game focuses on core programming concepts. After playing through the game, you will be ready to apply your new problem solving ability to nearly any programming language you wish to use outside of the game.<h2 class=\"bb_tag\">Programming should be fun</h2>See the results of your spells immediately, with a checklist that updates as you change your spell. Want to take a closer look? Cast your spells and watch the magic rules play out, so you can detect issues and also develop a better understanding of how things work.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/run_blueberry.gif?t=1698709989\" /><h2 class=\"bb_tag\">Nothing to memorize</h2>Some programming tools require you to memorize a bunch of syntax rules as well as a long list of special words. At Lambda Spellcrafting Academy, you build your spells/programs by arranging your hand of magic cards. Everything you need is in front of you, you just need to figure out how to put them together.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/2323860/extras/build_shrinking.gif?t=1698709989\" /><h2 class=\"bb_tag\">Lessons and Puzzles included</h2>New concepts are taught through small lessons and a little puzzle to help you apply your learning. By participating actively in your learning, you will better understand and learn more quickly.<h2 class=\"bb_tag\">Multiple solutions to each puzzle: Unleash your creativity</h2>Unlike some puzzle games, there are many solutions to each puzzle. You are free to solve the puzzle in any way that works. Unleash your creativity as you develop various different approaches.<h2 class=\"bb_tag\">Frequently Asked Questions</h2><ul class=\"bb_ul\"><li><strong> Q. I've never programmed before. Will this be too hard for me?</strong><br></li><li> A. You don't need to know anything before getting started :) The levels start from the complete basics, and slowly work up to new ideas.<br></li><li><strong> Q. Does this cover every programming language?</strong><br></li><li> A. The programming system used in the game focuses on general problem solving techniques, rather than a specific programming language. After playing through the game you should be able to easily apply your new abilities to most programming languages, including Javascript / Python / Ruby and more.<br></li><li><strong> Q. I like puzzles but I dont want to program. Will I enjoy this game?</strong><br></li><li> A. If I didn't tell you it was a programming game, you might not even notice ;) Programming is really just problem solving, and I think I've made the experience pretty fun. Feel free to try the demo and see what you think.</li></ul>",
+      "short_description": "Develop magical programming abilities while building spells. Lambda Spellcrafting Academy is a card-based puzzle game where you build spells (programs) to solve puzzles. Fun for complete beginners or professional wizards.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/header.jpg?t=1698709989",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/capsule_231x87.jpg?t=1698709989",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/capsule_184x69.jpg?t=1698709989",
+      "website": "http://www.bittwiddlegames.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.0 ghz single core or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Additional Notes:</strong> 1280x720 resolution or higher</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX Catalina OR EARLIER<br></li><li><strong>Processor:</strong> 1.0 ghz single core or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Additional Notes:</strong> 1280x720 resolution or higher</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 4.0 Kernel or later (2015+)<br></li><li><strong>Processor:</strong> 1.0 ghz single core or better<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Additional Notes:</strong> 1280x720 resolution or higher</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Bit Twiddle Games"
+      ],
+      "publishers": [
+        "Bit Twiddle Games"
+      ],
+      "demos": [
+        {
+          "appid": 2361010,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        834657
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Lambda Spellcrafting Academy",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 834657,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Lambda Spellcrafting Academy - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_2e391641a87bfafb75b39a314927765a18cddd24.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_2e391641a87bfafb75b39a314927765a18cddd24.1920x1080.jpg?t=1698709989"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_6ee3ba504513946bce51504a89fc301bd30253a6.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_6ee3ba504513946bce51504a89fc301bd30253a6.1920x1080.jpg?t=1698709989"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_6c729f2e9ffb021f53cca1aac833e8a8cc38916c.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_6c729f2e9ffb021f53cca1aac833e8a8cc38916c.1920x1080.jpg?t=1698709989"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_bf4ec6d09c324fb9a6e688247dafab707536e127.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_bf4ec6d09c324fb9a6e688247dafab707536e127.1920x1080.jpg?t=1698709989"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_57c5c09716bbcb1d7f5fb2eaf00274da2f63844d.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_57c5c09716bbcb1d7f5fb2eaf00274da2f63844d.1920x1080.jpg?t=1698709989"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_959c731cf38bff5df13859a5e5cfdc2c8277ccd1.600x338.jpg?t=1698709989",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/ss_959c731cf38bff5df13859a5e5cfdc2c8277ccd1.1920x1080.jpg?t=1698709989"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256948377,
+          "name": "Dev Teaser Trailer 2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256948377/movie.293x165.jpg?t=1684798514",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948377/movie480_vp9.webm?t=1684798514",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948377/movie_max_vp9.webm?t=1684798514"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256948377/movie480.mp4?t=1684798514",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256948377/movie_max.mp4?t=1684798514"
+          },
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 8, 2023"
+      },
+      "support_info": {
+        "url": "http://www.bittwiddlegames.com",
+        "email": "steam@bittwiddlegames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/page_bg_generated_v6b.jpg?t=1698709989",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/page_bg_generated.jpg?t=1698709989",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

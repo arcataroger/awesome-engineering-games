@@ -1,0 +1,275 @@
+{
+  "1307890": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Kingdoms Reborn",
+      "steam_appid": 1307890,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\"><strong>WELCOME TO KINGDOMS REBORN</strong></h2><br>Kingdoms Reborn is a city builder with simulated citizens, set in a procedurally-generated world map. Grow your kingdom through the eras from a tiny medieval hamlet into a prosperous global empire! Cooperate or compete in real-time with your friends in multiplayer mode.<h2 class=\"bb_tag\"><strong>CHEERS TO THE NEW BEGINNING!</strong></h2>Build your city. Shape your kingdoms. Rebirth your civilization.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/SimCit01.gif?t=1693855364\" /><h2 class=\"bb_tag\"><strong>GAME FEATURES</strong></h2><br><strong>SIMULATED CITIZENS</strong><br>Individual citizens are simulated (similar to Banished)<br><br><strong>4 CULTURAL FACTIONS </strong><br>Each with unique art and gameplay style (The Duchies, The Emirates, The Norsemen, and The Shogunate). More coming in the pipeline!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/OG02.gif?t=1693855364\" /><br><br><strong>7 DISTINCT BIOMES</strong><br>Large procedurally-generated world map with 7 distinct biomes<br><br><strong>EXTENSIVE TECH TREE</strong><br>Research technology to unlock new buildings, bonuses, and upgrades<br><br><strong>ERA PROGRESSION</strong><br>Upgrade your houses and buildings through 4 different Eras<br><br><strong>MULTIPLAYER</strong><br>Compete, or cooperate with neighboring cities<br>Play solo or play with friends (up to 18 players)<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/CoOp01.gif?t=1693855364\" /><br><br><strong>CARD SYSTEM</strong><br>Our card system—with building, action, policy, and bonus cards—will ensure no two games are ever the same!<br><br><br><i><strong>Early Access Notes:</strong></i><br><i>The game is currently in active development and is constantly being optimized and improved!<br>Your saved games may break once in a while when new patches are released.</i><h2 class=\"bb_tag\"><strong>JOIN OUR COMMUNITY</strong></h2><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FWgfjw5t\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/DiscordEra.png.png?t=1693855364\" /></a>",
+      "about_the_game": "<h2 class=\"bb_tag\"><strong>WELCOME TO KINGDOMS REBORN</strong></h2><br>Kingdoms Reborn is a city builder with simulated citizens, set in a procedurally-generated world map. Grow your kingdom through the eras from a tiny medieval hamlet into a prosperous global empire! Cooperate or compete in real-time with your friends in multiplayer mode.<h2 class=\"bb_tag\"><strong>CHEERS TO THE NEW BEGINNING!</strong></h2>Build your city. Shape your kingdoms. Rebirth your civilization.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/SimCit01.gif?t=1693855364\" /><h2 class=\"bb_tag\"><strong>GAME FEATURES</strong></h2><br><strong>SIMULATED CITIZENS</strong><br>Individual citizens are simulated (similar to Banished)<br><br><strong>4 CULTURAL FACTIONS </strong><br>Each with unique art and gameplay style (The Duchies, The Emirates, The Norsemen, and The Shogunate). More coming in the pipeline!<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/OG02.gif?t=1693855364\" /><br><br><strong>7 DISTINCT BIOMES</strong><br>Large procedurally-generated world map with 7 distinct biomes<br><br><strong>EXTENSIVE TECH TREE</strong><br>Research technology to unlock new buildings, bonuses, and upgrades<br><br><strong>ERA PROGRESSION</strong><br>Upgrade your houses and buildings through 4 different Eras<br><br><strong>MULTIPLAYER</strong><br>Compete, or cooperate with neighboring cities<br>Play solo or play with friends (up to 18 players)<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/CoOp01.gif?t=1693855364\" /><br><br><strong>CARD SYSTEM</strong><br>Our card system—with building, action, policy, and bonus cards—will ensure no two games are ever the same!<br><br><br><i><strong>Early Access Notes:</strong></i><br><i>The game is currently in active development and is constantly being optimized and improved!<br>Your saved games may break once in a while when new patches are released.</i><h2 class=\"bb_tag\"><strong>JOIN OUR COMMUNITY</strong></h2><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2FWgfjw5t\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1307890/extras/DiscordEra.png.png?t=1693855364\" /></a>",
+      "short_description": "A city builder with simulated citizens, set in a procedurally-generated world map. Grow your kingdom through the eras from a tiny medieval hamlet into a prosperous global empire! Cooperate or compete in real-time with your friends in multiplayer mode.",
+      "supported_languages": "English, French, German, Japanese, Polish, Russian, Simplified Chinese, Hungarian, Thai",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/header.jpg?t=1693855364",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/capsule_231x87.jpg?t=1693855364",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/capsule_184x69.jpg?t=1693855364",
+      "website": "https://kingdomsreborn.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-Bit)<br></li><li><strong>Processor:</strong> Intel Core I5-2500K (3.30 GHz 4-Cores) or equivalent AMD-Hardware<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 750 Ti 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> GPU must support Shader Model 5.0</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-Bit)<br></li><li><strong>Processor:</strong> Intel Core i7-7700k (4.2GHz 4 Cores) or equivalent AMD-Hardware<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 1660 6GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> GPU must support Shader Model 5.0</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Earthshine"
+      ],
+      "publishers": [
+        "Earthshine"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        456435
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Kingdoms Reborn",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 456435,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Kingdoms Reborn - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_24f536a9ec7012f96bb7c82d472b09fbedcab13c.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_24f536a9ec7012f96bb7c82d472b09fbedcab13c.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_c49480fb42b09f54e519643350e0aeb0b6b149ba.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_c49480fb42b09f54e519643350e0aeb0b6b149ba.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_0d07967f4227fec8ffe44145f4d576f90e1bbf9b.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_0d07967f4227fec8ffe44145f4d576f90e1bbf9b.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_5bf778fda494a6221f6ca265fd712d73033d79a8.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_5bf778fda494a6221f6ca265fd712d73033d79a8.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_6c2ba63e5e1744883e6feb675dab360ba63b7d4b.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_6c2ba63e5e1744883e6feb675dab360ba63b7d4b.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_46f7f58cbaf38aacfc4c9e9e46d3ec9c895a29ac.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_46f7f58cbaf38aacfc4c9e9e46d3ec9c895a29ac.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_e4c69bc48b9ae6ff4d532a4399a93cea3dcc4008.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_e4c69bc48b9ae6ff4d532a4399a93cea3dcc4008.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_0343dcbfe4db96d4d353d2d77a8869918c03f08d.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_0343dcbfe4db96d4d353d2d77a8869918c03f08d.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_31cd880e4c719630c3fa1ee6d65d4d605e38241c.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_31cd880e4c719630c3fa1ee6d65d4d605e38241c.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_8f28df832e853379a3e57fe9666137a18ab95078.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_8f28df832e853379a3e57fe9666137a18ab95078.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_c195b2fd5c55ee679cb293a90e1c18883ebae598.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_c195b2fd5c55ee679cb293a90e1c18883ebae598.1920x1080.jpg?t=1693855364"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_e5e674e52d0659462732f63206cb8807435ed4a8.600x338.jpg?t=1693855364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/ss_e5e674e52d0659462732f63206cb8807435ed4a8.1920x1080.jpg?t=1693855364"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256800870,
+          "name": "Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256800870/movie.293x165.jpg?t=1684504665",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256800870/movie480_vp9.webm?t=1684504665",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256800870/movie_max_vp9.webm?t=1684504665"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256800870/movie480.mp4?t=1684504665",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256800870/movie_max.mp4?t=1684504665"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256947869,
+          "name": "Japan Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256947869/movie.293x165.jpg?t=1684504670",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256947869/movie480_vp9.webm?t=1684504670",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256947869/movie_max_vp9.webm?t=1684504670"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256947869/movie480.mp4?t=1684504670",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256947869/movie_max.mp4?t=1684504670"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 6846
+      },
+      "achievements": {
+        "total": 34,
+        "highlighted": [
+          {
+            "name": "High on supply",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/9201a93bd76cd05727306e053abad003211f4876.jpg"
+          },
+          {
+            "name": "Escaped from Dark Age",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/aea337ce27cd10631d682f50da3c16c2eea158cd.jpg"
+          },
+          {
+            "name": "Age of Reason",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/1b29711055013ccb8846d936aef153246424aa32.jpg"
+          },
+          {
+            "name": "Industrial Revolution",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/c61ab1746d8fd07a5c88b0b08f1dc155d650a37a.jpg"
+          },
+          {
+            "name": "Strong and Counting",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/5958d2548b98837b1f9fa1065d4a28bd80510bd0.jpg"
+          },
+          {
+            "name": "A Thousand Cheers",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/e972c7c7c25f856a07e79b7ff4edc4012e8ea610.jpg"
+          },
+          {
+            "name": "Cashed In",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/c39fad42104f6e72636ec9290bb7094facc7a459.jpg"
+          },
+          {
+            "name": "Living The High Life",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/4c92ab267ace4f4c718f4b64c423593dc57a0920.jpg"
+          },
+          {
+            "name": "PANDA!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/1c8f75529aae7430b02484e957dc5e4b1ed8c245.jpg"
+          },
+          {
+            "name": "BEHOLD!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1307890/0a3ad9edc9155f5300dc7ab5886e59987302cda6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 2020"
+      },
+      "support_info": {
+        "url": "http://www.kingdomsreborn.com",
+        "email": "pun@kingdomsreborn.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/page_bg_generated_v6b.jpg?t=1693855364",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1307890/page_bg_generated.jpg?t=1693855364",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

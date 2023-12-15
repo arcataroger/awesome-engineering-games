@@ -1,0 +1,231 @@
+{
+  "319850": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bridge Constructor Medieval",
+      "steam_appid": 319850,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Bridge Constructor Medieval on Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FU7MXhzm\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/319850/extras/bridge_constructor_medieval_steam_discord_banner_AUG2020.jpg?t=1676464319\" /></a></p><br><h1>About the Game</h1>Dive into the Middle Ages and play the successor to the worldwide #1 hit, Bridge Constructor<br><br>Bridge Constructor Medieval turns back the clock a few centuries to the time of knights and castles. Build sturdy bridges to supply your city with provisions - or cunningly constructed bridges that collapse under the weight of attacking troops, sending the horde of enemies into the abyss below. You won’t even be safe from cannon fire in the 40 brand new levels. Protect your foot soldiers and your horse-drawn carriages with covered bridges and stable pillar structures. <br><br>There is a total of five materials available to help you build the perfect bridge: wood, heavy wood, stone and ropes, along with the new addition of the bridge roof.<br>Throughout the exciting background story, you will familiarize yourself with the various materials on a step-by-step basis and learn everything you need to know so that your bridges meet the requirements of the different levels.<br> <br>Innovative game modes in store for you!<br>Besides building stable bridges, there's also plenty on offer for veterans to discover in the new game modes. <br>In the siege level, your bridge is bombarded by enemy catapults. Strengthen your bridge so that it doesn't collapse and protect your own troops on the bridge with a bridge roof. <br><br>In another new game mode, you build your bridges so that they collapse under the load of enemy units to send as many of them as possible into the abyss. <br>In addition, the unique bonus challenges will leave even the most experienced players at their wit’s end. That way, both bridge-building professionals and novices will face a challenge in Bridge Constructor Medieval.<h2 class=\"bb_tag\">FEATURES:</h2><ul class=\"bb_ul\"><li> For the first time: Build bridges in the Middle Ages!<br></li><li> Brand new levels and game modes for a completely new gaming experience<br></li><li> Design sturdy bridge roofs to protect yourself from enemy catapults<br></li><li> Construct cunning bridge traps to send advancing enemy troops into the abyss<br></li><li> Exciting and funny background story<br></li><li> Enjoy beautiful medieval landscapes<br></li><li> Achievements and leaderboards</li></ul>",
+      "about_the_game": "Dive into the Middle Ages and play the successor to the worldwide #1 hit, Bridge Constructor<br><br>Bridge Constructor Medieval turns back the clock a few centuries to the time of knights and castles. Build sturdy bridges to supply your city with provisions - or cunningly constructed bridges that collapse under the weight of attacking troops, sending the horde of enemies into the abyss below. You won’t even be safe from cannon fire in the 40 brand new levels. Protect your foot soldiers and your horse-drawn carriages with covered bridges and stable pillar structures. <br><br>There is a total of five materials available to help you build the perfect bridge: wood, heavy wood, stone and ropes, along with the new addition of the bridge roof.<br>Throughout the exciting background story, you will familiarize yourself with the various materials on a step-by-step basis and learn everything you need to know so that your bridges meet the requirements of the different levels.<br> <br>Innovative game modes in store for you!<br>Besides building stable bridges, there's also plenty on offer for veterans to discover in the new game modes. <br>In the siege level, your bridge is bombarded by enemy catapults. Strengthen your bridge so that it doesn't collapse and protect your own troops on the bridge with a bridge roof. <br><br>In another new game mode, you build your bridges so that they collapse under the load of enemy units to send as many of them as possible into the abyss. <br>In addition, the unique bonus challenges will leave even the most experienced players at their wit’s end. That way, both bridge-building professionals and novices will face a challenge in Bridge Constructor Medieval.<h2 class=\"bb_tag\">FEATURES:</h2><ul class=\"bb_ul\"><li> For the first time: Build bridges in the Middle Ages!<br></li><li> Brand new levels and game modes for a completely new gaming experience<br></li><li> Design sturdy bridge roofs to protect yourself from enemy catapults<br></li><li> Construct cunning bridge traps to send advancing enemy troops into the abyss<br></li><li> Exciting and funny background story<br></li><li> Enjoy beautiful medieval landscapes<br></li><li> Achievements and leaderboards</li></ul>",
+      "short_description": "Bridge Constructor Medieval turns back the clock a few centuries to the time of knights and castles. Build sturdy bridges to supply your city with provisions - or cunningly constructed bridges that collapse under the weight of attacking troops, sending the horde of enemies into the abyss below.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/319850/header.jpg?t=1676464319",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/319850/capsule_231x87.jpg?t=1676464319",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/319850/capsule_184x69.jpg?t=1676464319",
+      "website": "http://www.bridgeconstructor.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP, Vista, 7, 8<br></li><li><strong>Processor:</strong> 1,8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX9 compatible with Shader Model 2.0</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.6<br></li><li><strong>Processor:</strong> 1,8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX9 compatible with Shader Model 2.0</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or equivalent (32bit or 64bit with ia32-libs installed)<br></li><li><strong>Processor:</strong> 1,8 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Linux 64bit users need to have ia32-libs package installed (sudo apt get install ia32-libs)</li></ul>"
+      },
+      "legal_notice": "(c) 2014 Headup Games GmbH & Co. KG, all rights reserved, www.headupgames.com, ClockStone and its logos are trademarks of ClockStone Software GmbH.",
+      "developers": [
+        "ClockStone"
+      ],
+      "publishers": [
+        "Headup Publishing"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        49643,
+        306100
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bridge Constructor Medieval",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 49643,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bridge Constructor Medieval - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 306100,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bridge Constructor Medieval - Commercial License - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_6c2255c11eda07d74407333e84e31135887741ea.600x338.jpg?t=1676464319",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_6c2255c11eda07d74407333e84e31135887741ea.1920x1080.jpg?t=1676464319"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_f2d9136d362b89493f407fe05d77c36f268248f1.600x338.jpg?t=1676464319",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_f2d9136d362b89493f407fe05d77c36f268248f1.1920x1080.jpg?t=1676464319"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_01da942bb98db918e27ae05bcce10909596eb9ef.600x338.jpg?t=1676464319",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_01da942bb98db918e27ae05bcce10909596eb9ef.1920x1080.jpg?t=1676464319"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_a137ccef4baaa9b74319cf134ed147ea28dac773.600x338.jpg?t=1676464319",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_a137ccef4baaa9b74319cf134ed147ea28dac773.1920x1080.jpg?t=1676464319"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_bc6bafbde09d5db69372ae6e24cdc88962bf6400.600x338.jpg?t=1676464319",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/319850/ss_bc6bafbde09d5db69372ae6e24cdc88962bf6400.1920x1080.jpg?t=1676464319"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2034250,
+          "name": "Bridge Constructor Medieval Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2034250/movie.293x165.jpg?t=1447363463",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2034250/movie480.webm?t=1447363463",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2034250/movie_max.webm?t=1447363463"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2034250/movie480.mp4?t=1447363463",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2034250/movie_max.mp4?t=1447363463"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 224
+      },
+      "achievements": {
+        "total": 14,
+        "highlighted": [
+          {
+            "name": "King's Choice",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/b998a12db29b6188a8401b531baa84c4c9036833.jpg"
+          },
+          {
+            "name": "King's Favorite",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/98bc2306348e2797695566978fe04eb19dca9e79.jpg"
+          },
+          {
+            "name": "King's Hero",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/9d2e3d9c1f65aa4c390385fcac7c8ac25b60ffd5.jpg"
+          },
+          {
+            "name": "God of Crowns!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/a221bb28a2cf7688e6c03ea09d1eab908f768699.jpg"
+          },
+          {
+            "name": "Apprentice",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/913e5c92442790fb29101f65b48bee42b0763bf0.jpg"
+          },
+          {
+            "name": "Fellow",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/46f99c84f7b5e94a2b8d6ba79f44ce99e12e0993.jpg"
+          },
+          {
+            "name": "Master Builder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/16e9eb2ef373351d8a78e0158611ecd3b6976e53.jpg"
+          },
+          {
+            "name": "Executioner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/670c8bbc2cd3b3e3162a38a3c1411d1c53343ccf.jpg"
+          },
+          {
+            "name": "Angel of Death",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/18e161d8c1979e32a1bba66c33af511114bf0f4a.jpg"
+          },
+          {
+            "name": "Guardian",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319850/794c42d9e6ddb0d08d7f3a2360a9eade2854e024.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 15, 2014"
+      },
+      "support_info": {
+        "url": "http://support.headupgames.com",
+        "email": "support@headupgames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/319850/page_bg_generated_v6b.jpg?t=1676464319",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/319850/page.bg.jpg?t=1676464319",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

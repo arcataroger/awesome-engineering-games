@@ -1,0 +1,252 @@
+{
+  "387990": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Scrap Mechanic",
+      "steam_appid": 387990,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "PLEASE NOTE: We’re still hard at work on Scrap Mechanic! New content is being added and optimizations being made regularly. Get started right away in Survival Mode, Creative Mode and Challenge Mode! Please watch the latest Scrap Mechanic trailers to see the game’s latest state.<h2 class=\"bb_tag\"><strong>Tool up and enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against evil Farmerbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!</strong></h2><br><br>‘Be a robot mechanic’, they said. ‘Easy money’, they said. We’re pretty sure the job description didn’t mention crash landing on a far away planet, with thousands of crazed worker robots out for blood! You’re stranded on a faraway agriculture planet where the Farmbots working the fields have gone haywire. With your tool belt tightly fastened, there’s only one way to survive: using your quick thinking, creativity and a wily knack of turning your surroundings to your advantage!<br><br><strong>Survival Mode! </strong><br>In Survival Mode mechanics explore a dynamically generated open-world environment filled with enemies, treasure and dangerous robots! Team up with friends and build bases to protect yourself and your valuables. The most creative will survive!<br><br><strong>Challenge Mode! </strong><br>Put your imagination to the test in the Master Mechanic Trials, an amazing roster of 40 fun and testing challenges which every wannabe mechanic should master before embarking on the wide-open world. Plus create your own challenges and share them with friends!<br><br><strong>Creative Mode!</strong><br>Choose from over 400+ building parts and create a transforming vehicle, a walking house or anything you and your friends can imagine! Scrap Mechanic mod support offers an easy way to download over 1000+ new player made building parts for your creations! <br><br><br>For all the latest news, follow us on:<br><a href=\"https://twitter.com/ScrapMechanic\" target=\"_blank\" rel=\"\"  >Twitter</a><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2Fscrapmechanic%2F\" target=\"_blank\" rel=\" noopener\"  >Facebook</a><br><br><br>For more info: <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.scrapmechanic.com%2F\" target=\"_blank\" rel=\" noopener\"  >http://www.scrapmechanic.com/</a>",
+      "about_the_game": "PLEASE NOTE: We’re still hard at work on Scrap Mechanic! New content is being added and optimizations being made regularly. Get started right away in Survival Mode, Creative Mode and Challenge Mode! Please watch the latest Scrap Mechanic trailers to see the game’s latest state.<h2 class=\"bb_tag\"><strong>Tool up and enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against evil Farmerbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!</strong></h2><br><br>‘Be a robot mechanic’, they said. ‘Easy money’, they said. We’re pretty sure the job description didn’t mention crash landing on a far away planet, with thousands of crazed worker robots out for blood! You’re stranded on a faraway agriculture planet where the Farmbots working the fields have gone haywire. With your tool belt tightly fastened, there’s only one way to survive: using your quick thinking, creativity and a wily knack of turning your surroundings to your advantage!<br><br><strong>Survival Mode! </strong><br>In Survival Mode mechanics explore a dynamically generated open-world environment filled with enemies, treasure and dangerous robots! Team up with friends and build bases to protect yourself and your valuables. The most creative will survive!<br><br><strong>Challenge Mode! </strong><br>Put your imagination to the test in the Master Mechanic Trials, an amazing roster of 40 fun and testing challenges which every wannabe mechanic should master before embarking on the wide-open world. Plus create your own challenges and share them with friends!<br><br><strong>Creative Mode!</strong><br>Choose from over 400+ building parts and create a transforming vehicle, a walking house or anything you and your friends can imagine! Scrap Mechanic mod support offers an easy way to download over 1000+ new player made building parts for your creations! <br><br><br>For all the latest news, follow us on:<br><a href=\"https://twitter.com/ScrapMechanic\" target=\"_blank\" rel=\"\"  >Twitter</a><br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.facebook.com%2Fscrapmechanic%2F\" target=\"_blank\" rel=\" noopener\"  >Facebook</a><br><br><br>For more info: <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.scrapmechanic.com%2F\" target=\"_blank\" rel=\" noopener\"  >http://www.scrapmechanic.com/</a>",
+      "short_description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Russian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/387990/header.jpg?t=1593703247",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_231x87.jpg?t=1593703247",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/387990/capsule_184x69.jpg?t=1593703247",
+      "website": "http://www.scrapmechanic.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Microsoft Windows 7 or later<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 520 or a dedicated graphics card with 2 GB memory and DirectX feature level 10.1<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Microsoft Windows 7 or later<br></li><li><strong>Processor:</strong> Intel Core i5 6600K<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2020 Axolot Games AB. All rights reserved.",
+      "developers": [
+        "Axolot Games"
+      ],
+      "publishers": [
+        "Axolot Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        73428
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Scrap Mechanic",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 73428,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Scrap Mechanic - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_55bea7e73e0e28b62377af9602cb4ce68c793068.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_55bea7e73e0e28b62377af9602cb4ce68c793068.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_dcedeb1b457c68abb6f07fe112c73599e82ecd68.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_dcedeb1b457c68abb6f07fe112c73599e82ecd68.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_da1a73da7f67636c423eebcafde65aa21ec28e7f.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_da1a73da7f67636c423eebcafde65aa21ec28e7f.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_5f290f0d17091d33e25bdc4d15d37ce5feb0f3f6.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_5f290f0d17091d33e25bdc4d15d37ce5feb0f3f6.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_563a61bc3ea7695a042eccf63bbcc738966f47a5.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_563a61bc3ea7695a042eccf63bbcc738966f47a5.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_cc2c94bb34b2541b3189c84d38a6237e1394e107.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_cc2c94bb34b2541b3189c84d38a6237e1394e107.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_e4c21348fd565fe1de580a7f5213695f6f112386.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_e4c21348fd565fe1de580a7f5213695f6f112386.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_8f0679852d926688a900222431ab89235986ef5c.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_8f0679852d926688a900222431ab89235986ef5c.1920x1080.jpg?t=1593703247"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_e2039add5d6c5db4459d968848b87d3e768edfaf.600x338.jpg?t=1593703247",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/387990/ss_e2039add5d6c5db4459d968848b87d3e768edfaf.1920x1080.jpg?t=1593703247"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256784649,
+          "name": "Scrap Mechanic - Survival Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256784649/movie.293x165.jpg?t=1588870791",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256784649/movie480_vp9.webm?t=1588870791",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256784649/movie_max_vp9.webm?t=1588870791"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256784649/movie480.mp4?t=1588870791",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256784649/movie_max.mp4?t=1588870791"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256659038,
+          "name": "Scrap Mechanic - Creative Mode Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256659038/movie.293x165.jpg?t=1453259285",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256659038/movie480.webm?t=1453259285",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256659038/movie_max.webm?t=1453259285"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256659038/movie480.mp4?t=1453259285",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256659038/movie_max.mp4?t=1453259285"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256739107,
+          "name": "Scrap Mechanic - Challenge Mode Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256739107/movie.293x165.jpg?t=1545414756",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256739107/movie480.webm?t=1545414756",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256739107/movie_max.webm?t=1545414756"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256739107/movie480.mp4?t=1545414756",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256739107/movie_max.mp4?t=1545414756"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256659047,
+          "name": "Introducing the Controller",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256659047/movie.293x165.jpg?t=1452269548",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256659047/movie480.webm?t=1452269548",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256659047/movie_max.webm?t=1452269548"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256659047/movie480.mp4?t=1452269548",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256659047/movie_max.mp4?t=1452269548"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 92157
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 19, 2016"
+      },
+      "support_info": {
+        "url": "http://scrapmechanic.gamepedia.com/Scrap_Mechanic_Wiki",
+        "email": "info@axolotgames.se"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/387990/page_bg_generated_v6b.jpg?t=1593703247",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/387990/page.bg.jpg?t=1593703247",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

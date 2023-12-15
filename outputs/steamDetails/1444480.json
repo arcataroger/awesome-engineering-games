@@ -1,0 +1,211 @@
+{
+  "1444480": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Turing Complete",
+      "steam_appid": 1444480,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\"><strong>-= LEARN =-</strong></h2><br><br>Everything in a computer can be constructed from a basic component called a NAND gate. You will be challenged through a series of puzzles, to discover the path from NAND gates to arithmetic, memory and all the way to full CPU architectures. If you complete this game, you will have a deep understanding of how assembly, CPU instruction sets and basic components are related. And you will understand how programming concepts like if statements, loops and functions actually work in assembly and hardware.<br><br><br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1444480/extras/layers__3_.png?t=1674466169\" /><h2 class=\"bb_tag\"><strong>-= BUILD =-</strong></h2><br><br>The game is built on a powerful simulator, that gives you total freedom in how you solve levels or create your own computers. Wire up screens, timers, sound, keyboard input and network components to create whatever you want. You can even design a unique assembly language for your computer.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1444480/extras/build_pong.png?t=1674466169\" />",
+      "about_the_game": "<h2 class=\"bb_tag\"><strong>-= LEARN =-</strong></h2><br><br>Everything in a computer can be constructed from a basic component called a NAND gate. You will be challenged through a series of puzzles, to discover the path from NAND gates to arithmetic, memory and all the way to full CPU architectures. If you complete this game, you will have a deep understanding of how assembly, CPU instruction sets and basic components are related. And you will understand how programming concepts like if statements, loops and functions actually work in assembly and hardware.<br><br><br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1444480/extras/layers__3_.png?t=1674466169\" /><h2 class=\"bb_tag\"><strong>-= BUILD =-</strong></h2><br><br>The game is built on a powerful simulator, that gives you total freedom in how you solve levels or create your own computers. Wire up screens, timers, sound, keyboard input and network components to create whatever you want. You can even design a unique assembly language for your computer.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1444480/extras/build_pong.png?t=1674466169\" />",
+      "short_description": "Learn CPU architecture with puzzles",
+      "supported_languages": "English, French, German, Simplified Chinese, Spanish - Latin America",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/header.jpg?t=1674466169",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/capsule_231x87.jpg?t=1674466169",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/capsule_184x69.jpg?t=1674466169",
+      "website": "https://turingcomplete.game",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> I5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 630<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11<br></li><li><strong>Processor:</strong> Intel HD 6000<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 6000<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64 bit<br></li><li><strong>Processor:</strong> I5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 630<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "LevelHead"
+      ],
+      "publishers": [
+        "LevelHead"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        508144
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Turing Complete",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 508144,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Turing Complete - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_11c609c02e242aff7261676d063f732d4fa66653.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_11c609c02e242aff7261676d063f732d4fa66653.1920x1080.jpg?t=1674466169"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_c60bd540cc6586e01b7d3aba3ba33b1c07f222c0.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_c60bd540cc6586e01b7d3aba3ba33b1c07f222c0.1920x1080.jpg?t=1674466169"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_1bac4bab81311d236e9ce373da10f3f978fffa44.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_1bac4bab81311d236e9ce373da10f3f978fffa44.1920x1080.jpg?t=1674466169"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_98c828431dbca7c85d909e8a9f894fe036ca8b0a.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_98c828431dbca7c85d909e8a9f894fe036ca8b0a.1920x1080.jpg?t=1674466169"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_49556255a39a45d67e360f28b853643f05e19851.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_49556255a39a45d67e360f28b853643f05e19851.1920x1080.jpg?t=1674466169"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_a196fa59ea171f4d3e28750cd939b1255bafe966.600x338.jpg?t=1674466169",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/ss_a196fa59ea171f4d3e28750cd939b1255bafe966.1920x1080.jpg?t=1674466169"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256849680,
+          "name": "Turing Complete",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256849680/movie.293x165.jpg?t=1664295536",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256849680/movie480_vp9.webm?t=1664295536",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256849680/movie_max_vp9.webm?t=1664295536"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256849680/movie480.mp4?t=1664295536",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256849680/movie_max.mp4?t=1664295536"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2021
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "Turing Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/ce24321dd55835a649367d6c2270d081c675b739.jpg"
+          },
+          {
+            "name": "Best hat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/f45e90e3944886367a8518f26e59d5453a09d80d.jpg"
+          },
+          {
+            "name": "Black hat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/39dea99e632178603968d7b5f9efedaa7749d937.jpg"
+          },
+          {
+            "name": "Helperbot",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/24b29588a5f58cc9cc47a51c3db7b5b09d6d3a34.jpg"
+          },
+          {
+            "name": "4 NAND = XOR",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/c4c106dc1b319bb580ed8650475e9ab8854f8c5c.jpg"
+          },
+          {
+            "name": "5 Component Full Adder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/1b954cc246dcad1af5eb38f48b8c9e1eb6206030.jpg"
+          },
+          {
+            "name": "Fast Adder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/f70395773035b20e8b73f181ad3eb3641b83f8ee.jpg"
+          },
+          {
+            "name": "Tutorial Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/ee4618e05adbf745e6f5d2c557deec04c076c2bf.jpg"
+          },
+          {
+            "name": "FastBot",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/b43e834158c582c1cb386d892004b06d77419020.jpg"
+          },
+          {
+            "name": "Condition 10",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1444480/518eff9764dfd2b7813cb38eddde66d02231c6da.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 2, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@levelhead.studio"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/page_bg_generated_v6b.jpg?t=1674466169",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1444480/page_bg_generated.jpg?t=1674466169",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

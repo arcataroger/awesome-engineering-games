@@ -1,0 +1,203 @@
+{
+  "558990": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Opus Magnum",
+      "steam_appid": 558990,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<i>“It is not an exaggeration to say that without alchemical engineering, civilization would not exist.”</i><br><br>Hailed as the most promising alchemist of his generation, Anataeus Vaya has just accepted a position as Head Alchemist of House Van Tassen, the oldest and richest of the city’s ancient Houses. But dangers lurk behind the family’s opulent facade, and alchemy alone may not solve every problem.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/558990/extras/logo.png?t=1667070364\" /><br><br><i>Opus Magnum</i> is the latest open-ended puzzle game from Zachtronics, the creators of SpaceChem, Infinifactory, TIS-100, and SHENZHEN I/O. Master the intricate, physical machinery of the transmutation engine— the alchemical engineer’s most advanced tool— and use it to create vital remedies, precious gemstones, deadly weapons, and more.<br><br><strong>Design Machines</strong> - Design and build machines that carry out alchemical processes using a variety of components including programmable arms, customizable tracks, and more esoteric devices like Van Berlo’s wheel and the Glyph of Animismus.<br><br><strong>Open-Ended Puzzles</strong> - Compete against your friends and the world to build the simplest, fastest, and most compact solutions to the game’s challenges. Export animated GIFs of your elegant designs to show them off.<br><br><strong>Steam Workshop</strong> - Make and share your own puzzles with full Steam Workshop integration and an easy-to-use puzzle editor. Play the top user-submitted puzzles in the prestigious <i>Journal of Alchemical Engineering</i>, curated by Zachtronics!<br><br><strong>Rich Story</strong> - Intrigues and dark plots swirl around the city’s ancient Houses. Alchemists, who hold the power to create almost anything known to science, are highly sought— and highly dangerous.<br><br><strong>Solitaire Minigame</strong> - Alchemical engineering takes focus and concentration. Take a break with <i>Sigmar’s Garden</i>, an original alchemy-based solitaire game. Every game is winnable, but not every game will be won…",
+      "about_the_game": "<i>“It is not an exaggeration to say that without alchemical engineering, civilization would not exist.”</i><br><br>Hailed as the most promising alchemist of his generation, Anataeus Vaya has just accepted a position as Head Alchemist of House Van Tassen, the oldest and richest of the city’s ancient Houses. But dangers lurk behind the family’s opulent facade, and alchemy alone may not solve every problem.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/558990/extras/logo.png?t=1667070364\" /><br><br><i>Opus Magnum</i> is the latest open-ended puzzle game from Zachtronics, the creators of SpaceChem, Infinifactory, TIS-100, and SHENZHEN I/O. Master the intricate, physical machinery of the transmutation engine— the alchemical engineer’s most advanced tool— and use it to create vital remedies, precious gemstones, deadly weapons, and more.<br><br><strong>Design Machines</strong> - Design and build machines that carry out alchemical processes using a variety of components including programmable arms, customizable tracks, and more esoteric devices like Van Berlo’s wheel and the Glyph of Animismus.<br><br><strong>Open-Ended Puzzles</strong> - Compete against your friends and the world to build the simplest, fastest, and most compact solutions to the game’s challenges. Export animated GIFs of your elegant designs to show them off.<br><br><strong>Steam Workshop</strong> - Make and share your own puzzles with full Steam Workshop integration and an easy-to-use puzzle editor. Play the top user-submitted puzzles in the prestigious <i>Journal of Alchemical Engineering</i>, curated by Zachtronics!<br><br><strong>Rich Story</strong> - Intrigues and dark plots swirl around the city’s ancient Houses. Alchemists, who hold the power to create almost anything known to science, are highly sought— and highly dangerous.<br><br><strong>Solitaire Minigame</strong> - Alchemical engineering takes focus and concentration. Take a break with <i>Sigmar’s Garden</i>, an original alchemy-based solitaire game. Every game is winnable, but not every game will be won…",
+      "short_description": "Opus Magnum is the latest open-ended puzzle game from Zachtronics, the creators of SpaceChem, Infinifactory, and SHENZHEN I/O. Design and build machines that assemble potions, poisons, and more using the alchemical engineer’s most advanced tool: the transmutation engine!",
+      "supported_languages": "English, French, German, Japanese, Russian, Simplified Chinese, Spanish - Latin America, Korean, Turkish, Ukrainian, Portuguese - Portugal, Czech",
+      "reviews": "“Without a doubt one of the best puzzle games I’ve ever played.”<br>9.5/10 – <a href=\"https://www.ign.com/articles/2017/12/14/opus-magnum-review\" target=\"_blank\" rel=\"\"  >IGN</a><br><br>“One of the very best puzzle games of the year, if not the decade.”<br>91/100 – <a href=\"https://www.pcgamer.com/opus-magnum-review/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/558990/header.jpg?t=1667070364",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/558990/capsule_231x87.jpg?t=1667070364",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/558990/capsule_184x69.jpg?t=1667070364",
+      "website": "http://www.zachtronics.com/opus-magnum",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0, 1366 x 768<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1920 x 1080<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        140026
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Opus Magnum",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 140026,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Opus Magnum - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 90,
+        "url": "https://www.metacritic.com/game/pc/opus-magnum?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_e54f24ab7b2bebaee812be7e46e907ccc6323643.600x338.jpg?t=1667070364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_e54f24ab7b2bebaee812be7e46e907ccc6323643.1920x1080.jpg?t=1667070364"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_e395f88a023ad623f64a622d343eee17e1e6ea9d.600x338.jpg?t=1667070364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_e395f88a023ad623f64a622d343eee17e1e6ea9d.1920x1080.jpg?t=1667070364"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_0e35cab840c52b9d39b988d0b0c96b8fe9117264.600x338.jpg?t=1667070364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_0e35cab840c52b9d39b988d0b0c96b8fe9117264.1920x1080.jpg?t=1667070364"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_92c30b0f0d8737cfe8c0b70364bbb3712e2bdd43.600x338.jpg?t=1667070364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_92c30b0f0d8737cfe8c0b70364bbb3712e2bdd43.1920x1080.jpg?t=1667070364"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_b699747de6a3335040160f7fc4af3b5158981b43.600x338.jpg?t=1667070364",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/558990/ss_b699747de6a3335040160f7fc4af3b5158981b43.1920x1080.jpg?t=1667070364"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256697803,
+          "name": "Opus Magnum Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256697803/movie.293x165.jpg?t=1508172049",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256697803/movie480.webm?t=1508172049",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256697803/movie_max.webm?t=1508172049"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256697803/movie480.mp4?t=1508172049",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256697803/movie_max.mp4?t=1508172049"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 4318
+      },
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "The Way of the Novice",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558990/bf1ef9a0ab4430593203bd38247d7cd01a03b738.jpg"
+          },
+          {
+            "name": "The Way of the Ascetic",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558990/1c2a7eef91cb09e0c27c736614d031c9d38a97c2.jpg"
+          },
+          {
+            "name": "The Way of the Immortal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558990/7884d89faded04ea015975287c087f1c66d82d2a.jpg"
+          },
+          {
+            "name": "The Way of the Alchemist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558990/079845730273102b3eb33494c3464ffe1c7c5133.jpg"
+          },
+          {
+            "name": "The Way of the Scholar",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/558990/c5bbd71dec0bcce2cbaff3af221ded4f6c308e5b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 7, 2017"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support/",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/558990/page_bg_generated_v6b.jpg?t=1667070364",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/558990/page.bg.jpg?t=1667070364",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

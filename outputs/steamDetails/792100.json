@@ -1,0 +1,246 @@
+{
+  "792100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "7 Billion Humans",
+      "steam_appid": 792100,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1270120
+      ],
+      "detailed_description": "<strong>Automate swarms</strong> of office workers to solve puzzles inside your very own <strong>parallel computer made of people.</strong> A thrilling followup to the award winning Human Resource Machine. Now with more humans!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/neuralPathways_wide.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/fillTheFloor_narrow.png?t=1667105092\" /><h2 class=\"bb_tag\">THRILLING FEATURES!</h2><ul class=\"bb_ul\"><li>More puzzles, more humans, more rippling brain muscles - over 60+ levels of programming puzzles! 77.777778% more levels than Human Resource Machine.<br></li><li>A whole new programming language to enjoy! Where Human Resource Machine was based on Assembly and executed by a single worker, 7 Billion Humans has an all new language that lots of workers can all execute at the same time.<br></li><li>You'll be taught everything you need to know. Even useless skills can be put to work!<br></li><li>Feeling stressed out? There are now friendly hint and &quot;skip&quot; systems to facilitate your career's ascent.<br></li><li>Available in English, French, Italian, German, Spanish, Dutch, Japanese, Korean, Polish, Brazilian Portuguese, and Russian. With more languages on the way!<br></li><li>Incomprehensible cutscenes! You will be delighted and bewildered.<br></li><li>New soundtrack by Kyle Gabler included alongside the game.<br></li><li>From the creators of Human Resource Machine, Little Inferno, and World of Goo.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/biometricAccess_wide.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/boss_hereWeAreAgain_narrow.png?t=1667105092\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/code_pc_narrow.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/budgetBrigate_wide.png?t=1667105092\" />",
+      "about_the_game": "<strong>Automate swarms</strong> of office workers to solve puzzles inside your very own <strong>parallel computer made of people.</strong> A thrilling followup to the award winning Human Resource Machine. Now with more humans!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/neuralPathways_wide.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/fillTheFloor_narrow.png?t=1667105092\" /><h2 class=\"bb_tag\">THRILLING FEATURES!</h2><ul class=\"bb_ul\"><li>More puzzles, more humans, more rippling brain muscles - over 60+ levels of programming puzzles! 77.777778% more levels than Human Resource Machine.<br></li><li>A whole new programming language to enjoy! Where Human Resource Machine was based on Assembly and executed by a single worker, 7 Billion Humans has an all new language that lots of workers can all execute at the same time.<br></li><li>You'll be taught everything you need to know. Even useless skills can be put to work!<br></li><li>Feeling stressed out? There are now friendly hint and &quot;skip&quot; systems to facilitate your career's ascent.<br></li><li>Available in English, French, Italian, German, Spanish, Dutch, Japanese, Korean, Polish, Brazilian Portuguese, and Russian. With more languages on the way!<br></li><li>Incomprehensible cutscenes! You will be delighted and bewildered.<br></li><li>New soundtrack by Kyle Gabler included alongside the game.<br></li><li>From the creators of Human Resource Machine, Little Inferno, and World of Goo.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/biometricAccess_wide.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/boss_hereWeAreAgain_narrow.png?t=1667105092\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/code_pc_narrow.png?t=1667105092\" /> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/792100/extras/budgetBrigate_wide.png?t=1667105092\" />",
+      "short_description": "Automate swarms of office workers to solve puzzles inside your very own parallel computer made of people. A thrilling followup to the award winning Human Resource Machine. Now with more humans!",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Russian, Korean, Polish, Portuguese - Brazil, Japanese, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/792100/header.jpg?t=1667105092",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/792100/capsule_231x87.jpg?t=1667105092",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/792100/capsule_184x69.jpg?t=1667105092",
+      "website": "http://tomorrowcorporation.com/7billionhumans",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP or later<br></li><li><strong>Processor:</strong> 2.0Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports Shader Model 2.0 or greater<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.7 or later (Compatible with macOS Catalina)<br></li><li><strong>Processor:</strong> 2.0Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports OpenGL 2.1<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any Linux distribution that can run Steam<br></li><li><strong>Processor:</strong> 2.0Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports OpenGL 2.1<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "legal_notice": "© 2018 Experimental Gameplay Group, LLC",
+      "developers": [
+        "Tomorrow Corporation"
+      ],
+      "publishers": [
+        "Tomorrow Corporation"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        303367,
+        391389
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 7 Billion Humans",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 303367,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "7 Billion Humans - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            },
+            {
+              "packageid": 391389,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "7 Billion Humans - Commercial License - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_84773301712e356120ef6ea03132db15b28e289d.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_84773301712e356120ef6ea03132db15b28e289d.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_a9863d36d08c6022ba9efcf77ebeba1bf66a0fb6.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_a9863d36d08c6022ba9efcf77ebeba1bf66a0fb6.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_cf60a3d16a18ed13e11474d8cb092cf8673f844c.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_cf60a3d16a18ed13e11474d8cb092cf8673f844c.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_6e69c945a5ceda50459b3cb8d9252237dd820b49.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_6e69c945a5ceda50459b3cb8d9252237dd820b49.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_2d0589086e2996fb44eaabb86089ac41d4aa419d.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_2d0589086e2996fb44eaabb86089ac41d4aa419d.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_27b3fe9595f1dbe7313d1bcaf883d092912bf243.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_27b3fe9595f1dbe7313d1bcaf883d092912bf243.1920x1080.jpg?t=1667105092"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_c8f1d507b1606bbfe4a6a3eca080e44ecf347c34.600x338.jpg?t=1667105092",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/792100/ss_c8f1d507b1606bbfe4a6a3eca080e44ecf347c34.1920x1080.jpg?t=1667105092"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256725487,
+          "name": "Trailer #2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256725487/movie.293x165.jpg?t=1534351805",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256725487/movie480.webm?t=1534351805",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256725487/movie_max.webm?t=1534351805"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256725487/movie480.mp4?t=1534351805",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256725487/movie_max.mp4?t=1534351805"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256706741,
+          "name": "7 Billion Humans Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256706741/movie.293x165.jpg?t=1516779467",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256706741/movie480.webm?t=1516779467",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256706741/movie_max.webm?t=1516779467"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256706741/movie480.mp4?t=1516779467",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256706741/movie_max.mp4?t=1516779467"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1485
+      },
+      "achievements": {
+        "total": 19,
+        "highlighted": [
+          {
+            "name": "Career Milestone 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/5416659ef4ded3f1ae1e29b34358c134ab9d444d.jpg"
+          },
+          {
+            "name": "Career Milestone 2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/6ed1cdcf645d9bc1d00572f05f83c8745e642658.jpg"
+          },
+          {
+            "name": "Career Milestone 3",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/b8e02d8337b926d7c620c40127441fd3434fac5b.jpg"
+          },
+          {
+            "name": "Career Milestone 4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/3d2ff8f09bf15c231883174f41dc866d58f3558c.jpg"
+          },
+          {
+            "name": "Career Milestone 5",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/36b74661f475a7021ec12ee439505fd2d0153707.jpg"
+          },
+          {
+            "name": "Social Engineer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/b490827154153ce33fb3004c495996c4cac75b7a.jpg"
+          },
+          {
+            "name": "King of Verbosity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/dcb7c814cba252950affde4450600c5d933fddf6.jpg"
+          },
+          {
+            "name": "Queen of Inefficiency",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/eecd407fdb136f864ea4ec94c13cf28796b05bbd.jpg"
+          },
+          {
+            "name": "Glorious Failure: Solution Not Robust",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/e9b2fb5b26b2e0975ec1d68db93931ce01ad1cd1.jpg"
+          },
+          {
+            "name": "Worker's Comp: Crushing It",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/792100/e54b7ef21150007d95ef831691f16fd27de95fcc.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 23, 2018"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@tomorrowcorporation.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/792100/page_bg_generated_v6b.jpg?t=1667105092",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/792100/page.bg.jpg?t=1667105092",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

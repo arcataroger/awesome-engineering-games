@@ -1,0 +1,267 @@
+{
+  "1428100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Instruments of Destruction",
+      "steam_appid": 1428100,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": " <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1428100/extras/steam_gif3.gif?t=1695049708\" /><br>Instruments of Destruction features an advanced physics-based destruction system.  You can demolish every structure in the game piece by piece thanks to a fully interactive physics system, and every object in the world interacts with the destruction in some way.  The game also features an advanced GPU-driven particle system and GPU-driven grass and surface rocks.  Each element of the world complements the destruction system and interacts with each other and together they create a physical, visceral world to play with.<br><br>Build a vehicle your way, with an ever-expanding array of parts and pieces.  Using an intuitive vehicle construction system that also lets you customize your vehicles' appearance and controls, you'll always have fun creating your next awesome invention.  <br><br>From simple splitters and joints to fully-simulated treads and ropes, a large variety of parts are available to start the game, while more advanced parts (like giant chainsaws and rocket thrusters) unlock by playing the game.  Each new part unlocks countless new possibilities, and you'll also unlock numerous pre-built vehicles that highlight the unlocked parts and provide inspiration for further experimentation.<br><br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1428100/extras/steam_gif1.gif?t=1695049708\" /><br>While some vehicles will perform better than others in accomplishing your objectives, it's always a bit more fun to get creative and go a little off script.  Optional bonus objectives and other hidden bonuses will reward more creative builders and add further replayability.  Each island features 3 modes of play (Normal, Challenge, and Expert), plus Sandbox mode lets you play with no limits and even more control over how the world behaves.",
+      "about_the_game": " <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1428100/extras/steam_gif3.gif?t=1695049708\" /><br>Instruments of Destruction features an advanced physics-based destruction system.  You can demolish every structure in the game piece by piece thanks to a fully interactive physics system, and every object in the world interacts with the destruction in some way.  The game also features an advanced GPU-driven particle system and GPU-driven grass and surface rocks.  Each element of the world complements the destruction system and interacts with each other and together they create a physical, visceral world to play with.<br><br>Build a vehicle your way, with an ever-expanding array of parts and pieces.  Using an intuitive vehicle construction system that also lets you customize your vehicles' appearance and controls, you'll always have fun creating your next awesome invention.  <br><br>From simple splitters and joints to fully-simulated treads and ropes, a large variety of parts are available to start the game, while more advanced parts (like giant chainsaws and rocket thrusters) unlock by playing the game.  Each new part unlocks countless new possibilities, and you'll also unlock numerous pre-built vehicles that highlight the unlocked parts and provide inspiration for further experimentation.<br><br> <img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1428100/extras/steam_gif1.gif?t=1695049708\" /><br>While some vehicles will perform better than others in accomplishing your objectives, it's always a bit more fun to get creative and go a little off script.  Optional bonus objectives and other hidden bonuses will reward more creative builders and add further replayability.  Each island features 3 modes of play (Normal, Challenge, and Expert), plus Sandbox mode lets you play with no limits and even more control over how the world behaves.",
+      "short_description": "Instruments of Destruction is a vehicle-building sandbox featuring advanced physics-based destruction. Create crazy construction vehicles and use them to demolish buildings and complete various objectives.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/header.jpg?t=1695049708",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/capsule_231x87.jpg?t=1695049708",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/capsule_184x69.jpg?t=1695049708",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 4-core 1.5+GHz processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with 2GB RAM (Geforce 780 or better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 6-core 2.5+GHz processor<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with 4GB RAM (Geforce 970 or better)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Radiangames"
+      ],
+      "publishers": [
+        "Radiangames"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        501584
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Instruments of Destruction",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 501584,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Instruments of Destruction - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_b5bd3be6fcf616b55fe0f490d31c228bfc719076.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_b5bd3be6fcf616b55fe0f490d31c228bfc719076.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_ce70c1600f867446a5e06fb2adaa459f588d34c0.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_ce70c1600f867446a5e06fb2adaa459f588d34c0.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_2e6a07d478a59566939e5d838d9fd5fa5318eeaa.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_2e6a07d478a59566939e5d838d9fd5fa5318eeaa.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_9c6143759b4adbc49f696aca9c34c6f2f9d7609d.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_9c6143759b4adbc49f696aca9c34c6f2f9d7609d.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_45fe1bcf388447371b6aa9179c711d2c6c2c2754.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_45fe1bcf388447371b6aa9179c711d2c6c2c2754.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_1e504407b123e803258fc550a7d2d0fb3034f692.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_1e504407b123e803258fc550a7d2d0fb3034f692.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_dd21feb52794516e961c036ee2c17642ae6d4982.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_dd21feb52794516e961c036ee2c17642ae6d4982.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_c50850370e10640beaa12c4dbe18426e6db5cce6.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_c50850370e10640beaa12c4dbe18426e6db5cce6.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_da698db6e9cd3e89a85197ce0787662586bdd8d0.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_da698db6e9cd3e89a85197ce0787662586bdd8d0.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_53b87eca32b857be73fcda0814e7075724b759e0.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_53b87eca32b857be73fcda0814e7075724b759e0.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_4a361b6dc380fe937f61d6bed94eca41c61fd0d6.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_4a361b6dc380fe937f61d6bed94eca41c61fd0d6.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_933999d18787c55310b64eae433e76e23ea09377.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_933999d18787c55310b64eae433e76e23ea09377.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_952d6d78223b2d12772d510add2a4194f2128132.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_952d6d78223b2d12772d510add2a4194f2128132.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_b1b6e2c1629af77f710b8c015e983f88cbea87a3.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_b1b6e2c1629af77f710b8c015e983f88cbea87a3.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_5e0a5a043412779d676b9d460e2a0e6821963d04.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_5e0a5a043412779d676b9d460e2a0e6821963d04.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_308047298dc1b4242340987ebb45cba1376044f0.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_308047298dc1b4242340987ebb45cba1376044f0.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_fd3641d37f37cac38e78d3ac3b8402e3a1ca89bc.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_fd3641d37f37cac38e78d3ac3b8402e3a1ca89bc.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_1526faf37c546824cc125e6d7ab9400bddf9d3fd.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_1526faf37c546824cc125e6d7ab9400bddf9d3fd.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_32440ad3d5fe83cdf2b87b3a8ec1c01c4737bf0b.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_32440ad3d5fe83cdf2b87b3a8ec1c01c4737bf0b.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_a6f95a04e08b8c40fadc104827b13b68cb92e375.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_a6f95a04e08b8c40fadc104827b13b68cb92e375.1920x1080.jpg?t=1695049708"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_25731fd69f32856a906a73cde10bc957cdb30b6c.600x338.jpg?t=1695049708",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/ss_25731fd69f32856a906a73cde10bc957cdb30b6c.1920x1080.jpg?t=1695049708"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256873199,
+          "name": "Release Date Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256873199/movie.293x165.jpg?t=1685706031",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256873199/movie480_vp9.webm?t=1685706031",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256873199/movie_max_vp9.webm?t=1685706031"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256873199/movie480.mp4?t=1685706031",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256873199/movie_max.mp4?t=1685706031"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256876214,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256876214/movie.293x165.jpg?t=1685706036",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256876214/movie480_vp9.webm?t=1685706036",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256876214/movie_max_vp9.webm?t=1685706036"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256876214/movie480.mp4?t=1685706036",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256876214/movie_max.mp4?t=1685706036"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 817
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 2, 2022"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@radiangames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/page_bg_generated_v6b.jpg?t=1695049708",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1428100/page.bg.jpg?t=1695049708",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

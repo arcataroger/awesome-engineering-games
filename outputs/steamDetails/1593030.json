@@ -1,0 +1,311 @@
+{
+  "1593030": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Terra Nil",
+      "steam_appid": 1593030,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        2321920,
+        2321930
+      ],
+      "detailed_description": "<h1>Our socials</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.com%2Finvite%2F4p4Enkb4qQ\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/steamDiscord.png?t=1696515065\" /></a><br><a href=\"https://twitter.com/Terra_Nil\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/steamTwitter.png?t=1696515065\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF1.gif?t=1696515065\" /><br><br>Terra Nil is a game about transforming a barren, lifeless landscape into a thriving, vibrant ecosystem. Turn dead soil into fertile grassland, clean polluted oceans, plant sprawling forests, and create the ideal habitat for animals to call home. Then recycle your buildings and leave no trace that you were there. Reclaim the wasteland.<h2 class=\"bb_tag\">A reverse city builder</h2>Use advanced eco-technology to purify the soil, creating plains, wetlands, beaches, rainforests, wildflowers, and more—then efficiently recycle everything you've built, leaving the environment pristine for its new animal inhabitants.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF3.gif?t=1696515065\" /><h2 class=\"bb_tag\">Different maps every time</h2>Procedurally generated landscapes mean no two playthroughs of Terra Nil will ever be the same. Plan your build around randomized, challenging, and unpredictable terrain, including snaking rivers, mountains, lowlands, and oceans.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF2.gif?t=1696515065\" /><h2 class=\"bb_tag\">A natural ebb and flow</h2>Each region of Terra Nil progresses through phases, with the ultimate goal being leaving pristine wilderness behind. Levels are not about infinite growth, but rather balancing and nurturing the environment before leaving it in peace.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF4.gif?t=1696515065\" /><h2 class=\"bb_tag\">Experience tranquility</h2>Lush hand-painted environments, relaxing music, and an atmospheric ambient soundscape make Terra Nil a peaceful, meditative experience. When you're done, use Appreciate mode to bask in the natural beauty of the ecosystem you have restored.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF5.gif?t=1696515065\" />",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF1.gif?t=1696515065\" /><br><br>Terra Nil is a game about transforming a barren, lifeless landscape into a thriving, vibrant ecosystem. Turn dead soil into fertile grassland, clean polluted oceans, plant sprawling forests, and create the ideal habitat for animals to call home. Then recycle your buildings and leave no trace that you were there. Reclaim the wasteland.<h2 class=\"bb_tag\">A reverse city builder</h2>Use advanced eco-technology to purify the soil, creating plains, wetlands, beaches, rainforests, wildflowers, and more—then efficiently recycle everything you've built, leaving the environment pristine for its new animal inhabitants.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF3.gif?t=1696515065\" /><h2 class=\"bb_tag\">Different maps every time</h2>Procedurally generated landscapes mean no two playthroughs of Terra Nil will ever be the same. Plan your build around randomized, challenging, and unpredictable terrain, including snaking rivers, mountains, lowlands, and oceans.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF2.gif?t=1696515065\" /><h2 class=\"bb_tag\">A natural ebb and flow</h2>Each region of Terra Nil progresses through phases, with the ultimate goal being leaving pristine wilderness behind. Levels are not about infinite growth, but rather balancing and nurturing the environment before leaving it in peace.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF4.gif?t=1696515065\" /><h2 class=\"bb_tag\">Experience tranquility</h2>Lush hand-painted environments, relaxing music, and an atmospheric ambient soundscape make Terra Nil a peaceful, meditative experience. When you're done, use Appreciate mode to bask in the natural beauty of the ecosystem you have restored.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1593030/extras/TN_Steam_GIF5.gif?t=1696515065\" />",
+      "short_description": "Terra Nil is an intricate environmental strategy game about transforming a barren wasteland into a thriving, balanced ecosystem. Bring life back to a lifeless world by purifying soil, cleaning oceans, planting trees, and reintroducing wildlife, then leave without a trace.",
+      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Italian, Arabic, Polish, Spanish - Latin America, Swedish, Thai, Turkish",
+      "reviews": "“a soothing, satisfying and educational environmentalist puzzler”<br>8/10 – <a href=\"https://www.pcgamer.com/terra-nil-review/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“sets itself apart from other games in its subgenre by emphasizing nature over expansion”<br>8/10 – <a href=\"https://www.shacknews.com/article/134777/terra-nil-review-nature-appreciation\" target=\"_blank\" rel=\"\"  >Shack News</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/header.jpg?t=1696515065",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/capsule_231x87.jpg?t=1696515065",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/capsule_184x69.jpg?t=1696515065",
+      "website": "https://freelives.net/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 x64<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760 / Radeon RX 560X<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 x64<br></li><li><strong>Processor:</strong> Intel Core i7-6950X / AMD Ryzen 5 2600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1080 / Radeon RX 5700 XT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 12<br></li><li><strong>Processor:</strong> Apple M1<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Apple M1<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 14<br></li><li><strong>Processor:</strong> Apple M2<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Apple M2<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760 / Radeon RX 560X<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 22.04<br></li><li><strong>Processor:</strong> Intel Core i7-6950X / AMD Ryzen 5 2600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1080 / Radeon RX 5700 XT<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "legal_notice": "Copyright Free Lives. All Rights Reserved.",
+      "developers": [
+        "Free Lives"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        563998
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Terra Nil",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 563998,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Terra Nil - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_065eec4af801201fbcbc522876f3ddbe02ac875d.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_065eec4af801201fbcbc522876f3ddbe02ac875d.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_b53dbcc0689719d564036ca2250b6343d030e6ab.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_b53dbcc0689719d564036ca2250b6343d030e6ab.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_a32ef41734f009758224e4b58258653ce1c12a14.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_a32ef41734f009758224e4b58258653ce1c12a14.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_9b49dd52aa9896991e1d5b5e3ae07068c18c7de1.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_9b49dd52aa9896991e1d5b5e3ae07068c18c7de1.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_bf71213bb309a9ee897cfe0e2c49c87501c0d0da.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_bf71213bb309a9ee897cfe0e2c49c87501c0d0da.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_586d1a2ef80bcf7e18d1d91afa284eb5245d4bd7.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_586d1a2ef80bcf7e18d1d91afa284eb5245d4bd7.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_8f8c06217a40ce535ff4da474d3587acc37612ee.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_8f8c06217a40ce535ff4da474d3587acc37612ee.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_8acfa28df197fff359880f894754b7d1a19297c8.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_8acfa28df197fff359880f894754b7d1a19297c8.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_d38258aeac2379c3485912bf7b6f47f566f4ff6c.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_d38258aeac2379c3485912bf7b6f47f566f4ff6c.1920x1080.jpg?t=1696515065"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_0c57ddfbc80064fbc36e6a98ad9828c9f5ca7ead.600x338.jpg?t=1696515065",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/ss_0c57ddfbc80064fbc36e6a98ad9828c9f5ca7ead.1920x1080.jpg?t=1696515065"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256938202,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256938202/movie.293x165.jpg?t=1680021589",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938202/movie480_vp9.webm?t=1680021589",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938202/movie_max_vp9.webm?t=1680021589"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256938202/movie480.mp4?t=1680021589",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256938202/movie_max.mp4?t=1680021589"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256934950,
+          "name": "A Beginner's Guide to Ecosystem Restoration",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256934950/movie.293x165.jpg?t=1678464008",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934950/movie480_vp9.webm?t=1678464008",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934950/movie_max_vp9.webm?t=1678464008"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934950/movie480.mp4?t=1678464008",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934950/movie_max.mp4?t=1678464008"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256931649,
+          "name": "Release Date Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256931649/movie.293x165.jpg?t=1680021593",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256931649/movie480_vp9.webm?t=1680021593",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256931649/movie_max_vp9.webm?t=1680021593"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256931649/movie480.mp4?t=1680021593",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256931649/movie_max.mp4?t=1680021593"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256930284,
+          "name": "Satisfaction in Reclamation",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256930284/movie.293x165.jpg?t=1679175895",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256930284/movie480_vp9.webm?t=1679175895",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256930284/movie_max_vp9.webm?t=1679175895"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256930284/movie480.mp4?t=1679175895",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256930284/movie_max.mp4?t=1679175895"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256891502,
+          "name": "Wholesome Direct",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256891502/movie.293x165.jpg?t=1655111288",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256891502/movie480_vp9.webm?t=1655111288",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256891502/movie_max_vp9.webm?t=1655111288"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256891502/movie480.mp4?t=1655111288",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256891502/movie_max.mp4?t=1655111288"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256837454,
+          "name": "Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256837454/movie.293x165.jpg?t=1623077177",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256837454/movie480_vp9.webm?t=1623077177",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256837454/movie_max_vp9.webm?t=1623077177"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256837454/movie480.mp4?t=1623077177",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256837454/movie_max.mp4?t=1623077177"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 4273
+      },
+      "achievements": {
+        "total": 17,
+        "highlighted": [
+          {
+            "name": "Valley of the Wind",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/3d7967f8e47d236f75d6ef910d511c614f9b807a.jpg"
+          },
+          {
+            "name": "Abundant Life",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/9282e08218b317ca75e135aded4bb0997a67dc4c.jpg"
+          },
+          {
+            "name": "Beneath the Snow",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/0770b12d2f97220e0f3efb40e136efec0a5a3b0d.jpg"
+          },
+          {
+            "name": "Oryx and Crake",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/8ee3a12f548e311971b6afb022f1f54ca68bf786.jpg"
+          },
+          {
+            "name": "Open-cast Reclamation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/f5431b64a424b17da68b75a75c498ad961be70d6.jpg"
+          },
+          {
+            "name": "Flooded Isles",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/2fbc6e8292d81d4452f293ad96aa17830f1401c4.jpg"
+          },
+          {
+            "name": "Northern Glaciation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/9c1bebee6c7fba68e29ffc0a41ce4201117ca462.jpg"
+          },
+          {
+            "name": "Urban Renewal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/801ce066e0e0692d66cfe97599070983146c367b.jpg"
+          },
+          {
+            "name": "Global Rejuvenation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/1697351a2b8142b220d21f84efac81c972ee1b04.jpg"
+          },
+          {
+            "name": "Aerial View",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1593030/162757c2df6f07402327d7dedb2d33364b1ae49b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 28, 2023"
+      },
+      "support_info": {
+        "url": "support@freelives.net",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/page_bg_generated_v6b.jpg?t=1696515065",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/page_bg_generated.jpg?t=1696515065",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

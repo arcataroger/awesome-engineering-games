@@ -1,0 +1,325 @@
+{
+  "1366540": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Dyson Sphere Program",
+      "steam_appid": 1366540,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1523190,
+        1530310
+      ],
+      "detailed_description": "<h1>New Content</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/黑雾崛起-重大更新EN.png?t=1702624498\" /><br>The mist envelops, veiling the radiance of the sun.<br><br>As the dark fog consumes sector after sector, factories are destroyed. Even the stars lose their brilliance, dimming slowly, and everything succumbs to an eerie silence...<br><br>Messages arrive from the distant cosmos, both unfamiliar and yet strangely familiar. “Warning...Upload power is insufficient...Seeking high-energy targets...Attempting self-replication... Anomaly... Replication exceeds limits... Warning... High-energy target detected!!!”<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/黑雾巢穴.gif?t=1702624498\" /><br><br>Icarus, the CentreBrain has intercepted signals from an unstable energy source. They are approaching the sector you are in. Their characteristics match those of the mechanical bodies that previously destroyed COSMO factories, as known as Dark Fog. <br><br>They likely have reached the nearby sectors. Be fully prepared, COSMO will provide you with the technology to defend against them, ensuring the smooth implementation of the Dyson Sphere Program.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_FuturePlan.png?t=1702624498\" /><br>This update is the first part of the combat system, and there will be future content related to space combat. Building space stations and confronting space hives are already in our plans.</p><br><h1>Follow us</h1><p><ul class=\"bb_ul\"><li><a href=\"https://twitter.com/DysonProgram\" target=\"_blank\" rel=\"\"  >Twitter</a></li></ul><ul class=\"bb_ul\"><li><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FsSVZ4WQ\" target=\"_blank\" rel=\" noopener\"  >Discord</a></li></ul><ul class=\"bb_ul\"><li><a href=\"https://www.reddit.com/r/Dyson_Sphere_Program/\" target=\"_blank\" rel=\"\"  >Reddit</a></li></ul></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Intro.png?t=1702624498\" /><br>Dyson Sphere Program is a sci-fi sandbox construction game with space, adventure, exploration and factory automation elements. In the future, humanity creates a supercomputer known as the &quot;CentreBrain&quot; with the hope of utilizing its powerful computing capabilities to further expand the application of virtual worlds.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/戴森球.gif?t=1702624498\" /><br><br>You are a space engineer in charge of a project launched by the space alliance COSMO, tasked with a massive undertaking: constructing Dyson Spheres (a megastructure that would orbit around a star, harnessing all its power and energy) to produce the energy that CentreBrain needs.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Features.png?t=1702624498\" /><br><ul class=\"bb_ul\"><li>Each game features a unique and one-of-a-kind universe<br></li><li>Start with a small workshop and improve it until it spans the whole galaxy<br></li><li>Engage in battles, construct defensive structures to repel enemy attacks<br></li><li>Explore a vast universe with various celestial bodies, including neutron stars, white dwarfs, red giants, and even black holes<br></li><li>Automate production beyond planetary surfaces, transporting resources across star systems<br></li><li>Develop your very own Dyson Spheres<br></li><li>Perfectly show the constructions you've completed on a planet's surface<br></li><li>Blueprint allows you to save important plans<br></li><li>Customize the mecha to create unique designs and traverse the universe with your creation</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Automated.png?t=1702624498\" /><br>To construct a Dyson Sphere, you need to utilize automation. Start simple and gradually increase complexity. Maximize the stable output of resources through automated facilities. <br><br>Connect resources with conveyor belts, transporting raw materials to processing facilities, and then conveying the products to the next stage. Progress from basic transport lines to elaborate plans for factories with diverse outputs. Utilize your production to drive technological advancements, meeting the necessary conditions for building the Dyson Sphere.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/自动化流水线.gif?t=1702624498\" /><br><br>During the construction, buildings will automatically snap to the grid. When laying conveyor belts, the use of snapping allows for automatic alignment, significantly improving efficiency. This enables the creation of large-scale automated production lines. The construction of the Dyson Sphere relies on vast and efficient factories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/网格吸附.gif?t=1702624498\" /><br><br>The convenient blueprint technology allows you to save your essential plans. You can save factory designs as blueprints and deploy them directly in other locations, eliminating the hassle of repetitive operations.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/蓝图功能演示.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_DysSphCustom.png?t=1702624498\" /><br>You can construct Dyson Shells on multiple orbits, and each layer of the Dyson Shell can be customized. Connect various nodes on the Dyson Shell, creating the patterns you desire. Each Dyson Sphere is a unique masterpiece crafted by you.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/戴森球设计面板，退出后可以看见跟设计一致的戴森球.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_UniExploration.png?t=1702624498\" /><br>Each planet will have unique mineral distribution and ecological characteristics. Every time you enter the game, you can experience a randomly generated and entirely new starmap, with landscapes and resource deposits changing accordingly.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/几个比较好看的行星地表.gif?t=1702624498\" /><br><br>Each planet has its own orbit, experiencing the gravitational effects of its star with rotation and revolution, resulting in day and night changes influenced by the star. In addition, there are unique celestial bodies such as neutron stars, white dwarfs, red giants, and even black holes, awaiting your exploration in this vast universe.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/大气和黑洞、中子星.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_InterstellarLogistic.png?t=1702624498\" /><br>The resources on a single planet might be insufficient for such an extensive project. You can harness the abundant resources of other planets. Overcoming the constraints of surface transport, establish your interstellar transportation routes. Interconnect planets with fleets of transport ships, tapping into the unique resources of each planet to ensure an uninterrupted supply of raw materials for your factories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/星际物流.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_MechaCustomization.png?t=1702624498\" /><br>Not only can you paint Icarus in your favorite colors, but you can also customize every component, creating your vision of a futuristic light industrial mech.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/几款机甲.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_DarkFog.png?t=1702624498\" /><br>The Dark Fog has arrived, resenting countless challenges to your factory construction endeavors. In addition to pursuing the goal of building the Dyson Sphere, you must also focus on defending your factories in Rise of the Dark Fog. The Dark Fog will do everything possible to hinder the progress of the &quot;Dyson Sphere Program,&quot; with Icarus also being a target of their attacks. <br><br>Be prepared!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/行星基地长出来.gif?t=1702624498\" /><br><br>Don't rely solely on Icarus to face the overwhelming numbers of the Dark Fog. COSMO has devised contingency plans to assist you in repelling the attacks of the Dark Fog. While constructing factories, you'll need to deploy essential defense structures. The more active your operations, the more frequently the Dark Fog will launch fierce assaults. <br><br>Utilize your defense facilities to unleash &quot;fireworks&quot; and disperse the Dark Fog.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/黑雾集群被基地防御消灭.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_AboutUs.png?t=1702624498\" /><br>We are Youthcat Studio from Chongqing, China. Starting as a team of five, we have grown steadily (though not excessively) as we journey alongside Dyson Sphere Program. Driven by our love for science fiction, we've created this game—taking you from building the first mining machine to establishing automated factories across the cosmos. We hope you find as much joy in playing this game as we did in making it.",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Intro.png?t=1702624498\" /><br>Dyson Sphere Program is a sci-fi sandbox construction game with space, adventure, exploration and factory automation elements. In the future, humanity creates a supercomputer known as the &quot;CentreBrain&quot; with the hope of utilizing its powerful computing capabilities to further expand the application of virtual worlds.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/戴森球.gif?t=1702624498\" /><br><br>You are a space engineer in charge of a project launched by the space alliance COSMO, tasked with a massive undertaking: constructing Dyson Spheres (a megastructure that would orbit around a star, harnessing all its power and energy) to produce the energy that CentreBrain needs.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Features.png?t=1702624498\" /><br><ul class=\"bb_ul\"><li>Each game features a unique and one-of-a-kind universe<br></li><li>Start with a small workshop and improve it until it spans the whole galaxy<br></li><li>Engage in battles, construct defensive structures to repel enemy attacks<br></li><li>Explore a vast universe with various celestial bodies, including neutron stars, white dwarfs, red giants, and even black holes<br></li><li>Automate production beyond planetary surfaces, transporting resources across star systems<br></li><li>Develop your very own Dyson Spheres<br></li><li>Perfectly show the constructions you've completed on a planet's surface<br></li><li>Blueprint allows you to save important plans<br></li><li>Customize the mecha to create unique designs and traverse the universe with your creation</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_Automated.png?t=1702624498\" /><br>To construct a Dyson Sphere, you need to utilize automation. Start simple and gradually increase complexity. Maximize the stable output of resources through automated facilities. <br><br>Connect resources with conveyor belts, transporting raw materials to processing facilities, and then conveying the products to the next stage. Progress from basic transport lines to elaborate plans for factories with diverse outputs. Utilize your production to drive technological advancements, meeting the necessary conditions for building the Dyson Sphere.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/自动化流水线.gif?t=1702624498\" /><br><br>During the construction, buildings will automatically snap to the grid. When laying conveyor belts, the use of snapping allows for automatic alignment, significantly improving efficiency. This enables the creation of large-scale automated production lines. The construction of the Dyson Sphere relies on vast and efficient factories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/网格吸附.gif?t=1702624498\" /><br><br>The convenient blueprint technology allows you to save your essential plans. You can save factory designs as blueprints and deploy them directly in other locations, eliminating the hassle of repetitive operations.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/蓝图功能演示.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_DysSphCustom.png?t=1702624498\" /><br>You can construct Dyson Shells on multiple orbits, and each layer of the Dyson Shell can be customized. Connect various nodes on the Dyson Shell, creating the patterns you desire. Each Dyson Sphere is a unique masterpiece crafted by you.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/戴森球设计面板，退出后可以看见跟设计一致的戴森球.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_UniExploration.png?t=1702624498\" /><br>Each planet will have unique mineral distribution and ecological characteristics. Every time you enter the game, you can experience a randomly generated and entirely new starmap, with landscapes and resource deposits changing accordingly.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/几个比较好看的行星地表.gif?t=1702624498\" /><br><br>Each planet has its own orbit, experiencing the gravitational effects of its star with rotation and revolution, resulting in day and night changes influenced by the star. In addition, there are unique celestial bodies such as neutron stars, white dwarfs, red giants, and even black holes, awaiting your exploration in this vast universe.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/大气和黑洞、中子星.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_InterstellarLogistic.png?t=1702624498\" /><br>The resources on a single planet might be insufficient for such an extensive project. You can harness the abundant resources of other planets. Overcoming the constraints of surface transport, establish your interstellar transportation routes. Interconnect planets with fleets of transport ships, tapping into the unique resources of each planet to ensure an uninterrupted supply of raw materials for your factories.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/星际物流.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_MechaCustomization.png?t=1702624498\" /><br>Not only can you paint Icarus in your favorite colors, but you can also customize every component, creating your vision of a futuristic light industrial mech.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/几款机甲.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_DarkFog.png?t=1702624498\" /><br>The Dark Fog has arrived, resenting countless challenges to your factory construction endeavors. In addition to pursuing the goal of building the Dyson Sphere, you must also focus on defending your factories in Rise of the Dark Fog. The Dark Fog will do everything possible to hinder the progress of the &quot;Dyson Sphere Program,&quot; with Icarus also being a target of their attacks. <br><br>Be prepared!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/行星基地长出来.gif?t=1702624498\" /><br><br>Don't rely solely on Icarus to face the overwhelming numbers of the Dark Fog. COSMO has devised contingency plans to assist you in repelling the attacks of the Dark Fog. While constructing factories, you'll need to deploy essential defense structures. The more active your operations, the more frequently the Dark Fog will launch fierce assaults. <br><br>Utilize your defense facilities to unleash &quot;fireworks&quot; and disperse the Dark Fog.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/黑雾集群被基地防御消灭.gif?t=1702624498\" /><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1366540/extras/ShopPage_EN_AboutUs.png?t=1702624498\" /><br>We are Youthcat Studio from Chongqing, China. Starting as a team of five, we have grown steadily (though not excessively) as we journey alongside Dyson Sphere Program. Driven by our love for science fiction, we've created this game—taking you from building the first mining machine to establishing automated factories across the cosmos. We hope you find as much joy in playing this game as we did in making it.",
+      "short_description": "Build the most efficient intergalactic factory in space simulation strategy game Dyson Sphere Program! Harness the power of stars, collect resources, plan and design production lines and develop your interstellar factory from a small space workshop to a galaxy-wide industrial empire.",
+      "supported_languages": "Simplified Chinese, English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/header.jpg?t=1702624498",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/capsule_231x87.jpg?t=1702624498",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/capsule_184x69.jpg?t=1702624498",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7(64-Bit)<br></li><li><strong>Processor:</strong> i3-530 2.93GHZ 2 Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 750 Ti 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> GPU must support Shader Model 5.0</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10(64-Bit)<br></li><li><strong>Processor:</strong> i9 11900KF8 Core<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card, GTX 2070<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> GPU must support Shader Model 5.0. Display Resolution 1080p +</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Youthcat Studio"
+      ],
+      "publishers": [
+        "Gamera Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1799,
+        "discount_percent": 10,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$17.99"
+      },
+      "packages": [
+        479270
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Dyson Sphere Program",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 479270,
+              "percent_savings_text": "-10% ",
+              "percent_savings": 0,
+              "option_text": "Dyson Sphere Program - <span class=\"discount_original_price\">$19.99</span> $17.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_7886f76352c9e2bf2bf2fe74434b8a50bb3312d3.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_7886f76352c9e2bf2bf2fe74434b8a50bb3312d3.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_ca1c8ba11e539cbeb8f4d91f6685b0fa01ddf705.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_ca1c8ba11e539cbeb8f4d91f6685b0fa01ddf705.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_322d8cbffdd077e743ad1dbe82fee756c77659a2.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_322d8cbffdd077e743ad1dbe82fee756c77659a2.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_36242c2930a50355982a0da128f37e23e25a1047.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_36242c2930a50355982a0da128f37e23e25a1047.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_602b6ca003277c4a70f63bd723a494a5558e1aee.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_602b6ca003277c4a70f63bd723a494a5558e1aee.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_7b635ae1ca6d88b52fca183407f06cfd94850b26.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_7b635ae1ca6d88b52fca183407f06cfd94850b26.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_b5fdcae44ab61e86820d156a74bd030b4782b8a8.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_b5fdcae44ab61e86820d156a74bd030b4782b8a8.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_475933730894ab89e3a8b961f8fc18399ee2a1df.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_475933730894ab89e3a8b961f8fc18399ee2a1df.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_995e50fbac3e936624d0bd4d1493140f77f78d11.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_995e50fbac3e936624d0bd4d1493140f77f78d11.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_1b22058e7b58db0f2d9770757974af6a7fb719c0.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_1b22058e7b58db0f2d9770757974af6a7fb719c0.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_9e06789bd41f956531e946597c81d57fce862ad4.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_9e06789bd41f956531e946597c81d57fce862ad4.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_da7276928ed645446501c3465ec0aaeb24998826.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_da7276928ed645446501c3465ec0aaeb24998826.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_5a7b3dac5064a6ac09ddef5d9554987b47fa4fbe.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_5a7b3dac5064a6ac09ddef5d9554987b47fa4fbe.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_d842f20366d266b2efe4c3493de68bb1fc12ffcb.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_d842f20366d266b2efe4c3493de68bb1fc12ffcb.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_1f699b2ba7ce5025064050cf5498f6a576b89d31.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_1f699b2ba7ce5025064050cf5498f6a576b89d31.1920x1080.jpg?t=1702624498"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_23c17fdd4a2ab51f48d7c2a64cdde92104dbac99.600x338.jpg?t=1702624498",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/ss_23c17fdd4a2ab51f48d7c2a64cdde92104dbac99.1920x1080.jpg?t=1702624498"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256988952,
+          "name": "Rise of the Dark Fog Open Movie",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988952/movie.293x165.jpg?t=1702608210",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988952/movie480_vp9.webm?t=1702608210",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988952/movie_max_vp9.webm?t=1702608210"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988952/movie480.mp4?t=1702608210",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988952/movie_max.mp4?t=1702608210"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256893051,
+          "name": "2022.6.22 EN",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256893051/movie.293x165.jpg?t=1701346739",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256893051/movie480_vp9.webm?t=1701346739",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256893051/movie_max_vp9.webm?t=1701346739"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256893051/movie480.mp4?t=1701346739",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256893051/movie_max.mp4?t=1701346739"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256970776,
+          "name": "Rise of the Darkfog Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256970776/movie.293x165.jpg?t=1695267642",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970776/movie480_vp9.webm?t=1695267642",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970776/movie_max_vp9.webm?t=1695267642"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970776/movie480.mp4?t=1695267642",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970776/movie_max.mp4?t=1695267642"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256817724,
+          "name": "1_EN",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256817724/movie.293x165.jpg?t=1610263789",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256817724/movie480_vp9.webm?t=1610263789",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256817724/movie_max_vp9.webm?t=1610263789"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256817724/movie480.mp4?t=1610263789",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256817724/movie_max.mp4?t=1610263789"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256800538,
+          "name": "new trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256800538/movie.jpg?t=1600949954",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256800538/movie480_vp9.webm?t=1600949954",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256800538/movie_max_vp9.webm?t=1600949954"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256800538/movie480.mp4?t=1600949954",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256800538/movie_max.mp4?t=1600949954"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 67305
+      },
+      "achievements": {
+        "total": 128,
+        "highlighted": [
+          {
+            "name": "Know any campfire songs? ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/b640928d4b3e92a2126bfc851ce48acd2f931c51.jpg"
+          },
+          {
+            "name": "Don't underestimate Plant Fuel",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/5c2987382b8a081b211bae97b071a77b625ceb0d.jpg"
+          },
+          {
+            "name": "Nice Surprise 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/5039e4d0be46f8c5f9b711509ecbf21a08ec6f84.jpg"
+          },
+          {
+            "name": "Nice Surprise 2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/26ad841e608858f92d1ff20e79448509be16076f.jpg"
+          },
+          {
+            "name": "Nice Surprise 3",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/112427d775a72d39a645fb5e0f54b3d8a2dd5c11.jpg"
+          },
+          {
+            "name": "Nice Surprise 4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/6a31eee4d5e8555eae6a7250a864b13ff458aa5d.jpg"
+          },
+          {
+            "name": "Nice Surprise 5",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/033565a4f485c7fc44e08463efae0b4fe0d0313b.jpg"
+          },
+          {
+            "name": "Chemist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/2cd80ac1c394d83c99b9004c86304dc27e710818.jpg"
+          },
+          {
+            "name": "Blackbox designer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/10c95ea10f177eedd2d4700f6711dd0babfa11fd.jpg"
+          },
+          {
+            "name": "I'm gonna need more drones!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1366540/9b649288ce4776363eda8a1e2dcf7f8560a6e836.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 20, 2021"
+      },
+      "support_info": {
+        "url": "http://www.gameragame.com/",
+        "email": "support@gameragame.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/page_bg_generated_v6b.jpg?t=1702624498",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/page.bg.jpg?t=1702624498",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

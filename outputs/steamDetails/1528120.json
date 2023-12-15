@@ -1,0 +1,210 @@
+{
+  "1528120": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "ComPressure",
+      "steam_appid": 1528120,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "For too long have we relied on cogs and gears to control our lives. Welcome to a new age, the age of steam!<br><br>The simple valve, which controls the flow of steam based on the pressure on it's control ports, is the only component that is needed to revolutionise our control over machines. From simple switches, to adders, tabulators, and eventually entire computers. Your companions will guide you through the discovery of steam based computation. A word of warning though. This game is hard. One can not discover an entire new field of science alone. Which is why an <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F7ZVZgA7gkS\" target=\"_blank\" rel=\" noopener\"  >Academy of steam engineers (Discord)</a> is available to you. A friendly community who are happy to assist you and share their latest steam innovations. Each solved challenge yields another useful element that can be used in future designs. Poor solutions in previous stages make poor components to use further on, so you will be coming back to old designs, tuning and optimising them with things you have learned.<h2 class=\"bb_tag\">The Game</h2>The following is a quick walkthrough the game dynamics.<br>It all starts with pipes. Left click to start a pipe and click each time to extend it in the direction of the mouse pointer. Right click to end.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-43.gif?t=1650396300\" /><br>When placing more pipes, they can either cross, or join existing pipes. To join, extend the pipe in the direction of an existing pipe.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-44.gif?t=1650396300\" /><br>To delete, press or hold right mouse button.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-46.gif?t=1650396300\" /><br>In the edit menu (one with the spanner) you can select to place a steam inlet. It is also available by pressing Tab twice. There are buttons to rotate the direction before placing, but you can also use Q and E on the keyboard. Then place with the left mouse button. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-47.gif?t=1650396300\" /><br>The numbers appearing on the pipe connections show the current pressure, from 100 when connected to a steam inlet, to 0 at any uncapped pipe end.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_11-27.gif?t=1650396300\" /><br>The last component is the valve. If the pressure on the + side of the valve is higher than on the - side, the valve becomes open and lets steam pass through the valve. If the + and - sides are at the same pressure, of the - side is higher, then the valve is closed and does not allow steam through.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_11-51.gif?t=1650396300\" /><br>The design is continually examined with a series of tests. If the output is within 5% of the test target, a score is given depending on how accurate the output is. This ranges from 100 for spot on to 0 when 5% off. Passing all tests with any score above 0 unlocks the next level. To focus on a specific test, click the test to enter &quot;play one&quot; mode which repeats one test.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-30_10-10.gif?t=1650396300\" /><br>Each completed design can be used as a component in future designs.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-30_10-27.gif?t=1650396300\" />",
+      "about_the_game": "For too long have we relied on cogs and gears to control our lives. Welcome to a new age, the age of steam!<br><br>The simple valve, which controls the flow of steam based on the pressure on it's control ports, is the only component that is needed to revolutionise our control over machines. From simple switches, to adders, tabulators, and eventually entire computers. Your companions will guide you through the discovery of steam based computation. A word of warning though. This game is hard. One can not discover an entire new field of science alone. Which is why an <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F7ZVZgA7gkS\" target=\"_blank\" rel=\" noopener\"  >Academy of steam engineers (Discord)</a> is available to you. A friendly community who are happy to assist you and share their latest steam innovations. Each solved challenge yields another useful element that can be used in future designs. Poor solutions in previous stages make poor components to use further on, so you will be coming back to old designs, tuning and optimising them with things you have learned.<h2 class=\"bb_tag\">The Game</h2>The following is a quick walkthrough the game dynamics.<br>It all starts with pipes. Left click to start a pipe and click each time to extend it in the direction of the mouse pointer. Right click to end.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-43.gif?t=1650396300\" /><br>When placing more pipes, they can either cross, or join existing pipes. To join, extend the pipe in the direction of an existing pipe.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-44.gif?t=1650396300\" /><br>To delete, press or hold right mouse button.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-46.gif?t=1650396300\" /><br>In the edit menu (one with the spanner) you can select to place a steam inlet. It is also available by pressing Tab twice. There are buttons to rotate the direction before placing, but you can also use Q and E on the keyboard. Then place with the left mouse button. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_10-47.gif?t=1650396300\" /><br>The numbers appearing on the pipe connections show the current pressure, from 100 when connected to a steam inlet, to 0 at any uncapped pipe end.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_11-27.gif?t=1650396300\" /><br>The last component is the valve. If the pressure on the + side of the valve is higher than on the - side, the valve becomes open and lets steam pass through the valve. If the + and - sides are at the same pressure, of the - side is higher, then the valve is closed and does not allow steam through.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-28_11-51.gif?t=1650396300\" /><br>The design is continually examined with a series of tests. If the output is within 5% of the test target, a score is given depending on how accurate the output is. This ranges from 100 for spot on to 0 when 5% off. Passing all tests with any score above 0 unlocks the next level. To focus on a specific test, click the test to enter &quot;play one&quot; mode which repeats one test.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-30_10-10.gif?t=1650396300\" /><br>Each completed design can be used as a component in future designs.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1528120/extras/Peek_2021-01-30_10-27.gif?t=1650396300\" />",
+      "short_description": "Design increasingly complex computation units powered by high pressure steam. From switches to steam based computers, all in a world of analogue pressure devices. Use previous designs to solve further challenges, unravel the mystery of the missing steam and discover a new field of science.",
+      "supported_languages": "English, Simplified Chinese, French, German, Spanish - Spain, Czech, Japanese, Russian, Traditional Chinese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/header.jpg?t=1650396300",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/capsule_231x87.jpg?t=1650396300",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/capsule_184x69.jpg?t=1650396300",
+      "website": "https://discord.gg/7ZVZgA7gkS",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.14+<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.14+</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Charlie Brej"
+      ],
+      "publishers": [
+        "Charlie Brej"
+      ],
+      "demos": [
+        {
+          "appid": 1536410,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        539115
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy ComPressure",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 539115,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "ComPressure - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_f4eaa9a3e514e224d2af325e09bbcee902acb3a2.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_f4eaa9a3e514e224d2af325e09bbcee902acb3a2.1920x1080.jpg?t=1650396300"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_9c5e9b872695a37374850d4348a9220295fa5365.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_9c5e9b872695a37374850d4348a9220295fa5365.1920x1080.jpg?t=1650396300"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_0ddbf602ca925e46a5bf0010c8c69b04fd41aedb.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_0ddbf602ca925e46a5bf0010c8c69b04fd41aedb.1920x1080.jpg?t=1650396300"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_cf26f46ed731652912f72d74d53ed512cfea7930.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_cf26f46ed731652912f72d74d53ed512cfea7930.1920x1080.jpg?t=1650396300"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_91159bbbd101087717845259cf55339379baa086.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_91159bbbd101087717845259cf55339379baa086.1920x1080.jpg?t=1650396300"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_976c0f5f94877a11c2b248faebcfe5c71f9f80e8.600x338.jpg?t=1650396300",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/ss_976c0f5f94877a11c2b248faebcfe5c71f9f80e8.1920x1080.jpg?t=1650396300"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256821502,
+          "name": "Beta advert",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256821502/movie.293x165.jpg?t=1612677661",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821502/movie480_vp9.webm?t=1612677661",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821502/movie_max_vp9.webm?t=1612677661"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821502/movie480.mp4?t=1612677661",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821502/movie_max.mp4?t=1612677661"
+          },
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 7,
+        "highlighted": [
+          {
+            "name": "Make contact with Lady Easley",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/fcf622c189340778733d05334e22c328d980247c.jpg"
+          },
+          {
+            "name": "Make contact with Lord Moorhouse",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/1b570198715b31c0d0ad266787f6f1eeec799182.jpg"
+          },
+          {
+            "name": "Save the Town Hall",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/2475139f759d15c47f64c9db39dec1b7334ba6cf.jpg"
+          },
+          {
+            "name": "Implement Steamputer storage",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/05a1a71c36b1b422e6110ada17d5bd8dd1036267.jpg"
+          },
+          {
+            "name": "Steam poetry",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/79e9b87a6df824ddcba15f4599ef2f6348422c7c.jpg"
+          },
+          {
+            "name": "Pick the lock",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/b4d84cef78ee3da70c594819503646f26db37c35.jpg"
+          },
+          {
+            "name": "Complete the Steamputer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528120/91ebe1b65fbb365b74ac7d83129d168a5e2cc80a.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 3, 2021"
+      },
+      "support_info": {
+        "url": "https://discord.gg/7ZVZgA7gkS",
+        "email": "compressure@brej.org"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/page_bg_generated_v6b.jpg?t=1650396300",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/page.bg.jpg?t=1650396300",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

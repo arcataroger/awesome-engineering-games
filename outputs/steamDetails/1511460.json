@@ -1,0 +1,258 @@
+{
+  "1511460": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "InfraSpace",
+      "steam_appid": 1511460,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/shuttle1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Produce Everything you Consume</h2>Out on the edges of human space, you can't build a city by spending credits. Instead, you'll have to put your first astronauts to mining work and get some raw materials. Once you have some iron, carbon, sand, and sulfur, it's time to set up your first steel mill and concrete factory to start laying down some infrastructure. Even necessities like food and oxygen require a steady production chain that must not be broken!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/Infra2.gif?t=1699364623\" /><h2 class=\"bb_tag\">Transport Infrastructure</h2>InfraSpace simulates every. single. car. Each resource you ever produce needs to be transported to a factory for processing and each product needs to go to a habitat for consumption. Your road network can handle a lot, but without your oversight it will grind to a halt and drown in traffic eventually. Build highways, roundabouts, and multi lane roads to ensure the production heart of the city keeps beating.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/trains1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Trains, Pipes, and Cargo Lifts</h2>Your road network might be versatile, but it's not the right choice for every kind of resource - or the most fun one. Build rails and train stations to haul massive amounts of goods. Build underground pipes to pump liquids and gases all over the city. Build cargo lifts to reach the highest mountain tops and traverse even the most rugged terrain.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/habitatLanding1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Population Growth</h2>Your first colonists will be astronauts, the best and the bravest humanity has to offer. Give them food and shelter and they'll keep your outpost running no matter what. As your settlement grows, you need to cover the increasing workload by employing scientists and engineers, which require a few more creature comforts. Any city of sufficient size will sooner or later be home to more and more families as well, so make sure your schools can handle it and you are able to deliver the latest VR-edutainment products as well.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/terraforming1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Terraform the Planet</h2>Living on a desert planet can be harsh - but you have your eyes set on the dream: Terraform the planet, make the desert green and the atmosphere breathable. It's a huge undertaking, requiring a colossal amount of resources. Don't despair, because by the time you're starting this project, you have all the technology, infrastructure, and manpower necessary to make this dream a reality!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/driller1.gif?t=1699364623\" /><h2 class=\"bb_tag\">You don't have to play hard</h2>Traffic management can be fickle and survival can be tough. You can adjust the difficulties of both to make your city management experience as easy - or as hard - as you want it to be.",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/shuttle1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Produce Everything you Consume</h2>Out on the edges of human space, you can't build a city by spending credits. Instead, you'll have to put your first astronauts to mining work and get some raw materials. Once you have some iron, carbon, sand, and sulfur, it's time to set up your first steel mill and concrete factory to start laying down some infrastructure. Even necessities like food and oxygen require a steady production chain that must not be broken!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/Infra2.gif?t=1699364623\" /><h2 class=\"bb_tag\">Transport Infrastructure</h2>InfraSpace simulates every. single. car. Each resource you ever produce needs to be transported to a factory for processing and each product needs to go to a habitat for consumption. Your road network can handle a lot, but without your oversight it will grind to a halt and drown in traffic eventually. Build highways, roundabouts, and multi lane roads to ensure the production heart of the city keeps beating.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/trains1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Trains, Pipes, and Cargo Lifts</h2>Your road network might be versatile, but it's not the right choice for every kind of resource - or the most fun one. Build rails and train stations to haul massive amounts of goods. Build underground pipes to pump liquids and gases all over the city. Build cargo lifts to reach the highest mountain tops and traverse even the most rugged terrain.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/habitatLanding1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Population Growth</h2>Your first colonists will be astronauts, the best and the bravest humanity has to offer. Give them food and shelter and they'll keep your outpost running no matter what. As your settlement grows, you need to cover the increasing workload by employing scientists and engineers, which require a few more creature comforts. Any city of sufficient size will sooner or later be home to more and more families as well, so make sure your schools can handle it and you are able to deliver the latest VR-edutainment products as well.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/terraforming1.gif?t=1699364623\" /><h2 class=\"bb_tag\">Terraform the Planet</h2>Living on a desert planet can be harsh - but you have your eyes set on the dream: Terraform the planet, make the desert green and the atmosphere breathable. It's a huge undertaking, requiring a colossal amount of resources. Don't despair, because by the time you're starting this project, you have all the technology, infrastructure, and manpower necessary to make this dream a reality!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1511460/extras/driller1.gif?t=1699364623\" /><h2 class=\"bb_tag\">You don't have to play hard</h2>Traffic management can be fickle and survival can be tough. You can adjust the difficulties of both to make your city management experience as easy - or as hard - as you want it to be.",
+      "short_description": "Create an extrasolar efficiency utopia from scratch! In this sci-fi city builder you need to start mining operations, plan production, and lay down transportation routes to ensure a smooth supply chain.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian, Portuguese - Brazil, Dutch, Polish, Czech, Ukrainian, Romanian, Thai, Turkish, Hungarian, Japanese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/header.jpg?t=1699364623",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/capsule_231x87.jpg?t=1699364623",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/capsule_184x69.jpg?t=1699364623",
+      "website": "https://infraspace.dionicsoftware.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7+, MacOS 11+<br></li><li><strong>Processor:</strong> Intel i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Dionic Software"
+      ],
+      "publishers": [
+        "Dionic Software"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        532820
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy InfraSpace",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 532820,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "InfraSpace - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_912360f707eb6de32ede01b984542d38304f7f50.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_912360f707eb6de32ede01b984542d38304f7f50.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_c9aee3cfc347829bfb91f9f6dc1dab438655199a.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_c9aee3cfc347829bfb91f9f6dc1dab438655199a.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_abded718d409256c506b6c0703dc92034cd3a8dd.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_abded718d409256c506b6c0703dc92034cd3a8dd.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_fc5ee46406bbf7ff4a265ef5d55b0d804b6ca261.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_fc5ee46406bbf7ff4a265ef5d55b0d804b6ca261.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_91367578189aefd49edfb0130a314a1170ab28a9.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_91367578189aefd49edfb0130a314a1170ab28a9.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_292fab969485c0d5f8a16c0a77f6c139cd05d413.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_292fab969485c0d5f8a16c0a77f6c139cd05d413.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_27541402bf52bd71a79561fbefeb4941a9411cfe.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_27541402bf52bd71a79561fbefeb4941a9411cfe.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_cb76992792787bae714775a4bf33c815efe0bbe9.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_cb76992792787bae714775a4bf33c815efe0bbe9.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_061cc8da52cc77b8a47fa738ec537640c2100004.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_061cc8da52cc77b8a47fa738ec537640c2100004.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_0d545caeba7222acd92977ff107993c1a349aecb.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_0d545caeba7222acd92977ff107993c1a349aecb.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_5302bdfe137f43670f5b08d218a4500d88394cda.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_5302bdfe137f43670f5b08d218a4500d88394cda.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_84ff437a303a911dbec802d6777f94a6b12c2972.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_84ff437a303a911dbec802d6777f94a6b12c2972.1920x1080.jpg?t=1699364623"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_59345d0ef40e0acf6f8b5ab81811a0561fb67944.600x338.jpg?t=1699364623",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/ss_59345d0ef40e0acf6f8b5ab81811a0561fb67944.1920x1080.jpg?t=1699364623"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256970981,
+          "name": "FullRelease",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256970981/movie.293x165.jpg?t=1695393585",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970981/movie480_vp9.webm?t=1695393585",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970981/movie_max_vp9.webm?t=1695393585"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970981/movie480.mp4?t=1695393585",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970981/movie_max.mp4?t=1695393585"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1197
+      },
+      "achievements": {
+        "total": 32,
+        "highlighted": [
+          {
+            "name": "Drilling time!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/1cc5ad313d4e39df366912101d635d03539fda49.jpg"
+          },
+          {
+            "name": "The future is now",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/28e7f495c52b62df12a4b782a4cf8d4b592276d7.jpg"
+          },
+          {
+            "name": "Reignite the engine",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/b0fc0612e9083f5871d66dc5739b0045be1eab34.jpg"
+          },
+          {
+            "name": "Green planet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/489393cd955ebaf1ea76f843e123203e20454fef.jpg"
+          },
+          {
+            "name": "Elbow grease",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/bbbebbae0650e5542ff5f00471a247fef80bd3df.jpg"
+          },
+          {
+            "name": "Strictly in the district",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/80bc8dd84f2a3073d9f8e5677418e535e792f4cf.jpg"
+          },
+          {
+            "name": "Underground transportation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/4d1e3e8251900aed2cb54025c84b25a82db888b9.jpg"
+          },
+          {
+            "name": "Renovation time",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/9ab37e28330124b0a3fd82e7f21f7091737d0c88.jpg"
+          },
+          {
+            "name": "Choo-choo!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/affde541c32974b8177a5a84058f8f73a2ad2e5a.jpg"
+          },
+          {
+            "name": "Ain't No Mountain High Enough",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1511460/57199ff6e6c980ace6445d0e38c3a0824e5fe52f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 22, 2023"
+      },
+      "support_info": {
+        "url": "https://infraspace.dionicsoftware.com",
+        "email": "support@dionicsoftware.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/page_bg_generated_v6b.jpg?t=1699364623",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1511460/page_bg_generated.jpg?t=1699364623",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

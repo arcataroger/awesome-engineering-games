@@ -1,0 +1,209 @@
+{
+  "383690": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mu Complex",
+      "steam_appid": 383690,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\">Hack your way into the complex, all by yourself.</h2><br><strong>Mu Complex</strong> won't be available in a bundle anytime soon, we can promise you that.<br><br><strong>Ever wanted to be a hacker?</strong> Not that <i>AAA</i> kind of hacker. We're talking about real hacker, using the hard old way.<br>Someone who writes some <i>cryptic commands</i> only he can understand to get deep into some <i>dirty corporation</i>.<br>That's what you want, that's what we provide.<br>Don't worry, you'll learn step by step how to do that, to finally become a <strong>full-featured hacker</strong>.<br><br>Featuring a fulfilling storyline, will you save Lya?<br><ul class=\"bb_ul\"><li>Features <strong>two episodes</strong><br></li><li>Try and solve <strong>hard</strong> riddles and puzzles<br></li><li>Learn <strong>real</strong> Linux terminal commands<br></li><li><strong>Hundreds</strong> of emails to read<br></li><li>An <strong>immersive</strong> background<br></li><li>Shake your brain and your computer to <strong>solve the challenges</strong><br></li><li>Uncover the complex's secrets and <strong>save Lya</strong>!</li></ul>",
+      "about_the_game": "<h2 class=\"bb_tag\">Hack your way into the complex, all by yourself.</h2><br><strong>Mu Complex</strong> won't be available in a bundle anytime soon, we can promise you that.<br><br><strong>Ever wanted to be a hacker?</strong> Not that <i>AAA</i> kind of hacker. We're talking about real hacker, using the hard old way.<br>Someone who writes some <i>cryptic commands</i> only he can understand to get deep into some <i>dirty corporation</i>.<br>That's what you want, that's what we provide.<br>Don't worry, you'll learn step by step how to do that, to finally become a <strong>full-featured hacker</strong>.<br><br>Featuring a fulfilling storyline, will you save Lya?<br><ul class=\"bb_ul\"><li>Features <strong>two episodes</strong><br></li><li>Try and solve <strong>hard</strong> riddles and puzzles<br></li><li>Learn <strong>real</strong> Linux terminal commands<br></li><li><strong>Hundreds</strong> of emails to read<br></li><li>An <strong>immersive</strong> background<br></li><li>Shake your brain and your computer to <strong>solve the challenges</strong><br></li><li>Uncover the complex's secrets and <strong>save Lya</strong>!</li></ul>",
+      "short_description": "Play as a hacker and take control of an ultra secret company to reveal the darkest secrets. But beware , you seem not to be alone and what you will discover could change the world ...",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/383690/header.jpg?t=1453828583",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/383690/capsule_231x87.jpg?t=1453828583",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/383690/capsule_184x69.jpg?t=1453828583",
+      "website": "http://www.mucomplex.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.3 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 3D acceleration enabled card<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.8+<br></li><li><strong>Processor:</strong> 1.3 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 3D acceleration enabled card<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Kernel 2.6 and up<br></li><li><strong>Processor:</strong> 1.3 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 3D acceleration enabled card<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+      },
+      "developers": [
+        "studiocime"
+      ],
+      "publishers": [
+        "studiocime"
+      ],
+      "demos": [
+        {
+          "appid": 434640,
+          "description": "Try the demo"
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 899,
+        "final": 899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$8.99"
+      },
+      "packages": [
+        72100
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mu Complex",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 72100,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Mu Complex - $8.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_56976458ad6b43db232b49031146008ad813b439.600x338.jpg?t=1453828583",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_56976458ad6b43db232b49031146008ad813b439.1920x1080.jpg?t=1453828583"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_78174d3216231bd169f21ca7d647e6666cc5f27f.600x338.jpg?t=1453828583",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_78174d3216231bd169f21ca7d647e6666cc5f27f.1920x1080.jpg?t=1453828583"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_3d6bc31e2975364452abb6065a54dd117094c8ac.600x338.jpg?t=1453828583",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_3d6bc31e2975364452abb6065a54dd117094c8ac.1920x1080.jpg?t=1453828583"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_9772c974e77a3e279e774bfbd50da1860f62e815.600x338.jpg?t=1453828583",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_9772c974e77a3e279e774bfbd50da1860f62e815.1920x1080.jpg?t=1453828583"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_a1d6c2a639e64e161bc465e52f1d5972be82b4c4.600x338.jpg?t=1453828583",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/383690/ss_a1d6c2a639e64e161bc465e52f1d5972be82b4c4.1920x1080.jpg?t=1453828583"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2040456,
+          "name": "Main Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2040456/movie.293x165.jpg?t=1447376877",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2040456/movie480.webm?t=1447376877",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2040456/movie_max.webm?t=1447376877"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2040456/movie480.mp4?t=1447376877",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2040456/movie_max.mp4?t=1447376877"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 177
+      },
+      "achievements": {
+        "total": 37,
+        "highlighted": [
+          {
+            "name": "Late for work.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/da8f1b86a4fb4d28deac0b399ff43369970aa538.jpg"
+          },
+          {
+            "name": "Make me a sandwish.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/1cd26b3afd4801878d28cd1eeb891fb7b467279d.jpg"
+          },
+          {
+            "name": "Spam filter.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/decb8827c58043155e52def4cac9e1485be18fdc.jpg"
+          },
+          {
+            "name": "Welcome to internet.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/bc4ee963a110f41539a43ffe8ff1dfa9f789070e.jpg"
+          },
+          {
+            "name": "Prison Break.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/fbe186352f3f19fb2627327038aa062837ceaad8.jpg"
+          },
+          {
+            "name": "Perfectionist.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/2c6286d79c17917eb820190b90129230c9d89da2.jpg"
+          },
+          {
+            "name": "Memory Mapping.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/68615d264e7e1c7cf49472634b4e779f5681eeda.jpg"
+          },
+          {
+            "name": "Half way.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/761add5d4fa9949b0ca48405c9c16c982fc2f831.jpg"
+          },
+          {
+            "name": "What did I told you about cakes?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/2de8b9e2723e31b3efb2df4b17222bef3a426131.jpg"
+          },
+          {
+            "name": "Hello, stranger.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/383690/2bb9c9263e6244bbfbbd6aaccf8648dd9426a13a.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 23, 2015"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@studiocime.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/383690/page_bg_generated_v6b.jpg?t=1453828583",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/383690/page.bg.jpg?t=1453828583",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

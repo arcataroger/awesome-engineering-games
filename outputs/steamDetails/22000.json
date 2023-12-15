@@ -1,0 +1,223 @@
+{
+  "22000": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "World of Goo",
+      "steam_appid": 22000,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1271470
+      ],
+      "detailed_description": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Mysterious Levels</strong> - Each level is strange and dangerously beautiful, introducing new puzzles, areas, and the creatures that live in them.<br>\t\t\t\t\t</li><li><strong>World of Goo Balls</strong> - Along the way, undiscovered new species of Goo Ball, each with unique abilities, come together to ooze through reluctant tales of discovery, love, conspiracy, beauty, electric power, and the third dimension.<br>\t\t\t\t\t</li><li><strong>The Sign Painter</strong> - Someone is watching you.<br>\t\t\t\t\t</li><li><strong>World of Goo Corporation</strong> - Congratulations! World of Goo Corporation is the Global Leader in Goo and Goo Related Product, including World of Goo Corporation Trademark Brand Soft Drink Beverage and World of Goo Corporation Trademark Brand Facial Exfoliating Lotion. Succulent!<br>\t\t\t\t\t</li><li><strong>Massive Online Competition</strong> - Human players around the world compete in a living leaderboard to build the tallest towers of goo in World of Goo Corporation's mysterious sandbox. World of Goo Corporation is contractually obligated to state that everyone is a winner and is enthusiastic to celebrate everyone's tower building opportunities equally.  <br><br>Congratulations, and good luck!</li></ul>",
+      "about_the_game": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>Mysterious Levels</strong> - Each level is strange and dangerously beautiful, introducing new puzzles, areas, and the creatures that live in them.<br>\t\t\t\t\t</li><li><strong>World of Goo Balls</strong> - Along the way, undiscovered new species of Goo Ball, each with unique abilities, come together to ooze through reluctant tales of discovery, love, conspiracy, beauty, electric power, and the third dimension.<br>\t\t\t\t\t</li><li><strong>The Sign Painter</strong> - Someone is watching you.<br>\t\t\t\t\t</li><li><strong>World of Goo Corporation</strong> - Congratulations! World of Goo Corporation is the Global Leader in Goo and Goo Related Product, including World of Goo Corporation Trademark Brand Soft Drink Beverage and World of Goo Corporation Trademark Brand Facial Exfoliating Lotion. Succulent!<br>\t\t\t\t\t</li><li><strong>Massive Online Competition</strong> - Human players around the world compete in a living leaderboard to build the tallest towers of goo in World of Goo Corporation's mysterious sandbox. World of Goo Corporation is contractually obligated to state that everyone is a winner and is enthusiastic to celebrate everyone's tower building opportunities equally.  <br><br>Congratulations, and good luck!</li></ul>",
+      "short_description": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Simplified Chinese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/22000/header.jpg?t=1587578439",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/22000/capsule_231x87.jpg?t=1587578439",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/22000/capsule_184x69.jpg?t=1587578439",
+      "website": "http://2dboy.com/games.php",
+      "pc_requirements": [],
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "World of Goo is copyright © 2008 of 2D Boy, LLC",
+      "developers": [
+        "2D BOY"
+      ],
+      "publishers": [
+        "2D BOY "
+      ],
+      "demos": [
+        {
+          "appid": 22010,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        1045
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy World of Goo",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1045,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "World of Goo - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 90,
+        "url": "https://www.metacritic.com/game/pc/world-of-goo?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005585.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005585.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005589.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005589.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005588.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005588.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005584.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005584.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005583.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005583.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005591.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005591.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005587.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005587.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005590.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005590.1920x1080.jpg?t=1587578439"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005593.600x338.jpg?t=1587578439",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/22000/0000005593.1920x1080.jpg?t=1587578439"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256749670,
+          "name": "World of Goo Trailer 3 2019",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256749670/movie.293x165.jpg?t=1556898313",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256749670/movie480.webm?t=1556898313",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256749670/movie_max.webm?t=1556898313"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256749670/movie480.mp4?t=1556898313",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256749670/movie_max.mp4?t=1556898313"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 3956
+      },
+      "achievements": {
+        "total": 8,
+        "highlighted": [
+          {
+            "name": "Executive Producer of Goo Product",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/7aca5313d68059c36cb25514fbed2a1d758b8e05.jpg"
+          },
+          {
+            "name": "Subversive Traveler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/64a2a1e647c221582e3a966b99156f92391ca70c.jpg"
+          },
+          {
+            "name": "Engineer of Goo I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/f0ecf8c90bafba7d8860cbef4590ab844d46c138.jpg"
+          },
+          {
+            "name": "Engineer of Goo II",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/5ffbe6b23ed8bc0f477822998a38045fdeb515a1.jpg"
+          },
+          {
+            "name": "Engineer of Goo III",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/22b2d69a11ff18028d12f03ca594499c1141425f.jpg"
+          },
+          {
+            "name": "Engineer of Goo IV",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/7b480de3536cc0217861345da40c5c313f0db74e.jpg"
+          },
+          {
+            "name": "Engineer of Goo V",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/36b558bd207c96a5d8a6761477199589590bd81a.jpg"
+          },
+          {
+            "name": "The Architect of Goo",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/22000/ac25cfec3fd9730b07337e6c6fb4897f53357c7c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 13, 2008"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@2dboy.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/22000/page_bg_generated_v6b.jpg?t=1587578439",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/22000/page.bg.jpg?t=1587578439",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

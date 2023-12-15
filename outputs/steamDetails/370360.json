@@ -1,0 +1,211 @@
+{
+  "370360": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "TIS-100",
+      "steam_appid": 370360,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header1.jpg?t=1667071597\" /><br><br>TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header4.jpg?t=1667071597\" /><br><br>The Tessellated Intelligence Systems TIS-100 is a massively parallel computer architecture comprised of non-uniformly interconnected heterogeneous nodes. The TIS-100 is ideal for applications requiring complex data stream processing, such as automated financial trading, bulk data collection, and civilian behavioral analysis.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header2.jpg?t=1667071597\" /><br><br>Despite its appearances, TIS-100 is a game!<br><br><ul class=\"bb_ul\"><li> Print and explore the TIS-100 reference manual, which details the inner-workings of the TIS-100 while evoking the aesthetics of a 1980’s computer manual!<br></li><li> Solve more than 45 puzzles, competing against your friends and the world to minimize your cycle, instruction, and node counts. <br></li><li> Design your own challenges in the TIS-100’s 3 sandboxes, including a “visual console” that lets you create your own games within the game! <br></li><li> Uncover the mysteries of the TIS-100… who created it, and for what purpose? </li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header1.jpg?t=1667071597\" /><br><br>TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header4.jpg?t=1667071597\" /><br><br>The Tessellated Intelligence Systems TIS-100 is a massively parallel computer architecture comprised of non-uniformly interconnected heterogeneous nodes. The TIS-100 is ideal for applications requiring complex data stream processing, such as automated financial trading, bulk data collection, and civilian behavioral analysis.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/370360/extras/header2.jpg?t=1667071597\" /><br><br>Despite its appearances, TIS-100 is a game!<br><br><ul class=\"bb_ul\"><li> Print and explore the TIS-100 reference manual, which details the inner-workings of the TIS-100 while evoking the aesthetics of a 1980’s computer manual!<br></li><li> Solve more than 45 puzzles, competing against your friends and the world to minimize your cycle, instruction, and node counts. <br></li><li> Design your own challenges in the TIS-100’s 3 sandboxes, including a “visual console” that lets you create your own games within the game! <br></li><li> Uncover the mysteries of the TIS-100… who created it, and for what purpose? </li></ul>",
+      "short_description": "TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for!",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/370360/header.jpg?t=1667071597",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/370360/capsule_231x87.jpg?t=1667071597",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/370360/capsule_184x69.jpg?t=1667071597",
+      "website": "http://www.zachtronics.com/tis-100",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9, or later<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        67694
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy TIS-100",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 67694,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "TIS-100 - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_8ac71a25dc13d789213f9edeff9ece1ee58e5d81.600x338.jpg?t=1667071597",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_8ac71a25dc13d789213f9edeff9ece1ee58e5d81.1920x1080.jpg?t=1667071597"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_aa24760f2770fe8b18af319da4779e5d536d3f37.600x338.jpg?t=1667071597",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_aa24760f2770fe8b18af319da4779e5d536d3f37.1920x1080.jpg?t=1667071597"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_af4438b11346f84b2aa3a4609c9ce34a859af362.600x338.jpg?t=1667071597",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_af4438b11346f84b2aa3a4609c9ce34a859af362.1920x1080.jpg?t=1667071597"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_9432bb9b44a228de7ed74710aab29dc82b21f46c.600x338.jpg?t=1667071597",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_9432bb9b44a228de7ed74710aab29dc82b21f46c.1920x1080.jpg?t=1667071597"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_92e80bb8acfcb53e39aff47d9e208296b6f08919.600x338.jpg?t=1667071597",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/370360/ss_92e80bb8acfcb53e39aff47d9e208296b6f08919.1920x1080.jpg?t=1667071597"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2039847,
+          "name": "TIS-100 Teaser Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2039847/movie.293x165.jpg?t=1447375757",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2039847/movie480.webm?t=1447375757",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2039847/movie_max.webm?t=1447375757"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2039847/movie480.mp4?t=1447375757",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2039847/movie_max.mp4?t=1447375757"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2988
+      },
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "RTFM",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/9ea9e55d8f253b608642c0fb5e9e5bcaa7f1966c.jpg"
+          },
+          {
+            "name": "BUSY_LOOP",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/999e3b6b74f6f6dbc3b0230cbe61a911c0543a88.jpg"
+          },
+          {
+            "name": "PARALLELIZE",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/c0a81091c400f5890b6470ce239dc15572cac4a0.jpg"
+          },
+          {
+            "name": "UNCONDITIONAL",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/b5573b1cbae3f3d9d0ed08436c18fbc440c9f2ea.jpg"
+          },
+          {
+            "name": "NO_BACKUP",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/81093ddea2792a616016c6e16b3891f10a11009e.jpg"
+          },
+          {
+            "name": "NO_MEMORY",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/5991251490461321cf1a2cb40c72859362ecd80f.jpg"
+          },
+          {
+            "name": "HALT_AND_CATCH_FIRE",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/63e4357e6b195bb81d9039c69ebd810afd12ed1a.jpg"
+          },
+          {
+            "name": "ILLEGAL_EAGLE",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/293883ff75aa69fcb6a959c2e88dd4eb41f56c5f.jpg"
+          },
+          {
+            "name": "100_PERCENT_V1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/ce5f71cc378b25bdefcb0cea156ea04a2f3f9515.jpg"
+          },
+          {
+            "name": "100_PERCENT_V2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/370360/ca8f4d418c81d2da150b52b8798f881539777bd9.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 20, 2015"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/370360/page_bg_generated_v6b.jpg?t=1667071597",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/370360/page_bg_generated.jpg?t=1667071597",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

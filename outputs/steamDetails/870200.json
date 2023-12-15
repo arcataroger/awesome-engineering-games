@@ -1,0 +1,280 @@
+{
+  "870200": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Juno: New Origins",
+      "steam_appid": 870200,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<i>After six years of development, what began as a simple rocket simulator has become a comprehensive aerospace sandbox in which you can bring to life anything you can imagine - from rockets, airplanes, and cars to entire planets. Over time, the more we added, the more SimpleRockets 2 outgrew its name. With much consideration we have decided to change the name to &quot;Juno: New Origins&quot; - a title that symbolizes a new start.</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/AerospaceSandbox.png?t=1699902365\" /><br><br>Juno: New Origins is a 3D aerospace sandbox where players can use customizable parts to construct and test rockets, planes, cars, or anything they can imagine in an environment with realistic physics across land, sea, air, and space.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/CareerMode.png?t=1699902365\" /><br><br>Take control of your own aerospace company and earn money and tech points as you progress through the game. Complete contracts to earn money, and discover a mixture of hand-crafted and procedural contracts that offer countless hours of new gameplay. Conquer milestones and explore landmarks to earn tech points and unlock new technology in the tech tree. Interactive tutorials are available to show how to build and operate rockets, cars, and airplanes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/ProceduralParts.png?t=1699902365\" /><br><br>Stretch and shape fuel tanks, wings, cargo bays, fairings, and nose cones with easy-to-use tools that help you create exactly what you want. Resize solar panels, landing gear, pistons, jet engines, etc to fit your needs. Paint your craft custom colors and tweak their reflectiveness, emissiveness, and texture styles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/DesignEngines.png?t=1699902365\" /><br><br>Engines can be adjusted in a myriad of ways, such as changing the power cycle, combustion pressure, gimbal range, fuel type, and adjusting nozzle performance and visuals. You can customize an engine to be a power house for lift off, or to be a super optimized vacuum engine that maximizes Isp for interplanetary travel. The engine's performance affects its visuals in flight too as shown by the exhaust's expansion or contraction based on its interplay with the atmospheric pressure. Shock diamonds are pretty but they are a symptom of suboptimal engine performance! If you don't care about any of this, then you can just attach a pre-built engine and hit launch! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/Vizzy.png?t=1699902365\" /><br><br>Easily drag and drop code blocks to program your crafts to log telemetry, automate them, design your own MFD touch screens, etc. With Vizzy, a programming language designed specifically for Juno: New Origins, you can expand the capabilities of your crafts while learning programming, maths, physics, etc.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/MapView.png?t=1699902365\" /><br><br>Orbits are realistically simulated and support time-warp so you don't have to wait several months to reach another planet. The Map View makes it easy to see your orbits and plan future burns, which you can use to set up future encounters with other planets or satellites.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/PlanetStudio.png?t=1699902365\" /><br><br>Using Planet Studio, an in-game design tool, you can make your own planets, stars, moons, and stellar systems, starting with a large set of templates and tools to easily make infinite unique procedural celestial bodies. For the more adventurous, Planet Studio has an advanced mode with many modifiers to add and tweak different noise layers, adjusting the terrain and the biomes, as well as a paintbrush tool to be able to achieve the most complex shapes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/Share.png?t=1699902365\" /><br><br>Download from a huge collection of user-uploaded crafts, sandboxes, planets, and mods on <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.simplerockets.com%2FCrafts\" target=\"_blank\" rel=\" noopener\"  >our website</a>. Upload your own crafts and sandboxes and share them with the community. Rise through the ranks from a white level builder to a gold level builder and beyond.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li> Career mode with tech tree, contracts, milestones, and landmarks<br></li><li> Simple to get started, but advanced players can dig into the technical details if they are interested in the math behind rocket engines and orbital mechanics.<br></li><li> Download community-made mods, planets, crafts, and sandboxes.<br></li><li> Online community where players can upvote and comment on other players' content.<h2 class=\"bb_tag\">DESIGN</h2></li><li> Fully 3D craft designer that allows building anything from basic rockets to very complicated multi-stage rockets, airplanes, rovers, satellites, robotic mechs, and more.<br></li><li> Over 30 parts, including fairings, retractable solar panels, procedural landing gear, RCS, gyro, etc. <br></li><li> Program your rockets with Vizzy, a visual programming language, to automate your crafts.<br></li><li> Highly procedural parts that can be resized and reshaped into endless combinations, such as the resizable fuel tank and the cargo bay.<br></li><li> Design custom rocket engines and jet engines<br></li><li> Performance Analysis window makes it easy for advanced players to see how their craft's Delta-V, TWR, engine Isp, etc are changed as they build their rockets.<br></li><li> Parts support textures, reflections, and custom coloring.<br></li><li> Support for saving custom subassemblies.<h2 class=\"bb_tag\">FLIGHT</h2></li><li> Realistic rocket physics and orbital mechanics.<br></li><li> Flight model dynamically updates drag and lift characteristics of your craft as it changes.<br></li><li> Time-Warp allows fast-forwarding while in orbit.<br></li><li> Ion Engine supports burning during time-warp.<br></li><li> Map View to navigate the solar system that displays predicted orbits and encounters. <br></li><li> Fully 3D, rotating planets that support water and multiple biomes, such as desert, grasslands, tundra, etc.<br></li><li> Includes fully controllable astronauts, or space sailors, equipped with jetpacks and a grappling hook.<br></li><li> Re-entry effects including visual effects and part damage from heat.<br></li><li> The Nav Sphere makes it easy to control your rocket's heading.<br></li><li> The traditional Navball (FDAI) provides vital attitude information.<br></li><li> Persistent sandbox that retains your previous launches.<br></li><li> Custom Launch Locations allow launching from multiple places in the solar system.<br></li><li> Crafts can dock together in orbit and transfer fuel.<br></li><li> Supports transferring fuel between tanks and advanced fuel management such as fuel cross feeds, priority, etc.<br></li><li> Built-in tutorials show you how to build a craft and how to achieve orbit.</li></ul>",
+      "about_the_game": "<i>After six years of development, what began as a simple rocket simulator has become a comprehensive aerospace sandbox in which you can bring to life anything you can imagine - from rockets, airplanes, and cars to entire planets. Over time, the more we added, the more SimpleRockets 2 outgrew its name. With much consideration we have decided to change the name to &quot;Juno: New Origins&quot; - a title that symbolizes a new start.</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/AerospaceSandbox.png?t=1699902365\" /><br><br>Juno: New Origins is a 3D aerospace sandbox where players can use customizable parts to construct and test rockets, planes, cars, or anything they can imagine in an environment with realistic physics across land, sea, air, and space.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/CareerMode.png?t=1699902365\" /><br><br>Take control of your own aerospace company and earn money and tech points as you progress through the game. Complete contracts to earn money, and discover a mixture of hand-crafted and procedural contracts that offer countless hours of new gameplay. Conquer milestones and explore landmarks to earn tech points and unlock new technology in the tech tree. Interactive tutorials are available to show how to build and operate rockets, cars, and airplanes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/ProceduralParts.png?t=1699902365\" /><br><br>Stretch and shape fuel tanks, wings, cargo bays, fairings, and nose cones with easy-to-use tools that help you create exactly what you want. Resize solar panels, landing gear, pistons, jet engines, etc to fit your needs. Paint your craft custom colors and tweak their reflectiveness, emissiveness, and texture styles.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/DesignEngines.png?t=1699902365\" /><br><br>Engines can be adjusted in a myriad of ways, such as changing the power cycle, combustion pressure, gimbal range, fuel type, and adjusting nozzle performance and visuals. You can customize an engine to be a power house for lift off, or to be a super optimized vacuum engine that maximizes Isp for interplanetary travel. The engine's performance affects its visuals in flight too as shown by the exhaust's expansion or contraction based on its interplay with the atmospheric pressure. Shock diamonds are pretty but they are a symptom of suboptimal engine performance! If you don't care about any of this, then you can just attach a pre-built engine and hit launch! <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/Vizzy.png?t=1699902365\" /><br><br>Easily drag and drop code blocks to program your crafts to log telemetry, automate them, design your own MFD touch screens, etc. With Vizzy, a programming language designed specifically for Juno: New Origins, you can expand the capabilities of your crafts while learning programming, maths, physics, etc.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/MapView.png?t=1699902365\" /><br><br>Orbits are realistically simulated and support time-warp so you don't have to wait several months to reach another planet. The Map View makes it easy to see your orbits and plan future burns, which you can use to set up future encounters with other planets or satellites.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/PlanetStudio.png?t=1699902365\" /><br><br>Using Planet Studio, an in-game design tool, you can make your own planets, stars, moons, and stellar systems, starting with a large set of templates and tools to easily make infinite unique procedural celestial bodies. For the more adventurous, Planet Studio has an advanced mode with many modifiers to add and tweak different noise layers, adjusting the terrain and the biomes, as well as a paintbrush tool to be able to achieve the most complex shapes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/870200/extras/Share.png?t=1699902365\" /><br><br>Download from a huge collection of user-uploaded crafts, sandboxes, planets, and mods on <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.simplerockets.com%2FCrafts\" target=\"_blank\" rel=\" noopener\"  >our website</a>. Upload your own crafts and sandboxes and share them with the community. Rise through the ranks from a white level builder to a gold level builder and beyond.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li> Career mode with tech tree, contracts, milestones, and landmarks<br></li><li> Simple to get started, but advanced players can dig into the technical details if they are interested in the math behind rocket engines and orbital mechanics.<br></li><li> Download community-made mods, planets, crafts, and sandboxes.<br></li><li> Online community where players can upvote and comment on other players' content.<h2 class=\"bb_tag\">DESIGN</h2></li><li> Fully 3D craft designer that allows building anything from basic rockets to very complicated multi-stage rockets, airplanes, rovers, satellites, robotic mechs, and more.<br></li><li> Over 30 parts, including fairings, retractable solar panels, procedural landing gear, RCS, gyro, etc. <br></li><li> Program your rockets with Vizzy, a visual programming language, to automate your crafts.<br></li><li> Highly procedural parts that can be resized and reshaped into endless combinations, such as the resizable fuel tank and the cargo bay.<br></li><li> Design custom rocket engines and jet engines<br></li><li> Performance Analysis window makes it easy for advanced players to see how their craft's Delta-V, TWR, engine Isp, etc are changed as they build their rockets.<br></li><li> Parts support textures, reflections, and custom coloring.<br></li><li> Support for saving custom subassemblies.<h2 class=\"bb_tag\">FLIGHT</h2></li><li> Realistic rocket physics and orbital mechanics.<br></li><li> Flight model dynamically updates drag and lift characteristics of your craft as it changes.<br></li><li> Time-Warp allows fast-forwarding while in orbit.<br></li><li> Ion Engine supports burning during time-warp.<br></li><li> Map View to navigate the solar system that displays predicted orbits and encounters. <br></li><li> Fully 3D, rotating planets that support water and multiple biomes, such as desert, grasslands, tundra, etc.<br></li><li> Includes fully controllable astronauts, or space sailors, equipped with jetpacks and a grappling hook.<br></li><li> Re-entry effects including visual effects and part damage from heat.<br></li><li> The Nav Sphere makes it easy to control your rocket's heading.<br></li><li> The traditional Navball (FDAI) provides vital attitude information.<br></li><li> Persistent sandbox that retains your previous launches.<br></li><li> Custom Launch Locations allow launching from multiple places in the solar system.<br></li><li> Crafts can dock together in orbit and transfer fuel.<br></li><li> Supports transferring fuel between tanks and advanced fuel management such as fuel cross feeds, priority, etc.<br></li><li> Built-in tutorials show you how to build a craft and how to achieve orbit.</li></ul>",
+      "short_description": "Bring to life anything you can imagine from rockets and airplanes to cars and more. Automate them with a visual programming language. Explore 3D planets and make your own. Share your creations online. Complete contracts, conquer milestones, and unlock technology in the newly added Career Mode.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/870200/header.jpg?t=1699902365",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/870200/capsule_231x87.jpg?t=1699902365",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/870200/capsule_184x69.jpg?t=1699902365",
+      "website": "https://www.simplerockets.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 SP1<br></li><li><strong>Processor:</strong> 3.2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> SM4, 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 3.5 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> SM4, 1GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.14<br></li><li><strong>Processor:</strong> Intel<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Metal, 512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.15<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Metal, 1GB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Jundroo, LLC"
+      ],
+      "publishers": [
+        "Jundroo, LLC"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        274780
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Juno: New Origins",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 274780,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Juno: New Origins - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_964fd3e9df4c82f8062ab96e0313b80454fcf331.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_964fd3e9df4c82f8062ab96e0313b80454fcf331.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_784c9a59f08bd1d111ccf84db9306b5901dabf0a.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_784c9a59f08bd1d111ccf84db9306b5901dabf0a.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_89bc31eee127040af0e4fbc3b059e1e52f6993dd.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_89bc31eee127040af0e4fbc3b059e1e52f6993dd.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_9837c0b18f69084e30453d65a125e5412fb055d0.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_9837c0b18f69084e30453d65a125e5412fb055d0.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_14d536e440747e58fe2b72d0c34a3738489b6a13.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_14d536e440747e58fe2b72d0c34a3738489b6a13.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_9b8121c9e4867c78e4884438ce86daae5a99a32b.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_9b8121c9e4867c78e4884438ce86daae5a99a32b.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_368c61e173fc333df9979611989927f8f794e92a.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_368c61e173fc333df9979611989927f8f794e92a.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_baa075c0a30695932c44da9735c436da1542ca0e.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_baa075c0a30695932c44da9735c436da1542ca0e.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_04e4f998fb0fb6c3bf251f74805bf1e5e5ba449e.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_04e4f998fb0fb6c3bf251f74805bf1e5e5ba449e.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_508a28486cfa4d92bb18f3fd4069cc2ede8cf297.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_508a28486cfa4d92bb18f3fd4069cc2ede8cf297.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_92257a94efb807020b2803b6076a6c822f6babdd.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_92257a94efb807020b2803b6076a6c822f6babdd.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_389555dc4b23f8ab5675b41eefb7b3233c479bcf.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_389555dc4b23f8ab5675b41eefb7b3233c479bcf.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_2fdea813f97639823e4263e75204da07c2925ac0.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_2fdea813f97639823e4263e75204da07c2925ac0.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_e1a90cd74e06ee57ac2df35b876c05a8a3721707.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_e1a90cd74e06ee57ac2df35b876c05a8a3721707.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_b2e8d263d42a4b53a16f341274de1de816d681e3.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_b2e8d263d42a4b53a16f341274de1de816d681e3.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_6139980ace6511d5549bfdcc9a3e378ccc7a8c64.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_6139980ace6511d5549bfdcc9a3e378ccc7a8c64.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_c7d066fd1851c5e84feb703afbd0184c7fd49b02.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_c7d066fd1851c5e84feb703afbd0184c7fd49b02.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_b3eae4d774068eeb12ad748b4c53e725335ee4e8.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_b3eae4d774068eeb12ad748b4c53e725335ee4e8.1920x1080.jpg?t=1699902365"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_f0dbe17ce39c9416a79739010e8b7936af86d5b4.600x338.jpg?t=1699902365",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/870200/ss_f0dbe17ce39c9416a79739010e8b7936af86d5b4.1920x1080.jpg?t=1699902365"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256926047,
+          "name": "Juno: New Origins Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256926047/movie.293x165.jpg?t=1699902358",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256926047/movie480_vp9.webm?t=1699902358",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256926047/movie_max_vp9.webm?t=1699902358"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256926047/movie480.mp4?t=1699902358",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256926047/movie_max.mp4?t=1699902358"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2255
+      },
+      "achievements": {
+        "total": 95,
+        "highlighted": [
+          {
+            "name": "Getting Started",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/9cbf3c3044e138579944427b12b8dadd2bf47508.jpg"
+          },
+          {
+            "name": "I Don't Need Instructions",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/7101d2489f9b1fb7ec47633b043b2c98e00c4652.jpg"
+          },
+          {
+            "name": "Discover Brigo",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/f46cbb5af500a5dae4f1c787161b64463b3f68bb.jpg"
+          },
+          {
+            "name": "Discover Boreas",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/f1e93636cf8a0aa41cbaf138100d1aabad472cce.jpg"
+          },
+          {
+            "name": "Discover Cylero",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/143497d1a7599cb48d6c06712a29fc309ad959e9.jpg"
+          },
+          {
+            "name": "Discover Handrew's Comet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/846bcaebf6e0f1941e5aeaef12681c549e478ad5.jpg"
+          },
+          {
+            "name": "Discover Herma",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/fefedeac7123db93b6a859b54f0451975624db85.jpg"
+          },
+          {
+            "name": "Discover Hypatchion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/95596ec986bb12608de2b58630f9a2ed426ed401.jpg"
+          },
+          {
+            "name": "Discover Jastrus",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/2151240a7e2589ba536a1157e00ade272454dfd2.jpg"
+          },
+          {
+            "name": "Discover Juno",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/870200/2269dd8aebbfa98e596930a9a2281887d9938b79.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 26, 2023"
+      },
+      "support_info": {
+        "url": "http://jundroo.com/about/",
+        "email": "games@jundroo.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/870200/page_bg_generated_v6b.jpg?t=1699902365",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/870200/page.bg.jpg?t=1699902365",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "1489630": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Carrier Command 2",
+      "steam_appid": 1489630,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1661120
+      ],
+      "detailed_description": "<h1>More Games by MicroProse!</h1><p><a href=\"https://store.steampowered.com/app/1434950\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1434950</a><br><a href=\"https://store.steampowered.com/app/1347550\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1347550</a></p><br><h1>Join our Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F6pyYpVzpYV\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/discord_final.jpg?t=1679068096\" /></a></p><br><h1>About the Game</h1>Note: This game can be played in non-virtual reality mode, and also in virtual reality.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_04.gif?t=1679068096\" /><br>Carrier Command 2 is Strategy, Planning and Teamwork on a scale that is both engaging and manageable. True to MicroProse's heritage, Carrier Command 2 is all about meaningful decisions.<br><br><strong><h2 class=\"bb_tag\">Command and Control</h2></strong>Take command of a carrier and operate its systems to launch your offensive and conquer the Archipelago. Get in the shoes of an admiral and lead from the front.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_05.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Strategize</h2></strong>Gather intel from your vehicles’ radars, pick your tools of the trade, and launch your attacks where the enemy presence is thinner. The approach you take to a situation will play a big part in the outcome.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_03.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Plan</h2></strong>Once you have taken an island you will need to exploit and defend the resources it provides. Ensuring these supply lines remain open will be key to your survival. Think ahead.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_06.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Teamwork</h2></strong>Make the most of different unit types synergies and create combined arms assaults to efficiently win battles. On top of that, get into each and every vehicle and take part in the action!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_01.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">An illustrious heritage</h2></strong>Carrier Command is an ’80s strategy classic well known for its unique blend of strategy and vehicle simulation. The legend is back!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/header_small_steam.jpg?t=1679068096\" />",
+      "about_the_game": "Note: This game can be played in non-virtual reality mode, and also in virtual reality.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_04.gif?t=1679068096\" /><br>Carrier Command 2 is Strategy, Planning and Teamwork on a scale that is both engaging and manageable. True to MicroProse's heritage, Carrier Command 2 is all about meaningful decisions.<br><br><strong><h2 class=\"bb_tag\">Command and Control</h2></strong>Take command of a carrier and operate its systems to launch your offensive and conquer the Archipelago. Get in the shoes of an admiral and lead from the front.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_05.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Strategize</h2></strong>Gather intel from your vehicles’ radars, pick your tools of the trade, and launch your attacks where the enemy presence is thinner. The approach you take to a situation will play a big part in the outcome.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_03.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Plan</h2></strong>Once you have taken an island you will need to exploit and defend the resources it provides. Ensuring these supply lines remain open will be key to your survival. Think ahead.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_06.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">Teamwork</h2></strong>Make the most of different unit types synergies and create combined arms assaults to efficiently win battles. On top of that, get into each and every vehicle and take part in the action!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/clip_01.gif?t=1679068096\" /><br><strong><h2 class=\"bb_tag\">An illustrious heritage</h2></strong>Carrier Command is an ’80s strategy classic well known for its unique blend of strategy and vehicle simulation. The legend is back!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1489630/extras/header_small_steam.jpg?t=1679068096\" />",
+      "short_description": "Carrier Command 2 is the real-time strategy game that puts you in command of a futuristic carrier capable of deploying a vast array of aircraft and amphibious units. Compete against AI or human players and hop into every single vehicle to take matters into your own hands!",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/header_alt_assets_4.jpg?t=1679068096",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/capsule_231x87_alt_assets_4.jpg?t=1679068096",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/capsule_184x69_alt_assets_4.jpg?t=1679068096",
+      "website": "https://www.microprose.com/games/carrier-command-2/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> Intel Core i5-4440 / AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 6000 / GeForce 550 / AMD R7 250 (AMD Radeon HD 7750)<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>VR Support:</strong> SteamVR</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> Intel Core i5-6440 / Ryzen 5 2400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 870 Ti / AMD RX 550<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12+<br></li><li><strong>Processor:</strong> Intel i5 (2014 or newer)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 650M / AMD Radeon R7<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12+<br></li><li><strong>Processor:</strong> Intel i7 (2016 or newer)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R9<br></li><li><strong>Storage:</strong> 700 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "Geometa"
+      ],
+      "publishers": [
+        "MicroProse Software"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        752450
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Carrier Command 2",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 752450,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Carrier Command 2 - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_d845b3386160d5ea89accfeebe4a8cbe4fe7f6df.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_d845b3386160d5ea89accfeebe4a8cbe4fe7f6df.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_c7f530a91861ae18f45fcee10a1c1b9ede390b9f.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_c7f530a91861ae18f45fcee10a1c1b9ede390b9f.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_a5802907e9d7dab4acfc271d63934f07b10c1136.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_a5802907e9d7dab4acfc271d63934f07b10c1136.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_5e9a0fc599e507c1a74d35664a93fb5143885b4a.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_5e9a0fc599e507c1a74d35664a93fb5143885b4a.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_7b84e701fb3f414daef8697160465f5f839712e6.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_7b84e701fb3f414daef8697160465f5f839712e6.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_351d199f573ea880897294d58004f2219dfdf20f.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_351d199f573ea880897294d58004f2219dfdf20f.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_226247add6e0ef54062994762d498d0452d86151.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_226247add6e0ef54062994762d498d0452d86151.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_0257b5d07046f15c70799f123b0c745ee70a67cf.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_0257b5d07046f15c70799f123b0c745ee70a67cf.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_1faf7852787743e1275d50ded0bc48419fbe9995.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_1faf7852787743e1275d50ded0bc48419fbe9995.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_0b85fba17585ece6fe24896aa983c5899e3b63f6.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_0b85fba17585ece6fe24896aa983c5899e3b63f6.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_f51bfe797e3a745659995a76d4ec90415a02df82.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_f51bfe797e3a745659995a76d4ec90415a02df82.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_896f88b8df8e84d8e4aa2d83375898222fda0bea.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_896f88b8df8e84d8e4aa2d83375898222fda0bea.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_4b4662c68a0a249192f01a69a35a61edcd8e8b50.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_4b4662c68a0a249192f01a69a35a61edcd8e8b50.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_70dbbf58fea6dc69eafcc06a1720d3fa0494b09f.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_70dbbf58fea6dc69eafcc06a1720d3fa0494b09f.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_4b0ca6491ca718c3b13f1bfd267592c773e84f1b.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_4b0ca6491ca718c3b13f1bfd267592c773e84f1b.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_573810d83260b7ca5a3c85d914760353210809f7.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_573810d83260b7ca5a3c85d914760353210809f7.1920x1080.jpg?t=1679068096"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_80a1cde38f8bc08304ce9e15c86656a941d93595.600x338.jpg?t=1679068096",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/ss_80a1cde38f8bc08304ce9e15c86656a941d93595.1920x1080.jpg?t=1679068096"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256845992,
+          "name": "Carrier Command 2 Release Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256845992/movie.293x165.jpg?t=1628611268",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256845992/movie480_vp9.webm?t=1628611268",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256845992/movie_max_vp9.webm?t=1628611268"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256845992/movie480.mp4?t=1628611268",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256845992/movie_max.mp4?t=1628611268"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256812530,
+          "name": "Carrier Command 2 Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256812530/movie.293x165.jpg?t=1608022892",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256812530/movie480_vp9.webm?t=1608022892",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256812530/movie_max_vp9.webm?t=1608022892"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256812530/movie480.mp4?t=1608022892",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256812530/movie_max.mp4?t=1608022892"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2458
+      },
+      "achievements": {
+        "total": 32,
+        "highlighted": [
+          {
+            "name": "Down with the Ship",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/2c2d76360c85e1dccb3002a80337b03084dea275.jpg"
+          },
+          {
+            "name": "Medal of Honor",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/44cafeb62234cc17bdf57140ef715df80bee9a1b.jpg"
+          },
+          {
+            "name": "Tango Down",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/599500f710e44034b4d61ebbe2b08818a6f2c04e.jpg"
+          },
+          {
+            "name": "Maelstrom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/6d1aa2ff6c529a0f3967ace3a036c18f8dd7efdd.jpg"
+          },
+          {
+            "name": "The Best Defence",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/d126936fb4af77e0b4cb74842dc674726b3ff0c9.jpg"
+          },
+          {
+            "name": "Where are we Dropping?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/4bd3400a52377c5323645e50f4e6b27f352052f6.jpg"
+          },
+          {
+            "name": "Mass Mobilization",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/db3d7bf920b395b254cf02a51d7b0117aeae4f62.jpg"
+          },
+          {
+            "name": "Logistician",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/0a1d93a8d5e23f3599d93ddd7cb37199cc52287a.jpg"
+          },
+          {
+            "name": "Long Haul",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/1e4e8a14eb7daf18677b590e8006fa64d07f5347.jpg"
+          },
+          {
+            "name": "Friendly!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1489630/8592217a5444a79562d31084d8984f6a6e57a254.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 10, 2021"
+      },
+      "support_info": {
+        "url": "https://www.microprose.com",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/page_bg_generated_v6b.jpg?t=1679068096",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1489630/page.bg.jpg?t=1679068096",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

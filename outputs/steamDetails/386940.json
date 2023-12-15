@@ -1,0 +1,397 @@
+{
+  "386940": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Ultimate Chicken Horse",
+      "steam_appid": 386940,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        493070
+      ],
+      "detailed_description": "<h1>Join the Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2Fuch\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/386940/extras/SteamDiscordBanner_A.png?t=1700593004\" /></a></p><br><h1>About the Game</h1>Ever wish you were a wall-jumping, arrow-dodging, trap-setting horse, besting your animal pals in a race through a peril-laden obstacle course that you all built together?<br><br>Wish Granted!<br><br>Ultimate Chicken Horse is a party platformer where you and your friends build the level as you play, placing deadly traps before trying to reach the end of the level. If you can make it but your friends can't, you score points! Play online or locally with your animal buddies and experiment with a wide variety of platforms in all sorts of strange locations to find new ways to mess with your friends.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Online, cross-platform, and local play for up to 4 players<br></li><li>Unique game flow, from strategic block placement to twitch control platforming<br></li><li>18 levels with different features <br></li><li>Build and share custom levels<br></li><li>Compete for global best times on Challenge levels across all platforms<br></li><li>Huge library of blocks to create an infinite variety of levels<br></li><li>Customizable rule sets and game modes<br></li><li>Shared controller mode to play multiplayer with one controller or keyboard<br></li><li>Play as a chicken, horse, sheep, raccoon and other wonderful animals<br></li><li>Fun, cartoony art style<br></li><li>Sweet funky soundtrack<br><br><br>Please note: this is primarily a multiplayer game. Challenge levels can be created and played alone, but unlocking characters and levels requires playing one of the main game modes (like Party Mode) which are only multiplayer.</li></ul>",
+      "about_the_game": "Ever wish you were a wall-jumping, arrow-dodging, trap-setting horse, besting your animal pals in a race through a peril-laden obstacle course that you all built together?<br><br>Wish Granted!<br><br>Ultimate Chicken Horse is a party platformer where you and your friends build the level as you play, placing deadly traps before trying to reach the end of the level. If you can make it but your friends can't, you score points! Play online or locally with your animal buddies and experiment with a wide variety of platforms in all sorts of strange locations to find new ways to mess with your friends.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Online, cross-platform, and local play for up to 4 players<br></li><li>Unique game flow, from strategic block placement to twitch control platforming<br></li><li>18 levels with different features <br></li><li>Build and share custom levels<br></li><li>Compete for global best times on Challenge levels across all platforms<br></li><li>Huge library of blocks to create an infinite variety of levels<br></li><li>Customizable rule sets and game modes<br></li><li>Shared controller mode to play multiplayer with one controller or keyboard<br></li><li>Play as a chicken, horse, sheep, raccoon and other wonderful animals<br></li><li>Fun, cartoony art style<br></li><li>Sweet funky soundtrack<br><br><br>Please note: this is primarily a multiplayer game. Challenge levels can be created and played alone, but unlocking characters and levels requires playing one of the main game modes (like Party Mode) which are only multiplayer.</li></ul>",
+      "short_description": "Ultimate Chicken Horse is a party platformer game where you build the level as you play, placing traps and hazards to screw your friends over, but trying not to screw yourself.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Swedish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Czech<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“PAX Game of Show: Ultimate Chicken Horse”<br><a href=\"https://twitter.com/alexarayc/status/638547074644967428\" target=\"_blank\" rel=\"\"  >Alexa Ray Corriea - GameSpot</a><br><br>“An early front-runner for game of 2016”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.eurogamer.net%2Farticles%2F2016-02-02-ultimate-chicken-horse-is-my-early-frontrunner-for-game-of-2016\" target=\"_blank\" rel=\" noopener\"  >Jeffrey Matulef - EuroGamer</a><br><br>“[One] of the most promising local multiplayer games I've tried since the likes of Towerfall”<br><a href=\"http://www.pcgamer.com/sabotage-your-friends-and-probably-yourself-in-ultimate-chicken-horse/\" target=\"_blank\" rel=\"\"  >Tom Marks - PC Gamer</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/386940/header.jpg?t=1700593004",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_231x87.jpg?t=1700593004",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/386940/capsule_184x69.jpg?t=1700593004",
+      "website": "http://www.ultimatechickenhorse.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM  Intel HD 4000 / GeForce 200  Series / Radeon HD 4000 Series<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> Dual Core 2.3 GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.8+<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.8+<br></li><li><strong>Processor:</strong> Dual Core 2.3 GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS , Ubuntu 12.04+ or comparable<br></li><li><strong>Processor:</strong> 1.5GHZ +<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS , Ubuntu 12.04+ or comparable<br></li><li><strong>Processor:</strong> Dual Core 2.3 GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1024 MB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Broadband internet is required for online play.</li></ul>"
+      },
+      "legal_notice": "© 2023 Clever Endeavour Games",
+      "developers": [
+        "Clever Endeavour Games"
+      ],
+      "publishers": [
+        "Clever Endeavour Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        73106,
+        340444
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Ultimate Chicken Horse",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 73106,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Ultimate Chicken Horse - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            },
+            {
+              "packageid": 340444,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Ultimate Chicken Horse - Commercial License - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 37,
+          "description": "Shared/Split Screen PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_37241b90656a823b63934ee996bb81efd9fc8468.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_37241b90656a823b63934ee996bb81efd9fc8468.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_808712896e499b291b913abf5cf30c736f0d6ea0.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_808712896e499b291b913abf5cf30c736f0d6ea0.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_eebaadf226741a95895e07edebab32b9416aa20b.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_eebaadf226741a95895e07edebab32b9416aa20b.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_c69d36aea0cc8e9a6168734104efdd34ef14ebd4.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_c69d36aea0cc8e9a6168734104efdd34ef14ebd4.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_686fa20defe8aef5068db8237c5c25b1ce5258f9.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_686fa20defe8aef5068db8237c5c25b1ce5258f9.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_61edb3f0e1956596523b5870279233246730f091.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_61edb3f0e1956596523b5870279233246730f091.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_0446c14aabed53206fbe493e5650d30ea73ae563.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_0446c14aabed53206fbe493e5650d30ea73ae563.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_7e7ebc6e52e020afab1e692d7355cc1402e9eb7b.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_7e7ebc6e52e020afab1e692d7355cc1402e9eb7b.1920x1080.jpg?t=1700593004"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_a64a14eb4daa04c1ba2c3ab6fc1625ef5cdfe19b.600x338.jpg?t=1700593004",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/386940/ss_a64a14eb4daa04c1ba2c3ab6fc1625ef5cdfe19b.1920x1080.jpg?t=1700593004"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256661425,
+          "name": "Ultimate Chicken Horse Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256661425/movie.293x165.jpg?t=1692053208",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256661425/movie480_vp9.webm?t=1692053208",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256661425/movie_max_vp9.webm?t=1692053208"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256661425/movie480.mp4?t=1692053208",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256661425/movie_max.mp4?t=1692053208"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256934213,
+          "name": "Shellebration Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256934213/movie.293x165.jpg?t=1692053212",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934213/movie480_vp9.webm?t=1692053212",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934213/movie_max_vp9.webm?t=1692053212"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256934213/movie480.mp4?t=1692053212",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256934213/movie_max.mp4?t=1692053212"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256850682,
+          "name": "Hippo-Party-Plus Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256850682/movie.293x165.jpg?t=1692053216",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256850682/movie480_vp9.webm?t=1692053216",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256850682/movie_max_vp9.webm?t=1692053216"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256850682/movie480.mp4?t=1692053216",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256850682/movie_max.mp4?t=1692053216"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256776147,
+          "name": "A-cobra-tic Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776147/movie.293x165.jpg?t=1692053220",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776147/movie480.webm?t=1692053220",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776147/movie_max.webm?t=1692053220"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776147/movie480.mp4?t=1692053220",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776147/movie_max.mp4?t=1692053220"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256744489,
+          "name": "Transformidable Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256744489/movie.293x165.jpg?t=1692053224",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256744489/movie480.webm?t=1692053224",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256744489/movie_max.webm?t=1692053224"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256744489/movie480.mp4?t=1692053224",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256744489/movie_max.mp4?t=1692053224"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256731813,
+          "name": "Chimply Amazing Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256731813/movie.293x165.jpg?t=1692053228",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256731813/movie480.webm?t=1692053228",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256731813/movie_max.webm?t=1692053228"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256731813/movie480.mp4?t=1692053228",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256731813/movie_max.mp4?t=1692053228"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256703402,
+          "name": "Elephantastic Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256703402/movie.293x165.jpg?t=1692053232",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256703402/movie480.webm?t=1692053232",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256703402/movie_max.webm?t=1692053232"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256703402/movie480.mp4?t=1692053232",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256703402/movie_max.mp4?t=1692053232"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256674186,
+          "name": "Level Sharing Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256674186/movie.293x165.jpg?t=1692053235",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256674186/movie480.webm?t=1692053235",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256674186/movie_max.webm?t=1692053235"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256674186/movie480.mp4?t=1692053235",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256674186/movie_max.mp4?t=1692053235"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 29218
+      },
+      "achievements": {
+        "total": 31,
+        "highlighted": [
+          {
+            "name": "Gettin' the Hang of It",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/45c9322e679083ec61b8dfeef88e1a2f50ee02e7.jpg"
+          },
+          {
+            "name": "Seasoned Vet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/9682511728c8b550ec9bf5124dbbbba993969ab1.jpg"
+          },
+          {
+            "name": "Ultimate Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/66887e25f55ab1970ba071af97c2bf050c7520c0.jpg"
+          },
+          {
+            "name": "Techie",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/bbed9b926bd8e8c5af88d5d27216de72c4d4da28.jpg"
+          },
+          {
+            "name": "Showoff",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/0aa0b4dd8b9bb49928635008b7ed09d7c5cdbd15.jpg"
+          },
+          {
+            "name": "Takin' On the World!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/1f04eb18188f905e0aa21165d813e840195d3259.jpg"
+          },
+          {
+            "name": "Trappist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/f01cd9aacbc2ee372837b75d040f9c241dd92b1b.jpg"
+          },
+          {
+            "name": "Threat to Public Security",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/a6f2dced2a7579e92c72e5a553ebd87fcc366918.jpg"
+          },
+          {
+            "name": "Young Explorer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/d9cc3b320e5c6f4f64e0925bc0cfcc5ba8f7d18d.jpg"
+          },
+          {
+            "name": "Magellan",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/386940/8079bd877d9bc85b759eed08cc2166a374cdef1b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 4, 2016"
+      },
+      "support_info": {
+        "url": "http://www.cleverendeavourgames.com",
+        "email": "support@clevendeav.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/386940/page_bg_generated_v6b.jpg?t=1700593004",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/386940/page.bg.jpg?t=1700593004",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "526870": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Satisfactory",
+      "steam_appid": 526870,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Join our Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fsatisfactory\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/526870/extras/Discord_02.jpg?t=1701857353\" /></a></p><br><h1>About the Game</h1>Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!<h2 class=\"bb_tag\">Construct</h2>Conquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use.<h2 class=\"bb_tag\">Automate</h2>Construct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour!<h2 class=\"bb_tag\">Explore &amp; Exploit</h2>Venture on expeditions to search for new materials and be sure to put everything to good use. Nature is yours to harvest! You have vehicles, jetpacks, jump pads and more at your disposal to make the exploration easier. Equip the proper safety gear as well, just in case you run into the local wildlife.<h2 class=\"bb_tag\">FEATURES</h2>•\t<strong>Open World: </strong>Explore the huge (30km2) alien planet that is Massage-2(AB)b with its unique fauna and creatures.<br>•\t<strong>Co-Op:</strong> Build a factory yourself or share the joy with your friends. Up to you!<br>•\t<strong>Factory Building:</strong> Experience building a huge factory from a first-person perspective. Automate and optimize it to perfection for your personal satisfaction.<br>•\t<strong>Customization:</strong> Customize your factory to your own liking. Build at high altitudes or over wide plains, there is almost no limits in the making of your tailor-made factory. <br>•\t<strong>Vehicles:</strong> Travel the world with class. Use jump pads, factory carts, jetpacks, hypertubes, trucks or trains. The choice is yours!",
+      "about_the_game": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!<h2 class=\"bb_tag\">Construct</h2>Conquer nature by building massive factories across the land. Expand wherever and however you want. The planet is filled with valuable natural resources just waiting to be utilized. As an employee of FICSIT it’s your duty to make sure they come to good use.<h2 class=\"bb_tag\">Automate</h2>Construct your factories with gracious perfection or build intricate webs of conveyor belts to supply all your needs. Automate trucks and trains to reach your faraway outposts and be sure to handle liquids properly by transporting them in pipes. It’s all about minimizing manual labour!<h2 class=\"bb_tag\">Explore &amp; Exploit</h2>Venture on expeditions to search for new materials and be sure to put everything to good use. Nature is yours to harvest! You have vehicles, jetpacks, jump pads and more at your disposal to make the exploration easier. Equip the proper safety gear as well, just in case you run into the local wildlife.<h2 class=\"bb_tag\">FEATURES</h2>•\t<strong>Open World: </strong>Explore the huge (30km2) alien planet that is Massage-2(AB)b with its unique fauna and creatures.<br>•\t<strong>Co-Op:</strong> Build a factory yourself or share the joy with your friends. Up to you!<br>•\t<strong>Factory Building:</strong> Experience building a huge factory from a first-person perspective. Automate and optimize it to perfection for your personal satisfaction.<br>•\t<strong>Customization:</strong> Customize your factory to your own liking. Build at high altitudes or over wide plains, there is almost no limits in the making of your tailor-made factory. <br>•\t<strong>Vehicles:</strong> Travel the world with class. Use jump pads, factory carts, jetpacks, hypertubes, trucks or trains. The choice is yours!",
+      "short_description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Czech, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/526870/header_alt_assets_1.jpg?t=1701857353",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/526870/capsule_231x87.jpg?t=1701857353",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/526870/capsule_184x69.jpg?t=1701857353",
+      "website": "https://www.coffeestainstudios.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or later (64-Bit)<br></li><li><strong>Processor:</strong> i5-3570 3.4 GHz 4 Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1650/GTX 1050-ti, or AMD RX 470/RX 570, or equivalent performance &amp; VRAM<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required for multiplayer. The game is in early access and minimum requirements may change.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> TBD<br></li><li><strong>Processor:</strong> TBD<br></li><li><strong>Graphics:</strong> TBD<br></li><li><strong>Storage:</strong> TBD MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "©2020 Coffee Stain Studios. Developed by Coffee Stain Studios. Published by Coffee Stain Publishing. All rights reserved.",
+      "developers": [
+        "Coffee Stain Studios"
+      ],
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        126218
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Satisfactory",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 126218,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Satisfactory - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_324fb3d8774ef3eadba136d4eae8c01cbdf14a83.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_324fb3d8774ef3eadba136d4eae8c01cbdf14a83.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_dcb79211f2f9bac1e6a2d85aad132fc3ae909001.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_dcb79211f2f9bac1e6a2d85aad132fc3ae909001.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_3f47e401fc3e09fd86500d2026da954de08a015b.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_3f47e401fc3e09fd86500d2026da954de08a015b.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_cff8791f06839134d09f4c865758193a7023b92f.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_cff8791f06839134d09f4c865758193a7023b92f.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_1f58d45a69e37ae6b00074a9dcb2a00e3519917d.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_1f58d45a69e37ae6b00074a9dcb2a00e3519917d.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_969cc0ee250048267ba4cbd6187dbeb93cfd285b.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_969cc0ee250048267ba4cbd6187dbeb93cfd285b.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_6450a4a0f2db290ae303bf0eeb8555f3b086ec87.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_6450a4a0f2db290ae303bf0eeb8555f3b086ec87.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_249d1e7cfd758ae871e5697c615b464f42d6a11e.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_249d1e7cfd758ae871e5697c615b464f42d6a11e.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_a7ceb0f5ad559e41dc1be9cb1c8fee82ad1a5f81.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_a7ceb0f5ad559e41dc1be9cb1c8fee82ad1a5f81.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_30e33fceec4d847999546ffe887b4a3c2ecfdcae.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_30e33fceec4d847999546ffe887b4a3c2ecfdcae.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_9f80f296300ef80bb5dee662fc92f8c33fb36102.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_9f80f296300ef80bb5dee662fc92f8c33fb36102.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_92d091111a80bc96dca9a7d0afaa5ae51450bee9.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_92d091111a80bc96dca9a7d0afaa5ae51450bee9.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_e6f2ab3fe8cdfe2080e4e148fbe4c151bd927409.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_e6f2ab3fe8cdfe2080e4e148fbe4c151bd927409.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_7ecd31e76adf3bddbe16f54e1e355eb0b326c5c7.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_7ecd31e76adf3bddbe16f54e1e355eb0b326c5c7.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_82146a9623d49f38747e83223245c91a4cb71f32.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_82146a9623d49f38747e83223245c91a4cb71f32.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_212c0508dea450c249bbfd84c82a37628196a055.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_212c0508dea450c249bbfd84c82a37628196a055.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_5edeaa7deb14f33b2791ba0dc4c448bd757bf76d.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_5edeaa7deb14f33b2791ba0dc4c448bd757bf76d.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_6c410d20a203c68554c3b1b25e686c9fa7506070.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_6c410d20a203c68554c3b1b25e686c9fa7506070.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_b3609e0de9c0af3953b2c53bb9e7a741ad924948.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_b3609e0de9c0af3953b2c53bb9e7a741ad924948.1920x1080.jpg?t=1701857353"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_a507334cd356d86140e8386901f2ff61f2336680.600x338.jpg?t=1701857353",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/526870/ss_a507334cd356d86140e8386901f2ff61f2336680.1920x1080.jpg?t=1701857353"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256906919,
+          "name": "Update 6",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256906919/movie.293x165.jpg?t=1663699708",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256906919/movie480_vp9.webm?t=1663699708",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256906919/movie_max_vp9.webm?t=1663699708"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256906919/movie480.mp4?t=1663699708",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256906919/movie_max.mp4?t=1663699708"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256861712,
+          "name": "Update 5",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256861712/movie.293x165.jpg?t=1637686916",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256861712/movie480_vp9.webm?t=1637686916",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256861712/movie_max_vp9.webm?t=1637686916"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256861712/movie480.mp4?t=1637686916",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256861712/movie_max.mp4?t=1637686916"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256830300,
+          "name": "Update 4",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256830300/movie.293x165.jpg?t=1618397318",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256830300/movie480_vp9.webm?t=1618397318",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256830300/movie_max_vp9.webm?t=1618397318"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256830300/movie480.mp4?t=1618397318",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256830300/movie_max.mp4?t=1618397318"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256788184,
+          "name": "Snutt VO",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256788184/movie.293x165.jpg?t=1591635898",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256788184/movie480_vp9.webm?t=1591635898",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256788184/movie_max_vp9.webm?t=1591635898"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256788184/movie480.mp4?t=1591635898",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256788184/movie_max.mp4?t=1591635898"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256774877,
+          "name": "Update 3",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256774877/movie.293x165.jpg?t=1581455310",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256774877/movie480.webm?t=1581455310",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256774877/movie_max.webm?t=1581455310"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256774877/movie480.mp4?t=1581455310",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256774877/movie_max.mp4?t=1581455310"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256719496,
+          "name": "Announcement",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256719496/movie.293x165.jpg?t=1581455130",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719496/movie480.webm?t=1581455130",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719496/movie_max.webm?t=1581455130"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719496/movie480.mp4?t=1581455130",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719496/movie_max.mp4?t=1581455130"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 127914
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 8, 2020"
+      },
+      "support_info": {
+        "url": "http://www.coffeestainstudios.com",
+        "email": "support@satisfactorygame.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/526870/page_bg_generated_v6b.jpg?t=1701857353",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/526870/page.bg.jpg?t=1701857353",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

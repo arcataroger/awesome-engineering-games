@@ -1,0 +1,262 @@
+{
+  "860890": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Factory Town",
+      "steam_appid": 860890,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1174080
+      ],
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/860890/extras/Factory_Town_Gif.gif?t=1683147568\" /><br><br>Your goal is to build a thriving village in the wilderness, supplied with a wide selection of food, clothing, tools, books, and magical artifacts that you produce from raw materials. <br><br>Worker units can help you move goods between production buildings and markets, but as much workload as possible will need to be automated using mechanical transportation systems. Use a combination of gravity-powered chutes, conveyor belts, railroads, pipes, sorters and filters to route items around the map so they can be processed and sold.<br><br>As your earnings rise, you can research new technology to improve your supply chains and grow your civilization. There's no enemies or starvation to worry about, so you can enjoy a stress-free logistics challenge to maximize production and happiness.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/860890/extras/Line_Break_Items.png?t=1683147568\" /><br><br>- Play through eight built-in campaign maps with unique goals, or start your own customized/random map from scratch<br>- Build complex logical systems with gates, triggers, and filters to make sure resources get to the right destination<br>- Steam Workshop features let you customize rules &amp; even create new items<br>- Unlock magical technology to boost your production buildings to absurd output rates<br>- Terrain sculpting tools to shape the world to suit your needs<br>- Creative/Sandbox mode let you build whatever kind of huge factory you want",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/860890/extras/Factory_Town_Gif.gif?t=1683147568\" /><br><br>Your goal is to build a thriving village in the wilderness, supplied with a wide selection of food, clothing, tools, books, and magical artifacts that you produce from raw materials. <br><br>Worker units can help you move goods between production buildings and markets, but as much workload as possible will need to be automated using mechanical transportation systems. Use a combination of gravity-powered chutes, conveyor belts, railroads, pipes, sorters and filters to route items around the map so they can be processed and sold.<br><br>As your earnings rise, you can research new technology to improve your supply chains and grow your civilization. There's no enemies or starvation to worry about, so you can enjoy a stress-free logistics challenge to maximize production and happiness.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/860890/extras/Line_Break_Items.png?t=1683147568\" /><br><br>- Play through eight built-in campaign maps with unique goals, or start your own customized/random map from scratch<br>- Build complex logical systems with gates, triggers, and filters to make sure resources get to the right destination<br>- Steam Workshop features let you customize rules &amp; even create new items<br>- Unlock magical technology to boost your production buildings to absurd output rates<br>- Terrain sculpting tools to shape the world to suit your needs<br>- Creative/Sandbox mode let you build whatever kind of huge factory you want",
+      "short_description": "Build, automate, and optimize a giant factory on 3D terrain using conveyor belts, trains, chutes, pipes, and airships. Sell your goods to nearby villages to expand their borders, increase happiness, and unlock even better technology!",
+      "supported_languages": "English, French, Spanish - Spain, Simplified Chinese, German, Portuguese - Portugal, Russian, Traditional Chinese, Japanese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/860890/header.jpg?t=1683147568",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/860890/capsule_231x87.jpg?t=1683147568",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/860890/capsule_184x69.jpg?t=1683147568",
+      "website": "http://82apps.com/factorytown",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64-bit<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2021 82 Apps, LLC",
+      "developers": [
+        "Erik Asmussen"
+      ],
+      "publishers": [
+        "Erik Asmussen"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        271092
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Factory Town",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 271092,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Factory Town - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a8d069964ae618c42d207935ede31f6c46408025.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a8d069964ae618c42d207935ede31f6c46408025.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_f948888e011d389bd0b6f7d8814f0bc532a57e2b.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_f948888e011d389bd0b6f7d8814f0bc532a57e2b.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_9fdf47d5c0d60a1e9d1d646269d82e0c502d68f9.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_9fdf47d5c0d60a1e9d1d646269d82e0c502d68f9.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_03e78bc0bd0eae05fb989d573b6af64f185b5aca.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_03e78bc0bd0eae05fb989d573b6af64f185b5aca.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_5a985f62010aec07cf8d868c8262568ea3a69c35.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_5a985f62010aec07cf8d868c8262568ea3a69c35.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a6ca418eeeb475f9d0330cb26b605e54b096129c.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a6ca418eeeb475f9d0330cb26b605e54b096129c.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_dcc22774336d8082712afcbcf3e6e28f8e0963e3.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_dcc22774336d8082712afcbcf3e6e28f8e0963e3.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_002beecdba1dcd44d930180881b34d59b699188f.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_002beecdba1dcd44d930180881b34d59b699188f.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a33218d0552bcd819e6e0aa0f579bc853f628777.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_a33218d0552bcd819e6e0aa0f579bc853f628777.1920x1080.jpg?t=1683147568"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_b40801ab3874a3b8315207686ab502bf8ca3c468.600x338.jpg?t=1683147568",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/860890/ss_b40801ab3874a3b8315207686ab502bf8ca3c468.1920x1080.jpg?t=1683147568"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256743642,
+          "name": "Cinematic Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256743642/movie.293x165.jpg?t=1683147558",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256743642/movie480.webm?t=1683147558",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256743642/movie_max.webm?t=1683147558"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256743642/movie480.mp4?t=1683147558",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256743642/movie_max.mp4?t=1683147558"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256860577,
+          "name": "Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256860577/movie.293x165.jpg?t=1683147483",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256860577/movie480_vp9.webm?t=1683147483",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256860577/movie_max_vp9.webm?t=1683147483"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256860577/movie480.mp4?t=1683147483",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256860577/movie_max.mp4?t=1683147483"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 3760
+      },
+      "achievements": {
+        "total": 32,
+        "highlighted": [
+          {
+            "name": "Omnistone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/0a251961bc700d98a4b278c821ecea76a83dafc4.jpg"
+          },
+          {
+            "name": "Fire Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/91fdaf41b1cf96a25584ca2129940b1329d9c4cd.jpg"
+          },
+          {
+            "name": "Water Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/f90a76a5d196206d368e9c88fc7b3de89e7ba244.jpg"
+          },
+          {
+            "name": "Earth Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/09a8197ce12447ed5541509ff7fa15a1bf0855a0.jpg"
+          },
+          {
+            "name": "Air Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/d9566362c6034601910cdbbdb81d3c55fdff37fa.jpg"
+          },
+          {
+            "name": "Mana Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/7137a1d619ddada3131228de2f352e9b6289039c.jpg"
+          },
+          {
+            "name": "Berry Cake",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/82d9b3fd46926baab03dc0ecfb58eec436a4892e.jpg"
+          },
+          {
+            "name": "Fish Stew",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/9f9cc3509cca68be837996e3382d51e353142620.jpg"
+          },
+          {
+            "name": "Meat Stew",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/de36d9aff1c7b617baac1b8b9612b1b3c0022226.jpg"
+          },
+          {
+            "name": "Veggie Stew",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/860890/c8b12c4312800ed57604d0ca51fc4f179404a1a9.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 17, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@82apps.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/860890/page_bg_generated_v6b.jpg?t=1683147568",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/860890/page.bg.jpg?t=1683147568",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

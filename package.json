@@ -9,7 +9,8 @@
     "url": "https://github.com/arcataroger/awesome-engineering-games.md.git"
   },
   "scripts": {
-    "parse-to-json": "esrun scripts/parse-to-json.ts"
+    "parse-to-json": "esrun scripts/parse-to-json.ts",
+    "fetch-details": "esrun scripts/fetch-details-from-steam.ts"
   },
   "private": true,
   "devDependencies": {
@@ -19,6 +20,7 @@
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-gfm": "^3.0.0",
     "mdast-zone": "^6.1.0",
-    "micromark-extension-gfm": "^3.0.0"
+    "micromark-extension-gfm": "^3.0.0",
+    "p-queue": "^8.0.1"
   }
 }

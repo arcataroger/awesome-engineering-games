@@ -1,0 +1,238 @@
+{
+  "1062090": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Timberborn",
+      "steam_appid": 1062090,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1752670
+      ],
+      "detailed_description": "<h1>JOIN OUR COMMUNITY</h1><p>Join <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdiscord.gg%2Ftimberborn\" target=\"_blank\" rel=\" noopener\"  >our Discord server</a> to share your feedback and discuss all things Timberborn.</p><br><h1>About the Game</h1>Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last.<h2 class=\"bb_tag\">Beaver societies</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-1-Factions.gif?t=1698941902\" /><br><br>Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has a unique style, buildings, and gameplay traits. Choose what fits your playstyle!<h2 class=\"bb_tag\">Wet and dry seasons</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-2-WetDry.gif?t=1698941902\" /><br><br>Prepare your settlement for recurring droughts. Stockpile on food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable.<h2 class=\"bb_tag\">River control</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-3-RiverControl.gif?t=1698941902\" /><br><br>Beavers of the future have millennia of experience in water engineering. Put up dams and floodgates, dig canals with explosives, and redirect rivers to bring life back to the wasteland. Just be careful with that dynamite.<h2 class=\"bb_tag\">Lumberpunk</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-4-Lumberpunk.gif?t=1698941902\" /><br><br>Turn timber into sophisticated machinery – from water wheels and sawmills to engines and mechanized pumps. Wood is the core resource in Timberborn, but the most advanced structures require metal. To find it, send your scavengers to the ruins of the old world.<h2 class=\"bb_tag\">Bots</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/bots_u3.gif?t=1698941902\" /><br><br>Supercharge your colony with mechanized beavers! Power them up, maintain them, and you'll get extra efficient workers for almost any job. They will literally move mountains for you thanks to their unique ability to put up land blocks.<h2 class=\"bb_tag\">Vertical architecture</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-5-Verticality.gif?t=1698941902\" /><br><br>Create a thriving beaver settlement using a vertical architecture system. Space is limited, so stack lodges and workshops on top of each other, construct platforms and bridges, and set up a power grid for your growing population.<h2 class=\"bb_tag\">Day and night cycle</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/new-day-night.gif?t=1698941902\" /><br><br>Build a multi-district city with efficient production chains and nighttime activities. Follow the lives of individually simulated inhabitants throughout their day and celebrate when the next generation is born!<h2 class=\"bb_tag\">Wellbeing</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-7-Wellbeing.gif?t=1698941902\" /><br><br>An evolved beaver's lifestyle is not just &quot;work, sleep and chomp on wood&quot;. Satisfy the needs of your rodents with a balanced diet, decorations, monuments, and more – on top of keeping the colony alive.<h2 class=\"bb_tag\">Map editor</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-8-MapEditor.gif?t=1698941902\" /><br><br>Play on one of the included maps or create your own and share it with the community! With hills of different heights, ruins scattered in the desert, and all life depending on access to water, each map poses a different challenge.<h2 class=\"bb_tag\">...and more!</h2>Ever since the project started, we have been improving the game and adding new features based on community feedback. We’re making the world’s first beaver city-builder so if you want to carve it with us, hop into Timberborn Early Access!",
+      "about_the_game": "Mankind turned Earth into a dry wasteland and perished, but some species adapted and evolved. Pick one of the beaver factions and see how long your colony can last.<h2 class=\"bb_tag\">Beaver societies</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-1-Factions.gif?t=1698941902\" /><br><br>Control one of two beaver factions: the nature-friendly Folktails or the industrious Iron Teeth. Each faction has a unique style, buildings, and gameplay traits. Choose what fits your playstyle!<h2 class=\"bb_tag\">Wet and dry seasons</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-2-WetDry.gif?t=1698941902\" /><br><br>Prepare your settlement for recurring droughts. Stockpile on food and keep fields and forests alive even after rivers dry up. Rely on both natural water sources and artificial irrigation to keep the land arable.<h2 class=\"bb_tag\">River control</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-3-RiverControl.gif?t=1698941902\" /><br><br>Beavers of the future have millennia of experience in water engineering. Put up dams and floodgates, dig canals with explosives, and redirect rivers to bring life back to the wasteland. Just be careful with that dynamite.<h2 class=\"bb_tag\">Lumberpunk</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-4-Lumberpunk.gif?t=1698941902\" /><br><br>Turn timber into sophisticated machinery – from water wheels and sawmills to engines and mechanized pumps. Wood is the core resource in Timberborn, but the most advanced structures require metal. To find it, send your scavengers to the ruins of the old world.<h2 class=\"bb_tag\">Bots</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/bots_u3.gif?t=1698941902\" /><br><br>Supercharge your colony with mechanized beavers! Power them up, maintain them, and you'll get extra efficient workers for almost any job. They will literally move mountains for you thanks to their unique ability to put up land blocks.<h2 class=\"bb_tag\">Vertical architecture</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-5-Verticality.gif?t=1698941902\" /><br><br>Create a thriving beaver settlement using a vertical architecture system. Space is limited, so stack lodges and workshops on top of each other, construct platforms and bridges, and set up a power grid for your growing population.<h2 class=\"bb_tag\">Day and night cycle</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/new-day-night.gif?t=1698941902\" /><br><br>Build a multi-district city with efficient production chains and nighttime activities. Follow the lives of individually simulated inhabitants throughout their day and celebrate when the next generation is born!<h2 class=\"bb_tag\">Wellbeing</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-7-Wellbeing.gif?t=1698941902\" /><br><br>An evolved beaver's lifestyle is not just &quot;work, sleep and chomp on wood&quot;. Satisfy the needs of your rodents with a balanced diet, decorations, monuments, and more – on top of keeping the colony alive.<h2 class=\"bb_tag\">Map editor</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1062090/extras/Timberborn-8-MapEditor.gif?t=1698941902\" /><br><br>Play on one of the included maps or create your own and share it with the community! With hills of different heights, ruins scattered in the desert, and all life depending on access to water, each map poses a different challenge.<h2 class=\"bb_tag\">...and more!</h2>Ever since the project started, we have been improving the game and adding new features based on community feedback. We’re making the world’s first beaver city-builder so if you want to carve it with us, hop into Timberborn Early Access!",
+      "short_description": "Humans are long gone. Will your lumberpunk beavers do any better? A city-building game featuring ingenious animals, vertical architecture, river control, and deadly droughts. Contains high amounts of wood.",
+      "supported_languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Japanese, Korean, Ukrainian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/header.jpg?t=1698941902",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/capsule_231x87.jpg?t=1698941902",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/capsule_184x69.jpg?t=1698941902",
+      "website": "https://mechanistry.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7 or newer<br></li><li><strong>Processor:</strong> 2-core 1.7 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660, Radeon RX 460 or similar<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7 or newer<br></li><li><strong>Processor:</strong> 4-core 2.9 GHz or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce RTX 2070, Radeon RX 5700 or similar<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13 or newer<br></li><li><strong>Processor:</strong> 2-core 1.7 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 560X or better<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13 or newer<br></li><li><strong>Processor:</strong> 4-core 2.9 GHz or better<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 5500 XT or eGPU<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Mechanistry"
+      ],
+      "publishers": [
+        "Mechanistry"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        355119,
+        953962
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Timberborn",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 355119,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Timberborn - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            },
+            {
+              "packageid": 953962,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Timberborn - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_174a85bddcf29563cde1fdfaaa7f232f329743a2.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_174a85bddcf29563cde1fdfaaa7f232f329743a2.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_11213143cfbed405f5af79512f9da4e6f1b11244.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_11213143cfbed405f5af79512f9da4e6f1b11244.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_03081fc3ea7e6e6258629f0e8093baf572f2e600.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_03081fc3ea7e6e6258629f0e8093baf572f2e600.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_06991786e6e0fa8a481f6089ec55cb3f9d133d82.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_06991786e6e0fa8a481f6089ec55cb3f9d133d82.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_ea097048ad42656a849ea17d6f34baeff0e314e3.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_ea097048ad42656a849ea17d6f34baeff0e314e3.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_3ac099f8e27288278655f6193a4e7a73a48e18bd.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_3ac099f8e27288278655f6193a4e7a73a48e18bd.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_c4f665aca34497c67d13f5362ed98c147131d6eb.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_c4f665aca34497c67d13f5362ed98c147131d6eb.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_d52b49570bde2b0afd53aae486c5eed2eebe30c3.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_d52b49570bde2b0afd53aae486c5eed2eebe30c3.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_56952368a7a8e0848d62d56528c00e96c67a1492.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_56952368a7a8e0848d62d56528c00e96c67a1492.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_93bce463f118aa62fbd3b624da87c2b934fbceb1.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_93bce463f118aa62fbd3b624da87c2b934fbceb1.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_b266c717f58758c4c90b321709f6f122618a4c9f.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_b266c717f58758c4c90b321709f6f122618a4c9f.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_8b471e0b16b836f4d6cd185f08fb941471b1eda9.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_8b471e0b16b836f4d6cd185f08fb941471b1eda9.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_1376ad8e490d92ecb2af401d29bcd33293073582.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_1376ad8e490d92ecb2af401d29bcd33293073582.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_7eaee75dcd23f353b86b5930fad00e1f7a55c444.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_7eaee75dcd23f353b86b5930fad00e1f7a55c444.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_d50a427aa48f6c846e64628e73a92d5aaed8ff4f.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_d50a427aa48f6c846e64628e73a92d5aaed8ff4f.1920x1080.jpg?t=1698941902"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_eb7db559e04259f9315a0719e3997e61456d17ea.600x338.jpg?t=1698941902",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/ss_eb7db559e04259f9315a0719e3997e61456d17ea.1920x1080.jpg?t=1698941902"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256968908,
+          "name": "Timberborn - Early Access trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256968908/movie.293x165.jpg?t=1695023503",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256968908/movie480_vp9.webm?t=1695023503",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256968908/movie_max_vp9.webm?t=1695023503"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256968908/movie480.mp4?t=1695023503",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256968908/movie_max.mp4?t=1695023503"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 20355
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 15, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@mechanistry.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/page_bg_generated_v6b.jpg?t=1698941902",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1062090/page.bg.jpg?t=1698941902",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

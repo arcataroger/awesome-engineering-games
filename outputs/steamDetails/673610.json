@@ -1,0 +1,341 @@
+{
+  "673610": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Airport CEO",
+      "steam_appid": 673610,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1203790,
+        1525630,
+        1649580,
+        1844590,
+        2555540
+      ],
+      "detailed_description": "<strong>Airport CEO</strong> is a tycoon and management game where you take the seat as a CEO of your own airport. You will build the airport’s infrastructure with everything from runways and taxiways, gates and aprons to constructing terminals with check-in, security, restaurants and shops. You will manage the business perspective of the airport by hiring employees and executives, making deals with airline companies and making sure that ends meet by keeping an eye on budget and resources. <br><br>You will have to cater to the passengers by keeping waiting time to a minimum, by having friendly and helpful staff around and by making passengers feel secure, keeping any potential incidents at bay; a happy passenger is a spending passenger. Hopefully you won’t run into any problems such as stressed out employee, equipment breakdowns or bad weather which can cause massive delays or even emergency landings. You will be held accountable when things go wrong and filthy rich when things go right.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/the_gameplay.png?t=1696770408\" /><h2 class=\"bb_tag\">Running an airport</h2>Your objective is to build and manage your airport to perfection by making strategic decisions, designing the optimal airport layout and ultimately making sure that your passengers and airlines are satisfied. You will need to build the entire airport from scratch including terminal foundations with floors, walls, doors and items as well as the airport infrastructure including runways, taxiways, aprons and other airport infrastructure. Everything in Airport CEO is deeply simulated and it is your job to make sure it all runs smoothly and with a positive bank account.<h2 class=\"bb_tag\">Airlines</h2>Airlines and their travelers are an essential element of Airport CEO as they consist of the main source of your airport’s income. Signing contracts with airlines bring cash-flow and passengers to your airport which in term means opportunities for receiving different service fees, as well as passenger expenditures. Airlines come in different sizes and have different requirements on your airport and the services you offer, you are responsible for not only planning the flight schedule but also for meeting and maintaining the needs. Occasionally you will need to handle emergencies and delays due to bad weather or accidents in the area, all which will put your management skills to the test.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/passengers_employees.png?t=1696770408\" /><h2 class=\"bb_tag\">Passengers</h2>Passengers in Airport CEO all have their unique personalities, needs, a background story and most importantly; a flight to catch (on time). Passengers are thoroughly simulated and their decisions, behaviors and opinions about your airport are affected by several factors. Passengers in Airport CEO, just as in real life, must wait in lines, check in, pass security and then entertain themselves until their flight is ready for boarding. Arriving passengers must find their way the baggage claim, get a hold of their bags and maybe pass a customs booth before getting on their airport transfer. Whether they’ll be able to actually catch their flight is up to you: Passengers might have a hard time finding their way around the airport so you build an information desk, passengers might get irritated because of the long security queue and waiting time so you extend its capacity, passengers might complain about the lack of fun things to do in the gate area so you build a duty-free shop or exclusive brand boutiques.<h2 class=\"bb_tag\">Employees</h2>Employees are those you rely on to keep your airport running. Just as passengers they are simulated individuals who have a mind of their own. Employees have a number of different roles and it is your job to make sure that your airport has the right and necessary work force at any time. From passenger service agents, janitors, ramp agents and mechanics, security officers to administrators and executives. The more you expand your airport’s capacity and services, the more versatile and skilled your employees have to be. When employees interact with passengers, they’ll have to be skilled at managing people and stress resistant in order to avoid making mistakes or give bad customer service.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/facilities_ceo.png?t=1696770408\" /><h2 class=\"bb_tag\">Facilities and buildings</h2>Airports are complex mega-structures with a lot of different buildings and facilities. While a small airport might not need more than a simple grass runway and a terminal, as you grow your airport you will have to expand its facilities ranging from air control towers, larger aircraft stands and taxiways to fire, weather, catering or fuel stations. As your airport grows your terminal grows with it and you will have to make sure that it is equipped with the necessary facilities that passengers are expecting. Building a terminal in Airport CEO is highly customizable where you lay out its shape and interior such floor type, walls, windows and doors. Baggage needs to be processed and transported to the same flight as its owner and its all up to you to avoid bottlenecks and by designing the ultimate airport terminal.<h2 class=\"bb_tag\">Being a CEO</h2>Data, data, data! As the acting CEO of your airport you need to be able to make difficult business decisions based on current operation. In Airport CEO you’re provided with multiple sources of information from which you can draw conclusions and manage your airport. As the CEO you will not only be responsible for the architecture of the airport but also for those working in it. Tired of planning every flight? Establish an informatics department and let an automated system do it for you! Tired of assessing the monthly budget balance? Hire a CFO which can help you cut cost and set prices. Best of luck!",
+      "about_the_game": "<strong>Airport CEO</strong> is a tycoon and management game where you take the seat as a CEO of your own airport. You will build the airport’s infrastructure with everything from runways and taxiways, gates and aprons to constructing terminals with check-in, security, restaurants and shops. You will manage the business perspective of the airport by hiring employees and executives, making deals with airline companies and making sure that ends meet by keeping an eye on budget and resources. <br><br>You will have to cater to the passengers by keeping waiting time to a minimum, by having friendly and helpful staff around and by making passengers feel secure, keeping any potential incidents at bay; a happy passenger is a spending passenger. Hopefully you won’t run into any problems such as stressed out employee, equipment breakdowns or bad weather which can cause massive delays or even emergency landings. You will be held accountable when things go wrong and filthy rich when things go right.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/the_gameplay.png?t=1696770408\" /><h2 class=\"bb_tag\">Running an airport</h2>Your objective is to build and manage your airport to perfection by making strategic decisions, designing the optimal airport layout and ultimately making sure that your passengers and airlines are satisfied. You will need to build the entire airport from scratch including terminal foundations with floors, walls, doors and items as well as the airport infrastructure including runways, taxiways, aprons and other airport infrastructure. Everything in Airport CEO is deeply simulated and it is your job to make sure it all runs smoothly and with a positive bank account.<h2 class=\"bb_tag\">Airlines</h2>Airlines and their travelers are an essential element of Airport CEO as they consist of the main source of your airport’s income. Signing contracts with airlines bring cash-flow and passengers to your airport which in term means opportunities for receiving different service fees, as well as passenger expenditures. Airlines come in different sizes and have different requirements on your airport and the services you offer, you are responsible for not only planning the flight schedule but also for meeting and maintaining the needs. Occasionally you will need to handle emergencies and delays due to bad weather or accidents in the area, all which will put your management skills to the test.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/passengers_employees.png?t=1696770408\" /><h2 class=\"bb_tag\">Passengers</h2>Passengers in Airport CEO all have their unique personalities, needs, a background story and most importantly; a flight to catch (on time). Passengers are thoroughly simulated and their decisions, behaviors and opinions about your airport are affected by several factors. Passengers in Airport CEO, just as in real life, must wait in lines, check in, pass security and then entertain themselves until their flight is ready for boarding. Arriving passengers must find their way the baggage claim, get a hold of their bags and maybe pass a customs booth before getting on their airport transfer. Whether they’ll be able to actually catch their flight is up to you: Passengers might have a hard time finding their way around the airport so you build an information desk, passengers might get irritated because of the long security queue and waiting time so you extend its capacity, passengers might complain about the lack of fun things to do in the gate area so you build a duty-free shop or exclusive brand boutiques.<h2 class=\"bb_tag\">Employees</h2>Employees are those you rely on to keep your airport running. Just as passengers they are simulated individuals who have a mind of their own. Employees have a number of different roles and it is your job to make sure that your airport has the right and necessary work force at any time. From passenger service agents, janitors, ramp agents and mechanics, security officers to administrators and executives. The more you expand your airport’s capacity and services, the more versatile and skilled your employees have to be. When employees interact with passengers, they’ll have to be skilled at managing people and stress resistant in order to avoid making mistakes or give bad customer service.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/673610/extras/facilities_ceo.png?t=1696770408\" /><h2 class=\"bb_tag\">Facilities and buildings</h2>Airports are complex mega-structures with a lot of different buildings and facilities. While a small airport might not need more than a simple grass runway and a terminal, as you grow your airport you will have to expand its facilities ranging from air control towers, larger aircraft stands and taxiways to fire, weather, catering or fuel stations. As your airport grows your terminal grows with it and you will have to make sure that it is equipped with the necessary facilities that passengers are expecting. Building a terminal in Airport CEO is highly customizable where you lay out its shape and interior such floor type, walls, windows and doors. Baggage needs to be processed and transported to the same flight as its owner and its all up to you to avoid bottlenecks and by designing the ultimate airport terminal.<h2 class=\"bb_tag\">Being a CEO</h2>Data, data, data! As the acting CEO of your airport you need to be able to make difficult business decisions based on current operation. In Airport CEO you’re provided with multiple sources of information from which you can draw conclusions and manage your airport. As the CEO you will not only be responsible for the architecture of the airport but also for those working in it. Tired of planning every flight? Establish an informatics department and let an automated system do it for you! Tired of assessing the monthly budget balance? Hire a CFO which can help you cut cost and set prices. Best of luck!",
+      "short_description": "Build and manage an international airport!",
+      "supported_languages": "English, German, French, Spanish - Spain, Portuguese - Brazil, Russian, Dutch, Turkish, Czech, Simplified Chinese, Italian, Polish",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/673610/header.jpg?t=1696770408",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/673610/capsule_231x87.jpg?t=1696770408",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/673610/capsule_184x69.jpg?t=1696770408",
+      "website": "https://www.airportceo.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5 2.4 GHz or AMD 3 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Any (at least 2 GB dedicated VRAM)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i7 2.6 GHz or AMD 3 GHz (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Any (at least 6 GB dedicated VRAM)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Big Sur<br></li><li><strong>Processor:</strong> Intel Core i7 2,7 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Any (at least 2 GB dedicated VRAM)<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS Monterey<br></li><li><strong>Processor:</strong> Apple M (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Any (at least 6 GB dedicated VRAM)<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Airport CEO™ | Copyright © 2023, Apoapsis Game Laboratories AB | <strong>All rights reserved.</strong>",
+      "developers": [
+        "Apog Labs"
+      ],
+      "publishers": [
+        "Apog Labs"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        191751
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Airport CEO",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 191751,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Airport CEO - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_04340464e643ebe794e559eaf17c706ff3bf9fa0.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_04340464e643ebe794e559eaf17c706ff3bf9fa0.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_47df0b707422a7caf69590b9ebdcc3dee812af64.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_47df0b707422a7caf69590b9ebdcc3dee812af64.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_1a5591abaee6ebbecfb97193d070565e5b679f3b.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_1a5591abaee6ebbecfb97193d070565e5b679f3b.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_e668cc96a07d1367795a062b61dd8917beb2144f.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_e668cc96a07d1367795a062b61dd8917beb2144f.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_50b6dca686ce6faf4a63be0232517f8b28b78e75.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_50b6dca686ce6faf4a63be0232517f8b28b78e75.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_3c8f300a904509a9be66988dfca66a35b16e80fb.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_3c8f300a904509a9be66988dfca66a35b16e80fb.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_8759b756f783274aab062de1cd1cb394a6597a2a.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_8759b756f783274aab062de1cd1cb394a6597a2a.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_4c828e6a7631f636395880f3ced7cea74ab05cc3.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_4c828e6a7631f636395880f3ced7cea74ab05cc3.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_55344f6a36fc29769df71ca88bd814538a59b6df.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_55344f6a36fc29769df71ca88bd814538a59b6df.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_fb83bbd876af5bd735dc8e3981c5f4500eaef88f.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_fb83bbd876af5bd735dc8e3981c5f4500eaef88f.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a983220598651d49f300590a6f012b9029671335.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a983220598651d49f300590a6f012b9029671335.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_513a38d5ea298f82c868c041f8de03f88c0dc67d.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_513a38d5ea298f82c868c041f8de03f88c0dc67d.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2edab7a3d618732255b1eee0d3e7d6c8b1a6ed7f.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2edab7a3d618732255b1eee0d3e7d6c8b1a6ed7f.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_18c48bf4d01a9ad4f8e941c9292550f40ae30c8c.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_18c48bf4d01a9ad4f8e941c9292550f40ae30c8c.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2ab47f540c8af8bbf33159af953d8b74c3e51828.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2ab47f540c8af8bbf33159af953d8b74c3e51828.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_8fd7d24ded203f72a6cb5ff97e689ea08398beed.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_8fd7d24ded203f72a6cb5ff97e689ea08398beed.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_b3869caa5a6fb156aeebd6053dc2f58384274010.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_b3869caa5a6fb156aeebd6053dc2f58384274010.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_9d5ab82ab8d7560c90b8a50732fb40eb2b9d30a7.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_9d5ab82ab8d7560c90b8a50732fb40eb2b9d30a7.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2548f3c205e0a654736847d307b56f0f9e17c803.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_2548f3c205e0a654736847d307b56f0f9e17c803.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_de86b3f2ff8133b086963e3e9476675b770b7dc7.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_de86b3f2ff8133b086963e3e9476675b770b7dc7.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a5088685732c877e5cb4283c1ac2017472c163bc.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a5088685732c877e5cb4283c1ac2017472c163bc.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_85e6d4e2949a89b46aac7d499cc2127108ad114d.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_85e6d4e2949a89b46aac7d499cc2127108ad114d.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_0cbf908e8ad24dd2a13be72f9c93cbb708ed6116.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_0cbf908e8ad24dd2a13be72f9c93cbb708ed6116.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a22e70c74f3a8ececb9a164b9d674e5c5ed2b03f.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a22e70c74f3a8ececb9a164b9d674e5c5ed2b03f.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a6357ab8774afe325b310008a2264f766b0e074e.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_a6357ab8774afe325b310008a2264f766b0e074e.1920x1080.jpg?t=1696770408"
+        },
+        {
+          "id": 25,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_4c2a9f0d499a278e7d39e2e0dbd4792548b6f396.600x338.jpg?t=1696770408",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/673610/ss_4c2a9f0d499a278e7d39e2e0dbd4792548b6f396.1920x1080.jpg?t=1696770408"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256797622,
+          "name": "Airport CEO Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256797622/movie.293x165.jpg?t=1683112066",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256797622/movie480_vp9.webm?t=1683112066",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256797622/movie_max_vp9.webm?t=1683112066"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256797622/movie480.mp4?t=1683112066",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256797622/movie_max.mp4?t=1683112066"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256821190,
+          "name": "Airport CEO Release Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256821190/movie.293x165.jpg?t=1683112073",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821190/movie480_vp9.webm?t=1683112073",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821190/movie_max_vp9.webm?t=1683112073"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821190/movie480.mp4?t=1683112073",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821190/movie_max.mp4?t=1683112073"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 6365
+      },
+      "achievements": {
+        "total": 35,
+        "highlighted": [
+          {
+            "name": "Taking off",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/fc9039509157dabf36940130cc1e8cf5a3fb1541.jpg"
+          },
+          {
+            "name": "The collector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/14cb0c3f9ffea97717e4333edda6f54767c6c01d.jpg"
+          },
+          {
+            "name": "Do a barrel roll!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/f356d9b3a02427d8327a935c7661702b4c28bb16.jpg"
+          },
+          {
+            "name": "Avian veterinarian",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/76a3364527131f9ed07940369343981e7a4c52d4.jpg"
+          },
+          {
+            "name": "Queen of the skies",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/81feff2152ba3c610af09d54743065aed9061071.jpg"
+          },
+          {
+            "name": "Behemoth of the skies",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/5f4f427cde36c0206a0c8bff97c0caef3b11c904.jpg"
+          },
+          {
+            "name": "Small airfield",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/d83ebbd0e7c0327c0d3404e0fe2bc6938c549700.jpg"
+          },
+          {
+            "name": "Regional airport",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/1c0007c55ed6d029bf343b0aca81b4d5c0c94c04.jpg"
+          },
+          {
+            "name": "International hub",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/963e3b420016baaa21ac3cb1b4c05d1e56b90cdc.jpg"
+          },
+          {
+            "name": "And I would fly 500 miles",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/673610/4a08555608abb2978c16c964950c156e8588a900.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 4, 2021"
+      },
+      "support_info": {
+        "url": "https://www.airportceo.com/connect",
+        "email": "support@airportceo.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/673610/page_bg_generated_v6b.jpg?t=1696770408",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/673610/page.bg.jpg?t=1696770408",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

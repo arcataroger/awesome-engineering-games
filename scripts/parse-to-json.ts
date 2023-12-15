@@ -5,7 +5,7 @@ import {fromMarkdown} from 'mdast-util-from-markdown'
 import {gfmFromMarkdown} from 'mdast-util-gfm'
 import {zone} from 'mdast-zone'
 import type {Nodes} from "mdast-util-from-markdown/lib";
-import {filterDeep, omitDeep, reduceDeep} from 'deepdash-es/standalone'
+import {omitDeep, reduceDeep} from 'deepdash-es/standalone'
 
 // First read the file
 const doc = readFileSync(resolve(__dirname, "../README.md"))

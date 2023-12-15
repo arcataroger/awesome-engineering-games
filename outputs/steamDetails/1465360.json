@@ -1,0 +1,330 @@
+{
+  "1465360": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "SnowRunner",
+      "steam_appid": 1465360,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2353722,
+        2353721,
+        2154173,
+        2154172,
+        2353720,
+        2154171,
+        2154170,
+        1585815,
+        2058880,
+        2058881,
+        1785850,
+        1838500,
+        1613110,
+        1585814,
+        1585813,
+        1585812,
+        1533009,
+        1533008,
+        1533007,
+        1533006,
+        1585811,
+        1533010,
+        1533011,
+        1533001,
+        1533000,
+        1533002,
+        1533003,
+        1533004,
+        1533005,
+        1585810,
+        1585816,
+        1613111
+      ],
+      "detailed_description": "<h1>Upcoming games</h1><p><a href=\"https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/</a></p><br><h1>About the Game</h1><a href=\"https://store.steampowered.com/app/1585810\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1465360/extras/616x200-anniversary_2.png?t=1700650610\" /></a><br><br>Get ready for the next-generation off-road experience! <br><br>SnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.<br><br>Overcome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.<br><br>Ride solo or with other players in 4-player co-operative and expand your SnowRunner experience with community-created mods!<br>• Face extreme environments in a highly advanced physics engine<br>• 40 unique vehicles to unlock, upgrade, and customize<br>• Complete dozens of challenging missions across an interconnected world<br>• Go solo or play with other players in 4-player co-op",
+      "about_the_game": "<a href=\"https://store.steampowered.com/app/1585810\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1465360/extras/616x200-anniversary_2.png?t=1700650610\" /></a><br><br>Get ready for the next-generation off-road experience! <br><br>SnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.<br><br>Overcome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.<br><br>Ride solo or with other players in 4-player co-operative and expand your SnowRunner experience with community-created mods!<br>• Face extreme environments in a highly advanced physics engine<br>• 40 unique vehicles to unlock, upgrade, and customize<br>• Complete dozens of challenging missions across an interconnected world<br>• Go solo or play with other players in 4-player co-op",
+      "short_description": "Get ready for the next-generation off-road experience! Drive powerful vehicles and overcome extreme open environments to complete dozens of challenging missions solo or with up to 3 friends!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+      "reviews": "“Addictive, deep and rewarding”<br>8/10 – <a href=\"https://www.ign.com/articles/snowrunner-review\" target=\"_blank\" rel=\"\"  >IGN</a><br><br>“Essential purchase”<br>8/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.pcgamesn.com%2Fsnowrunner%2Freview\" target=\"_blank\" rel=\" noopener\"  >PC Games N</a><br><br>“Will have you punching the air in grim satisfaction”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.topgear.com%2Fcar-news%2Fgaming%2Fgaming-review-snowrunner-slow-satisfying\" target=\"_blank\" rel=\" noopener\"  >Top Gear</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/header.jpg?t=1700650610",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/capsule_231x87.jpg?t=1700650610",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/capsule_184x69.jpg?t=1700650610",
+      "website": "https://www.focus-home.com/games/snowrunner",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10 (64-bit)<br></li><li><strong>Processor:</strong> Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB, GeForce GTX 660 / Radeon R9 270<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10 (64-bit)<br></li><li><strong>Processor:</strong> Intel i7-8700 3.2 GHz / AMD Ryzen 7 2700 3.2 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB, GeForce GTX 970 / Radeon RX 580<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Monterey or later<br></li><li><strong>Processor:</strong> 2.6GHz or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB or higher<br></li><li><strong>Storage:</strong> 50 GB available space<br></li><li><strong>Additional Notes:</strong> The following Macs are capable of running the game but do not consistently meet the standards required for official support: • All 15&quot; MacBook Pros released since Late 2016 • All 21.5&quot; iMacs released since Late 2017 with a 2.6GHz processor or better</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Monterey or later<br></li><li><strong>Processor:</strong> M1 or higher<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 4GB or higher<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2021 SnowRunner. Developed by Saber Interactive and published by Focus Entertainment. SnowRunner is a trademark of Saber Interactive Inc. Havok software is © 2021 Microsoft. Hummer H2, Chevrolet, GMC are trademarks of General Motors LLC. Freightliner 114SD, Freightliner M916A1, White-Western Sat 4964 and Western Star 6900 TwinSteer are trademarks of Daimler Trucks North America LLC.  Ford CLT-9000 is a registered trademark of Ford. International® Loadstar 1700 Crew Cab, International Harvester Scout 800, International® Transtar 4070, International® Paystar 5070, International® FleetStar F-2070A and Navistar 5000-MV are trademarks of International Truck Intellectual Property Company, LLC. Pacific P16, Pacific P12 and Pacific P12/Roughneck are trademarks of Pacific Truck Mfg Inc. ©2021 Caterpillar. CAT, CATERPILLAR, their respective logos, \"Caterpillar Yellow,\" the \"Power Edge\" trade dress as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission. www.cat.com / www.caterpillar.com. Focus Entertainment is a licensee of Caterpillar Inc. All trademarks belong to their respective owners and are used by Focus Entertainment under license. All rights reserved.",
+      "developers": [
+        "Saber Interactive"
+      ],
+      "publishers": [
+        "Focus Entertainment"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        515992,
+        575626
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy SnowRunner",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 515992,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SnowRunner - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            },
+            {
+              "packageid": 575626,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SnowRunner - 1-Year Anniversary Edition - $39.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_a87150de3d4556fda25583f713ea40f04539713f.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_a87150de3d4556fda25583f713ea40f04539713f.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.1920x1080.jpg?t=1700650610"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.600x338.jpg?t=1700650610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.1920x1080.jpg?t=1700650610"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256980362,
+          "name": "SnowRunner - Season 11: Lights & Cameras Overview Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256980362/movie.293x165.jpg?t=1699285377",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980362/movie480_vp9.webm?t=1699285377",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980362/movie_max_vp9.webm?t=1699285377"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256980362/movie480.mp4?t=1699285377",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256980362/movie_max.mp4?t=1699285377"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256835104,
+          "name": "SnowRunner - Steam & Switch Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256835104/movie.293x165.jpg?t=1692045598",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256835104/movie480_vp9.webm?t=1692045598",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256835104/movie_max_vp9.webm?t=1692045598"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256835104/movie480.mp4?t=1692045598",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256835104/movie_max.mp4?t=1692045598"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256832222,
+          "name": "SnowRunner - Release Date Reveal Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256832222/movie.293x165.jpg?t=1619692664",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256832222/movie480_vp9.webm?t=1619692664",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256832222/movie_max_vp9.webm?t=1619692664"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256832222/movie480.mp4?t=1619692664",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256832222/movie_max.mp4?t=1619692664"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 23812
+      },
+      "achievements": {
+        "total": 37,
+        "highlighted": [
+          {
+            "name": "Yeah, you can drive!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/805dec68fa34e03eab558499c47e78a6051febd6.jpg"
+          },
+          {
+            "name": "Once a Farmer always a Farmer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/c84aeeaff0a04e4d4f2fda1db29523847ddc07e7.jpg"
+          },
+          {
+            "name": "Goliath",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/2b36e126b9ef7924e950549a06de9b55e765b63e.jpg"
+          },
+          {
+            "name": "The Blue Hall",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/5bb11eefdebf690ccca27df2f4042aabf9ce183e.jpg"
+          },
+          {
+            "name": "Where are the logs?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/6120345e0c1da12dd9cc30c9caa38b0b544c0f4c.jpg"
+          },
+          {
+            "name": "Play Your Way",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/fe1461892070b7cea36a8a3206786f0b1b2c7328.jpg"
+          },
+          {
+            "name": "Deer Hunt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/f017a0ba3c87f2e62c46e575c759e9d894e67364.jpg"
+          },
+          {
+            "name": "Moose Hunt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/204df1f9328fd325936bc11515941b82fccf2ae6.jpg"
+          },
+          {
+            "name": "Bear Hunt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/1c2ee7adfda31e88bef275ee8fec52d06bf15b39.jpg"
+          },
+          {
+            "name": "Eat, Sleep, Drill, Repeat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1465360/4b4737c66e57fe415c985a9c665babb53d6d26c6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 17, 2021"
+      },
+      "support_info": {
+        "url": "https://support.focus-home.com/hc/",
+        "email": "support@focus-home.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/page_bg_generated_v6b.jpg?t=1700650610",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1465360/page.bg.jpg?t=1700650610",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

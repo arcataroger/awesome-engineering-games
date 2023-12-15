@@ -1,0 +1,194 @@
+{
+  "1168880": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "MOLEK-SYNTEZ",
+      "steam_appid": 1168880,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<i>December 2092<br>Cluj-Napoca, Romania<br><br>These walls don’t do a damn thing to keep the cold out.<br>I should go outside and walk.<br>Instead, I light another cigarette and keep working.</i><br><br><ul class=\"bb_ul\"><li> <strong>MAKE DRUGS</strong> - Program your molecular synthesizer (MOLEK-SYNTEZ) to convert ordinary industrial chemicals like benzene, acetone, and hydrochloric acid into a variety of small molecules with various pharmacological effects.<br></li><li> <strong>SHOW OFF</strong> - Optimize your solutions and share them with the world using the built-in score histograms, friend leaderboards, and animated GIF exporter.<br></li><li> <strong>CHEAT AT CARDS</strong> - In a move that should surprise no one, MOLEK-SYNTEZ contains an original Zachtronics solitaire game. When you get stuck, cheat and place your cards wherever you want. Just don't do it so much that you get in over your head...</li></ul>",
+      "about_the_game": "<i>December 2092<br>Cluj-Napoca, Romania<br><br>These walls don’t do a damn thing to keep the cold out.<br>I should go outside and walk.<br>Instead, I light another cigarette and keep working.</i><br><br><ul class=\"bb_ul\"><li> <strong>MAKE DRUGS</strong> - Program your molecular synthesizer (MOLEK-SYNTEZ) to convert ordinary industrial chemicals like benzene, acetone, and hydrochloric acid into a variety of small molecules with various pharmacological effects.<br></li><li> <strong>SHOW OFF</strong> - Optimize your solutions and share them with the world using the built-in score histograms, friend leaderboards, and animated GIF exporter.<br></li><li> <strong>CHEAT AT CARDS</strong> - In a move that should surprise no one, MOLEK-SYNTEZ contains an original Zachtronics solitaire game. When you get stuck, cheat and place your cards wherever you want. Just don't do it so much that you get in over your head...</li></ul>",
+      "short_description": "Use the MOLEK-SYNTEZ to create small molecules with various pharmacological effects from the comfort of your small Romanian apartment.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/header.jpg?t=1667070622",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/capsule_231x87.jpg?t=1667070622",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/capsule_184x69.jpg?t=1667070622",
+      "website": "http://www.zachtronics.com/molek-syntez/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 960 x 540<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 960 x 540<br></li><li><strong>Storage:</strong> 170 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3, 960 x 540<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        399551
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy MOLEK-SYNTEZ",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 399551,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "MOLEK-SYNTEZ - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_a89514da4020844eaea221a049c963d75663cd1f.600x338.jpg?t=1667070622",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_a89514da4020844eaea221a049c963d75663cd1f.1920x1080.jpg?t=1667070622"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_7fc2087cd36671065f632ce9ee2bb0dc41c678c7.600x338.jpg?t=1667070622",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_7fc2087cd36671065f632ce9ee2bb0dc41c678c7.1920x1080.jpg?t=1667070622"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_3b12176607bd06781d9328954ee311b459c6b0d6.600x338.jpg?t=1667070622",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_3b12176607bd06781d9328954ee311b459c6b0d6.1920x1080.jpg?t=1667070622"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_23721f65e31622b434283ef66f6dd080dafd2688.600x338.jpg?t=1667070622",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_23721f65e31622b434283ef66f6dd080dafd2688.1920x1080.jpg?t=1667070622"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_6a33d90b1e019da93212f13a75621851a066724b.600x338.jpg?t=1667070622",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/ss_6a33d90b1e019da93212f13a75621851a066724b.1920x1080.jpg?t=1667070622"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256765712,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256765712/movie.293x165.jpg?t=1572905701",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256765712/movie480.webm?t=1572905701",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256765712/movie_max.webm?t=1572905701"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256765712/movie480.mp4?t=1572905701",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256765712/movie_max.mp4?t=1572905701"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 449
+      },
+      "achievements": {
+        "total": 6,
+        "highlighted": [
+          {
+            "name": "CHEATER",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/690ad314749616bdf0b5e5fd18a04097e8907ded.jpg"
+          },
+          {
+            "name": "SWINDLER",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/fdc95a42805075cbab7cd964452c0936d4b15bb5.jpg"
+          },
+          {
+            "name": "CHARLATAN",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/66d35305000e86885b8a2714e3c09168762742a9.jpg"
+          },
+          {
+            "name": "MORALIST",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/88b24ef1ff6fccee314216a8171fc66b48c7386a.jpg"
+          },
+          {
+            "name": "CHEMIST",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/7173f41c880ee56d138036598869b1da6477c8f5.jpg"
+          },
+          {
+            "name": "PHARMACOLOGIST",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1168880/8c258e12c28ba16b22819ce15b74e55cd447a004.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 19, 2019"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support/",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/page_bg_generated_v6b.jpg?t=1667070622",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1168880/page_bg_generated.jpg?t=1667070622",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

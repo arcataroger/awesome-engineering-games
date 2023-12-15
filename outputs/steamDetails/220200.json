@@ -1,0 +1,241 @@
+{
+  "220200": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Kerbal Space Program",
+      "steam_appid": 220200,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        283740,
+        982970
+      ],
+      "detailed_description": "In <strong>Kerbal Space Program</strong>, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.<br><br>Kerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li> Build spaceships, rockets, and vehicles using any imaginable combination of parts, each with their own function that will affect the way your spacecraft behaves.<br></li><li> Take full control over your ship’s setup to execute complex flight maneuvers. <br></li><li> Manage your Kerbal crewmembers, including hiring, training, and sending them into space to become heroes. <br></li><li> Discover a whole star system with unique moons and planets, exploring detailed terrain at a vast scale. <br></li><li> Send your Kerbal crew outside their ships for “extra-vehicular” activities.<br></li><li> Dock spacecraft together to construct space stations, massive starships, and surface bases on new planets. <br></li><li> Use satellites to scan terrain and find biomes and other anomalies.<br></li><li> Set up communications networks to communicate between your spacecraft and Kerbal Space Center.<br></li><li> Research and develop new technologies to extract valuable information and resources from all over the solar system, and much more!</li></ul><br>Try out the many mods created by the Kerbal Space Program community!",
+      "about_the_game": "In <strong>Kerbal Space Program</strong>, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.<br><br>Kerbal Space Program features three gameplay modes. In Science Mode, perform space experiments to unlock new technology and advance the knowledge of Kerbalkind. In Career Mode, oversee every aspect of the space program, including construction, strategy, funding, upgrades, and more. In Sandbox, you are free to build any spacecraft you can think of, with all parts and technology in the game.<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li> Build spaceships, rockets, and vehicles using any imaginable combination of parts, each with their own function that will affect the way your spacecraft behaves.<br></li><li> Take full control over your ship’s setup to execute complex flight maneuvers. <br></li><li> Manage your Kerbal crewmembers, including hiring, training, and sending them into space to become heroes. <br></li><li> Discover a whole star system with unique moons and planets, exploring detailed terrain at a vast scale. <br></li><li> Send your Kerbal crew outside their ships for “extra-vehicular” activities.<br></li><li> Dock spacecraft together to construct space stations, massive starships, and surface bases on new planets. <br></li><li> Use satellites to scan terrain and find biomes and other anomalies.<br></li><li> Set up communications networks to communicate between your spacecraft and Kerbal Space Center.<br></li><li> Research and develop new technologies to extract valuable information and resources from all over the solar system, and much more!</li></ul><br>Try out the many mods created by the Kerbal Space Program community!",
+      "short_description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+      "supported_languages": "English, Spanish - Spain, Simplified Chinese, Japanese, Russian, French, Italian, German, Portuguese - Brazil",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg?t=1663603925",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_231x87.jpg?t=1663603925",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/220200/capsule_184x69.jpg?t=1663603925",
+      "website": "https://kerbalspaceprogram.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows 7 SP1+<br>\t</li><li><strong>Processor:</strong>Core 2 Duo 2.0 Ghz<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>DX10 (SM 4.0) capable, 512MB VRAM<br>\t</li><li><strong>Hard Drive:</strong>3 GB HD space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 10 64-bit<br>\t</li><li><strong>Processor:</strong>Core i5<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>DX10 (SM 4.0) capable, 1GB VRAM<br>\t</li><li><strong>Hard Drive:</strong>4 GB HD space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>macOS 10.12+ 64-bit<br>\t</li><li><strong>Processor:</strong>Intel<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>SM 4.0 512MB VRAM<br>\t</li><li><strong>Hard Drive:</strong>3 GB HD space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12+ 64-bit<br>\t</li><li><strong>Processor:</strong>Intel Core i5<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>SM 4.0 1GB VRAM<br>\t</li><li><strong>Hard Drive:</strong>4 GB HD space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+ 64-bit<br>                </li><li><strong>Processor:</strong> Core 2 Duo<br>                </li><li><strong>Memory:</strong> 4 GB RAM<br>                </li><li><strong>Graphics:</strong> SM 4.0 512MB VRAM   <br>                </li><li><strong>Hard Disk Space:</strong> 3 GB HD space                <br>                             </li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04 LTS<br>\t</li><li><strong>Processor:</strong> Core i5<br>\t</li><li><strong>Memory:</strong> 8 GB RAM<br>\t</li><li><strong>Graphics:</strong> SM 4.0 1GB VRAM<br>\t</li><li><strong>Hard Drive:</strong> 4 GB HD space</li></ul>"
+      },
+      "legal_notice": "© 2011-2019 Take-Two Interactive Software, Inc. Developed by Squad. Private Division and Kerbal Space Program and their respective logos are trademarks of Take-Two Interactive Software, Inc. All other marks and trademarks are the property of their respective owners. All rights reserved.",
+      "developers": [
+        "Squad"
+      ],
+      "publishers": [
+        "Private Division "
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3999,
+        "final": 999,
+        "discount_percent": 75,
+        "initial_formatted": "$39.99",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        27437
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Kerbal Space Program",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 27437,
+              "percent_savings_text": "-75% ",
+              "percent_savings": 0,
+              "option_text": "Kerbal Space Program - <span class=\"discount_original_price\">$39.99</span> $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 88,
+        "url": "https://www.metacritic.com/game/pc/kerbal-space-program?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_44f586b0c58ed455c309efd87ce15f46e072242b.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_44f586b0c58ed455c309efd87ce15f46e072242b.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_d393792997ca01960a6843a5f6eb381895866662.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_d393792997ca01960a6843a5f6eb381895866662.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_25cce0f89404bb3ddc4028644a040784082b0763.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_25cce0f89404bb3ddc4028644a040784082b0763.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_dcfe84a90aba509e459d1e7d119aa7d365faf34a.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_dcfe84a90aba509e459d1e7d119aa7d365faf34a.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_395fa5eeac33f83a3f80cfabfe221899d41e21d0.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_395fa5eeac33f83a3f80cfabfe221899d41e21d0.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_04fade61dd5ebce0f8cec9efe67e6e9d23d3b9a7.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_04fade61dd5ebce0f8cec9efe67e6e9d23d3b9a7.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_56a37855f26e4737222e912a2e309cb26386ae68.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_56a37855f26e4737222e912a2e309cb26386ae68.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_65398e623d014d17fbf963b94ae69c4034d95c40.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_65398e623d014d17fbf963b94ae69c4034d95c40.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_9fc2032db736a2a9919aba739566a8353c2cd3cb.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_9fc2032db736a2a9919aba739566a8353c2cd3cb.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_c5b19aad79ad37ba36708f22742c1bf81f9220ca.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_c5b19aad79ad37ba36708f22742c1bf81f9220ca.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_f258c8ebef5e2bf47a2feca529a2cd3f864cfbb0.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_f258c8ebef5e2bf47a2feca529a2cd3f864cfbb0.1920x1080.jpg?t=1663603925"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_f93547d532f3b0b19dbc23a1500fd313f3619e03.600x338.jpg?t=1663603925",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/220200/ss_f93547d532f3b0b19dbc23a1500fd313f3619e03.1920x1080.jpg?t=1663603925"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256721665,
+          "name": "Cinematic Trailer (Multi)",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256721665/movie.293x165.jpg?t=1530546317",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721665/movie480.webm?t=1530546317",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721665/movie_max.webm?t=1530546317"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721665/movie480.mp4?t=1530546317",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721665/movie_max.mp4?t=1530546317"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256721667,
+          "name": "CommNet Trailer (Multi)",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256721667/movie.293x165.jpg?t=1530546338",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721667/movie480.webm?t=1530546338",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721667/movie_max.webm?t=1530546338"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721667/movie480.mp4?t=1530546338",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721667/movie_max.mp4?t=1530546338"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256721668,
+          "name": "Away with Words (Multi)",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256721668/movie.293x165.jpg?t=1530546348",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721668/movie480.webm?t=1530546348",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721668/movie_max.webm?t=1530546348"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256721668/movie480.mp4?t=1530546348",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256721668/movie_max.mp4?t=1530546348"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 96003
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 27, 2015"
+      },
+      "support_info": {
+        "url": "https://kerbalspaceprogram.com/en/?page_id=23",
+        "email": "support@kerbalspaceprogram.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/220200/page_bg_generated_v6b.jpg?t=1663603925",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/220200/page.bg.jpg?t=1663603925",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

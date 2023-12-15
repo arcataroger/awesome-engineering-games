@@ -1,0 +1,283 @@
+{
+  "846030": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "ΔV: Rings of Saturn",
+      "steam_appid": 846030,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1211880,
+        1908440,
+        1127590,
+        1938680,
+        2263460
+      ],
+      "detailed_description": "<h1>Looking for more excitement and combat?</h1><p><a href=\"https://store.steampowered.com/app/833360/Star_Valor/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/833360/Star_Valor/</a></p><br><h1>Ever wanted to see what a realistic ship looks like from the inside?</h1><p><a href=\"https://store.steampowered.com/app/1315980/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1315980/</a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37-rotating-bg-cc.gif?t=1702409151\" /><h2 class=\"bb_tag\">The Ultimate Asteroid Mining Simulator</h2><br>You are a captain of an independent asteroid excavation ship, operating in the mineral-rich rings of Saturn - the thickest debris field in our solar system. Your task is to navigate rings, excavate minerals, and sell the ore at the Enceladus station. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37_mining.gif?t=1702409151\" /><br><br>You can hire and manage your crew who will aid you, update your ship - or switch to a completely new one. You can acquire a bounty hunter licence, explore mysteries or smuggle weapons - but at the core, you are a rock-hopper and rock-hopping is what you’ll spend most of your time at. And since it is the core of this game, we made sure you’ll have a great time flying your ship and excavating.<br><br>You are no chosen one, the story does not revolve around you -  it is driven by the characters you hire and encounter, and each playthrough will play out differently. You can choose to investigate and embrace their lives, or just ignore them. It’s all up to you.<h2 class=\"bb_tag\">Giving Science its Due</h2><br>Tired of having more Fiction than Science? Here you will find lasers are not visible without a medium, sound does not move through the void of the empty space and every action has an equal and opposite reaction. Thrusters eject gas that heats up and pushes away objects, your reactor is cooled by propellant flowing through it and radiators glow when you pump heat into them.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/nakamura_ad-frame-tr.gif?t=1702409151\" /><br><br>There are no energy shields, teleporters and Heisenberg compensators. No lightspeed, no blasters, and no artificial gravity. Instead, we have fission reactors, thermal rockets, ion thrusters and centrifugal gravity. You'll have hard decisions to make, with no &quot;best&quot; equipment to answer every need.<br><br>All technologies are real and there is no technobabble. But it’s still a game and one that is fun to play.<h2 class=\"bb_tag\">Weekly Updates</h2><br>ΔV is in active development, with new stable updates coming out each week, and experimental ones getting pushed out daily. Many ideas you’ll find in the game come from players and it is not uncommon to suggest something <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fdv\" target=\"_blank\" rel=\" noopener\"  >on our discord</a> - and see it in the game next week. Our player community consists of enthusiasts geeks, engineering and science-fiction nerds, and if that sounds like your kind of crowd - <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fdv\" target=\"_blank\" rel=\" noopener\"  >come to our discord</a>, chat with us, and see how the game unfolds in real-time.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37_final.gif?t=1702409151\" /><br><br>The event-driven nature of our storytelling means that we can expand our stories and enrich your experience seamlessly - while you are still playing. There is no need to start a new save, new events, equipment and features will just appear as you go.<br><br>Sounds like your kind of game? Check the demo. It’s free, and your saves will carry over.<br><br><a href=\"https://store.steampowered.com/app/949730\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_2\" >https://store.steampowered.com/app/949730</a>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37-rotating-bg-cc.gif?t=1702409151\" /><h2 class=\"bb_tag\">The Ultimate Asteroid Mining Simulator</h2><br>You are a captain of an independent asteroid excavation ship, operating in the mineral-rich rings of Saturn - the thickest debris field in our solar system. Your task is to navigate rings, excavate minerals, and sell the ore at the Enceladus station. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37_mining.gif?t=1702409151\" /><br><br>You can hire and manage your crew who will aid you, update your ship - or switch to a completely new one. You can acquire a bounty hunter licence, explore mysteries or smuggle weapons - but at the core, you are a rock-hopper and rock-hopping is what you’ll spend most of your time at. And since it is the core of this game, we made sure you’ll have a great time flying your ship and excavating.<br><br>You are no chosen one, the story does not revolve around you -  it is driven by the characters you hire and encounter, and each playthrough will play out differently. You can choose to investigate and embrace their lives, or just ignore them. It’s all up to you.<h2 class=\"bb_tag\">Giving Science its Due</h2><br>Tired of having more Fiction than Science? Here you will find lasers are not visible without a medium, sound does not move through the void of the empty space and every action has an equal and opposite reaction. Thrusters eject gas that heats up and pushes away objects, your reactor is cooled by propellant flowing through it and radiators glow when you pump heat into them.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/nakamura_ad-frame-tr.gif?t=1702409151\" /><br><br>There are no energy shields, teleporters and Heisenberg compensators. No lightspeed, no blasters, and no artificial gravity. Instead, we have fission reactors, thermal rockets, ion thrusters and centrifugal gravity. You'll have hard decisions to make, with no &quot;best&quot; equipment to answer every need.<br><br>All technologies are real and there is no technobabble. But it’s still a game and one that is fun to play.<h2 class=\"bb_tag\">Weekly Updates</h2><br>ΔV is in active development, with new stable updates coming out each week, and experimental ones getting pushed out daily. Many ideas you’ll find in the game come from players and it is not uncommon to suggest something <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fdv\" target=\"_blank\" rel=\" noopener\"  >on our discord</a> - and see it in the game next week. Our player community consists of enthusiasts geeks, engineering and science-fiction nerds, and if that sounds like your kind of crowd - <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fdv\" target=\"_blank\" rel=\" noopener\"  >come to our discord</a>, chat with us, and see how the game unfolds in real-time.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/846030/extras/k37_final.gif?t=1702409151\" /><br><br>The event-driven nature of our storytelling means that we can expand our stories and enrich your experience seamlessly - while you are still playing. There is no need to start a new save, new events, equipment and features will just appear as you go.<br><br>Sounds like your kind of game? Check the demo. It’s free, and your saves will carry over.<br><br><a href=\"https://store.steampowered.com/app/949730\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_3\" >https://store.steampowered.com/app/949730</a>",
+      "short_description": "A physics-based mining sim, set in the thickest debris field in Sol. Every action has a reaction, lasers are invisible without a medium, and your thrust is a potent weapon. Find trade, adapt your equipment to your playstyle, hire a crew to help. Unravel the mysteries of the rings, or just get rich.",
+      "supported_languages": "English, Polish, Simplified Chinese, German, Traditional Chinese, Spanish - Spain, Russian, Ukrainian, Hungarian",
+      "reviews": "“It won't be for everyone (...). But like its realistic lasers, it is expertly calibrated to hit those of us in its niche directly in the heart.”<br>[RPS Bestest Bests] – <a href=\"https://www.rockpapershotgun.com/v-rings-of-saturn-review\" target=\"_blank\" rel=\"\"  >Rock Paper Shotgun</a><br><br>“The best game about space mining is finally finished”<br><a href=\"https://www.pcgamer.com/the-best-game-about-space-mining-is-finally-finished/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“The game is ridiculously nerdy. (...) There is depth and realism in the game for everything that is in it.”<br>8 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.hgunified.com%2Fgaming%2Freview-%CE%B4v-rings-of-saturn-pc.html\" target=\"_blank\" rel=\" noopener\"  >Hardcore Gamers</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/846030/header.jpg?t=1702409151",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/846030/capsule_231x87.jpg?t=1702409151",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/846030/capsule_184x69.jpg?t=1702409151",
+      "website": "https://games.kodera.pl/dv/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> i3 2.4GHz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 730 2GB VRAM or equivalent<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Try running the demo to verify if your system can handle it</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Additional Notes:</strong> Check the demo for performance - it is identical to full game build.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> Intel, M1 2.4GHz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Try running the demo to verify if your system can handle it</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Check the demo for performance - it is identical to full game build.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64 bit<br></li><li><strong>Processor:</strong> i3 2.4GHz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD 730 2GB VRAM or equivalent<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Try running the demo to verify if your system can handle it</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Check the demo for performance - it is identical to full game build.</li></ul>"
+      },
+      "developers": [
+        "Kodera Software"
+      ],
+      "publishers": [
+        "Kodera Software",
+        "Kurki.games"
+      ],
+      "demos": [
+        {
+          "appid": 949730,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        264643,
+        552064
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy ΔV: Rings of Saturn",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 264643,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "ΔV: Rings of Saturn - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 552064,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "ΔV: Rings of Saturn - Commercial License - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_41cbf19ac4207b5064e2c10a881853a007b05e95.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_41cbf19ac4207b5064e2c10a881853a007b05e95.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_0affe4f7ade03dbaf79d61c928c2e0bb9fa45666.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_0affe4f7ade03dbaf79d61c928c2e0bb9fa45666.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_31ebcb9cdafee9e98c9c73f018b40017aabde01e.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_31ebcb9cdafee9e98c9c73f018b40017aabde01e.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_eaff425f138361258c2eb0839ae7d669e003e172.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_eaff425f138361258c2eb0839ae7d669e003e172.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_fc54e09ccb8f2fbcaf6c3fb3f8dbbd0504fd97e9.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_fc54e09ccb8f2fbcaf6c3fb3f8dbbd0504fd97e9.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_32d5c83f6085bfc49f0215be35443d89dd2b9204.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_32d5c83f6085bfc49f0215be35443d89dd2b9204.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_9d925690e28d351e22fd82bafcc02c219931bfd3.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_9d925690e28d351e22fd82bafcc02c219931bfd3.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_178f90f85eae8ed784df69f27bd3f82cd914021f.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_178f90f85eae8ed784df69f27bd3f82cd914021f.1920x1080.jpg?t=1702409151"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_7557c6ce1162aea9f070021800c08c8b4e26abf3.600x338.jpg?t=1702409151",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/846030/ss_7557c6ce1162aea9f070021800c08c8b4e26abf3.1920x1080.jpg?t=1702409151"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256945857,
+          "name": "ΔV",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256945857/movie.293x165.jpg?t=1683579028",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945857/movie480_vp9.webm?t=1683579028",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945857/movie_max_vp9.webm?t=1683579028"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945857/movie480.mp4?t=1683579028",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945857/movie_max.mp4?t=1683579028"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256945858,
+          "name": "Question Everything",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256945858/movie.293x165.jpg?t=1683579032",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945858/movie480_vp9.webm?t=1683579032",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945858/movie_max_vp9.webm?t=1683579032"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256945858/movie480.mp4?t=1683579032",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256945858/movie_max.mp4?t=1683579032"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1704
+      },
+      "achievements": {
+        "total": 87,
+        "highlighted": [
+          {
+            "name": "Diving Licence",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/4853447e69a75e7c922bfa0f76da0728b8194973.jpg"
+          },
+          {
+            "name": "Diver",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/8537d1c2c3c8b1b87fecfe0b2a5fd208b9a46eaa.jpg"
+          },
+          {
+            "name": "Deep Diver",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/682e90d64b54d11060e273baa393b1723eb372eb.jpg"
+          },
+          {
+            "name": "Enceladus Prime",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/669d953106682ddb01b9699c869fe33f9ff30c8e.jpg"
+          },
+          {
+            "name": "Escape Velocity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/d8006f4e0a8a92b8acd44a08dce158b54d804b2d.jpg"
+          },
+          {
+            "name": "Manned Mission",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/cc9957f81b19a8fb8b6867b0afd02275d954d083.jpg"
+          },
+          {
+            "name": "Full House",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/7283737e934355ae83b15f8eedc816b19057ed55.jpg"
+          },
+          {
+            "name": "Pest Disposal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/0928063b3e2d2a1a242831bce432398932ded97a.jpg"
+          },
+          {
+            "name": "Just hit it with a Hammer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/85f9c1fe0dfa02d4edc5e90fb6db027e3ef453df.jpg"
+          },
+          {
+            "name": "New and Shiny",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/846030/4d0a143cd549425a29cdcd1df5eddccc328266ee.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 21, 2023"
+      },
+      "support_info": {
+        "url": "https://steamcommunity.com/app/846030/discussions/2/",
+        "email": "support@kodera.pl"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/846030/page_bg_generated_v6b.jpg?t=1702409151",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/846030/page.bg.jpg?t=1702409151",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

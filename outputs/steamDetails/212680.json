@@ -1,0 +1,258 @@
+{
+  "212680": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "FTL: Faster Than Light",
+      "steam_appid": 212680,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        221001
+      ],
+      "detailed_description": "FTL is now available in 9 languages!  English, German, Spanish, French, Italian, Polish, Brazilian Portuguese, Russian and Simplified Mandarin!<br><br>************************<br>The free expansion, FTL: Advanced Edition, is available now!  Content additions include: new alien race, events, weapons, playable ships, drones, and more!  Also adds additional musical tracks by Ben Prunty, and events by Tom Jubert and guest writer Chris Avellone. <br><br>If you already own FTL it should update the new content automatically.  Advanced Edition is included free for anyone who purchases the game from this point forward.<br>************************<br><br>In FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li><strong>Complex Strategic Gameplay</strong> - Give orders to your crew, manage ship power distribution and choose weapon targets in the heat of battle.<br></li><li><strong>Play at Your Own Speed</strong> - Pause the game mid-combat to evaluate your strategy and give orders.<br></li><li><strong>Unique Lifeforms and Technology</strong> – Upgrade your ship and unlock new ones with the help of six diverse alien races.<br></li><li><strong>Be the Captain You Want</strong> - Hundreds of text based encounters will force you to make tough decisions.<br></li><li><strong>Randomized Galaxy</strong> - Each play-through will feature different enemies, events, and results to your decisions. No two play-throughs will be quite the same.<br></li><li><strong>No Second Chances!</strong> - Permadeath means when you die, there's no coming back. The constant threat of defeat adds importance and tension to every action.</li></ul>",
+      "about_the_game": "FTL is now available in 9 languages!  English, German, Spanish, French, Italian, Polish, Brazilian Portuguese, Russian and Simplified Mandarin!<br><br>************************<br>The free expansion, FTL: Advanced Edition, is available now!  Content additions include: new alien race, events, weapons, playable ships, drones, and more!  Also adds additional musical tracks by Ben Prunty, and events by Tom Jubert and guest writer Chris Avellone. <br><br>If you already own FTL it should update the new content automatically.  Advanced Edition is included free for anyone who purchases the game from this point forward.<br>************************<br><br>In FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li><strong>Complex Strategic Gameplay</strong> - Give orders to your crew, manage ship power distribution and choose weapon targets in the heat of battle.<br></li><li><strong>Play at Your Own Speed</strong> - Pause the game mid-combat to evaluate your strategy and give orders.<br></li><li><strong>Unique Lifeforms and Technology</strong> – Upgrade your ship and unlock new ones with the help of six diverse alien races.<br></li><li><strong>Be the Captain You Want</strong> - Hundreds of text based encounters will force you to make tough decisions.<br></li><li><strong>Randomized Galaxy</strong> - Each play-through will feature different enemies, events, and results to your decisions. No two play-throughs will be quite the same.<br></li><li><strong>No Second Chances!</strong> - Permadeath means when you die, there's no coming back. The constant threat of defeat adds importance and tension to every action.</li></ul>",
+      "short_description": "This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/212680/header.jpg?t=1689017446",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_231x87.jpg?t=1689017446",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/212680/capsule_184x69.jpg?t=1689017446",
+      "website": "https://subsetgames.com/ftl.html",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP / Vista / 7<br>\t</li><li><strong>Processor:</strong>2 GHz <br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>1280x720 minimum resolution, OpenGL 2.0 Support, and recommended dedicated graphics card with 128 MB of RAM<br>\t</li><li><strong>Hard Drive:</strong>175 MB HD space</li></ul>Some integrated Intel HD graphics cards have been known to work but are not officially supported."
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Mac OS X 10.6 or above<br>\t</li><li><strong>Processor:</strong>Intel 2 GHz<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>1280x720 minimum resolution, OpenGL 2.0 Support, and recommended dedicated graphics card with 128 MB of RAM<br>\t</li><li><strong>Hard Drive:</strong>175 MB HD space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS, fully updated<br>\t</li><li><strong>Processor:</strong> 2 GHz<br>\t</li><li><strong>Memory:</strong> 1GB RAM<br>\t</li><li><strong>Graphics:</strong> 1280x720 minimum resolution, OpenGL 2.0 Support<br>\t</li><li><strong>Hard Drive:</strong> 175 MB HD space</li></ul>"
+      },
+      "developers": [
+        "Subset Games"
+      ],
+      "publishers": [
+        "Subset Games"
+      ],
+      "price_overview": {
+        "currency": "CAD",
+        "initial": 1099,
+        "final": 1099,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "CDN$ 10.99"
+      },
+      "packages": [
+        16589,
+        16705
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy FTL: Faster Than Light",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 16589,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "FTL: Faster Than Light - CDN$ 10.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1099
+            },
+            {
+              "packageid": 16705,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "FTL: Faster Than Light + Soundtrack - CDN$ 14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 84,
+        "url": "https://www.metacritic.com/game/pc/ftl-faster-than-light?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_052d698926073e8d407a864f0e63a486af24ec0d.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_052d698926073e8d407a864f0e63a486af24ec0d.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_779ba1fda143fc42a8eb1212830ad855422e84ad.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_779ba1fda143fc42a8eb1212830ad855422e84ad.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_19d6b545c89bf8e73abc13c548a1e5aeb8801f53.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_19d6b545c89bf8e73abc13c548a1e5aeb8801f53.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_8bc4c5c483fb85bcdcbcdbe98cbe44e82bfc961f.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_8bc4c5c483fb85bcdcbcdbe98cbe44e82bfc961f.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_9dd5cc63efcc5964d45713b7304e71d41be6a3d5.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_9dd5cc63efcc5964d45713b7304e71d41be6a3d5.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_708e385bd461625790763fb8ddad537d278ad15c.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_708e385bd461625790763fb8ddad537d278ad15c.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_a97ea1950b4e1a61b07c5a44cbbbb50a3c29dc27.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_a97ea1950b4e1a61b07c5a44cbbbb50a3c29dc27.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_59c1d5ad2824bea54e7d09798674aa5530e525ba.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_59c1d5ad2824bea54e7d09798674aa5530e525ba.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_216ee74f5bee3e78c0c327242d5f6d03395134ad.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_216ee74f5bee3e78c0c327242d5f6d03395134ad.1920x1080.jpg?t=1689017446"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_d0fe8166c0e95f0fd369b6bac59c38b2fb562f3f.600x338.jpg?t=1689017446",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/212680/ss_d0fe8166c0e95f0fd369b6bac59c38b2fb562f3f.1920x1080.jpg?t=1689017446"
+        }
+      ],
+      "movies": [
+        {
+          "id": 82021,
+          "name": "FTL Faster Than Light Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/82021/movie.293x165.jpg?t=1447356626",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/82021/movie480.webm?t=1447356626",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/82021/movie_max.webm?t=1447356626"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/82021/movie480.mp4?t=1447356626",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/82021/movie_max.mp4?t=1447356626"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 54945
+      },
+      "achievements": {
+        "total": 51,
+        "highlighted": [
+          {
+            "name": "Just Getting Started",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/dcf949a646a39b40314f9031a43421253765ba7c.jpg"
+          },
+          {
+            "name": "Federation Base in Range",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/e967959846c507a9b47ed3f20add486927233cf7.jpg"
+          },
+          {
+            "name": "Federation Victory (Easy)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/cf031561b547dfec776b8a9c1a0770ab3f01a2f4.jpg"
+          },
+          {
+            "name": "Federation Victory (Normal)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/6ec94a9be115d5a7b62aaef7c5bdddc068b962aa.jpg"
+          },
+          {
+            "name": "Your Own Fleet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/e047c275cfedbc1899b81afeeddd062640bea50d.jpg"
+          },
+          {
+            "name": "Rule Ten: Greed is Eternal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/48d113e39345433d282836edd2b01433702e15d6.jpg"
+          },
+          {
+            "name": "Warlord",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/c2e29501d5e4c6cee87a6ee8ce2544d460cf360d.jpg"
+          },
+          {
+            "name": "I don't need no stinkin' upgrades!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/5e34c403bc477b6f9ac1a811dad7a1f00108751b.jpg"
+          },
+          {
+            "name": "Coming in for my Pacifism run!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/a3f722fce6f140a23bfd8b18d8dce9f61d0492c0.jpg"
+          },
+          {
+            "name": "On a Wing and a Prayer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212680/a2c9a99cc039fea0df0005adedfe17ec0351ce94.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "14 Sep, 2012"
+      },
+      "support_info": {
+        "url": "http://subsetgames.com/contact.html",
+        "email": "contact@subsetgames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/212680/page_bg_generated_v6b.jpg?t=1689017446",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/212680/page.bg.jpg?t=1689017446",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

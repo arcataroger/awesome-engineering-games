@@ -1,0 +1,292 @@
+{
+  "975370": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Dwarf Fortress",
+      "steam_appid": 975370,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        2232370
+      ],
+      "detailed_description": "Prepare for the deepest, most intricate simulation of a world that has ever been created. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Features.png?t=1697046135\" /><br><ul class=\"bb_ul\"><li> Not just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.<br></li><li> Now with beautiful pixel graphics! <br></li><li> Learn the basics with in-game tutorials<br></li><li> A lifetime “living” project - created/updated since 2003, with no end in sight<br></li><li> Generate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.<br></li><li> A new endless hobby, just for you!</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_About.png?t=1697046135\" /><br>The legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/25a3b7sf.jpg?t=1697046135\" /><br><br>In this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.<br><br>The combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.<br><br>It’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.<br><br><strong>Remember: Losing is fun!</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/WhatNew.png?t=1697046135\" /><br>Nothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.<br><br>You may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Jacob &quot;Ironhand&quot; Bowman. Together, their efforts are creating an all-new tileset featuring brand new pixel art by artists Carolyn Jong and Neoriceisgood. Dwarf Fortress Steam edition will have a 15 track soundtrack by Dabu, Simon Swerwer and Águeda Macias including tracks in the Dwarvish language! <br><br>It's never been easier to start playing! We've improved the new player experience with the addition of tutorials to guide you through building your first fort and keeping your dwarves happy. <br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Fortress.png?t=1697046135\" /><br>Command your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.<br><br><ul class=\"bb_ul\"><li> Craft treasures and furnitures from various materials<br></li><li> Establish a barony and support the increasingly demanding nobility<br></li><li> Read your dwarves’ thoughts to keep them happy<br></li><li> Build floodgates to divert water for farming, and/or prevent magma mishaps<br></li><li> Build structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Legacy.png?t=1697046135\" /><br><ul class=\"bb_ul\"><li>The original inspiration for RimWorld, Prison Architect, Minecraft and more.<br></li><li>One of the first video games acquired by the Museum of Modern Art in New York<br></li><li>Updated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams</li></ul><br>With the goal of simulating all of existence, Bay 12 estimates they’re only about 44% done.",
+      "about_the_game": "Prepare for the deepest, most intricate simulation of a world that has ever been created. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Features.png?t=1697046135\" /><br><ul class=\"bb_ul\"><li> Not just generated geometry -- a whole simulated world. Generated rise and fall of civilizations, personalities, creatures, cultures, etc. Infinite hours of gameplay.<br></li><li> Now with beautiful pixel graphics! <br></li><li> Learn the basics with in-game tutorials<br></li><li> A lifetime “living” project - created/updated since 2003, with no end in sight<br></li><li> Generate your unique world and manage a bustling colony of dwarves, even as they probably mine towards their eventual demise.<br></li><li> A new endless hobby, just for you!</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_About.png?t=1697046135\" /><br>The legendary Dwarf Fortress is now on Steam! Build a fortress and try to help your dwarves survive, despite threats of starvation, dragons, and madness.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/25a3b7sf.jpg?t=1697046135\" /><br><br>In this complex construction/management/roguelike simulation, every generated world brings a unique challenge, whether it’s dwarves with their own simulated personalities or aquifers. Observe what makes your civilization fall into eventual decline, and learn for next time… until something else inevitably goes wrong.<br><br>The combat model includes skills, body parts, material properties, aimed attacks, wrestling, pain, nausea, various poison effects, and much more.<br><br>It’s difficult to convey the depth of the generation. Hundreds of animals and monsters, many of which are randomly created for each world, as well as generated poetry, musical forms, instruments, and dances for your dwarves to practice and perform. A dynamic weather model tracks wind, humidity, and air masses to create fronts, clouds, storms, and blizzards. Over two hundred rock and mineral types can appear, in their proper geological environments.<br><br><strong>Remember: Losing is fun!</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/WhatNew.png?t=1697046135\" /><br>Nothing substantial is new or changed, under the hood. It’s still good old Dwarf Fortress, but with graphics support and music by default. A few bells and whistles won’t change that.<br><br>You may already be familiar with the tile set mod packs from Michał “Mayday” Madej and Jacob &quot;Ironhand&quot; Bowman. Together, their efforts are creating an all-new tileset featuring brand new pixel art by artists Carolyn Jong and Neoriceisgood. Dwarf Fortress Steam edition will have a 15 track soundtrack by Dabu, Simon Swerwer and Águeda Macias including tracks in the Dwarvish language! <br><br>It's never been easier to start playing! We've improved the new player experience with the addition of tutorials to guide you through building your first fort and keeping your dwarves happy. <br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Fortress.png?t=1697046135\" /><br>Command your dwarves as they search for wealth in their generated mountain. Your dwarves will need a steady supply of food and beer, but they’ll also need your guidance in surviving attacks from hostile civilizations, the wilderness, or even the dead.<br><br><ul class=\"bb_ul\"><li> Craft treasures and furnitures from various materials<br></li><li> Establish a barony and support the increasingly demanding nobility<br></li><li> Read your dwarves’ thoughts to keep them happy<br></li><li> Build floodgates to divert water for farming, and/or prevent magma mishaps<br></li><li> Build structures and watch your dwarves discover and build their culture, like taverns, libraries, temples, honey, wax, pottery, animal training, bookbinding, and more.</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/975370/extras/DF_SteamPage_Legacy.png?t=1697046135\" /><br><ul class=\"bb_ul\"><li>The original inspiration for RimWorld, Prison Architect, Minecraft and more.<br></li><li>One of the first video games acquired by the Museum of Modern Art in New York<br></li><li>Updated for over 16 years by two brothers, Tarn “Toady One” and Zach “Threetoe” Adams</li></ul><br>With the goal of simulating all of existence, Bay 12 estimates they’re only about 44% done.",
+      "short_description": "The deepest, most intricate simulation of a world that's ever been created. The legendary Dwarf Fortress is now on Steam. Build a fortress and try to help your dwarves survive against a deeply generated world.",
+      "supported_languages": "English",
+      "reviews": "“You've got to play Dwarf Fortress to truly understand the madness of its creators – and of its biggest fans.”<br><a href=\"https://www.wired.com/2010/04/dwarf-fortress/\" target=\"_blank\" rel=\"\"  >WIRED</a><br><br>“It's in systems that the beauty of their game lies, systems that are capable of generating in minutes worlds that contain more richness than some entire game franchises.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.polygon.com%2F2014%2F7%2F23%2F5926447%2Fdwarf-fortress-will-crush-your-cpu-because-creating-history-is-hard\" target=\"_blank\" rel=\" noopener\"  >Polygon</a><br><br>“[...] Once you’re hooked, it feels vast, enveloping, alive.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.nytimes.com%2F2011%2F07%2F24%2Fmagazine%2Fthe-brilliance-of-dwarf-fortress.html\" target=\"_blank\" rel=\" noopener\"  >New York Times</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/975370/header.jpg?t=1697046135",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/975370/capsule_231x87.jpg?t=1697046135",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/975370/capsule_184x69.jpg?t=1697046135",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> XP SP3 or later<br></li><li><strong>Processor:</strong> Dual Core CPU - 2.4GHz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB of VRAM: Intel HD 3000 GPU / AMD HD 5450 / Nvidia 9400 GT<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Requires 64 bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Dual Core CPU - 4GHz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Bay 12 Games"
+      ],
+      "publishers": [
+        "Kitfox Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        320184
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Dwarf Fortress",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 320184,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Dwarf Fortress - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 93,
+        "url": "https://www.metacritic.com/game/pc/dwarf-fortress?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_98914e3d8d8cc28ddd94052fedef226ed1bba172.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_98914e3d8d8cc28ddd94052fedef226ed1bba172.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_a1478493de292f1c57a9522d00ee5b692ce0e4c7.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_a1478493de292f1c57a9522d00ee5b692ce0e4c7.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_58fc8ef09ebe6c5ad61dcb2529804a9e6c15dde9.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_58fc8ef09ebe6c5ad61dcb2529804a9e6c15dde9.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_b4d36125ae2ba366148041eab562416c79334b5a.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_b4d36125ae2ba366148041eab562416c79334b5a.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_c40053b7751d694f2b5e364a68f58d29f35bfc81.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_c40053b7751d694f2b5e364a68f58d29f35bfc81.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_4e31d98f926436e2192b790aa01895ab89cf583f.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_4e31d98f926436e2192b790aa01895ab89cf583f.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_f6a475e5fdc3222af38a1cde8bde810ca386c12d.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_f6a475e5fdc3222af38a1cde8bde810ca386c12d.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_3a190a3ae9acdf041473e046c95f36894eb1d207.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_3a190a3ae9acdf041473e046c95f36894eb1d207.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_37ff0c17b7acbe21667cf239993a83da3f86e5ad.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_37ff0c17b7acbe21667cf239993a83da3f86e5ad.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_77e5facf7600ecbebefaa8e5b5f112bd58ece28a.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_77e5facf7600ecbebefaa8e5b5f112bd58ece28a.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_386283c730a351292494a03948675d9c383e580e.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_386283c730a351292494a03948675d9c383e580e.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_d6543ced2dc3949d95318c3cd863202bde2f0f9c.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_d6543ced2dc3949d95318c3cd863202bde2f0f9c.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_96423bb72b8a315c70da4e6ea1c7834a0c651cfb.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_96423bb72b8a315c70da4e6ea1c7834a0c651cfb.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_f8aa4e5f896a8ecb7abf3a8c7c4ae176ba40f3ae.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_f8aa4e5f896a8ecb7abf3a8c7c4ae176ba40f3ae.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_ec5949414dfb5ca13d06032f88e49b9b059d0b7a.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_ec5949414dfb5ca13d06032f88e49b9b059d0b7a.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_fb4ed67919a4a2d72818f0e5789d9ed35d6e1a0d.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_fb4ed67919a4a2d72818f0e5789d9ed35d6e1a0d.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_a2e5fc146d193d067bf58502abf875cb76e54260.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_a2e5fc146d193d067bf58502abf875cb76e54260.1920x1080.jpg?t=1697046135"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_6ac3cbfe33f525221f60837373043fa5d0aa8b87.600x338.jpg?t=1697046135",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/975370/ss_6ac3cbfe33f525221f60837373043fa5d0aa8b87.1920x1080.jpg?t=1697046135"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256919689,
+          "name": "Launch trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256919689/movie.jpg?t=1670338861",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919689/movie480_vp9.webm?t=1670338861",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919689/movie_max_vp9.webm?t=1670338861"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919689/movie480.mp4?t=1670338861",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919689/movie_max.mp4?t=1670338861"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256913973,
+          "name": "Release Date Announcement",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256913973/movie.293x165.jpg?t=1667313357",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256913973/movie480_vp9.webm?t=1667313357",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256913973/movie_max_vp9.webm?t=1667313357"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256913973/movie480.mp4?t=1667313357",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256913973/movie_max.mp4?t=1667313357"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256877369,
+          "name": "New Embark Screen",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256877369/movie.293x165.jpg?t=1647361879",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256877369/movie480_vp9.webm?t=1647361879",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256877369/movie_max_vp9.webm?t=1647361879"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256877369/movie480.mp4?t=1647361879",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256877369/movie_max.mp4?t=1647361879"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256853674,
+          "name": "Summer Dev Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256853674/movie.293x165.jpg?t=1632923617",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256853674/movie480_vp9.webm?t=1632923617",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256853674/movie_max_vp9.webm?t=1632923617"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256853674/movie480.mp4?t=1632923617",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256853674/movie_max.mp4?t=1632923617"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256802015,
+          "name": "Autumn Dev Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256802015/movie.293x165.jpg?t=1600799889",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256802015/movie480_vp9.webm?t=1600799889",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256802015/movie_max_vp9.webm?t=1600799889"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256802015/movie480.mp4?t=1600799889",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256802015/movie_max.mp4?t=1600799889"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 22540
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 6, 2022"
+      },
+      "support_info": {
+        "url": "kitfoxgames.com",
+        "email": "info@kitfoxgames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/975370/page_bg_generated_v6b.jpg?t=1697046135",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/975370/page_bg_generated.jpg?t=1697046135",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": "Dwarf Fortress contains textual descriptions of violence, and static 2D sprites that may have violent ends.  Alcohol consumption is required for a dwarven fortress to run smoothly, as described in text.  Dwarves can experience mental anguish, and in extreme cases this can lead to them taking their own lives or the lives of others."
+      }
+    }
+  }
+}

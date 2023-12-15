@@ -1,0 +1,155 @@
+{
+  "1281630": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Anno 1404 - History Edition",
+      "steam_appid": 1281630,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Relive the captivating gameplay of a true city-building classic with Dawn of Discovery® and its Venice expansion in Anno® 1404 History Edition. See the game like never before, updated and optimized to work smoothly on current computers with resolutions of up to 4K, and enjoy all improvements while continuing your existing game with full save compatibility.<br />\r\n- Expand your empire with the Venice expansion, including co-op and competitive multiplayer, as well as new features, ships, quests, and items. <br />\r\n- Experience updated and expanded multiplayer functionality. <br />\r\n- Take advantage of improvements like borderless window mode and multi-screen support.<br />\r\n- Includes bonus content: Anno 1404 soundtrack, wallpaper, and a company logo for Anno 1800™.",
+      "about_the_game": "Relive the captivating gameplay of a true city-building classic with Dawn of Discovery® and its Venice expansion in Anno® 1404 History Edition. See the game like never before, updated and optimized to work smoothly on current computers with resolutions of up to 4K, and enjoy all improvements while continuing your existing game with full save compatibility.<br />\r\n- Expand your empire with the Venice expansion, including co-op and competitive multiplayer, as well as new features, ships, quests, and items. <br />\r\n- Experience updated and expanded multiplayer functionality. <br />\r\n- Take advantage of improvements like borderless window mode and multi-screen support.<br />\r\n- Includes bonus content: Anno 1404 soundtrack, wallpaper, and a company logo for Anno 1800™.",
+      "short_description": "Relive the captivating gameplay of a true city-building classic with Anno® 1404 History Edition.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/header.jpg?t=1690900415",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/capsule_231x87.jpg?t=1690900415",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/capsule_184x69.jpg?t=1690900415",
+      "website": "https://www.anno-union.com/en/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> FX 4130 – 3.9 Ghz, I3-3220 – 3.3 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 660, R7 265<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7.8 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> I5-4460 – 3.2 Ghz, Ryzen5 1600<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 770, RX 470<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7.8 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "ext_user_account_notice": "Ubisoft Account (Supports Linking to Steam Account)",
+      "developers": [
+        "Ubisoft Mainz"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        446471
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Anno 1404 - History Edition",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 446471,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Anno 1404 - History Edition - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_7989891b91f7c49098deb420e8d9fc67aee73bd2.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_7989891b91f7c49098deb420e8d9fc67aee73bd2.1920x1080.jpg?t=1690900415"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_919f5199cd883622986bdbb698aaaeb937b90d1c.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_919f5199cd883622986bdbb698aaaeb937b90d1c.1920x1080.jpg?t=1690900415"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_102bab194cf8decd37816c86985915447fa40906.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_102bab194cf8decd37816c86985915447fa40906.1920x1080.jpg?t=1690900415"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_f646949b43516b7a10900c6f9c7463e732b71c5b.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_f646949b43516b7a10900c6f9c7463e732b71c5b.1920x1080.jpg?t=1690900415"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_31d84e81ae7cfdf8ba1b85569a931f446f31d3c6.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_31d84e81ae7cfdf8ba1b85569a931f446f31d3c6.1920x1080.jpg?t=1690900415"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_abbd994fabc33bdd9c074ac776b496c67fcc99ce.600x338.jpg?t=1690900415",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/ss_abbd994fabc33bdd9c074ac776b496c67fcc99ce.1920x1080.jpg?t=1690900415"
+        }
+      ],
+      "recommendations": {
+        "total": 2187
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 25, 2020"
+      },
+      "support_info": {
+        "url": "https://support.ubi.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/page_bg_generated_v6b.jpg?t=1690900415",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1281630/page_bg_generated.jpg?t=1690900415",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

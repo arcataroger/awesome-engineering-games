@@ -1,0 +1,247 @@
+{
+  "108600": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Project Zomboid",
+      "steam_appid": 108600,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die? <br><br>In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own cunning, luck and ability to evade a relentless horde.<h2 class=\"bb_tag\">Current Features</h2><br><ul class=\"bb_ul\"><li>Hardcore Sandbox Zombie Survival Game with a focus on realistic survival.<br></li><li>Online multiplayer survival with persistent player run servers. <br></li><li>Local 4 player split-screen co-op<br></li><li>Hundreds of zombies with swarm mechanics and in-depth visual and hearing systems. <br></li><li>Full line of sight system and real-time lighting, sound and visibility mechanics. Hide in the shadows, keep quiet and keep the lights off at night, or at least hang sheets over the windows.   <br></li><li>Vast and growing map (loosely based on a real world location) for you to explore, loot and set up your fortress. Check out Blindcoder’s map project: <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fmap.projectzomboid.com%2F\" target=\"_blank\" rel=\" noopener\"  >https://map.projectzomboid.com/</a><br></li><li> Vehicles with full physics and deep and realistic gameplay mechanics.<br></li><li>Use tools and items to craft weapons, barricade and cook. You can even build zombie proof forts by chopping trees, sawing wood and scavenging supplies. <br></li><li>Deal with depression, boredom, hunger, thirst and illness while trying to survive. <br></li><li>Day turns to night. The electricity falters. Hordes migrate. Winter draws in. Nature gradually starts to take over.<br></li><li>Farming, fishing, carpentry, cooking, trapping, character customization, skills and perks that develop based on what you do in-game. <br></li><li>Proper zombies that don’t run. (Unless you tell them to in the sandbox menu).<br></li><li>A ton of amazing atmospheric music tracks by the prodigy that is Zach Beever. <br></li><li>Imaginative Challenge scenarios and instant action ‘Last Stand’ mode, on top of regular Sandbox and Survival <br></li><li>Full, open and powerful Lua modding support. <br></li><li>Xbox Controller Gamepad support on Windows. (Other gamepads can be set up manually.)<br><br>We’re a small team at the moment, but we’re also committed to providing the following:<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">planned Features:</h2></h2></h2></h2><br></li><li>The return of our PZ Stories mode that also serves as first ever tutorial actively trying to kill you at every turn. Kate and Baldspot return!<br></li><li>In-depth and varied NPC encounters driven in a persistent world, powered by a metagame system that turns each play-through into your very own zombie survival movie with emergent narrative gameplay.<br></li><li>Constant expansion of the countryside and cities around Muldraugh and West Point<br></li><li>Full wilderness survival systems, animals and hunting for food. <br></li><li>More items, crafting recipes, weapons and gameplay systems. <br></li><li>Steam Workshop and Achievements support</li></ul><br>For more details on the game follow us on <a href=\"http://www.twitter.com/theindiestone\" target=\"_blank\" rel=\"\"  >@theindiestone</a> or visit <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.projectzomboid.com\" target=\"_blank\" rel=\" noopener\"  >http://www.projectzomboid.com</a>",
+      "about_the_game": "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die? <br><br>In the towns of Muldraugh and West Point, survivors must loot houses, build defences and do their utmost to delay their inevitable death day by day. No help is coming – their continued survival relies on their own cunning, luck and ability to evade a relentless horde.<h2 class=\"bb_tag\">Current Features</h2><br><ul class=\"bb_ul\"><li>Hardcore Sandbox Zombie Survival Game with a focus on realistic survival.<br></li><li>Online multiplayer survival with persistent player run servers. <br></li><li>Local 4 player split-screen co-op<br></li><li>Hundreds of zombies with swarm mechanics and in-depth visual and hearing systems. <br></li><li>Full line of sight system and real-time lighting, sound and visibility mechanics. Hide in the shadows, keep quiet and keep the lights off at night, or at least hang sheets over the windows.   <br></li><li>Vast and growing map (loosely based on a real world location) for you to explore, loot and set up your fortress. Check out Blindcoder’s map project: <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fmap.projectzomboid.com%2F\" target=\"_blank\" rel=\" noopener\"  >https://map.projectzomboid.com/</a><br></li><li> Vehicles with full physics and deep and realistic gameplay mechanics.<br></li><li>Use tools and items to craft weapons, barricade and cook. You can even build zombie proof forts by chopping trees, sawing wood and scavenging supplies. <br></li><li>Deal with depression, boredom, hunger, thirst and illness while trying to survive. <br></li><li>Day turns to night. The electricity falters. Hordes migrate. Winter draws in. Nature gradually starts to take over.<br></li><li>Farming, fishing, carpentry, cooking, trapping, character customization, skills and perks that develop based on what you do in-game. <br></li><li>Proper zombies that don’t run. (Unless you tell them to in the sandbox menu).<br></li><li>A ton of amazing atmospheric music tracks by the prodigy that is Zach Beever. <br></li><li>Imaginative Challenge scenarios and instant action ‘Last Stand’ mode, on top of regular Sandbox and Survival <br></li><li>Full, open and powerful Lua modding support. <br></li><li>Xbox Controller Gamepad support on Windows. (Other gamepads can be set up manually.)<br><br>We’re a small team at the moment, but we’re also committed to providing the following:<h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><h2 class=\"bb_tag\"><h2 class=\"bb_tag\">planned Features:</h2></h2></h2></h2><br></li><li>The return of our PZ Stories mode that also serves as first ever tutorial actively trying to kill you at every turn. Kate and Baldspot return!<br></li><li>In-depth and varied NPC encounters driven in a persistent world, powered by a metagame system that turns each play-through into your very own zombie survival movie with emergent narrative gameplay.<br></li><li>Constant expansion of the countryside and cities around Muldraugh and West Point<br></li><li>Full wilderness survival systems, animals and hunting for food. <br></li><li>More items, crafting recipes, weapons and gameplay systems. <br></li><li>Steam Workshop and Achievements support</li></ul><br>For more details on the game follow us on <a href=\"http://www.twitter.com/theindiestone\" target=\"_blank\" rel=\"\"  >@theindiestone</a> or visit <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.projectzomboid.com\" target=\"_blank\" rel=\" noopener\"  >http://www.projectzomboid.com</a>",
+      "short_description": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Hungarian, Norwegian, Polish, Portuguese - Portugal, Russian, Turkish, Japanese, Simplified Chinese, Portuguese - Brazil, Finnish, Korean, Thai, Traditional Chinese, Ukrainian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg?t=1691508011",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_231x87.jpg?t=1691508011",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/108600/capsule_184x69.jpg?t=1691508011",
+      "website": "http://www.projectzomboid.com",
+      "pc_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 64 Bit<br>\t</li><li> 64bit OS required<br>\t</li><li><strong>Processor:</strong> Intel 2.77GHz Quad-core<br>\t</li><li><strong>Memory:</strong> 8Gb Ram<br>\t</li><li><strong>Hard Disk Space:</strong> 5gig \t<br>\t</li><li><strong>Video Card:</strong>  Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)<br>        </li><li><strong>Sound:</strong> FMOD compatible sound card\t</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.15, or later.<br>\t</li><li><strong>Processor:</strong> Intel x86 (M1/M2 not supported at this time)<br>\t</li><li> 64bit OS required<br>\t</li><li><strong>Memory:</strong> 8Gb Ram<br>\t</li><li><strong>Hard Disk Space:</strong> 5gig \t<br>\t</li><li><strong>Video Card:</strong>  AMD or Intel Integrated (nVidia on Mac not compatible)<br>        </li><li><strong>Sound:</strong> FMOD compatible sound card\t</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<ul class=\"bb_ul\">\t<li><strong>Processor:</strong> Intel 2.77GHz Quad-core<br>        </li><li><strong>Ubuntu LTS 16.04/Steam Machine. Requires Libgcc 6 or higher</strong><br>\t</li><li><strong>Memory:</strong> 8Gb Ram<br>\t</li><li><strong>Hard Disk Space:</strong> 5gig\t<br>\t</li><li><strong>Video Card:</strong>  Dedicated graphics card with 2 GB of RAM minimum, OpenGL 2.1 and GLSL 1.2 support (generally 2012 or newer)<br>        </li><li><strong>Sound:</strong> FMOD compatible sound card\t</li></ul>"
+      },
+      "developers": [
+        "The Indie Stone"
+      ],
+      "publishers": [
+        "The Indie Stone"
+      ],
+      "price_overview": {
+        "currency": "EUR",
+        "initial": 1950,
+        "final": 1950,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "19,50€"
+      },
+      "packages": [
+        34371,
+        44163
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Project Zomboid",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 34371,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Project Zomboid - 19,50€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1950
+            },
+            {
+              "packageid": 44163,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Project Zomboid 4-Pack - 58,99€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 5899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_d4a0f78dc94273c7f0eedc186569efc091387066.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_d4a0f78dc94273c7f0eedc186569efc091387066.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_eca8be032b3f5508bf5bea74cfbc823a4df047ce.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_7300ecc70342b6fcbdf39b6f9ff4c408066f8fc2.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_7300ecc70342b6fcbdf39b6f9ff4c408066f8fc2.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_eb1862af5109e4658e2538d897cbd16b87ad1818.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_3b21d79855804e2a73468328a8fd18df0d238a2a.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_3b21d79855804e2a73468328a8fd18df0d238a2a.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_0dc0cb896202ecfa344a0af981b695f2349317e1.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_bb426e3c51a76f0605cef625094a9fbc7efad73a.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_bb426e3c51a76f0605cef625094a9fbc7efad73a.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_507e952789822b69868d768e1e4476946f37b1fb.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_3eee93607a530e8a5b857bae596f4109539dfd35.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_3eee93607a530e8a5b857bae596f4109539dfd35.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_d80677c526a1c9494a7147189e52fbf438f0a9ca.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_d80677c526a1c9494a7147189e52fbf438f0a9ca.1920x1080.jpg?t=1691508011"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_327eac804820daf1554e7ee9c64eeeb3053eda40.600x338.jpg?t=1691508011",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/108600/ss_327eac804820daf1554e7ee9c64eeeb3053eda40.1920x1080.jpg?t=1691508011"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256865885,
+          "name": "41 Zomboid Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256865885/movie.293x165.jpg?t=1639992657",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865885/movie480_vp9.webm?t=1639992657",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865885/movie_max_vp9.webm?t=1639992657"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865885/movie480.mp4?t=1639992657",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865885/movie_max.mp4?t=1639992657"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 196215
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "8 Nov, 2013"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@theindiestone.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/108600/page_bg_generated_v6b.jpg?t=1691508011",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/108600/page.bg.jpg?t=1691508011",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "736260": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Baba Is You",
+      "steam_appid": 736260,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        955710
+      ],
+      "detailed_description": "Baba Is You is an award-winning puzzle game where you can change the rules by which you play. In every level, the rules themselves are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/image1.png?t=1698353847\" /><br><br>The game has over 200 levels that experiment with the game's mechanics in a multitude of ways, requiring the player to understand and manipulate the rules of the game and figure out devious ways to make the objects in the game world interact.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/image2.png?t=1698353847\" /><br><br>The game was originally created for and won the Nordic Game Jam 2017. Baba Is You also won the Excellence in Design and Best Student Game awards in the Independent Games Festival 2018, and was nominated a finalist in 2 other categories, including the Seumas McNally Grand Prize. The game was made using Multimedia Fusion 2 by Clickteam.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/IGF_winner_bw.png?t=1698353847\" />",
+      "about_the_game": "Baba Is You is an award-winning puzzle game where you can change the rules by which you play. In every level, the rules themselves are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/image1.png?t=1698353847\" /><br><br>The game has over 200 levels that experiment with the game's mechanics in a multitude of ways, requiring the player to understand and manipulate the rules of the game and figure out devious ways to make the objects in the game world interact.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/image2.png?t=1698353847\" /><br><br>The game was originally created for and won the Nordic Game Jam 2017. Baba Is You also won the Excellence in Design and Best Student Game awards in the Independent Games Festival 2018, and was nominated a finalist in 2 other categories, including the Seumas McNally Grand Prize. The game was made using Multimedia Fusion 2 by Clickteam.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/736260/extras/IGF_winner_bw.png?t=1698353847\" />",
+      "short_description": "Baba Is You is a puzzle game where the rules you have to follow are present as blocks you can interact with. By manipulating them, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!",
+      "supported_languages": "English, Spanish - Spain, Korean, Norwegian, Polish, Thai, French, Italian, Dutch, Japanese, Portuguese - Portugal, Portuguese - Brazil, Turkish, Vietnamese, German, Czech, Traditional Chinese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg?t=1698353847",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/capsule_231x87.jpg?t=1698353847",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/736260/capsule_184x69.jpg?t=1698353847",
+      "website": "http://www.hempuli.com/Baba/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.0 GHz+, 32-bit<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Intel High Definition Audio</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 10.6<br></li><li><strong>Processor:</strong> 2.0 GHz+, 64-bit<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Intel High Definition Audio</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04<br></li><li><strong>Processor:</strong> 2.0 GHz+, 32- or 64-bit<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Intel High Definition Audio</li></ul>"
+      },
+      "legal_notice": "By Arvi Teikari, Hempuli Oy<br />\r\nPorting by MP2 Games<br />\r\nSee credits section in-game for details.<br />\r\n<br />\r\nThis game was created using Multimedia Fusion 2 by Clickteam.",
+      "developers": [
+        "Hempuli Oy"
+      ],
+      "publishers": [
+        "Hempuli Oy"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        215068
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Baba Is You",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 215068,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Baba Is You - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 87,
+        "url": "https://www.metacritic.com/game/pc/baba-is-you?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_908c8a4fd0ffec9f29341eb50eb7f074c105342f.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_908c8a4fd0ffec9f29341eb50eb7f074c105342f.1920x1080.jpg?t=1698353847"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_9eadb1cdc09f574d49d32a722d7bda5813c96a64.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_9eadb1cdc09f574d49d32a722d7bda5813c96a64.1920x1080.jpg?t=1698353847"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_c535fc337bdb15bfe35a164cc13db7ec92fd1f44.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_c535fc337bdb15bfe35a164cc13db7ec92fd1f44.1920x1080.jpg?t=1698353847"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_e421ba3fb93e902eb4af05564ebf3afcabaae951.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_e421ba3fb93e902eb4af05564ebf3afcabaae951.1920x1080.jpg?t=1698353847"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_4e489dcc482e3f094cd8caf0a10317fdc71345af.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_4e489dcc482e3f094cd8caf0a10317fdc71345af.1920x1080.jpg?t=1698353847"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_ac1cc1552628933847698ea79ec65bd8531b4274.600x338.jpg?t=1698353847",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/736260/ss_ac1cc1552628933847698ea79ec65bd8531b4274.1920x1080.jpg?t=1698353847"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256743354,
+          "name": "Release date trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256743354/movie.293x165.jpg?t=1550681204",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256743354/movie480.webm?t=1550681204",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256743354/movie_max.webm?t=1550681204"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256743354/movie480.mp4?t=1550681204",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256743354/movie_max.mp4?t=1550681204"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256698065,
+          "name": "Reveal trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256698065/movie.293x165.jpg?t=1513088546",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256698065/movie480.webm?t=1513088546",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256698065/movie_max.webm?t=1513088546"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256698065/movie480.mp4?t=1513088546",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256698065/movie_max.mp4?t=1513088546"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 16131
+      },
+      "achievements": {
+        "total": 18,
+        "highlighted": [
+          {
+            "name": "Water Is Sink",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/9b2d9a5d56b8ab28e66438315ce9088b8f4c1b6a.jpg"
+          },
+          {
+            "name": "Box Has Key",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/33ef000b64f2f93a50c069b96161cec4ea9a874e.jpg"
+          },
+          {
+            "name": "Tree Is Shift",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/ea32b2049e9be7f4af5a23117cc6187deade040b.jpg"
+          },
+          {
+            "name": "Lava Is Hot",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/0ef377dd6e79a52367ee62e4553ffc650c27284a.jpg"
+          },
+          {
+            "name": "Leaf Is Move",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/d47fbf0ff351e29301995e2b222dcc8190dd7f16.jpg"
+          },
+          {
+            "name": "Cog Is Push",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/ca69ef8c80005bd286882dc42e502eec0fd291b3.jpg"
+          },
+          {
+            "name": "Bird Is Float",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/4a540554d91755b6c1a1cb633903d8a01baac801.jpg"
+          },
+          {
+            "name": "Baba Is More",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/d9205f695d1890da75314903072b1a431eaf1455.jpg"
+          },
+          {
+            "name": "Rocket Is Dust",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/4aaeef4c64b4830d6f19c1997ab6ed5cbb1f866c.jpg"
+          },
+          {
+            "name": "Hedge Is Stop",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/736260/de070f62bf936d9be7ef509e6fe4ffccd5ba676d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 13, 2019"
+      },
+      "support_info": {
+        "url": "http://www.hempuli.com/blogblog/",
+        "email": "feedback@hempuli.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/736260/page_bg_generated_v6b.jpg?t=1698353847",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/736260/page.bg.jpg?t=1698353847",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "1450900": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Desynced: Autonomous Colony Simulator",
+      "steam_appid": 1450900,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Early Access Roadmap</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Roadmap_Update_1_Vertical.png?t=1702650662\" /></p><br><h1>About the Game</h1><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FvJzMxBTFFP\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Discord_module2.png?t=1702650662\" /></a><br><br><strong>When your ship becomes damaged, you must send drones to the surface of an unknown planet to build the facilities necessary for repairs. Guided by ELAINE, your onboard AI, you will build, automate, survive, and thrive. But is there more to learn from this mysterious world?</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Header.gif?t=1702650662\" /><br>Desynced is an automation game without belts. Drones connected to your logistics network will automatically fill orders to move material around your base. Set up mining operations and factories, expand your logistics network to cover more area, manage power generation and storage, and more. When you need a more custom solution, tailor the behavior of your facilities and bots using customizable parameters, or dive into drag-and-drop scripting for maximum control.<h2 class=\"bb_tag\">⚙️Automate</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Fabricators.gif?t=1702650662\" /><br>Intricate Resource Management: Master the art of resource management, production chains, and automation to ensure the survival and prosperity of your base. Every decision counts as you strive to maintain a delicate balance in this hostile world.<h2 class=\"bb_tag\">🤖 Customize</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Customize.gif?t=1702650662\" /><br>Fully Customizable Units: Desynced uses drones instead of belts. Equip them with tools fit for their purpose, or program advanced behaviors using a drag and drop editor. Tailor units to your playstyle and adapt to the challenges that await.<h2 class=\"bb_tag\">🔬 Research</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/__Daynight.gif?t=1702650662\" /><br>In-Depth Technology Tree: Dive into a deep research system that will expand your technological prowess. Unlock new possibilities, develop advanced units and structures, and gain an edge over your foes as you unravel the secrets of this captivating world.<h2 class=\"bb_tag\"> 🌟And More! 🌟 </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/ezgif.com-optimize.gif?t=1702650662\" /><br><ul class=\"bb_ul\"><li>🔧 Make it your own with modding Support and Steam Workshop Integration<br></li><li>👥 Join forces with friends or challenge them in multiplayer<br></li><li>🎮 Be the first to try new content as it rolls out during early access </li></ul>",
+      "about_the_game": "<a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FvJzMxBTFFP\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Discord_module2.png?t=1702650662\" /></a><br><br><strong>When your ship becomes damaged, you must send drones to the surface of an unknown planet to build the facilities necessary for repairs. Guided by ELAINE, your onboard AI, you will build, automate, survive, and thrive. But is there more to learn from this mysterious world?</strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Header.gif?t=1702650662\" /><br>Desynced is an automation game without belts. Drones connected to your logistics network will automatically fill orders to move material around your base. Set up mining operations and factories, expand your logistics network to cover more area, manage power generation and storage, and more. When you need a more custom solution, tailor the behavior of your facilities and bots using customizable parameters, or dive into drag-and-drop scripting for maximum control.<h2 class=\"bb_tag\">⚙️Automate</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Fabricators.gif?t=1702650662\" /><br>Intricate Resource Management: Master the art of resource management, production chains, and automation to ensure the survival and prosperity of your base. Every decision counts as you strive to maintain a delicate balance in this hostile world.<h2 class=\"bb_tag\">🤖 Customize</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/Customize.gif?t=1702650662\" /><br>Fully Customizable Units: Desynced uses drones instead of belts. Equip them with tools fit for their purpose, or program advanced behaviors using a drag and drop editor. Tailor units to your playstyle and adapt to the challenges that await.<h2 class=\"bb_tag\">🔬 Research</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/__Daynight.gif?t=1702650662\" /><br>In-Depth Technology Tree: Dive into a deep research system that will expand your technological prowess. Unlock new possibilities, develop advanced units and structures, and gain an edge over your foes as you unravel the secrets of this captivating world.<h2 class=\"bb_tag\"> 🌟And More! 🌟 </h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1450900/extras/ezgif.com-optimize.gif?t=1702650662\" /><br><ul class=\"bb_ul\"><li>🔧 Make it your own with modding Support and Steam Workshop Integration<br></li><li>👥 Join forces with friends or challenge them in multiplayer<br></li><li>🎮 Be the first to try new content as it rolls out during early access </li></ul>",
+      "short_description": "Desynced is a sci-fi strategy game with fully customizable units and behaviors. Gather, build, research, and explore the unknown. Alone or with friends, unveil the mystery of an AI on the edge of self-awareness and uncover the hidden truth in this blend of strategy, automation, and exploration.",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Czech, Japanese, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "reviews": "“High-tech digital version of Factorio.”<br><a href=\"https://www.youtube.com/watch?v=uMS0sLV12Zo\" target=\"_blank\" rel=\"\"  >PartyElite</a><br><br>“Very interesting, very unique, logistic factory building management RTS co-op multiplayer PVP game? It’s so much more!”<br><a href=\"https://www.youtube.com/watch?v=Kq_Z4jJT_zg\" target=\"_blank\" rel=\"\"  >PotatoMcWhickey</a><br><br>“I’m afraid of getting sucked in…”<br><a href=\"https://www.destructoid.com/production-strategy-game-desynced-launches-on-early-access-today/\" target=\"_blank\" rel=\"\"  >Desctuctoid</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/header.jpg?t=1702650662",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/capsule_231x87.jpg?t=1702650662",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/capsule_184x69.jpg?t=1702650662",
+      "website": "https://www.desyncedgame.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit or newer<br></li><li><strong>Processor:</strong> 5th Generation Intel i5 CPU or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060 / AMD R9 or higher<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2023 Stage Games Inc.",
+      "developers": [
+        "Stage Games Inc."
+      ],
+      "publishers": [
+        "Forklift Interactive"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        510525
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Desynced: Autonomous Colony Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 510525,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Desynced - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_c0005e8810a10afc52084bd44b757fba56e3ac1e.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_c0005e8810a10afc52084bd44b757fba56e3ac1e.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_857561085bb2922e6328068a7ad3dce61efb2e20.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_857561085bb2922e6328068a7ad3dce61efb2e20.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_43754accdb8ee4b52d1721020d67c29269f9210c.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_43754accdb8ee4b52d1721020d67c29269f9210c.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_257713b3d3b6f0f2edb864cefebd6025cd6f62cb.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_257713b3d3b6f0f2edb864cefebd6025cd6f62cb.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_28267ef738b5e325b99dde779f8379225baf1783.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_28267ef738b5e325b99dde779f8379225baf1783.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_61cbaf738d3feea2faf909b90006c6c87edb18cf.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_61cbaf738d3feea2faf909b90006c6c87edb18cf.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_a516bd2d25ebe422b27abb628d69b6351afe940b.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_a516bd2d25ebe422b27abb628d69b6351afe940b.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_0ac29fb40a7adbc2cb2e1554477094492826e919.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_0ac29fb40a7adbc2cb2e1554477094492826e919.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_7c9711d5e65ee8faf29376208036d181d2755d41.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_7c9711d5e65ee8faf29376208036d181d2755d41.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_303628172b649a3eb258b3fa0108de6a8bae077a.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_303628172b649a3eb258b3fa0108de6a8bae077a.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_e34484e40b6b98141d1dc7bfe4adae5e9487f9c7.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_e34484e40b6b98141d1dc7bfe4adae5e9487f9c7.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_d6b54c95ce44cfd8c3bebea40895d401a1413505.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_d6b54c95ce44cfd8c3bebea40895d401a1413505.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_85c9ef0b019c35851ac2f811b3af7afde3dc0cef.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_85c9ef0b019c35851ac2f811b3af7afde3dc0cef.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_bc00b107476a1c8c6211543869c28ace4a67f62c.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_bc00b107476a1c8c6211543869c28ace4a67f62c.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_db99a3c93bfbc9783bd501b7eb2e3f5f5a9af5cb.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_db99a3c93bfbc9783bd501b7eb2e3f5f5a9af5cb.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_a6cf381f553b9c9563337177dc130008c39d7bd5.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_a6cf381f553b9c9563337177dc130008c39d7bd5.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_f93198f2cbdafaeb33db3c383e6f9ba3ee58986b.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_f93198f2cbdafaeb33db3c383e6f9ba3ee58986b.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_96517d6e7b144b03ea8260a45c7574db1469c1fd.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_96517d6e7b144b03ea8260a45c7574db1469c1fd.1920x1080.jpg?t=1702650662"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_0390b8269977c653283c907b25cc3dec8171dc2a.600x338.jpg?t=1702650662",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/ss_0390b8269977c653283c907b25cc3dec8171dc2a.1920x1080.jpg?t=1702650662"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256963569,
+          "name": "Early Access Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256963569/movie.293x165.jpg?t=1692110925",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963569/movie480_vp9.webm?t=1692110925",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963569/movie_max_vp9.webm?t=1692110925"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256963569/movie480.mp4?t=1692110925",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256963569/movie_max.mp4?t=1692110925"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256957773,
+          "name": "Early Access Date Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256957773/movie.293x165.jpg?t=1689217357",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256957773/movie480_vp9.webm?t=1689217357",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256957773/movie_max_vp9.webm?t=1689217357"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256957773/movie480.mp4?t=1689217357",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256957773/movie_max.mp4?t=1689217357"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256920720,
+          "name": "Announcement Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256920720/movie.293x165.jpg?t=1689166640",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256920720/movie480_vp9.webm?t=1689166640",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256920720/movie_max_vp9.webm?t=1689166640"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256920720/movie480.mp4?t=1689166640",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256920720/movie_max.mp4?t=1689166640"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 909
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 15, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@stage-games.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/page_bg_generated_v6b.jpg?t=1702650662",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1450900/page.bg.jpg?t=1702650662",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

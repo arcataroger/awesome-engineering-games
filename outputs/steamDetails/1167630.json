@@ -1,0 +1,280 @@
+{
+  "1167630": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Teardown",
+      "steam_appid": 1167630,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2657070,
+        2657050,
+        2657080
+      ],
+      "detailed_description": "<h1>EDITIONS</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1167630/extras/compare_editions.jpg?t=1700055440\" /><br><strong>TEARDOWN: ULTIMATE EDITION includes:</strong><br>TEARDOWN<br>TEARDOWN: SEASON PASS<br><br><strong>TEARDOWN: SEASON PASS includes:</strong><br>TIME CAMPERS DLC - A campaign expansion set in the wild west. Available at launch.<br>FOLKRACE DLC - A campaign expansion that introduces new vehicles and a series of destructive racing game modes. Available Spring 2024.<br>TWO ADDITIONAL DLCS - Available by end of 2024.<br>QUILEZ R0113R ROBOT - A spawnable, transformable robot vehicle equipped with destructive weapon systems and a grappling hook.<br><br><strong>TEARDOWN: DELUXE EDITION includes:</strong><br>TEARDOWN<br>TIME CAMPERS DLC - A campaign expansion set in the wild west. Available at launch.<br>FOLKRACE DLC - A campaign expansion that introduces new vehicles and a series of destructive racing game modes. Available Spring 2024.</p><br><h1>About the Game</h1>Plan the perfect heist using creative problem solving, brute force, and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics.<br><br>Tear down walls with explosives or vehicles to create shortcuts no one thought was possible. Stack objects, build structures, or use floating objects to your advantage. Take your time to create an efficient path through the level, plan the heist and get ready to execute it.<br><br>Run, jump, drive, slingshot. Do whatever you need to collect targets, avoid robots or steal whatever your clients ask for. But make sure not to get caught!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1167630/extras/campaign.gif?t=1700055440\" /><br><br><strong>Campaign</strong><br>With your company pressured by increasing debt, you start accepting work from some more or less shady individuals. Soon you are knee-deep in a murky soup of revenge, betrayal, and insurance fraud. Beginning with some more or less legitimate assignments, you soon find yourself stealing cars, demolishing buildings, blowing up safes, avoiding trigger-happy robots and more. Upgrade your expanding arsenal of tools by searching for hidden valuables scattered around the environments.<br><br><strong>Sandbox</strong><br>Play around in the various environments with the tools you have unlocked. In this mode you have unlimited resources and an abundance of vehicles. No pressure, just pleasure.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1167630/extras/sandbox.gif?t=1700055440\" /><br><br><strong>Challenges</strong><br>Test your skills in experimental game modes. New challenges unlock as you progress through the campaign.<br><br><strong>Modding</strong><br>Teardown has extensive mod support with built-in level editor, Lua scripting and a Steam Workshop integration. Build your own sandbox maps, mini games, tools, vehicles or try out existing mods from the community. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Fully destructible voxel environments<br></li><li>Realistic physical simulation of objects, debris, vehicles, water, fire, and smoke<br></li><li>17 different tools ranging from sledgehammer, blow torch and fire extinguisher to guns and explosives <br></li><li>Campaign with 40 missions in an escalating storyline<br></li><li>Sandbox mode for you to roam around in the various environments<br></li><li>Extensive mod support and Steam Workshop integration</li></ul>",
+      "about_the_game": "Plan the perfect heist using creative problem solving, brute force, and everything around you. Teardown features a fully destructible and truly interactive environment where player freedom and emergent gameplay are the driving mechanics.<br><br>Tear down walls with explosives or vehicles to create shortcuts no one thought was possible. Stack objects, build structures, or use floating objects to your advantage. Take your time to create an efficient path through the level, plan the heist and get ready to execute it.<br><br>Run, jump, drive, slingshot. Do whatever you need to collect targets, avoid robots or steal whatever your clients ask for. But make sure not to get caught!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1167630/extras/campaign.gif?t=1700055440\" /><br><br><strong>Campaign</strong><br>With your company pressured by increasing debt, you start accepting work from some more or less shady individuals. Soon you are knee-deep in a murky soup of revenge, betrayal, and insurance fraud. Beginning with some more or less legitimate assignments, you soon find yourself stealing cars, demolishing buildings, blowing up safes, avoiding trigger-happy robots and more. Upgrade your expanding arsenal of tools by searching for hidden valuables scattered around the environments.<br><br><strong>Sandbox</strong><br>Play around in the various environments with the tools you have unlocked. In this mode you have unlimited resources and an abundance of vehicles. No pressure, just pleasure.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1167630/extras/sandbox.gif?t=1700055440\" /><br><br><strong>Challenges</strong><br>Test your skills in experimental game modes. New challenges unlock as you progress through the campaign.<br><br><strong>Modding</strong><br>Teardown has extensive mod support with built-in level editor, Lua scripting and a Steam Workshop integration. Build your own sandbox maps, mini games, tools, vehicles or try out existing mods from the community. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Fully destructible voxel environments<br></li><li>Realistic physical simulation of objects, debris, vehicles, water, fire, and smoke<br></li><li>17 different tools ranging from sledgehammer, blow torch and fire extinguisher to guns and explosives <br></li><li>Campaign with 40 missions in an escalating storyline<br></li><li>Sandbox mode for you to roam around in the various environments<br></li><li>Extensive mod support and Steam Workshop integration</li></ul>",
+      "short_description": "Prepare the perfect heist in this simulated and fully destructible voxel world. Tear down walls with vehicles or explosives to create shortcuts. Stack objects to reach higher. Use the environment to your advantage in the most creative way you can think of.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Russian, Simplified Chinese",
+      "reviews": "“An endlessly delightful destruction sandbox”<br><a href=\"https://www.pcgamer.com/teardown-review/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“Teardown offers players a chance to live out their most destructive dreams in a beautifully rendered voxel world”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.nme.com%2Freviews%2Fgame-reviews%2Fteardown-review-3214653\" target=\"_blank\" rel=\" noopener\"  >NME</a><br><br>“Teardown Is A Heist Game Where Levels Are Fully Destructible, And It's Fantastic”<br><a href=\"https://kotaku.com/teardown-is-a-heist-game-where-levels-are-fully-destruc-1845574471\" target=\"_blank\" rel=\"\"  >Kotaku</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/header.jpg?t=1700055440",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/capsule_231x87.jpg?t=1700055440",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/capsule_184x69.jpg?t=1700055440",
+      "website": "http://teardowngame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Quad Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 or similar. 3 Gb VRAM.<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Intel integrated graphics cards not supported.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1080 or similar. 8 Gb VRAM.<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2020-2023 Tuxedo Labs AB",
+      "developers": [
+        "Tuxedo Labs"
+      ],
+      "publishers": [
+        "Tuxedo Labs",
+        "Saber Interactive"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        398965,
+        958356,
+        958355
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Teardown",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 398965,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Teardown - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            },
+            {
+              "packageid": 958356,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Teardown: Deluxe Edition - $39.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3999
+            },
+            {
+              "packageid": 958355,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Teardown: Ultimate Edition - $49.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 80,
+        "url": "https://www.metacritic.com/game/pc/teardown?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_9fd3e8de605efc42e29ba98f72432cb78a15d7ac.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_9fd3e8de605efc42e29ba98f72432cb78a15d7ac.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_dc08bfb0b8b381bc580d2599ad24462af4690a20.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_dc08bfb0b8b381bc580d2599ad24462af4690a20.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_50dd8a16ca7ce02dd18ccbd19908a3eda27b82a9.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_50dd8a16ca7ce02dd18ccbd19908a3eda27b82a9.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_9a48b92d7144b7f4a27c0b5bc7dac1e687698f5b.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_9a48b92d7144b7f4a27c0b5bc7dac1e687698f5b.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_1456883f851965d17acc0fd466a53d17bab3ef8f.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_1456883f851965d17acc0fd466a53d17bab3ef8f.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_b27b34be4df67359cda370e9a9372ea229ef2932.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_b27b34be4df67359cda370e9a9372ea229ef2932.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_4e43fc5c0302825007c35f51e03964726a06e984.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_4e43fc5c0302825007c35f51e03964726a06e984.1920x1080.jpg?t=1700055440"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_beac47def3673b7ce3423584e512caa67bf2d69e.600x338.jpg?t=1700055440",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/ss_beac47def3673b7ce3423584e512caa67bf2d69e.1920x1080.jpg?t=1700055440"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256883013,
+          "name": "Teardown - Gameplay Overview Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256883013/movie.293x165.jpg?t=1700053369",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883013/movie480_vp9.webm?t=1700053369",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883013/movie_max_vp9.webm?t=1700053369"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883013/movie480.mp4?t=1700053369",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883013/movie_max.mp4?t=1700053369"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 76352
+      },
+      "achievements": {
+        "total": 27,
+        "highlighted": [
+          {
+            "name": "Visit the developers",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/731d7f726063fdeb3f07ba5670521442d78c9b1c.jpg"
+          },
+          {
+            "name": "Whoops",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/d3f2c281b590df3969dbee2494c4266449807030.jpg"
+          },
+          {
+            "name": "Couch potato",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/af199d4faa320141c6c6b2dcf571fe7cad6f8313.jpg"
+          },
+          {
+            "name": "Sharpshooter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/c1499da0c40887e45f8f1d502034cb0440d8d3dc.jpg"
+          },
+          {
+            "name": "Average looter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/9e1056203cfb4828deb1865a4d55ff11c1574f93.jpg"
+          },
+          {
+            "name": "Drive for treasure",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/8f8297b4da92b918db9027f0b0bf4fd117bda672.jpg"
+          },
+          {
+            "name": "Paintjob",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/969fb760e8ac1730cff5aeaf3c7debe8428fc275.jpg"
+          },
+          {
+            "name": "Above and beyond",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/3d940a1cbb06d7d3e94c2461a06a449b43a7e2f0.jpg"
+          },
+          {
+            "name": "Liftoff",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/857650aed060ae01e5155e4dc0323aabe6bc0557.jpg"
+          },
+          {
+            "name": "McFly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1167630/dad8af637bd0e97ace4b52b5dc5686f4fbd60793.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 21, 2022"
+      },
+      "support_info": {
+        "url": "http://teardowngame.com",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/page_bg_generated_v6b.jpg?t=1700055440",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/page.bg.jpg?t=1700055440",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

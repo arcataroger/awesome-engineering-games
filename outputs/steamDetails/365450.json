@@ -1,0 +1,288 @@
+{
+  "365450": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Hacknet",
+      "steam_appid": 365450,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        408710,
+        521840,
+        612210
+      ],
+      "detailed_description": "<h1>AVAILABLE NOW: HACKNET - LABYRINTHS EXPANSION</h1><p><a href=\"http://store.steampowered.com/app/521840/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/521840/</a><br><br>Join a small team of elite hackers pulling off a complex series of data heists in Hacknet Labyrinths, a major expansion for critically acclaimed terminal-based hacking simulator, Hacknet.<br><br>Adding a new 3-4 hour chapter to the game, Hacknet Labyrinths sees you recruited by the mysterious Kaguya to join a small team of elite hackers on the hunt for powerful new tools and programs.</p><br><h1>Hacknet Extensions Mod Tools</h1><p><strong>Hacknet Extensions</strong>, a free suite of mod tools for Hacknet and Hacknet Labyrinths is now available.<br><br>You can access Hacknet Extensions via the main menu and use it to create Hacknet campaigns, system networks, nodes, themes, music and story missions. Share your creations with other players through Steam Workshop.<br><br>An interactive tutorial has been included in Extensions. This will step you through the process of creating a mod.<br><br>There is an extensive guide in the community hub: <a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=914587661\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >http://steamcommunity.com/sharedfiles/filedetails/?id=914587661</a><br>and you can connect, collaborate and discuss with other modders in the Hacknet Extensions Discord  <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2F7cHhVT9\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/7cHhVT9</a>.</p><br><h1>About the Game</h1>Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker, whose death may not have been the accident the media reports. Using old school command prompts and real hacking processes, you’ll solve the mystery with minimal hand-holding and a rich world full of secrets to explore.<br><br>Bit, a hacker responsible for creating the most invasive security system on the planet, is dead. When he fails to reconnect to his system for 14 days, his failsafe kicks in, sending instructions in automated emails to a lone user.  As that user, it’s up to you to unravel the mystery and ensure that Hacknet-OS doesn't fall into the wrong hands.<br><br>Exploring the volatile nature of personal privacy, the prevalence of corporate greed, and the hidden powers of hackers on the internet, Hacknet delivers a true hacking simulation, while offering a support system that allows total beginners get a grasp of the real-world applications and commands found throughout the game.<h2 class=\"bb_tag\">Features</h2><br><strong>Real Hacking</strong><br>Based on actual UNIX commands, Hacknet focuses on real hacking, not the Hollywood-style version of it. This creates a truly immersive experience and puts players right in the thick of trying to break through the firewalls.<br><br><strong>Unlock the mystery of Bit</strong><br>A hacker is dead and the media reports don’t add up. When you are contacted by his “ghost” - an automated failsafe system - you’re drawn into the dark and murky world of underground hackers.<br><br><strong>Full immersion</strong><br>You are thrust into a persistent virtual world with no “levels” or obvious game elements to break the illusion. Follow the guidance of the emails from Bit or just dive down the rabbit hole, chasing down clues and snippets of information you find as you explore different systems.<br><br><strong>Accessible but uncompromising</strong><br>Whilst not holding your hand or dumbing down, the design of the game and the learning curve enables those with no prior terminal experience to enjoy it whilst delighting those in the know.<br><br><strong>Killer tunes</strong><br>Hack to the beat of a soundtrack featuring underground artists including Carpenter Brut (Hotline Miami) and Remi Gallego (AKA The Algorithm).<br>Soundtrack produced in association with The Otherworld Agency.<br><br><strong>Hack your own adventures</strong><br>Create your own campaigns, system networks, nodes, themes, music and story missions using the Hacknet Extensions mod tools. Share them with other players through Steam Workshop.",
+      "about_the_game": "Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker, whose death may not have been the accident the media reports. Using old school command prompts and real hacking processes, you’ll solve the mystery with minimal hand-holding and a rich world full of secrets to explore.<br><br>Bit, a hacker responsible for creating the most invasive security system on the planet, is dead. When he fails to reconnect to his system for 14 days, his failsafe kicks in, sending instructions in automated emails to a lone user.  As that user, it’s up to you to unravel the mystery and ensure that Hacknet-OS doesn't fall into the wrong hands.<br><br>Exploring the volatile nature of personal privacy, the prevalence of corporate greed, and the hidden powers of hackers on the internet, Hacknet delivers a true hacking simulation, while offering a support system that allows total beginners get a grasp of the real-world applications and commands found throughout the game.<h2 class=\"bb_tag\">Features</h2><br><strong>Real Hacking</strong><br>Based on actual UNIX commands, Hacknet focuses on real hacking, not the Hollywood-style version of it. This creates a truly immersive experience and puts players right in the thick of trying to break through the firewalls.<br><br><strong>Unlock the mystery of Bit</strong><br>A hacker is dead and the media reports don’t add up. When you are contacted by his “ghost” - an automated failsafe system - you’re drawn into the dark and murky world of underground hackers.<br><br><strong>Full immersion</strong><br>You are thrust into a persistent virtual world with no “levels” or obvious game elements to break the illusion. Follow the guidance of the emails from Bit or just dive down the rabbit hole, chasing down clues and snippets of information you find as you explore different systems.<br><br><strong>Accessible but uncompromising</strong><br>Whilst not holding your hand or dumbing down, the design of the game and the learning curve enables those with no prior terminal experience to enjoy it whilst delighting those in the know.<br><br><strong>Killer tunes</strong><br>Hack to the beat of a soundtrack featuring underground artists including Carpenter Brut (Hotline Miami) and Remi Gallego (AKA The Algorithm).<br>Soundtrack produced in association with The Otherworld Agency.<br><br><strong>Hack your own adventures</strong><br>Create your own campaigns, system networks, nodes, themes, music and story missions using the Hacknet Extensions mod tools. Share them with other players through Steam Workshop.",
+      "short_description": "Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker, whose death may not have been the accident the media reports.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“It’s the closest thing to a real life hacking sim I’ve ever seen”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.kotaku.com.au%2F2015%2F07%2Fthis-australian-game-will-turn-us-all-into-hackers%2F\" target=\"_blank\" rel=\" noopener\"  >Kotaku</a><br><br>“The idea itself owes a lot to the likes of Uplink. But it’s the execution that makes Hacknet great”<br><a href=\"http://www.rockpapershotgun.com/2015/11/09/best-programming-games/\" target=\"_blank\" rel=\"\"  >Rock, Paper, Shotgun</a><br><br>“Probably the coolest game I'll play all year. Not even kidding.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fdigitalchumps.com%2Fgame-reviews%2F39-pc%2Fhacknet-rv.html\" target=\"_blank\" rel=\" noopener\"  >Digital Chumps</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/365450/header.jpg?t=1693960812",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_231x87.jpg?t=1693960812",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/365450/capsule_184x69.jpg?t=1693960812",
+      "website": "http://www.hacknet-os.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 13.04<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 13.4 LTS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0+ (2.1 with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "legal_notice": "©2012 Team Fractal Alligator Pty Ltd. Published by Fellow Traveller ®. Fellow Traveller is a registered trademark of Surprise Attack Pty Ltd trading as Fellow Traveller Games. All rights reserved.",
+      "developers": [
+        "Team Fractal Alligator"
+      ],
+      "publishers": [
+        "Fellow Traveller"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        65932,
+        78593
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Hacknet",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 65932,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Hacknet - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 78593,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Hacknet - Deluxe Edition - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 82,
+        "url": "https://www.metacritic.com/game/pc/hacknet?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_182ebf5aa570fc0ad0d1d974d43137e858ddeb54.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_182ebf5aa570fc0ad0d1d974d43137e858ddeb54.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_cb37cc7d09a1b4439a7799cc9ceb407a99731069.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_cb37cc7d09a1b4439a7799cc9ceb407a99731069.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_f8e81ad1a729fc61689fee1c3f12d69853fdd32c.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_f8e81ad1a729fc61689fee1c3f12d69853fdd32c.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_7ce55309743e48c5468dbc8fe402bdec01a20589.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_7ce55309743e48c5468dbc8fe402bdec01a20589.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_5f7d861ef3f817a9c91e2c9a4be10897eca2b4b4.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_5f7d861ef3f817a9c91e2c9a4be10897eca2b4b4.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.1920x1080.jpg?t=1693960812"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_98b53bc0ef70fd90a4410ac5d03a29d14789fcc8.600x338.jpg?t=1693960812",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/365450/ss_98b53bc0ef70fd90a4410ac5d03a29d14789fcc8.1920x1080.jpg?t=1693960812"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256654872,
+          "name": "Hacknet Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256654872/movie.293x165.jpg?t=1532385499",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256654872/movie480.webm?t=1532385499",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256654872/movie_max.webm?t=1532385499"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256654872/movie480.mp4?t=1532385499",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256654872/movie_max.mp4?t=1532385499"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 14625
+      },
+      "achievements": {
+        "total": 11,
+        "highlighted": [
+          {
+            "name": "Quickdraw",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg"
+          },
+          {
+            "name": "Rude",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/fb047a4666cd44ddfc0c936013d9d2081c1fb24f.jpg"
+          },
+          {
+            "name": "Hacknet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg"
+          },
+          {
+            "name": "CSEC",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/ab55f17901da853fee72f03b7be862522b3f5dd6.jpg"
+          },
+          {
+            "name": "Entropy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/f8efc52503876eac7b059b849938e77af8ccf4ee.jpg"
+          },
+          {
+            "name": "PointClicker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/4374104b16075586059ba8f73606cc8860490033.jpg"
+          },
+          {
+            "name": "You better not have clicked for those...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/4c0471f9dff1189d486d2ff809e978a445fbfd97.jpg"
+          },
+          {
+            "name": "TRUE ULTIMATE POWER",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg"
+          },
+          {
+            "name": "Makeover!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg"
+          },
+          {
+            "name": "To the Wire",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/365450/908ed2a59fb165dcc9c6830e73cc8c263aa57e53.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 12, 2015"
+      },
+      "support_info": {
+        "url": "http://www.hacknet-os.com/",
+        "email": "support@fellowtraveller.games"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/365450/page_bg_generated_v6b.jpg?t=1693960812",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/365450/page.bg.jpg?t=1693960812",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": "Contains depictions of computer hacking, some of which have serious implied consequences."
+      }
+    }
+  }
+}

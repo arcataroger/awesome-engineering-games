@@ -1,0 +1,319 @@
+{
+  "464350": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Screeps: World",
+      "steam_appid": 464350,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>About Screeps</h1><p>Screeps means &quot;scripting creeps.&quot; You use real JavaScript to script behavior of your units, or creeps. The <a href=\"https://store.steampowered.com/search/?franchise=Screeps\" target=\"_blank\" rel=\"\"  >Screeps franchise</a> is aimed at programming enthusiasts and consists of two games: <a href=\"https://store.steampowered.com/app/464350/Screeps/\" target=\"_blank\" rel=\"\"  >World</a> and <a href=\"https://store.steampowered.com/app/1137320/Screeps_Arena/\" target=\"_blank\" rel=\"\"  >Arena</a>.<br><br><a href=\"https://steamcommunity.com/app/464350/discussions/0/3123802224167555310/\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/464350/extras/discord.png?t=1702321038\" /></a></p><br><h1>About the Game</h1><strong>Screeps: World</strong> is an open source MMO RTS sandbox game. With all the attributes of a full-fledged strategy game, you control your colony by writing script that operates 24/7 in the single persistent open world filled by other players on par with you.<br><br>Your colony can <strong>harvest</strong> resources, <strong>build</strong> units, <strong>conquer</strong> territory, <strong>trade</strong> with other colonies. As you conquer more territory, your influence in the game world grows, as well as your abilities to expand your footprint. But beware, multiple players aiming for the same territory may lead to conflict!<br><br>Screeps is developed for people with programming skills. Unlike some other RTS games, your units in Screeps can react to events without your participation – provided that you have programmed them properly. And, unlike other MMO, you do not have to play Screeps constantly to play well. It is quite enough just to check once in a while to see if everything goes well.<br><br>Features:<br><br><ul class=\"bb_ul\"><li> You play by writing JavaScript AI which controls your units 24/7 even while you're offline.<br></li><li> Units of all players coexist in the same real-time huge persistent world and obey the same rules.<br></li><li> Many kinds of units, base building, mining resources, territory control, economy, manufacturing, transporting, logistics, trading—all the attributes of a real strategy game which you need to program!<br></li><li> The better your scripts, the better your game—irrespective of the time played. Your creeps will mine, build, defend, and conquer as you just work, sleep, or walk your dog.<br></li><li> Only basic programming skills are required. However, if you are a pro developer, now is the chance to put your skills to the limit!<br></li><li> Edit your scripts from the in-game editor, or using your favorite external IDE.<br></li><li>Other languages are supported via <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwebassembly.org%2Fgetting-started%2Fdevelopers-guide%2F\" target=\"_blank\" rel=\" noopener\"  >WebAssembly</a>: C/C++, Rust, TypeScript, Go, C#, F#, Kotlin, Swift, D, Pascal, Zig, the list is growing.<br></li><li> Permanent MMO access with 20 CPU limit included in the starter package. Unlock your full CPU in your account on the official server by purchasing a Lifetime CPU unlock or an in-game <a href=\"https://steamcommunity.com/market/listings/464350/CPU%20Unlock\" target=\"_blank\" rel=\"\"  >CPU Unlock</a> consumable item (can be bought by in-game credits).<br></li><li> If you don't want to buy an unlock, that's fine—there is a standalone CPU-limited world shard where you can compete with other &quot;CPU-locked&quot; players on equal terms.<br></li><li> Host your own server, modify games rules and play with your friends via LAN or on the Internet. The server is an <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.com%2Fscreeps%2Fscreeps\" target=\"_blank\" rel=\" noopener\"  >open source project</a>.<br></li><li> The game is slow-paced (from 2 seconds to 5 seconds per game tick depending on a world shard where you start playing), since it allows you to debug your scripts in the real-time world. You can use your private server to develop and test with fast pace (up to 10 game ticks per second).</li></ul>",
+      "about_the_game": "<strong>Screeps: World</strong> is an open source MMO RTS sandbox game. With all the attributes of a full-fledged strategy game, you control your colony by writing script that operates 24/7 in the single persistent open world filled by other players on par with you.<br><br>Your colony can <strong>harvest</strong> resources, <strong>build</strong> units, <strong>conquer</strong> territory, <strong>trade</strong> with other colonies. As you conquer more territory, your influence in the game world grows, as well as your abilities to expand your footprint. But beware, multiple players aiming for the same territory may lead to conflict!<br><br>Screeps is developed for people with programming skills. Unlike some other RTS games, your units in Screeps can react to events without your participation – provided that you have programmed them properly. And, unlike other MMO, you do not have to play Screeps constantly to play well. It is quite enough just to check once in a while to see if everything goes well.<br><br>Features:<br><br><ul class=\"bb_ul\"><li> You play by writing JavaScript AI which controls your units 24/7 even while you're offline.<br></li><li> Units of all players coexist in the same real-time huge persistent world and obey the same rules.<br></li><li> Many kinds of units, base building, mining resources, territory control, economy, manufacturing, transporting, logistics, trading—all the attributes of a real strategy game which you need to program!<br></li><li> The better your scripts, the better your game—irrespective of the time played. Your creeps will mine, build, defend, and conquer as you just work, sleep, or walk your dog.<br></li><li> Only basic programming skills are required. However, if you are a pro developer, now is the chance to put your skills to the limit!<br></li><li> Edit your scripts from the in-game editor, or using your favorite external IDE.<br></li><li>Other languages are supported via <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwebassembly.org%2Fgetting-started%2Fdevelopers-guide%2F\" target=\"_blank\" rel=\" noopener\"  >WebAssembly</a>: C/C++, Rust, TypeScript, Go, C#, F#, Kotlin, Swift, D, Pascal, Zig, the list is growing.<br></li><li> Permanent MMO access with 20 CPU limit included in the starter package. Unlock your full CPU in your account on the official server by purchasing a Lifetime CPU unlock or an in-game <a href=\"https://steamcommunity.com/market/listings/464350/CPU%20Unlock\" target=\"_blank\" rel=\"\"  >CPU Unlock</a> consumable item (can be bought by in-game credits).<br></li><li> If you don't want to buy an unlock, that's fine—there is a standalone CPU-limited world shard where you can compete with other &quot;CPU-locked&quot; players on equal terms.<br></li><li> Host your own server, modify games rules and play with your friends via LAN or on the Internet. The server is an <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.com%2Fscreeps%2Fscreeps\" target=\"_blank\" rel=\" noopener\"  >open source project</a>.<br></li><li> The game is slow-paced (from 2 seconds to 5 seconds per game tick depending on a world shard where you start playing), since it allows you to debug your scripts in the real-time world. You can use your private server to develop and test with fast pace (up to 10 game ticks per second).</li></ul>",
+      "short_description": "Screeps: World is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.",
+      "supported_languages": "English",
+      "reviews": "“It was fun while it lasted, and probably the best thing is that I really feel like my Javascript and Node fluency has gone through the roof compared to what it was.  As I said at the start, this isn’t a game to learn coding in. But if you already know a bit, it’s a fun way to get from beginner to intermediate.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.kotaku.com.au%2F2016%2F08%2Fthe-rts-that-makes-you-program-your-own-units%2F\" target=\"_blank\" rel=\" noopener\"  >Kotaku Australia</a><br><br>“Screeps is a fun game and has a unique angle to it. Using actual programming instead of a pseudo-language actually allows the players to focus on better coding habits and makes practice fun.”<br>8/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.gameskinny.com%2Fmv7sb%2Fscreeps-the-javascript-programmers-mmo\" target=\"_blank\" rel=\" noopener\"  >GameSkinny</a><br><br>“We use Screeps as a key part of our recruitment process at fleetster. Screeps is useful because it throws candidates into an unknown environment where the number of &quot;right&quot; solutions are very numerous.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fblog.screeps.com%2F2017%2F05%2Ffleetster%2F\" target=\"_blank\" rel=\" noopener\"  >fleetster</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/464350/header.jpg?t=1702321038",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/464350/capsule_231x87.jpg?t=1702321038",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/464350/capsule_184x69.jpg?t=1702321038",
+      "website": "https://screeps.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "developers": [
+        "Screeps, LLC"
+      ],
+      "publishers": [
+        "Screeps, LLC"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        110423,
+        283547
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Screeps: World",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 110423,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Screeps: World - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            },
+            {
+              "packageid": 283547,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Lifetime CPU Unlock - $129.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 12999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 20,
+          "description": "MMO"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_f3e691e4447b4e6562a6dd06229339d7c87dcb6b.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_f3e691e4447b4e6562a6dd06229339d7c87dcb6b.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_71e20a8bc527f3de4edf3149864b47a113ddcd19.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_71e20a8bc527f3de4edf3149864b47a113ddcd19.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_fbb3485382268036896c1ca3d87c02ce623451d1.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_fbb3485382268036896c1ca3d87c02ce623451d1.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_8e046257ef4d915d6d2241366c477a13ef6e834b.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_8e046257ef4d915d6d2241366c477a13ef6e834b.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_93cd30bdf89e77ca6449f9128cb21cb8ad1558b9.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_93cd30bdf89e77ca6449f9128cb21cb8ad1558b9.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_8710d98d90d2f70d825aae28335dbda1705eaa22.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_8710d98d90d2f70d825aae28335dbda1705eaa22.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_94f8270c8af95095e75ab2f9418388b74a6c201d.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_94f8270c8af95095e75ab2f9418388b74a6c201d.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_4ce0dfecf9cb986d33e3956a8477c9327152f31a.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_4ce0dfecf9cb986d33e3956a8477c9327152f31a.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_5b14327f181a68037acdb6cfe7039b5f204779c7.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_5b14327f181a68037acdb6cfe7039b5f204779c7.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_c61030f6c3b28f8b0b818cd763b3c34aac254314.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_c61030f6c3b28f8b0b818cd763b3c34aac254314.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_98e8edf187f65e7d1b4be7abb153ecf86d17f680.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_98e8edf187f65e7d1b4be7abb153ecf86d17f680.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_2f7c8137ab5b13b0ff2c5164cb4483b7f0b6b576.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_2f7c8137ab5b13b0ff2c5164cb4483b7f0b6b576.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_b2856ca8384a90b804b7c6ef29f4857e3de8d0f8.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_b2856ca8384a90b804b7c6ef29f4857e3de8d0f8.1920x1080.jpg?t=1702321038"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_f8cc57d63e42164bc8fd2fcaad7a980ed6479420.600x338.jpg?t=1702321038",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/464350/ss_f8cc57d63e42164bc8fd2fcaad7a980ed6479420.1920x1080.jpg?t=1702321038"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256664721,
+          "name": "Main Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256664721/movie.293x165.jpg?t=1515314688",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664721/movie480.webm?t=1515314688",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664721/movie_max.webm?t=1515314688"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256664721/movie480.mp4?t=1515314688",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256664721/movie_max.mp4?t=1515314688"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256671164,
+          "name": "Featured Battle 2016-09",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256671164/movie.293x165.jpg?t=1474535164",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256671164/movie480.webm?t=1474535164",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256671164/movie_max.webm?t=1474535164"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256671164/movie480.mp4?t=1474535164",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256671164/movie_max.mp4?t=1474535164"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256724226,
+          "name": "SWC",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256724226/movie.293x165.jpg?t=1533109988",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256724226/movie480.webm?t=1533109988",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256724226/movie_max.webm?t=1533109988"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256724226/movie480.mp4?t=1533109988",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256724226/movie_max.mp4?t=1533109988"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 1633
+      },
+      "achievements": {
+        "total": 7,
+        "highlighted": [
+          {
+            "name": "1st place in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/1486b333482dfb89c06d670a9a15c3f991971240.jpg"
+          },
+          {
+            "name": "2nd place in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/250620326eef55d0c228fac2932993e48096d32b.jpg"
+          },
+          {
+            "name": "3rd place in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/59ab5c80694f3242dc003d30394fba6f5c6ce76c.jpg"
+          },
+          {
+            "name": "Top 10 in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/16a8e9339386603484a99f6dfa1a8816e2188cdf.jpg"
+          },
+          {
+            "name": "Top 30 in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/abf826e115fdfb60b3acf7cbbef6ac519ae6b9f2.jpg"
+          },
+          {
+            "name": "Top 50 in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/5165631a089307000daf6ac198fe6d8ead4b9aee.jpg"
+          },
+          {
+            "name": "Top 100 in Season 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/464350/033a838bcd12d38bc7d59e55729f173243a7ffeb.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 16, 2016"
+      },
+      "support_info": {
+        "url": "https://screeps.com",
+        "email": "contact@screeps.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/464350/page_bg_generated_v6b.jpg?t=1702321038",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/464350/page_bg_generated.jpg?t=1702321038",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

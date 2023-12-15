@@ -1,0 +1,197 @@
+{
+  "1536610": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "OpenTTD",
+      "steam_appid": 1536610,
+      "required_age": 0,
+      "is_free": true,
+      "detailed_description": "OpenTTD is a business simulation game in which players earn money by transporting passengers and cargo via road, rail, water, and air. It is an open-source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe.<h2 class=\"bb_tag\">Build</h2><br>Connect industries and cities on procedurally-generated maps of up to 4096 x 4096 tiles by building a network of roads, railways, docks, and airports. Navigate dense city streets, cross oceans and rivers, and conquer high mountains in one of four climates.<h2 class=\"bb_tag\">Transport</h2><br>Work alone or with friends to complete production chains and transport finished goods to towns. Assemble a fleet of hundreds of vehicles, transferring cargo as needed in an interconnected, multimodal network with optional cargo destinations.<h2 class=\"bb_tag\">Upgrade</h2><br>Keep up with technological improvements through the years as towns grow; new modes of transport are invented; and industries appear, change production, or fail. Expand stations and build network capacity to keep up with demand and avoid delays.<h2 class=\"bb_tag\">Extend</h2><br>Customize your OpenTTD experience via community-made mods downloaded through an in-game content service, including real-world vehicles, new industry sets, custom scenarios, and more.<h2 class=\"bb_tag\">Free and open-source</h2><br>OpenTTD is free and open-source software, licensed under the GNU General Public License version 2.0. OpenTTD is under ongoing development. OpenTTD is not an abbreviation of anything.",
+      "about_the_game": "OpenTTD is a business simulation game in which players earn money by transporting passengers and cargo via road, rail, water, and air. It is an open-source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe.<h2 class=\"bb_tag\">Build</h2><br>Connect industries and cities on procedurally-generated maps of up to 4096 x 4096 tiles by building a network of roads, railways, docks, and airports. Navigate dense city streets, cross oceans and rivers, and conquer high mountains in one of four climates.<h2 class=\"bb_tag\">Transport</h2><br>Work alone or with friends to complete production chains and transport finished goods to towns. Assemble a fleet of hundreds of vehicles, transferring cargo as needed in an interconnected, multimodal network with optional cargo destinations.<h2 class=\"bb_tag\">Upgrade</h2><br>Keep up with technological improvements through the years as towns grow; new modes of transport are invented; and industries appear, change production, or fail. Expand stations and build network capacity to keep up with demand and avoid delays.<h2 class=\"bb_tag\">Extend</h2><br>Customize your OpenTTD experience via community-made mods downloaded through an in-game content service, including real-world vehicles, new industry sets, custom scenarios, and more.<h2 class=\"bb_tag\">Free and open-source</h2><br>OpenTTD is free and open-source software, licensed under the GNU General Public License version 2.0. OpenTTD is under ongoing development. OpenTTD is not an abbreviation of anything.",
+      "short_description": "OpenTTD is a business simulation game in which players earn money by transporting passengers and cargo via road, rail, water, and air. It is an open-source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/header.jpg?t=1701554571",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/capsule_231x87.jpg?t=1701554571",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/capsule_184x69.jpg?t=1701554571",
+      "website": "https://www.openttd.org",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 11, 10, 8, 7 (32 Bit and 64 Bit)<br></li><li><strong>Processor:</strong> Yes<br></li><li><strong>Memory:</strong> 256 MB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64 Bit)<br></li><li><strong>Processor:</strong> 2+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.14<br></li><li><strong>Processor:</strong> Yes<br></li><li><strong>Memory:</strong> 256 MB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.14+<br></li><li><strong>Processor:</strong> 2+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux<br></li><li><strong>Processor:</strong> Yes<br></li><li><strong>Memory:</strong> 256 MB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux<br></li><li><strong>Processor:</strong> 2+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+      },
+      "developers": [
+        "OpenTTD"
+      ],
+      "publishers": [
+        "OpenTTD"
+      ],
+      "package_groups": [],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 48,
+          "description": "LAN Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "37",
+          "description": "Free to Play"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_c9a92a42367f9a8d9b753db033ed4e9936e8c5f8.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_c9a92a42367f9a8d9b753db033ed4e9936e8c5f8.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_8ca5fbab351d4b8c0aa448e74e20a8eb9c1ef6ba.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_8ca5fbab351d4b8c0aa448e74e20a8eb9c1ef6ba.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7aa0cf0c2a0d8815956fc1f89aebcb417feae2e3.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7aa0cf0c2a0d8815956fc1f89aebcb417feae2e3.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_8994cb799dfad2e4ba93b9f29943ceb6aeaacaf3.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_8994cb799dfad2e4ba93b9f29943ceb6aeaacaf3.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7ed31f573f29f898608a0f60e9002008e20a1107.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7ed31f573f29f898608a0f60e9002008e20a1107.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_9655380a197475b9e6297be0e17b514e0b13deb1.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_9655380a197475b9e6297be0e17b514e0b13deb1.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_14e97388c5fbec7ef4e034e8583569e6ab74c0ef.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_14e97388c5fbec7ef4e034e8583569e6ab74c0ef.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7deaff26919ced80cb5a603fa0f62d4f4e923fc8.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_7deaff26919ced80cb5a603fa0f62d4f4e923fc8.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_70963ca8cd5c36a1578b0ac7b3eef6441dc23e96.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_70963ca8cd5c36a1578b0ac7b3eef6441dc23e96.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_cbe1ebf0b24f9b68125e08a4585db604c336656a.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_cbe1ebf0b24f9b68125e08a4585db604c336656a.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_e8c77680dcf455a8ff9a0afb913f87d129104ce2.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_e8c77680dcf455a8ff9a0afb913f87d129104ce2.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_b3f65474b6282ea1d3e5f3fc9dbeecb245766078.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_b3f65474b6282ea1d3e5f3fc9dbeecb245766078.1920x1080.jpg?t=1701554571"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_cff58f39910de614dee85c8e5ba4ce4ed29eef18.600x338.jpg?t=1701554571",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/ss_cff58f39910de614dee85c8e5ba4ce4ed29eef18.1920x1080.jpg?t=1701554571"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256821686,
+          "name": "Trailer #2",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256821686/movie.293x165.jpg?t=1612801443",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821686/movie480_vp9.webm?t=1612801443",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821686/movie_max_vp9.webm?t=1612801443"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256821686/movie480.mp4?t=1612801443",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256821686/movie_max.mp4?t=1612801443"
+          },
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 1, 2021"
+      },
+      "support_info": {
+        "url": "https://www.openttd.org/contact.html",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/page_bg_generated_v6b.jpg?t=1701554571",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1536610/page.bg.jpg?t=1701554571",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

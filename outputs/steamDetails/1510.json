@@ -1,0 +1,143 @@
+{
+  "1510": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Uplink",
+      "steam_appid": 1510,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "You play an Uplink Agent who makes a living by performing jobs for major corporations. Your tasks involve hacking into rival computer systems, stealing research data, sabotaging other companies, laundering money, erasing evidence, or framing innocent people.<br><br>You use the money you earn to upgrade your computer systems, and to buy new software and tools. As your experience level increases you find more dangerous and profitable missions become available. You can speculate on a fully working stock market (and even influence its outcome). You can modify peoples academic or criminal records. You can divert money from bank transfers into your own accounts. You can even take part in the construction of the most deadly computer virus ever designed.<br><br><strong><h2 class=\"bb_tag\">TRY THE LATEST GAME FROM INTROVERSION SOFTWARE</h2></strong><br><a href=\"https://store.steampowered.com/app/1857080\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1857080</a>",
+      "about_the_game": "You play an Uplink Agent who makes a living by performing jobs for major corporations. Your tasks involve hacking into rival computer systems, stealing research data, sabotaging other companies, laundering money, erasing evidence, or framing innocent people.<br><br>You use the money you earn to upgrade your computer systems, and to buy new software and tools. As your experience level increases you find more dangerous and profitable missions become available. You can speculate on a fully working stock market (and even influence its outcome). You can modify peoples academic or criminal records. You can divert money from bank transfers into your own accounts. You can even take part in the construction of the most deadly computer virus ever designed.<br><br><strong><h2 class=\"bb_tag\">TRY THE LATEST GAME FROM INTROVERSION SOFTWARE</h2></strong><br><a href=\"https://store.steampowered.com/app/1857080\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1857080</a>",
+      "short_description": "You play an Uplink Agent who makes a living by performing jobs for major corporations. Your tasks involve hacking into rival computer systems, stealing research data, sabotaging other companies, laundering money, erasing evidence, or framing innocent people.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1510/header.jpg?t=1677710894",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1510/capsule_231x87.jpg?t=1677710894",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1510/capsule_184x69.jpg?t=1677710894",
+      "website": "http://www.uplink.co.uk/",
+      "pc_requirements": [],
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Introversion Software"
+      ],
+      "publishers": [
+        "Introversion Software"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        112,
+        14002
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Uplink",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 112,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Uplink - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 14002,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Introversion Classics Pack - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 75,
+        "url": "https://www.metacritic.com/game/pc/uplink-hacker-elite?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000516.600x338.jpg?t=1677710894",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000516.1920x1080.jpg?t=1677710894"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000517.600x338.jpg?t=1677710894",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000517.1920x1080.jpg?t=1677710894"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000518.600x338.jpg?t=1677710894",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000518.1920x1080.jpg?t=1677710894"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000519.600x338.jpg?t=1677710894",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1510/0000000519.1920x1080.jpg?t=1677710894"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1510/ss_9885bdfe9902c40419c54060421136a92ef8eac9.600x338.jpg?t=1677710894",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1510/ss_9885bdfe9902c40419c54060421136a92ef8eac9.1920x1080.jpg?t=1677710894"
+        }
+      ],
+      "recommendations": {
+        "total": 1626
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 23, 2006"
+      },
+      "support_info": {
+        "url": "",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1510/page_bg_generated_v6b.jpg?t=1677710894",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1510/page_bg_generated.jpg?t=1677710894",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

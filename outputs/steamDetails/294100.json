@@ -1,0 +1,318 @@
+{
+  "294100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "RimWorld",
+      "steam_appid": 294100,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1826140,
+        1149640,
+        1392840,
+        367680,
+        990430,
+        1244270
+      ],
+      "detailed_description": "<strong>RimWorld is a sci-fi colony sim driven by an intelligent AI storyteller.</strong> Inspired by Dwarf Fortress, Firefly, and Dune.<br><br><strong>You begin with three survivors of a shipwreck on a distant world.</strong><br><ul class=\"bb_ul\"><li>Manage colonists' moods, needs, wounds, illnesses and addictions.<br></li><li>Build in the forest, desert, jungle, tundra, and more.<br></li><li>Watch colonists develop and break relationships with family members, lovers, and spouses.<br></li><li>Replace wounded limbs and organs with prosthetics, bionics, or biological parts harvested from others.<br></li><li>Fight pirates, tribes, mad animals, giant insects and ancient killing machines.<br></li><li>Craft structures, weapons, and apparel from metal, wood, stone, cloth, and futuristic materials.<br></li><li>Tame and train cute pets, productive farm animals, and deadly attack beasts.<br></li><li>Trade with passing ships and caravans.<br></li><li>Form caravans to complete quests, trade, attack other factions, or migrate your whole colony.<br></li><li>Dig through snow, weather storms, and fight fires.<br></li><li>Capture refugees or prisoners and turn them to your side or sell them into slavery.<br></li><li>Discover a new generated world each time you play.<br></li><li>Explore hundreds of wild and interesting mods on the Steam Workshop.<br></li><li>Learn to play easily with the help of an intelligent and unobtrusive AI tutor.</li></ul><br><strong>RimWorld is a story generator.</strong> It’s designed to co-author tragic, twisted, and triumphant stories about imprisoned pirates, desperate colonists, starvation and survival. It works by controlling the “random” events that the world throws at you. Every thunderstorm, pirate raid, and traveling salesman is a card dealt into your story by the <strong>AI Storyteller</strong>. There are several storytellers to choose from. Randy Random does crazy stuff, Cassandra Classic goes for rising tension, and Phoebe Chillax likes to relax.<br><br><strong>Your colonists are not professional settlers</strong> – they’re crash-landed survivors from a passenger liner destroyed in orbit. You can end up with a nobleman, an accountant, and a housewife. You’ll acquire more colonists by capturing them in combat and turning them to your side, buying them from slave traders, or taking in refugees. So your colony will always be a motley crew.<br><br><strong>Each person’s background is tracked and affects how they play.</strong> A nobleman will be great at social skills (recruiting prisoners, negotiating trade prices), but refuse to do physical work. A farm oaf knows how to grow food by long experience, but cannot do research. A nerdy scientist is great at research, but cannot do social tasks at all. A genetically engineered assassin can do nothing but kill – but he does that very well.<br><br><strong>Colonists develop - and destroy - relationships.</strong> Each has an opinion of the others, which determines whether they'll become lovers, marry, cheat, or fight. Perhaps your two best colonists are happily married - until one of them falls for the dashing surgeon who saved her from a gunshot wound.<br><br><strong>The game generates a whole planet from pole to equator.</strong> You choose whether to land your crash pods in a cold northern tundra, a parched desert flat, a temperate forest, or a steaming equatorial jungle. Different areas have different animals, plants, diseases, temperatures, rainfall, mineral resources, and terrain. These challenges of surviving in a disease-infested, choking jungle are very different from those in a parched desert wasteland or a frozen tundra with a two-month growing season.<br><br><strong>Travel across the planet.</strong> You're not stuck in one place. You can form a caravan of people, animals, and prisoners. Rescue kidnapped former allies from pirate outposts, attend peace talks, trade with other factions, attack enemy colonies, and complete other quests. You can even pack up your entire colony and move to a new place. You can use rocket-powered transport pods to travel faster.<br><br><strong>You can tame and train animals.</strong> Lovable pets will cheer up sad colonists. Farm animals can be worked, milked, and sheared. Attack beasts can be released upon your enemies. There are many animals - cats, labrador retrievers, grizzly bears, camels, cougars, chinchillas, chickens, and exotic alien-like lifeforms.<br><br><strong>People in RimWorld constantly observe their situation and surroundings in order to decide how to feel at any given moment.</strong> They respond to hunger and fatigue, witnessing death, disrespectfully unburied corpses, being wounded, being left in darkness, getting packed into cramped environments, sleeping outside or in the same room as others, and many other situations. If they're too stressed, they might lash out or break down.<br><br><strong>Wounds, infections, prosthetics, and chronic conditions are tracked on each body part and affect characters' capacities.</strong> Eye injuries make it hard to shoot or do surgery. Wounded legs slow people down. Hands, brain, mouth, heart, liver, kidneys, stomach, feet, fingers, toes, and more can all be wounded, diseased, or missing, and all have logical in-game effects. And other species have their own body layouts - take off a deer's leg, and it can still hobble on the other three. Take off a rhino's horn, and it's much less dangerous.<br><br><strong>You can repair body parts with prosthetics ranging from primitive to transcendent.</strong> A peg leg will get Joe Colonist walking after an unfortunate incident with a rhinoceros, but he'll still be quite slow. Buy an expensive bionic leg from a trader the next year, and Joe becomes a superhuman runner. You can even extract, sell, buy, and transplant internal organs.<br><br>And there's much more than that! The game is easy to mod and has an <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fludeon.com%2Fforums%2Findex.php%3Fboard%3D15.0\" target=\"_blank\" rel=\" noopener\"  >active mod community</a>. Read more at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Frimworldgame.com\" target=\"_blank\" rel=\" noopener\"  >http://rimworldgame.com</a>.<br><br>(All non-English translations are made by fans.)",
+      "about_the_game": "<strong>RimWorld is a sci-fi colony sim driven by an intelligent AI storyteller.</strong> Inspired by Dwarf Fortress, Firefly, and Dune.<br><br><strong>You begin with three survivors of a shipwreck on a distant world.</strong><br><ul class=\"bb_ul\"><li>Manage colonists' moods, needs, wounds, illnesses and addictions.<br></li><li>Build in the forest, desert, jungle, tundra, and more.<br></li><li>Watch colonists develop and break relationships with family members, lovers, and spouses.<br></li><li>Replace wounded limbs and organs with prosthetics, bionics, or biological parts harvested from others.<br></li><li>Fight pirates, tribes, mad animals, giant insects and ancient killing machines.<br></li><li>Craft structures, weapons, and apparel from metal, wood, stone, cloth, and futuristic materials.<br></li><li>Tame and train cute pets, productive farm animals, and deadly attack beasts.<br></li><li>Trade with passing ships and caravans.<br></li><li>Form caravans to complete quests, trade, attack other factions, or migrate your whole colony.<br></li><li>Dig through snow, weather storms, and fight fires.<br></li><li>Capture refugees or prisoners and turn them to your side or sell them into slavery.<br></li><li>Discover a new generated world each time you play.<br></li><li>Explore hundreds of wild and interesting mods on the Steam Workshop.<br></li><li>Learn to play easily with the help of an intelligent and unobtrusive AI tutor.</li></ul><br><strong>RimWorld is a story generator.</strong> It’s designed to co-author tragic, twisted, and triumphant stories about imprisoned pirates, desperate colonists, starvation and survival. It works by controlling the “random” events that the world throws at you. Every thunderstorm, pirate raid, and traveling salesman is a card dealt into your story by the <strong>AI Storyteller</strong>. There are several storytellers to choose from. Randy Random does crazy stuff, Cassandra Classic goes for rising tension, and Phoebe Chillax likes to relax.<br><br><strong>Your colonists are not professional settlers</strong> – they’re crash-landed survivors from a passenger liner destroyed in orbit. You can end up with a nobleman, an accountant, and a housewife. You’ll acquire more colonists by capturing them in combat and turning them to your side, buying them from slave traders, or taking in refugees. So your colony will always be a motley crew.<br><br><strong>Each person’s background is tracked and affects how they play.</strong> A nobleman will be great at social skills (recruiting prisoners, negotiating trade prices), but refuse to do physical work. A farm oaf knows how to grow food by long experience, but cannot do research. A nerdy scientist is great at research, but cannot do social tasks at all. A genetically engineered assassin can do nothing but kill – but he does that very well.<br><br><strong>Colonists develop - and destroy - relationships.</strong> Each has an opinion of the others, which determines whether they'll become lovers, marry, cheat, or fight. Perhaps your two best colonists are happily married - until one of them falls for the dashing surgeon who saved her from a gunshot wound.<br><br><strong>The game generates a whole planet from pole to equator.</strong> You choose whether to land your crash pods in a cold northern tundra, a parched desert flat, a temperate forest, or a steaming equatorial jungle. Different areas have different animals, plants, diseases, temperatures, rainfall, mineral resources, and terrain. These challenges of surviving in a disease-infested, choking jungle are very different from those in a parched desert wasteland or a frozen tundra with a two-month growing season.<br><br><strong>Travel across the planet.</strong> You're not stuck in one place. You can form a caravan of people, animals, and prisoners. Rescue kidnapped former allies from pirate outposts, attend peace talks, trade with other factions, attack enemy colonies, and complete other quests. You can even pack up your entire colony and move to a new place. You can use rocket-powered transport pods to travel faster.<br><br><strong>You can tame and train animals.</strong> Lovable pets will cheer up sad colonists. Farm animals can be worked, milked, and sheared. Attack beasts can be released upon your enemies. There are many animals - cats, labrador retrievers, grizzly bears, camels, cougars, chinchillas, chickens, and exotic alien-like lifeforms.<br><br><strong>People in RimWorld constantly observe their situation and surroundings in order to decide how to feel at any given moment.</strong> They respond to hunger and fatigue, witnessing death, disrespectfully unburied corpses, being wounded, being left in darkness, getting packed into cramped environments, sleeping outside or in the same room as others, and many other situations. If they're too stressed, they might lash out or break down.<br><br><strong>Wounds, infections, prosthetics, and chronic conditions are tracked on each body part and affect characters' capacities.</strong> Eye injuries make it hard to shoot or do surgery. Wounded legs slow people down. Hands, brain, mouth, heart, liver, kidneys, stomach, feet, fingers, toes, and more can all be wounded, diseased, or missing, and all have logical in-game effects. And other species have their own body layouts - take off a deer's leg, and it can still hobble on the other three. Take off a rhino's horn, and it's much less dangerous.<br><br><strong>You can repair body parts with prosthetics ranging from primitive to transcendent.</strong> A peg leg will get Joe Colonist walking after an unfortunate incident with a rhinoceros, but he'll still be quite slow. Buy an expensive bionic leg from a trader the next year, and Joe becomes a superhuman runner. You can even extract, sell, buy, and transplant internal organs.<br><br>And there's much more than that! The game is easy to mod and has an <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fludeon.com%2Fforums%2Findex.php%3Fboard%3D15.0\" target=\"_blank\" rel=\" noopener\"  >active mod community</a>. Read more at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Frimworldgame.com\" target=\"_blank\" rel=\" noopener\"  >http://rimworldgame.com</a>.<br><br>(All non-English translations are made by fans.)",
+      "short_description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+      "supported_languages": "English, French, German, Polish, Russian, Italian, Spanish - Spain, Czech, Danish, Dutch, Hungarian, Japanese, Norwegian, Portuguese - Portugal, Portuguese - Brazil, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Finnish, Korean, Romanian, Spanish - Latin America",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg?t=1699265633",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_231x87.jpg?t=1699265633",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_184x69.jpg?t=1699265633",
+      "website": "https://ludeon.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or other shader model 4.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or other shader model 4.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or other shader model 4.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Ludeon Studios"
+      ],
+      "publishers": [
+        "Ludeon Studios"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3499,
+        "final": 3499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$34.99"
+      },
+      "packages": [
+        41602,
+        361969,
+        66814
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy RimWorld",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 41602,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "RimWorld - $34.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3499
+            },
+            {
+              "packageid": 361969,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "RimWorld - Commercial License - $34.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3499
+            },
+            {
+              "packageid": 66814,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "RimWorld Name in Game Pack - $49.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 87,
+        "url": "https://www.metacritic.com/game/pc/rimworld?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_371726c10a1b640dbf748fa62a500d911ac62427.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_371726c10a1b640dbf748fa62a500d911ac62427.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_3038f36d2a1da63ddf29f16a48ee27254ab9b53d.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_3038f36d2a1da63ddf29f16a48ee27254ab9b53d.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_a5dbe54944108fa4a83d6c01a1738ef4ca49704f.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_a5dbe54944108fa4a83d6c01a1738ef4ca49704f.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_941882a7b74ed157d0e840452bd31b7012dd39ca.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_941882a7b74ed157d0e840452bd31b7012dd39ca.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6947cc8ea8beba1c3abb3bb0062343dd575ccfd1.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6947cc8ea8beba1c3abb3bb0062343dd575ccfd1.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_8dfed1fd659a608f3556bfccaaf9ef49bf594222.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_8dfed1fd659a608f3556bfccaaf9ef49bf594222.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_4313dccc8b8ffdc6020789a59ddedaa570f78de4.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_4313dccc8b8ffdc6020789a59ddedaa570f78de4.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_000e61bb3f21077183422c86093189c22a02bf08.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_000e61bb3f21077183422c86093189c22a02bf08.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_7dbac9410822d5264d102b1c06017856c481e48b.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_7dbac9410822d5264d102b1c06017856c481e48b.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_2704e3db8c81431920fd72a219e5cd32d6950642.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_2704e3db8c81431920fd72a219e5cd32d6950642.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_19cec82211dcf91b50f1c59cfda83eb97de3e2c8.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_19cec82211dcf91b50f1c59cfda83eb97de3e2c8.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_2af7734754467d50fb50e74f8cbcf3af630ec540.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_2af7734754467d50fb50e74f8cbcf3af630ec540.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_ed33d114171f2a60f58a7f51ff2718250d670571.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_ed33d114171f2a60f58a7f51ff2718250d670571.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_44a8828a81f12d2c4103c42df902e804d851a380.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_44a8828a81f12d2c4103c42df902e804d851a380.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_fb4ed93f4d70f938b05068784b69bff6524c759f.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_fb4ed93f4d70f938b05068784b69bff6524c759f.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_bb8f991ea52d67f4e32de25f38d600d90f6db32f.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_bb8f991ea52d67f4e32de25f38d600d90f6db32f.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_d9204adad5c8236f000e0e53c2af798308195eff.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_d9204adad5c8236f000e0e53c2af798308195eff.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6f7a5a9555add3a43f93a976ed563605e997e031.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_6f7a5a9555add3a43f93a976ed563605e997e031.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_8102d6d9eab34405f300721cc7b6b0e14dd21fc8.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_8102d6d9eab34405f300721cc7b6b0e14dd21fc8.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_3bcc00a01f38fb3d8fe467c15118d631f7b54e88.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_3bcc00a01f38fb3d8fe467c15118d631f7b54e88.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_39f8694d766fcbaf1d771f128f43e66f9c5defa1.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_39f8694d766fcbaf1d771f128f43e66f9c5defa1.1920x1080.jpg?t=1699265633"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_4eb4095f6ab5d5d6ea2af1d29119f28cc3bd6018.600x338.jpg?t=1699265633",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/294100/ss_4eb4095f6ab5d5d6ea2af1d29119f28cc3bd6018.1920x1080.jpg?t=1699265633"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256731486,
+          "name": "Launch trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256731486/movie.293x165.jpg?t=1539788136",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256731486/movie480.webm?t=1539788136",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256731486/movie_max.webm?t=1539788136"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256731486/movie480.mp4?t=1539788136",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256731486/movie_max.mp4?t=1539788136"
+          },
+          "highlight": true
+        },
+        {
+          "id": 2032054,
+          "name": "Classic trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2032054/movie.293x165.jpg?t=1539788142",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2032054/movie480.webm?t=1539788142",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2032054/movie_max.webm?t=1539788142"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2032054/movie480.mp4?t=1539788142",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2032054/movie_max.mp4?t=1539788142"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 147316
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 17, 2018"
+      },
+      "support_info": {
+        "url": "https://ludeon.com/support",
+        "email": "support@ludeon.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/294100/page_bg_generated_v6b.jpg?t=1699265633",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/294100/page.bg.jpg?t=1699265633",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

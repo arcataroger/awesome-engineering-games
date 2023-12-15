@@ -1,0 +1,274 @@
+{
+  "1127400": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mindustry",
+      "steam_appid": 1127400,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce materials to use for building, and construct units. Command units to capture enemy bases, and expand your production. Defend your core from waves of enemies.<br><br>Play through the campaign alone or with with your friends in cross-platform multiplayer co-op and challenge them in team-based PvP matches.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127400/extras/factory.gif?t=1694877516\" /><h2 class=\"bb_tag\">Factory Building</h2><br><ul class=\"bb_ul\"><li> Create elaborate supply chains of conveyor belts to feed ammo into your turrets and produce materials to use for building<br></li><li> Use production blocks to create a wide variety of advanced materials<br></li><li> Distribute liquids and fight constant challenges, like outbreaks of fire or enemy flier raids<br></li><li> Get the most out of your production by supplying optional coolant and lubricant<br></li><li> Produce a wide variety of units for automatic management of your base or assault on enemy bases</li></ul><h2 class=\"bb_tag\">Tower Defense</h2><br><ul class=\"bb_ul\"><li> Defend your structures from waves of enemies<br></li><li> Strategically place your turrets to destroy them before they reach your core<br></li><li> Supply your turrets with ammo, coolant, and power<br></li><li> Bolster your defenses with powered shields, regeneration projectors and other support buildings</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127400/extras/rts3.png?t=1694877516\" /><h2 class=\"bb_tag\">Real Time Strategy</h2><br><ul class=\"bb_ul\"><li> Set up assembly lines to construct armies of mechanized units<br></li><li> Use your units to square up against fully functional enemy bases<br></li><li> Capture more territory to place down more cores and get access to additional resources for expansion</li></ul><h2 class=\"bb_tag\">Campaign</h2><br><ul class=\"bb_ul\"><li> Play through two separate planetary campaigns<br></li><li> Conquer the planet Serpulo and Erekir as you advance through 35 hand-made maps and 250+ procedurally generated sectors<br></li><li> Capture territory and set up factories to produce resources while you play other sectors<br></li><li> Defend your sectors from periodic invasions<br></li><li> Coordinate resource distribution between sectors via launch pads<br></li><li> Research new blocks to fuel progress<br></li><li> Invite your friends to complete missions together<br></li><li> 250+ technology blocks to master<br></li><li> 50+ different types of drones, mechs and ships<br></li><li> 80+ achievements to complete</li></ul><h2 class=\"bb_tag\">Community and Modding</h2><br><ul class=\"bb_ul\"><li> Use the steam workshop to browse community-made maps and schematics<br></li><li> Join public community servers to play with others across platforms<br></li><li> Play co-op, PvP or sandbox<br></li><li> Community servers support plugins for custom maps and gamemodes<br></li><li> Create your public dedicated server, or invite friends to your own private session<br></li><li> Customizable game rules: Change block costs, enemy stats, starting items, wave timing and more<br></li><li> Built-in map editor lets you make your own maps to play and share with the community<br></li><li> Browse community-made mods to add or remix even more content</li></ul>",
+      "about_the_game": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce materials to use for building, and construct units. Command units to capture enemy bases, and expand your production. Defend your core from waves of enemies.<br><br>Play through the campaign alone or with with your friends in cross-platform multiplayer co-op and challenge them in team-based PvP matches.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127400/extras/factory.gif?t=1694877516\" /><h2 class=\"bb_tag\">Factory Building</h2><br><ul class=\"bb_ul\"><li> Create elaborate supply chains of conveyor belts to feed ammo into your turrets and produce materials to use for building<br></li><li> Use production blocks to create a wide variety of advanced materials<br></li><li> Distribute liquids and fight constant challenges, like outbreaks of fire or enemy flier raids<br></li><li> Get the most out of your production by supplying optional coolant and lubricant<br></li><li> Produce a wide variety of units for automatic management of your base or assault on enemy bases</li></ul><h2 class=\"bb_tag\">Tower Defense</h2><br><ul class=\"bb_ul\"><li> Defend your structures from waves of enemies<br></li><li> Strategically place your turrets to destroy them before they reach your core<br></li><li> Supply your turrets with ammo, coolant, and power<br></li><li> Bolster your defenses with powered shields, regeneration projectors and other support buildings</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127400/extras/rts3.png?t=1694877516\" /><h2 class=\"bb_tag\">Real Time Strategy</h2><br><ul class=\"bb_ul\"><li> Set up assembly lines to construct armies of mechanized units<br></li><li> Use your units to square up against fully functional enemy bases<br></li><li> Capture more territory to place down more cores and get access to additional resources for expansion</li></ul><h2 class=\"bb_tag\">Campaign</h2><br><ul class=\"bb_ul\"><li> Play through two separate planetary campaigns<br></li><li> Conquer the planet Serpulo and Erekir as you advance through 35 hand-made maps and 250+ procedurally generated sectors<br></li><li> Capture territory and set up factories to produce resources while you play other sectors<br></li><li> Defend your sectors from periodic invasions<br></li><li> Coordinate resource distribution between sectors via launch pads<br></li><li> Research new blocks to fuel progress<br></li><li> Invite your friends to complete missions together<br></li><li> 250+ technology blocks to master<br></li><li> 50+ different types of drones, mechs and ships<br></li><li> 80+ achievements to complete</li></ul><h2 class=\"bb_tag\">Community and Modding</h2><br><ul class=\"bb_ul\"><li> Use the steam workshop to browse community-made maps and schematics<br></li><li> Join public community servers to play with others across platforms<br></li><li> Play co-op, PvP or sandbox<br></li><li> Community servers support plugins for custom maps and gamemodes<br></li><li> Create your public dedicated server, or invite friends to your own private session<br></li><li> Customizable game rules: Change block costs, enemy stats, starting items, wave timing and more<br></li><li> Built-in map editor lets you make your own maps to play and share with the community<br></li><li> Browse community-made mods to add or remix even more content</li></ul>",
+      "short_description": "An open-ended factory management game with RTS and tower defense elements.",
+      "supported_languages": "English, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Traditional Chinese, French, German, Korean, Polish, Portuguese - Brazil, Russian, Ukrainian, Italian, Czech, Romanian, Swedish, Vietnamese, Turkish, Basque, Catalan, Indonesian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/header.jpg?t=1694877516",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/capsule_231x87.jpg?t=1694877516",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/capsule_184x69.jpg?t=1694877516",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Any card with OpenGL 2.0 support and the framebuffer_object extension<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.9+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Anything with OpenGL 2.0 Support<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Anything with OpenGL 2.0 Support<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "developers": [
+        "AnukenDev"
+      ],
+      "publishers": [
+        "AnukenDev"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        382935
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mindustry",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 382935,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Mindustry - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_19dbb62a615fc63788cf499ab948947fe365a9d2.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_19dbb62a615fc63788cf499ab948947fe365a9d2.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_e072ee95cfadac2674575814218137caaad2ee69.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_e072ee95cfadac2674575814218137caaad2ee69.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_d332d08a91caa2a8fe9504c3e11f15ec220d521c.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_d332d08a91caa2a8fe9504c3e11f15ec220d521c.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_6dec4c801cd7ddca04a04ad97a0e85e4c315f9a2.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_6dec4c801cd7ddca04a04ad97a0e85e4c315f9a2.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_d73367d8ca6ba91297c3ca4e10974c767431d3f1.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_d73367d8ca6ba91297c3ca4e10974c767431d3f1.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_7fe22e4c65f08f89b19114d57c3e6a7f1ce32bcc.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_7fe22e4c65f08f89b19114d57c3e6a7f1ce32bcc.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_60ce5e4199fc5cf8514c24fc9e3a68a1dc70cdd9.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_60ce5e4199fc5cf8514c24fc9e3a68a1dc70cdd9.1920x1080.jpg?t=1694877516"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_2038ebdeb9339ede1a075bde0e9f81ffdbc1ae72.600x338.jpg?t=1694877516",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/ss_2038ebdeb9339ede1a075bde0e9f81ffdbc1ae72.1920x1080.jpg?t=1694877516"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256915754,
+          "name": "v7",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256915754/movie.293x165.jpg?t=1668166004",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256915754/movie480_vp9.webm?t=1668166004",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256915754/movie_max_vp9.webm?t=1668166004"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256915754/movie480.mp4?t=1668166004",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256915754/movie_max.mp4?t=1668166004"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256762433,
+          "name": "Main",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256762433/movie.293x165.jpg?t=1569011776",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256762433/movie480.webm?t=1569011776",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256762433/movie_max.webm?t=1569011776"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256762433/movie480.mp4?t=1569011776",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256762433/movie_max.mp4?t=1569011776"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 14314
+      },
+      "achievements": {
+        "total": 88,
+        "highlighted": [
+          {
+            "name": "Scrapper",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/1932e886459b18844f8335a2c5d48dfb25138a05.jpg"
+          },
+          {
+            "name": "Purge",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/3c8b5b3a7f2ae977147a7b09cb510ac7a1f96fc7.jpg"
+          },
+          {
+            "name": "Endless Shipments",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/72f1fbf38b69790d09fd880b8e92eaf315100db1.jpg"
+          },
+          {
+            "name": "Conqueror",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/2a74dd5a8b8faae7ccc828e7cedde12760a4eaab.jpg"
+          },
+          {
+            "name": "Champion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/126d69e43d7df94a9a2c1ba306d35a72577adf4a.jpg"
+          },
+          {
+            "name": "Blitz",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/e79c916d1aa1b509e998d45820b4a3e18180ca69.jpg"
+          },
+          {
+            "name": "Core Rain",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/af52e6c7f8fa29119235d9be5968e83a7efab17d.jpg"
+          },
+          {
+            "name": "Tenacious",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/d6280b889bb788aeb5d0fd72fc6d6f4ddc4f9be1.jpg"
+          },
+          {
+            "name": "Researcher",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/10a0fc30c0ce7dc04cd238a6d357fd6a16b9d666.jpg"
+          },
+          {
+            "name": "Overload",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127400/f124b5e1a720d26183643f47f9c444209e1fa6fe.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 26, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "anukendev@gmail.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/page_bg_generated_v6b.jpg?t=1694877516",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1127400/page_bg_generated.jpg?t=1694877516",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

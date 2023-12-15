@@ -1,0 +1,259 @@
+{
+  "887570": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "NEBULOUS: Fleet Command",
+      "steam_appid": 887570,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>WISHLIST MORE HOODED HORSE STRATEGY GAMES</h1><p><a href=\"https://store.steampowered.com/app/1490930/Capital_Command/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1490930/Capital_Command/</a></p><br><h1>About the Game</h1>Take command of a fleet of space warships tailored to your exact play-style. Favor a small task group of robust, flexible multi-role combatants, a large group of specialized ships, or something in between. Do battle in a heavily simulation-based tactical game featuring everything from kinetics and beam weapons to realistic radar and electronic warfare. Nebulous seamlessly blends the thoughtfulness of pre-mission planning, tension of battle decision-making, pressure of real-time action, and pain of inevitable sacrifice into an intense tactical space game that will keep you reflecting on every decision (and mistake) for hours after each battle.<br><br>Skip the economy management: you're here to dominate in battle. Drop into the battlespace with your full fleet and engage the enemy in a tense back and forth where a single mistimed advance, poorly executed withdrawal, or missed shot can turn the tide of battle. Deep, methodical combat based on thrusts, withdrawals, and counter-thrusts keeps the tension ratcheted up without numbing you with a screen constantly full of explosions. With no reinforcements coming, every hit hurts and every loss counts - victory favors thoughtful planning and precise execution.<br><br>It's in your hands, Commodore.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_01.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_01_loop.gif?t=1701968954\" /><br>Take unparalleled control of every unit right down to their individual mounts. Keep your entire fleet together, dynamically split off task units, or give each ship its own assignment. Large maps with lots of cover and radar occlusion make methodical positioning and sight lines critical. Massing firepower in one place is not always the best solution, as the enemy could come from any direction in the fully 3-dimensional battlespace. Covering your retreat is always in order.<br><br>Group your weapons and task them to different targets or focus fire with everything you have. Selecting the appropriate weapon to engage a target is as impactful as deciding which targets to engage at all. Weapons have compounding benefits and drawbacks, all of which can be compensated for and planned against.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_02.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_02_loop.gif?t=1701968954\" /><br>Intelligence is key to victory and your situational awareness is never a given. Asteroids and gas clouds can hide ships behind their radar shadows, preventing enemy sensors from detecting their presence, and ensuring enemy illuminators and fire-control radars are unable to mark targets for missile systems.<br><br>When out in the open, electronic countermeasures take the lead as they attempt to jam, scramble, or otherwise mitigate enemy sensors on board their ships and missile systems alike. Multiple ships moving in close proximity produce a larger signal, making them more easily spotted by enemy sensors, and ships can opt to run cool, turning a variety of systems inactive in order to more easily hide from detection at the cost of some functionality.<br><br>Occlusion, passive signal detection, balancing radar signature size, and the ability to deceive the enemy makes the fight for intel a critical part of every battle.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_03.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_03_loop.gif?t=1701968954\" /><br>Fleet design allows you to choose between multiple classes, configuring everything from their munitions storage, power supply unit, and electronic warfare capabilities to their damage control systems, point-defense capabilities, and armaments - right down to the types of missiles each bay carries.<br><br>A point cost system keeps fleets balanced as you design battleships, cruisers, frigates, corvettes and more, arriving at the battlespace with little idea as to what your opponent might be fielding. Scouting enemy fleet composition and adapting to their designs will be essential to securing victory, and at times you may spend half the battle (or more) trying to accurately determine your adversary's capabilities so that you can strike with precision and force. Express your tactical identity through the design of your fleet, and each individual ship within.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_04.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_04_loop.gif?t=1701968954\" /><br>Each system and subsystem aboard your ships perform specific tasks and are tracked and simulated individually. Their position on your ship can determine optimal facing when unleashing a salvo, or the risk factor when enemy systems open fire. Vital systems should be protected with the help of point-defense systems and defensive maneuvering that presents auxiliary systems towards incoming fire while keeping essential systems hidden behind the armor plating and hull.<br><br>Damage is modeled for individual components, determining which ship systems remain active under enemy fire, and damage control teams work rapidly to repair what they can as they move from compartment to compartment. Retreating from active combat to repair damaged components before re-engaging is not only a viable strategy, but at times, an essential maneuver, and in a worst case scenario, a ship with a breach in its reactor can be quite a potent weapon in its own way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_05.png?t=1701968954\" /><br>Nebulous has extensive modding support, with hundreds of player-made mods available on Steam Workshop including new maps, ships, weapons, and more.",
+      "about_the_game": "Take command of a fleet of space warships tailored to your exact play-style. Favor a small task group of robust, flexible multi-role combatants, a large group of specialized ships, or something in between. Do battle in a heavily simulation-based tactical game featuring everything from kinetics and beam weapons to realistic radar and electronic warfare. Nebulous seamlessly blends the thoughtfulness of pre-mission planning, tension of battle decision-making, pressure of real-time action, and pain of inevitable sacrifice into an intense tactical space game that will keep you reflecting on every decision (and mistake) for hours after each battle.<br><br>Skip the economy management: you're here to dominate in battle. Drop into the battlespace with your full fleet and engage the enemy in a tense back and forth where a single mistimed advance, poorly executed withdrawal, or missed shot can turn the tide of battle. Deep, methodical combat based on thrusts, withdrawals, and counter-thrusts keeps the tension ratcheted up without numbing you with a screen constantly full of explosions. With no reinforcements coming, every hit hurts and every loss counts - victory favors thoughtful planning and precise execution.<br><br>It's in your hands, Commodore.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_01.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_01_loop.gif?t=1701968954\" /><br>Take unparalleled control of every unit right down to their individual mounts. Keep your entire fleet together, dynamically split off task units, or give each ship its own assignment. Large maps with lots of cover and radar occlusion make methodical positioning and sight lines critical. Massing firepower in one place is not always the best solution, as the enemy could come from any direction in the fully 3-dimensional battlespace. Covering your retreat is always in order.<br><br>Group your weapons and task them to different targets or focus fire with everything you have. Selecting the appropriate weapon to engage a target is as impactful as deciding which targets to engage at all. Weapons have compounding benefits and drawbacks, all of which can be compensated for and planned against.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_02.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_02_loop.gif?t=1701968954\" /><br>Intelligence is key to victory and your situational awareness is never a given. Asteroids and gas clouds can hide ships behind their radar shadows, preventing enemy sensors from detecting their presence, and ensuring enemy illuminators and fire-control radars are unable to mark targets for missile systems.<br><br>When out in the open, electronic countermeasures take the lead as they attempt to jam, scramble, or otherwise mitigate enemy sensors on board their ships and missile systems alike. Multiple ships moving in close proximity produce a larger signal, making them more easily spotted by enemy sensors, and ships can opt to run cool, turning a variety of systems inactive in order to more easily hide from detection at the cost of some functionality.<br><br>Occlusion, passive signal detection, balancing radar signature size, and the ability to deceive the enemy makes the fight for intel a critical part of every battle.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_03.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_03_loop.gif?t=1701968954\" /><br>Fleet design allows you to choose between multiple classes, configuring everything from their munitions storage, power supply unit, and electronic warfare capabilities to their damage control systems, point-defense capabilities, and armaments - right down to the types of missiles each bay carries.<br><br>A point cost system keeps fleets balanced as you design battleships, cruisers, frigates, corvettes and more, arriving at the battlespace with little idea as to what your opponent might be fielding. Scouting enemy fleet composition and adapting to their designs will be essential to securing victory, and at times you may spend half the battle (or more) trying to accurately determine your adversary's capabilities so that you can strike with precision and force. Express your tactical identity through the design of your fleet, and each individual ship within.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_04.png?t=1701968954\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/image_04_loop.gif?t=1701968954\" /><br>Each system and subsystem aboard your ships perform specific tasks and are tracked and simulated individually. Their position on your ship can determine optimal facing when unleashing a salvo, or the risk factor when enemy systems open fire. Vital systems should be protected with the help of point-defense systems and defensive maneuvering that presents auxiliary systems towards incoming fire while keeping essential systems hidden behind the armor plating and hull.<br><br>Damage is modeled for individual components, determining which ship systems remain active under enemy fire, and damage control teams work rapidly to repair what they can as they move from compartment to compartment. Retreating from active combat to repair damaged components before re-engaging is not only a viable strategy, but at times, an essential maneuver, and in a worst case scenario, a ship with a breach in its reactor can be quite a potent weapon in its own way.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/887570/extras/headline_05.png?t=1701968954\" /><br>Nebulous has extensive modding support, with hundreds of player-made mods available on Steam Workshop including new maps, ships, weapons, and more.",
+      "short_description": "Take command of your hand-tailored fleet of space warships and use realistic radar, electronic warfare, advanced movement controls in 3D space, and precision targeting to outmaneuver and outwit your opponents in a simulation-heavy tactical space game like no other.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/887570/header.jpg?t=1701968954",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/887570/capsule_231x87.jpg?t=1701968954",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/887570/capsule_184x69.jpg?t=1701968954",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-2400 (quad-core) / AMD® FX-Series™ FX-8100 (quad-core)<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 960 (4 GB) / AMD® Radeon™ R9 380 (4 GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows® 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-3570 (quad-core) / AMD® FX-Series™ FX-8300 (quad-core)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 1660 (6 GB) / AMD® Radeon™ RX 5600 (6 GB)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Eridanus Industries"
+      ],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "demos": [
+        {
+          "appid": 2145570,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        282405
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy NEBULOUS: Fleet Command",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 282405,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "NEBULOUS: Fleet Command - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_3b655fdd69ec4840f97a38014f53dcde72dd0855.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_3b655fdd69ec4840f97a38014f53dcde72dd0855.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_4225e70a97b29d379ac9fa42e667e0ee460800e1.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_4225e70a97b29d379ac9fa42e667e0ee460800e1.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_ae2066137f558db637d4b27f37a300eed521bdc7.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_ae2066137f558db637d4b27f37a300eed521bdc7.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_a9712becb2231b81dc51e1eaf1cc6a842c4b39d0.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_a9712becb2231b81dc51e1eaf1cc6a842c4b39d0.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_e9058d19c5d60b101509fc177c4cc68223255fd1.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_e9058d19c5d60b101509fc177c4cc68223255fd1.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_6612f58b3c304b6a6acc13a4dedd21974963e3fb.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_6612f58b3c304b6a6acc13a4dedd21974963e3fb.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_72e69742d92686dddbfe21cf410a3cec3f9c0b23.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_72e69742d92686dddbfe21cf410a3cec3f9c0b23.1920x1080.jpg?t=1701968954"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_140d561de3c84ecefd4ec0620e84780831db9004.600x338.jpg?t=1701968954",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/887570/ss_140d561de3c84ecefd4ec0620e84780831db9004.1920x1080.jpg?t=1701968954"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256864705,
+          "name": "Release Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256864705/movie.293x165.jpg?t=1683512987",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256864705/movie480_vp9.webm?t=1683512987",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256864705/movie_max_vp9.webm?t=1683512987"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256864705/movie480.mp4?t=1683512987",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256864705/movie_max.mp4?t=1683512987"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256901621,
+          "name": "Modular Missiles Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256901621/movie.293x165.jpg?t=1683512991",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901621/movie480_vp9.webm?t=1683512991",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901621/movie_max_vp9.webm?t=1683512991"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256901621/movie480.mp4?t=1683512991",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256901621/movie_max.mp4?t=1683512991"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2151
+      },
+      "achievements": {
+        "total": 19,
+        "highlighted": [
+          {
+            "name": "Sunburned",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/c89fcf8d21fd3113fc4a7cf4b6bf402982af0320.jpg"
+          },
+          {
+            "name": "Kitchen Accident",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/701f869268d858b457322347b8b7ca42feb5f993.jpg"
+          },
+          {
+            "name": "Dazed & Confused",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/6c3b9d761effd47f1a41560df3e6b3e39204e026.jpg"
+          },
+          {
+            "name": "Curve Shot",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/22ce22bdd7c880a22481682ca449ad30e652ef47.jpg"
+          },
+          {
+            "name": "Tactical Withdrawal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/953773ee2e70cffb79259ecbe269088182b922c1.jpg"
+          },
+          {
+            "name": "Blindsided",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/72320b568ae6b0d63a6e0cbd0794a6f68b04453b.jpg"
+          },
+          {
+            "name": "Never Had a Chance",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/3d5c46f0ee2a3a65b0027c52d5945915da3c3d86.jpg"
+          },
+          {
+            "name": "Outnumbered",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/4d2eccd899f7103f4104e4b1d4554b1e9dfb8863.jpg"
+          },
+          {
+            "name": "Flawless Victory",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/e1bb850205fd7fd66e52ebacc592ef1ee26c9f6b.jpg"
+          },
+          {
+            "name": "Blooded",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/887570/3b6c202df0528544963edac66e29258bb9995729.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 11, 2022"
+      },
+      "support_info": {
+        "url": "https://discord.gg/XSYYRPS",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/887570/page_bg_generated_v6b.jpg?t=1701968954",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/887570/page.bg.jpg?t=1701968954",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

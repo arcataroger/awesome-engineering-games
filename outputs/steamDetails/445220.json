@@ -1,0 +1,376 @@
+{
+  "445220": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Avorion",
+      "steam_appid": 445220,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1069730,
+        1357160,
+        1905970,
+        2591780
+      ],
+      "detailed_description": "<h1>Workshop with Ship Builds and Mods</h1><p><a href=\"https://steamcommunity.com/workshop/browse/?appid=445220&amp;browsesort=trend&amp;section=readytouseitems&amp;actualsort=trend&amp;p=1&amp;days=-1\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/app_workshop_banner_english.png?t=1701869658\" /></a><br>Browse the Avorion Steam Workshop for a huge selection of different <strong>ship builds</strong>, <strong>station designs</strong>, <strong>fighters</strong>, <strong>turret designs</strong> and more! There is also an ever growing selection of <strong>mods</strong> to suit your custom playstyle!</p><br><h1>Games of our Friends</h1><p><a href=\"https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/</a><br><a href=\"https://store.steampowered.com/app/268650/From_the_Depths/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/268650/From_the_Depths/</a></p><br><h1>About the Game</h1>Several hundred years ago, a cataclysmic catastrophe nearly ripped your galaxy apart - an impassable ring of torn hyperspace fabric appeared in the center of the galaxy, which normal hyperspace engines can’t overcome.<br><br>Since this Event nobody has managed to get near the central regions of the galaxy. All you know is that the Event also spawned multiple untraversable hyperspace rifts throughout the entire galaxy and that a strange race of aliens, the Xsotan, has appeared in the center. It looks like these aliens have found a way to cross over the torn hyperspace fabric, but so far nobody has managed to establish contact with them.<br><br>There are also rumors about a strange new metal called ‘Avorion’ which has appeared in the center of the galaxy around the same time as the Xsotan have arrived. Apparently, the aliens use this material to build their ships.<br><br>Start out as a nobody at the edge and work your way to the center of a galaxy that gets more dangerous, but also more rewarding the closer you get to its core. Avorion takes sandbox aspects from games like X or Freelancer, throws in co-op multiplayer and lets you build your own ships. It features ships made of freely scalable blocks that can be procedurally generated and that break into pieces where they're hit in space fights.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/Combat_2.gif?t=1701869658\" /><br>Equip your ship with chainguns, lasers and other weaponry to take on your enemies and enjoy the sight of completely destructible ships breaking at the exact points where you hit them. <br><br>Defend your allies from pirates, hunt down enemies for coin or even participate in wars between entire factions. Once you’re victorious, collect loot from defeated foes which you can use to upgrade your ship: new turrets with special abilities like autofire or repair beams, or system upgrades that allow you to install even more weapons. Build hangars and command squads of fighters in your battles or destroy enemy freighters to steal their cargo.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/exploringg.gif?t=1701869658\" /><br>Fly through beautiful nebulas and dense asteroid fields in search of hidden treasures and meet the many factions that populate and control their portion of the galaxy. Each faction has its own characteristics, such as peaceful, intelligent or aggressive, and its ships and stations have a distinct look.<br><br>Explore the galaxy at your own pace to find valuable goods in old ship wrecks, undiscovered asteroid fields rich in resources, gigantic asteroids which you can claim for yourself, or clues about what happened during the Event a few centuries back.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/exploring4.gif?t=1701869658\" /><br>There are no limits to the size or complexity of your ship besides your resources. But there is also a creative mode where you can just build to your heart’s content. You're not bound to the standard voxel style and while building an awesome ship in Avorion you won't get lost in lots and lots of micro-management. <br><br>You can focus on building a great-looking ship, without having to worry about making it work. But always keep an eye on your ship’s maneuverability and energy requirements. Adjust your ship perfectly to its operational purpose: everything from light and agile explorers to heavily armored battleships with strong shields.<br><br>And why build only one ship? Hire captains to fly your ships for you, manage your crews, weapons, hangars and fighters and build your own fleet of spaceships!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/mining.gif?t=1701869658\" /><br>Extend your ship with a cargo bay, find profitable deals and haul over a hundred trading goods across the galaxy to make a profit and buy your way up the food chain. Constructing a fleet of specialized transport ships with lots of cargo space will help you build up a trading corporation. <br><br>Extend your influence in the galaxy by founding asteroid mines and factories that attract NPC traders who will buy and sell their goods at your establishments. Install trading systems that detect trading routes and supply and demand over multiple sectors and become the richest commander in the galaxy! <br><br>Or maybe you're sick of being the good guy? Just raid freighters, smuggle illegal goods, or become a headhunter.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/battle.gif?t=1701869658\" /><br>You don't have to face all of these challenges alone! Avorion features co-op multiplayer, so team up with your friends to build stations together and destroy pirates and enemy factions! <br><br>Everybody needs a copilot, and you can fly ships together, with one of you doing the steering and the other one taking care of firing weapons. Work with each other to extend your influence in the galaxy and build your own empire. <br>Or, you know, blow your friends apart. It's a sandbox, you can do whatever you want!<br><br><br>In Avorion you choose your personal playstyle. Haul cargo, find profitable trading routes and found factories. Or maybe you're sick of being the good guy? Build your own battleship, equip it with powerful weaponry and blow away your enemies. Be the aggressor that starts wars with entire factions, raid freighters, smuggle illegal goods and scavenge old wreckages. Find your way to the center of a galaxy that gets more hostile, but also more rewarding the closer you get to its core.",
+      "about_the_game": "Several hundred years ago, a cataclysmic catastrophe nearly ripped your galaxy apart - an impassable ring of torn hyperspace fabric appeared in the center of the galaxy, which normal hyperspace engines can’t overcome.<br><br>Since this Event nobody has managed to get near the central regions of the galaxy. All you know is that the Event also spawned multiple untraversable hyperspace rifts throughout the entire galaxy and that a strange race of aliens, the Xsotan, has appeared in the center. It looks like these aliens have found a way to cross over the torn hyperspace fabric, but so far nobody has managed to establish contact with them.<br><br>There are also rumors about a strange new metal called ‘Avorion’ which has appeared in the center of the galaxy around the same time as the Xsotan have arrived. Apparently, the aliens use this material to build their ships.<br><br>Start out as a nobody at the edge and work your way to the center of a galaxy that gets more dangerous, but also more rewarding the closer you get to its core. Avorion takes sandbox aspects from games like X or Freelancer, throws in co-op multiplayer and lets you build your own ships. It features ships made of freely scalable blocks that can be procedurally generated and that break into pieces where they're hit in space fights.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/Combat_2.gif?t=1701869658\" /><br>Equip your ship with chainguns, lasers and other weaponry to take on your enemies and enjoy the sight of completely destructible ships breaking at the exact points where you hit them. <br><br>Defend your allies from pirates, hunt down enemies for coin or even participate in wars between entire factions. Once you’re victorious, collect loot from defeated foes which you can use to upgrade your ship: new turrets with special abilities like autofire or repair beams, or system upgrades that allow you to install even more weapons. Build hangars and command squads of fighters in your battles or destroy enemy freighters to steal their cargo.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/exploringg.gif?t=1701869658\" /><br>Fly through beautiful nebulas and dense asteroid fields in search of hidden treasures and meet the many factions that populate and control their portion of the galaxy. Each faction has its own characteristics, such as peaceful, intelligent or aggressive, and its ships and stations have a distinct look.<br><br>Explore the galaxy at your own pace to find valuable goods in old ship wrecks, undiscovered asteroid fields rich in resources, gigantic asteroids which you can claim for yourself, or clues about what happened during the Event a few centuries back.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/exploring4.gif?t=1701869658\" /><br>There are no limits to the size or complexity of your ship besides your resources. But there is also a creative mode where you can just build to your heart’s content. You're not bound to the standard voxel style and while building an awesome ship in Avorion you won't get lost in lots and lots of micro-management. <br><br>You can focus on building a great-looking ship, without having to worry about making it work. But always keep an eye on your ship’s maneuverability and energy requirements. Adjust your ship perfectly to its operational purpose: everything from light and agile explorers to heavily armored battleships with strong shields.<br><br>And why build only one ship? Hire captains to fly your ships for you, manage your crews, weapons, hangars and fighters and build your own fleet of spaceships!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/mining.gif?t=1701869658\" /><br>Extend your ship with a cargo bay, find profitable deals and haul over a hundred trading goods across the galaxy to make a profit and buy your way up the food chain. Constructing a fleet of specialized transport ships with lots of cargo space will help you build up a trading corporation. <br><br>Extend your influence in the galaxy by founding asteroid mines and factories that attract NPC traders who will buy and sell their goods at your establishments. Install trading systems that detect trading routes and supply and demand over multiple sectors and become the richest commander in the galaxy! <br><br>Or maybe you're sick of being the good guy? Just raid freighters, smuggle illegal goods, or become a headhunter.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/445220/extras/battle.gif?t=1701869658\" /><br>You don't have to face all of these challenges alone! Avorion features co-op multiplayer, so team up with your friends to build stations together and destroy pirates and enemy factions! <br><br>Everybody needs a copilot, and you can fly ships together, with one of you doing the steering and the other one taking care of firing weapons. Work with each other to extend your influence in the galaxy and build your own empire. <br>Or, you know, blow your friends apart. It's a sandbox, you can do whatever you want!<br><br><br>In Avorion you choose your personal playstyle. Haul cargo, find profitable trading routes and found factories. Or maybe you're sick of being the good guy? Build your own battleship, equip it with powerful weaponry and blow away your enemies. Be the aggressor that starts wars with entire factions, raid freighters, smuggle illegal goods and scavenge old wreckages. Find your way to the center of a galaxy that gets more hostile, but also more rewarding the closer you get to its core.",
+      "short_description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
+      "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Spanish - Spain, Russian, Simplified Chinese, Spanish - Latin America, French, Japanese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/445220/header.jpg?t=1701869658",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/445220/capsule_231x87.jpg?t=1701869658",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/445220/capsule_184x69.jpg?t=1701869658",
+      "website": "https://www.avorion.net/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel i5 @ 3.0 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 550 or equivalent (full OpenGL 3.0 support required)<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Middle mouse button, mouse wheel required. No Internet connection required for Singleplayer.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel i7 @ 3.3 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVidia Geforce 1050 / Radeon RX 460<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Middle mouse button, mouse wheel required. No Internet connection required for Singleplayer.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.11 (El Capitan)<br></li><li><strong>Processor:</strong> Intel Core i5 2.5 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0: Intel HD 4000 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> MacBook Pro (2012) or better, external mouse with middle mouse button and zoom wheel. No Internet connection required for Singleplayer.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.13 (High Sierra) or later<br></li><li><strong>Processor:</strong> Intel Core i7 2.7 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 4.5: Intel HD 5000 or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> MacBook Pro (2016) or better, external mouse with middle mouse button and zoom wheel. No Internet connection required for Singleplayer.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or higher<br></li><li><strong>Processor:</strong> Intel i5 @ 3.0 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 550 or equivalent (full OpenGL 3.0 support required)<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Middle mouse button, mouse wheel required. No Internet connection required for Singleplayer.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or higher<br></li><li><strong>Processor:</strong> Intel i7 @ 3.3 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVidia Geforce 1050 / Radeon RX 460<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Middle mouse button, mouse wheel required. No Internet connection required for Singleplayer.</li></ul>"
+      },
+      "developers": [
+        "Boxelware"
+      ],
+      "publishers": [
+        "Boxelware"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        94780
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Avorion",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 94780,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Avorion - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 48,
+          "description": "LAN Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 8,
+          "description": "Valve Anti-Cheat enabled"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_c193c0313144967725034c8f9ba4d378dd801e77.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_c193c0313144967725034c8f9ba4d378dd801e77.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_3e6fb8ae3e9e13ac20a34aa3f28d2e91a2207679.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_3e6fb8ae3e9e13ac20a34aa3f28d2e91a2207679.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_5ecd07c695f48055606ab68b82bd16f3ef4b40a6.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_5ecd07c695f48055606ab68b82bd16f3ef4b40a6.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_a2e2654fd01488ec9995201cdc9baff7954ac36e.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_a2e2654fd01488ec9995201cdc9baff7954ac36e.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_42821076c3b7478a114b383b5e1e52e78bb15333.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_42821076c3b7478a114b383b5e1e52e78bb15333.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_f7177b73cdf9ed8164ddffaebbfd317f8d9b1942.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_f7177b73cdf9ed8164ddffaebbfd317f8d9b1942.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_5648321300793677cb7132127c61ee2e909fee3b.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_5648321300793677cb7132127c61ee2e909fee3b.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_9c2f12765f8fdea87f71846960512a87c41a0f68.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_9c2f12765f8fdea87f71846960512a87c41a0f68.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_48874ceeffa872d33721b5ef81fb038c32211da6.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_48874ceeffa872d33721b5ef81fb038c32211da6.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_af99bd25cd70590fc9d94e05f80adf19191a5f4b.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_af99bd25cd70590fc9d94e05f80adf19191a5f4b.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_438c8425670c6bd8edd405f31cd041d9bd957e88.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_438c8425670c6bd8edd405f31cd041d9bd957e88.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_1b0266203533e6c1df2c9c086145ecf2fa7c1cc8.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_1b0266203533e6c1df2c9c086145ecf2fa7c1cc8.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_7b23e7e126d0863c3d046262432eefb3ccb2632a.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_7b23e7e126d0863c3d046262432eefb3ccb2632a.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_3574f1ec21e6a718e791d23d2c5b8cd08641ba4c.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_3574f1ec21e6a718e791d23d2c5b8cd08641ba4c.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_972ee087e4861bcc933050bc6f7eb23b416cb34f.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_972ee087e4861bcc933050bc6f7eb23b416cb34f.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_a8267185ece3ef3271103d12b18e8c65f79410fc.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_a8267185ece3ef3271103d12b18e8c65f79410fc.1920x1080.jpg?t=1701869658"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_05d171264666d591f7350cef80b8b9b9a578e105.600x338.jpg?t=1701869658",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/445220/ss_05d171264666d591f7350cef80b8b9b9a578e105.1920x1080.jpg?t=1701869658"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256776756,
+          "name": "3 Year Progress",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776756/movie.293x165.jpg?t=1683113523",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776756/movie480.webm?t=1683113523",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776756/movie_max.webm?t=1683113523"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776756/movie480.mp4?t=1683113523",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776756/movie_max.mp4?t=1683113523"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256676929,
+          "name": "Early Access Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256676929/movie.293x165.jpg?t=1683113530",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256676929/movie480.webm?t=1683113530",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256676929/movie_max.webm?t=1683113530"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256676929/movie480.mp4?t=1683113530",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256676929/movie_max.mp4?t=1683113530"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256777345,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256777345/movie.293x165.jpg?t=1683113544",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256777345/movie480.webm?t=1683113544",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256777345/movie_max.webm?t=1683113544"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256777345/movie480.mp4?t=1683113544",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256777345/movie_max.mp4?t=1683113544"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256850389,
+          "name": "2.0 Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256850389/movie.293x165.jpg?t=1683113537",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256850389/movie480_vp9.webm?t=1683113537",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256850389/movie_max_vp9.webm?t=1683113537"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256850389/movie480.mp4?t=1683113537",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256850389/movie_max.mp4?t=1683113537"
+          },
+          "highlight": false
+        },
+        {
+          "id": 256776757,
+          "name": "Ship Generator English",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776757/movie.293x165.jpg?t=1683113551",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776757/movie480.webm?t=1683113551",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776757/movie_max.webm?t=1683113551"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776757/movie480.mp4?t=1683113551",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776757/movie_max.mp4?t=1683113551"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 10988
+      },
+      "achievements": {
+        "total": 68,
+        "highlighted": [
+          {
+            "name": "Student",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/9757963c0c6e6afcd55b61ba826604afd95f9991.jpg"
+          },
+          {
+            "name": "Scourge of the Scourge",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/5fd158dd2f7ff51a7863c2fc955d4e3a5daadb5d.jpg"
+          },
+          {
+            "name": "DAU - Deadliest Assumable User",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/3c94ba361ddfcb37939300abb7d01182f11c7cc5.jpg"
+          },
+          {
+            "name": "Against all Odds",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/b373b7070fb883d18104e0bc67e9b649ec748614.jpg"
+          },
+          {
+            "name": "The Price of Progress",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/0f0ba4b8a69f169217212318631efa943e8f16f1.jpg"
+          },
+          {
+            "name": "Scientist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/27b4bd54c0746886ff40e604439aa7b897485e27.jpg"
+          },
+          {
+            "name": "Bargain",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/f6a01bb5bdd4e92c957b2c6665f237f460e4f37f.jpg"
+          },
+          {
+            "name": "Historian",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/2a8230ed8ab39c29d9bb051f3a584893877bcd8f.jpg"
+          },
+          {
+            "name": "Into the Unknown",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/10cd877696fb4ca523cbfa270a19c516153fa11f.jpg"
+          },
+          {
+            "name": "Center of the Galaxy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/445220/c31e1f5d6c7277bc147b7c118b16977769f7e09f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 9, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@avorion.net"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/445220/page_bg_generated_v6b.jpg?t=1701869658",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/445220/page.bg.jpg?t=1701869658",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

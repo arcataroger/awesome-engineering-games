@@ -1,0 +1,196 @@
+{
+  "552100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Brick Rigs",
+      "steam_appid": 552100,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Brick Rigs is a physics sandbox game that allows you to build, drive and destroy almost any type of vehicle imaginable. Whether it's a dragster, fire engine, forklift, helicopter, plane, train, ship or even a tank, you can probably build it in Brick Rigs.<br />\r\n<br />\r\nYou can also upload your creations to the Workshop to share them with the community. And if you don’t feel like building anything, you can just download any of the over 200,000 creations already uploaded by other players.<br />\r\n<br />\r\nThe multiplayer mode allows you to experience these physics together with your friends. You can organize races, demolition derbies, dog fights or emergency scenarios. The rules are up to you!",
+      "about_the_game": "Brick Rigs is a physics sandbox game that allows you to build, drive and destroy almost any type of vehicle imaginable. Whether it's a dragster, fire engine, forklift, helicopter, plane, train, ship or even a tank, you can probably build it in Brick Rigs.<br />\r\n<br />\r\nYou can also upload your creations to the Workshop to share them with the community. And if you don’t feel like building anything, you can just download any of the over 200,000 creations already uploaded by other players.<br />\r\n<br />\r\nThe multiplayer mode allows you to experience these physics together with your friends. You can organize races, demolition derbies, dog fights or emergency scenarios. The rules are up to you!",
+      "short_description": "Build your own vehicles or download one of the more than 200,000 creations already uploaded to the Workshop and experience the dynamic driving and destruction physics of Brick Rigs!",
+      "supported_languages": "English, German",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/552100/header.jpg?t=1689355203",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/552100/capsule_231x87.jpg?t=1689355203",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/552100/capsule_184x69.jpg?t=1689355203",
+      "website": "https://www.fluppisoft.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 SP1 - Windows 10 (x64)<br></li><li><strong>Processor:</strong> 2.4 GHz Dual-Core 64-bit CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX10 Compatible GPU with 1 GB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Fluppisoft"
+      ],
+      "publishers": [
+        "Fluppisoft"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1899,
+        "final": 1899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$18.99"
+      },
+      "packages": [
+        137080
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Brick Rigs",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 137080,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Brick Rigs - $18.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_e1dc8353ccbe61be025d1b31bee647675c078bc7.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_e1dc8353ccbe61be025d1b31bee647675c078bc7.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_b42261bfb67e3f2e34cca6d9d0aa00b1cd75788b.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_b42261bfb67e3f2e34cca6d9d0aa00b1cd75788b.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_793d8671e6ae4bed1e64df2b2f770135ff21aba2.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_793d8671e6ae4bed1e64df2b2f770135ff21aba2.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_c2fdfb2097894691aef3a2eb18ab6de9acc3c92c.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_c2fdfb2097894691aef3a2eb18ab6de9acc3c92c.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_bd23b47c8ed0f8276866f9dff7f04bd11f45d25f.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_bd23b47c8ed0f8276866f9dff7f04bd11f45d25f.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_da26a6b386ab8b974c9bf463b03a4da0c33471f0.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_da26a6b386ab8b974c9bf463b03a4da0c33471f0.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_0c7c40bb5d8bb61e4184034c44d021b538888acb.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_0c7c40bb5d8bb61e4184034c44d021b538888acb.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_ec6823af3970c27dca0e8c6feecc7430eadce4d7.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_ec6823af3970c27dca0e8c6feecc7430eadce4d7.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_6aca7480d8544cf25dd09a6cc5ddf2b10bb93f88.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_6aca7480d8544cf25dd09a6cc5ddf2b10bb93f88.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_ab6d232776a6a9fd7fe6eeb66f3464070a47c016.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_ab6d232776a6a9fd7fe6eeb66f3464070a47c016.1920x1080.jpg?t=1689355203"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_69227e7b8e85093bb430605f023c51e9df6ee572.600x338.jpg?t=1689355203",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/552100/ss_69227e7b8e85093bb430605f023c51e9df6ee572.1920x1080.jpg?t=1689355203"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256895200,
+          "name": "July2022",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256895200/movie.293x165.jpg?t=1657345327",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256895200/movie480_vp9.webm?t=1657345327",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256895200/movie_max_vp9.webm?t=1657345327"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256895200/movie480.mp4?t=1657345327",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256895200/movie_max.mp4?t=1657345327"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 34794
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 14, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@fluppisoft.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/552100/page_bg_generated_v6b.jpg?t=1689355203",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/552100/page_bg_generated.jpg?t=1689355203",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "1885690": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Virtual Circuit Board",
+      "steam_appid": 1885690,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>JOIN OUR DISCORD</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FPgBRnrE9bB\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/banner_discord_4.png?t=1696611776\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/header_counter.gif?t=1696611776\" /><br><br><strong>Virtual Circuit Board</strong>, or <strong>VCB</strong>, is a sandbox-only drawing-based logic simulator featuring an assembler and a powerful simulation engine. All of it designed to give you the freedom to build and experiment with logic circuits to your heart’s content.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/banner_sandbox_logic_info.png?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Set your own goals</strong></h2>In <strong>VCB</strong> you will set <i>your own goals</i> of what and how you want to build, it <strong>does not</strong> come with tutorials, levels, or challenges, and it <strong>will not teach you</strong> digital logic or assembly. <strong>VCB</strong>'s development philosophy is aimed toward delivering a fresh sandbox experience for players who <i>already have some basic knowledge</i> about logic gates and circuits.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/banner_features.png?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Powerful Simulation</strong></h2>High-performance tick-based simulation, where signals propagate between components one tick at a time. Simulate with a frequency of up to <strong>millions of updates</strong> per second.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_simulation.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Assembly</strong></h2>Assembly editor in which you can define <strong>your own instructions</strong>, allowing you to create a program that will be assembled into a <strong>Virtual Memory</strong> accessible by your circuits.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_assembly.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Editing and Simulating</strong></h2>Working in <strong>VCB</strong> is separated in two modes, while <strong>editing</strong> you can use the drawing tools to modify your circuit and the assembly editor to write programs, and during <strong>simulation</strong> you can see your circuit running, interact with it, and watch the assembly instructions being executed.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_two_modes.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Drawing-based Interface</strong></h2>Build circuits by drawing <strong>color-coded entities</strong> like logic gates and traces, and use the specialized tools such as the <strong>Array</strong> to optimize your workflow by drawing multiple traces simultaneously. Both the electronic components and the traces support multiple input and output connections.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_tools.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Decoration</strong></h2>Customize the appearance of circuits by drawing in the <strong>decoration layers</strong> that override the component's default colors. This allows you to create things such as buttons and labels that change appearance depending on the component's state.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_decoration.gif?t=1696611776\" /><br><br><a href=\"https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/</a>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/header_counter.gif?t=1696611776\" /><br><br><strong>Virtual Circuit Board</strong>, or <strong>VCB</strong>, is a sandbox-only drawing-based logic simulator featuring an assembler and a powerful simulation engine. All of it designed to give you the freedom to build and experiment with logic circuits to your heart’s content.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/banner_sandbox_logic_info.png?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Set your own goals</strong></h2>In <strong>VCB</strong> you will set <i>your own goals</i> of what and how you want to build, it <strong>does not</strong> come with tutorials, levels, or challenges, and it <strong>will not teach you</strong> digital logic or assembly. <strong>VCB</strong>'s development philosophy is aimed toward delivering a fresh sandbox experience for players who <i>already have some basic knowledge</i> about logic gates and circuits.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/banner_features.png?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Powerful Simulation</strong></h2>High-performance tick-based simulation, where signals propagate between components one tick at a time. Simulate with a frequency of up to <strong>millions of updates</strong> per second.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_simulation.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Assembly</strong></h2>Assembly editor in which you can define <strong>your own instructions</strong>, allowing you to create a program that will be assembled into a <strong>Virtual Memory</strong> accessible by your circuits.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_assembly.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Editing and Simulating</strong></h2>Working in <strong>VCB</strong> is separated in two modes, while <strong>editing</strong> you can use the drawing tools to modify your circuit and the assembly editor to write programs, and during <strong>simulation</strong> you can see your circuit running, interact with it, and watch the assembly instructions being executed.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_two_modes.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Drawing-based Interface</strong></h2>Build circuits by drawing <strong>color-coded entities</strong> like logic gates and traces, and use the specialized tools such as the <strong>Array</strong> to optimize your workflow by drawing multiple traces simultaneously. Both the electronic components and the traces support multiple input and output connections.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_tools.gif?t=1696611776\" /><h2 class=\"bb_tag\"><strong>Decoration</strong></h2>Customize the appearance of circuits by drawing in the <strong>decoration layers</strong> that override the component's default colors. This allows you to create things such as buttons and labels that change appearance depending on the component's state.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1885690/extras/feature_decoration.gif?t=1696611776\" /><br><br><a href=\"https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/</a>",
+      "short_description": "Virtual Circuit Board is the sandbox drawing-based logic simulator where you can build, program, decorate, and simulate anything from simple monochrome circuits to complex and colorful computers. Play with digital logic in this sandbox-only experience.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/header.jpg?t=1696611776",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/capsule_231x87.jpg?t=1696611776",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/capsule_184x69.jpg?t=1696611776",
+      "website": "https://www.virtualcircuitboard.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 3.0 GHz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3+ / 2 GB VRAM / 1366 x 768<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04+<br></li><li><strong>Processor:</strong> 3.0 GHz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3+ / 2 GB VRAM / 1366 x 768<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2022-2023 Reverie Foundry. All rights reserved.",
+      "developers": [
+        "Reverie Foundry"
+      ],
+      "publishers": [
+        "Reverie Foundry"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        679140,
+        822371
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Virtual Circuit Board",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 679140,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Virtual Circuit Board - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            },
+            {
+              "packageid": 822371,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Virtual Circuit Board - Commercial License - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_c1b13d0f22def3021edad0c2e5c686c5ab87f90a.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_c1b13d0f22def3021edad0c2e5c686c5ab87f90a.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_e7a3bdaa8eb596b881a2467fb97a9e0ee14827ac.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_e7a3bdaa8eb596b881a2467fb97a9e0ee14827ac.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_a13d5b8e5322f0d607e931f7814523a0ec819011.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_a13d5b8e5322f0d607e931f7814523a0ec819011.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_e46ad275ce8422d4b142f46b03ec28783f7641f1.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_e46ad275ce8422d4b142f46b03ec28783f7641f1.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_3d14e281d61f7a1bc87e3fdec0b5aaf2dde7eab2.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_3d14e281d61f7a1bc87e3fdec0b5aaf2dde7eab2.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_fecd841f65415def09f1b3fd49c01b2f6d773b79.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_fecd841f65415def09f1b3fd49c01b2f6d773b79.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_7743e42dd0025a5def027ad5041aa84600edbd12.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_7743e42dd0025a5def027ad5041aa84600edbd12.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_816ce3860eb59cf670cf963543711277a7b8717a.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_816ce3860eb59cf670cf963543711277a7b8717a.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_b80899c3f184b87033ef160da18dbb3d08e76a7e.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_b80899c3f184b87033ef160da18dbb3d08e76a7e.1920x1080.jpg?t=1696611776"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_264f6511e70ae058395e36e141664990986f9246.600x338.jpg?t=1696611776",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/ss_264f6511e70ae058395e36e141664990986f9246.1920x1080.jpg?t=1696611776"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256973042,
+          "name": "1.0 Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256973042/movie.293x165.jpg?t=1696298693",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973042/movie480_vp9.webm?t=1696298693",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973042/movie_max_vp9.webm?t=1696298693"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256973042/movie480.mp4?t=1696298693",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256973042/movie_max.mp4?t=1696298693"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 194
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2023"
+      },
+      "support_info": {
+        "url": "https://www.virtualcircuitboard.com/",
+        "email": "reveriefoundry@gmail.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/page_bg_generated_v6b.jpg?t=1696611776",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1885690/page.bg.jpg?t=1696611776",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

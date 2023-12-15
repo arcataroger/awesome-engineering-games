@@ -1,0 +1,281 @@
+{
+  "684410": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bridge Constructor Portal",
+      "steam_appid": 684410,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1113550
+      ],
+      "detailed_description": "<h1>Bridge Constructor Portal on Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FU7MXhzm\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/684410/extras/bridge_constructor_portal_steam_discord_banner_AUG2020.jpg?t=1688546077\" /></a></p><br><h1>About the Game</h1>Enter the Aperture Science Enrichment Center and experience <strong>Bridge Constructor Portal</strong> – the unique merging of the classic Portal™ and Bridge Constructor™ games.<br><br>As a new employee in the Aperture Science test lab, it's your job to build bridges, ramps, slides, and other constructions in 60 test chambers and get the Bendies safely across the finish line in their vehicles.<br><br>Make use of the many Portal gadgets, like portals, propulsion gel, repulsion gel, aerial faith plates, cubes, and more to bypass the sentry turrets, acid pools and laser barriers, solve switch puzzles, and make it through the test chambers unscathed.<br><br>Let Ellen McLain, the original voice of GLaDOS, guide you through the tutorial, and learn all the tips and tricks that make a true Aperture Science employee.<br>The bridge is a lie!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>The merging of two worlds: the first Bridge Constructor™ with an official Portal™ license<br></li><li>Create complex constructions in the Aperture Science labs<br></li><li>Let GLaDOS accompany you through tricky physics adventures<br></li><li>Use portals, aerial faith plates, propulsion gel, repulsion gel, and much more to master the complicated tasks<br></li><li>Evade dangers such as sentry turrets, emancipation grills, laser fields, and acid<br></li><li>Help your Bendies cross the finish line – on their own or in a convoy<br></li><li>The Level Editor lets you create your own sophisticated test chambers and share them with other test subjects all around the world</li></ul>",
+      "about_the_game": "Enter the Aperture Science Enrichment Center and experience <strong>Bridge Constructor Portal</strong> – the unique merging of the classic Portal™ and Bridge Constructor™ games.<br><br>As a new employee in the Aperture Science test lab, it's your job to build bridges, ramps, slides, and other constructions in 60 test chambers and get the Bendies safely across the finish line in their vehicles.<br><br>Make use of the many Portal gadgets, like portals, propulsion gel, repulsion gel, aerial faith plates, cubes, and more to bypass the sentry turrets, acid pools and laser barriers, solve switch puzzles, and make it through the test chambers unscathed.<br><br>Let Ellen McLain, the original voice of GLaDOS, guide you through the tutorial, and learn all the tips and tricks that make a true Aperture Science employee.<br>The bridge is a lie!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>The merging of two worlds: the first Bridge Constructor™ with an official Portal™ license<br></li><li>Create complex constructions in the Aperture Science labs<br></li><li>Let GLaDOS accompany you through tricky physics adventures<br></li><li>Use portals, aerial faith plates, propulsion gel, repulsion gel, and much more to master the complicated tasks<br></li><li>Evade dangers such as sentry turrets, emancipation grills, laser fields, and acid<br></li><li>Help your Bendies cross the finish line – on their own or in a convoy<br></li><li>The Level Editor lets you create your own sophisticated test chambers and share them with other test subjects all around the world</li></ul>",
+      "short_description": "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal™ and Bridge Constructor™ games.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Simplified Chinese, Traditional Chinese, Turkish, Czech, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "reviews": "“I can wholeheartedly recommend Bridge Constructor Portal as a rich, challenging puzzler with plenty of brain-twisters in store across its 60 levels”<br><a href=\"http://www.ign.com/articles/2017/12/19/bridge-constructor-portal-review\" target=\"_blank\" rel=\"\"  >IGN</a><br><br>“For fans of the original series of Bridge Constructor games it’s a no-brainer, but it’s an extra treat for fans of the Portal games in particular.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.polygon.com%2Fvideos%2F2017%2F12%2F19%2F16796080%2Fbridge-constructor-portal-video-gameplay\" target=\"_blank\" rel=\" noopener\"  >Polygon</a><br><br>“Bridge Constructor Portal is a mashup I didn't know I wanted. Whether it's a sign of more to come or merely an out-of-the-blue one-off, I'm surprised this game exists - and also how much I like it.”<br><a href=\"https://www.destructoid.com/review-bridge-constructor-portal-477784.phtml\" target=\"_blank\" rel=\"\"  >Destructoid</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/684410/header.jpg?t=1688546077",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/684410/capsule_231x87.jpg?t=1688546077",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/684410/capsule_184x69.jpg?t=1688546077",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX10 compatible<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9+<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX10 compatible<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX10 compatible<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "legal_notice": "Portal © 2007 Valve Corporation <br />\r\n© 2017 Headup GmbH, all rights reserved.<br />\r\nClockStone and its logos are trademarks of ClockStone Software GmbH.",
+      "developers": [
+        "ClockStone"
+      ],
+      "publishers": [
+        "Headup Publishing"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        246558,
+        306091
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bridge Constructor Portal",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 246558,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bridge Constructor Portal - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 306091,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bridge Constructor Portal - Commercial License - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 77,
+        "url": "https://www.metacritic.com/game/pc/bridge-constructor-portal?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_ee26d39ea16db194b6fdb3654a71f4619f1eb775.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_ee26d39ea16db194b6fdb3654a71f4619f1eb775.1920x1080.jpg?t=1688546077"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_1cf315101f5f57c2c98c94fc06627d321c71d059.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_1cf315101f5f57c2c98c94fc06627d321c71d059.1920x1080.jpg?t=1688546077"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_c60ebbe2ef0561264829739a78c372b53c814b39.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_c60ebbe2ef0561264829739a78c372b53c814b39.1920x1080.jpg?t=1688546077"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_2d1a5b602948d0a20256e53c37071f601c8d8e3a.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_2d1a5b602948d0a20256e53c37071f601c8d8e3a.1920x1080.jpg?t=1688546077"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_0192b6721dabd58f42dd1d1fb1aabe6d805ce3e6.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_0192b6721dabd58f42dd1d1fb1aabe6d805ce3e6.1920x1080.jpg?t=1688546077"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_4d6e2dbaaa1a89b14d887332a570f7951055efe5.600x338.jpg?t=1688546077",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684410/ss_4d6e2dbaaa1a89b14d887332a570f7951055efe5.1920x1080.jpg?t=1688546077"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256704079,
+          "name": "BC Portal Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256704079/movie.293x165.jpg?t=1513762424",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256704079/movie480.webm?t=1513762424",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256704079/movie_max.webm?t=1513762424"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256704079/movie480.mp4?t=1513762424",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256704079/movie_max.mp4?t=1513762424"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256732292,
+          "name": "BC Portal Level Editor Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256732292/movie.293x165.jpg?t=1539709252",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732292/movie480.webm?t=1539709252",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732292/movie_max.webm?t=1539709252"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732292/movie480.mp4?t=1539709252",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732292/movie_max.mp4?t=1539709252"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256702858,
+          "name": "Bridge Constructor Portal Teaser",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256702858/movie.293x165.jpg?t=1512591080",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256702858/movie480.webm?t=1512591080",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256702858/movie_max.webm?t=1512591080"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256702858/movie480.mp4?t=1512591080",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256702858/movie_max.mp4?t=1512591080"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 4823
+      },
+      "achievements": {
+        "total": 26,
+        "highlighted": [
+          {
+            "name": "Extended Testing Opportunity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/cbb3024f76a3428326d8e9e2ca36b4f8b428692e.jpg"
+          },
+          {
+            "name": "Food and Artificial Sunlight",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/191cbda9e134ff15d5f25a7003a828d3e567954f.jpg"
+          },
+          {
+            "name": "Post-Insignificance",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/161a4d7830d71b4980e9fb2395481a3aaec7f560.jpg"
+          },
+          {
+            "name": "Official Pre-Admittance",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/1609ccb3a3323ef8e90121cd9ebfe46bf70c7aad.jpg"
+          },
+          {
+            "name": "Full Chief Custodian candidate",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/2527372d7dfc7826edeb1cbebb5cffac17794a5c.jpg"
+          },
+          {
+            "name": "Spectacularly Lonely",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/56ee586e3b75a5bc3d43bc4e84fb32d567ad5f9f.jpg"
+          },
+          {
+            "name": "Centrifugal Convoy Adjustment System",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/6490a7a88990cbe915924839627a608ecef68186.jpg"
+          },
+          {
+            "name": "Entry-Exit Relay Repeater System",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/2dd17b895eaebd1de6f8f34311a60b064ce4e719.jpg"
+          },
+          {
+            "name": "No Hard Feelings",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/7b41838579ef6ab80cd6edd1716c9e00f4c5cdd8.jpg"
+          },
+          {
+            "name": "Aerial Mobility Support System",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684410/a931a502f6e8c18fa73c9935fa334145ff6d95fc.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 20, 2017"
+      },
+      "support_info": {
+        "url": "http://support.headupgames.com",
+        "email": "support@headupgames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/684410/page_bg_generated_v6b.jpg?t=1688546077",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/684410/page.bg.jpg?t=1688546077",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

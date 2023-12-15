@@ -1,0 +1,318 @@
+{
+  "1106840": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Hydroneer",
+      "steam_appid": 1106840,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Hydroneer is a mining sandbox game where you dig for gold and other resources to build massive mining machines and a base of operation. Use primitive tools, hydro-powered machines, and player-built structures to dig and evolve your operation in this tycoon-style progression system.<h2 class=\"bb_tag\">Dig Deep!</h2>Using a state-of-the-art voxel based terrain system, you can create cave networks, quarry pits, or even mud mountains. Discover relics of the past in the depths of Hydroneer, with better rewards the deeper you dig. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/digging.gif?t=1681490626\" /><h2 class=\"bb_tag\">Forge, Build, and Create!</h2>Hydroneer features a dynamic modular system for building structures and hydro powered machinery. Create the base of operations from your own design to optimise your work. Create networks of hydro pipes, control pressure. Craft resources, weaponry, jewellery, grow vegetables, and cook soup for villagers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/placingobjects.gif?t=1681490626\" /><h2 class=\"bb_tag\">Hydro Powered Vehicles</h2>Large hydro powered machines used for a variety of uses, from digging resources and finding ore veins, to transporting goods.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/prospector.gif?t=1681490626\" /><h2 class=\"bb_tag\">Explore the World of Hydroneer</h2>Various parcels of land await you in the world of Hydroneer, each with their own advantages. Deeper pits, attractive scenery, and closer stores. You decide where to build your base of operations.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/quad.gif?t=1681490626\" />",
+      "about_the_game": "Hydroneer is a mining sandbox game where you dig for gold and other resources to build massive mining machines and a base of operation. Use primitive tools, hydro-powered machines, and player-built structures to dig and evolve your operation in this tycoon-style progression system.<h2 class=\"bb_tag\">Dig Deep!</h2>Using a state-of-the-art voxel based terrain system, you can create cave networks, quarry pits, or even mud mountains. Discover relics of the past in the depths of Hydroneer, with better rewards the deeper you dig. <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/digging.gif?t=1681490626\" /><h2 class=\"bb_tag\">Forge, Build, and Create!</h2>Hydroneer features a dynamic modular system for building structures and hydro powered machinery. Create the base of operations from your own design to optimise your work. Create networks of hydro pipes, control pressure. Craft resources, weaponry, jewellery, grow vegetables, and cook soup for villagers.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/placingobjects.gif?t=1681490626\" /><h2 class=\"bb_tag\">Hydro Powered Vehicles</h2>Large hydro powered machines used for a variety of uses, from digging resources and finding ore veins, to transporting goods.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/prospector.gif?t=1681490626\" /><h2 class=\"bb_tag\">Explore the World of Hydroneer</h2>Various parcels of land await you in the world of Hydroneer, each with their own advantages. Deeper pits, attractive scenery, and closer stores. You decide where to build your base of operations.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1106840/extras/quad.gif?t=1681490626\" />",
+      "short_description": "Hydroneer is a mining and base building sandbox. Dig for gold and other resources to turn a profit and enhance your mining operation. Build a base of operations, forge weapons, go fishing, and dig deep!",
+      "supported_languages": "English<strong>*</strong>, Russian, Portuguese - Brazil, French, German, Turkish, Dutch, Polish, Spanish - Spain, Romanian, Simplified Chinese, Czech, Italian, Korean, Arabic, Japanese, Danish, Norwegian, Swedish<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/header.jpg?t=1681490626",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/capsule_231x87.jpg?t=1681490626",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/capsule_184x69.jpg?t=1681490626",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad-Core 64-bit Intel or AMD processor, 2.4 GHZ CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB DirectX 11 dedicated video card<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Foulball Hangover"
+      ],
+      "publishers": [
+        "Foulball Hangover"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        374005
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Hydroneer",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 374005,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Hydroneer - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_467a954b4ecf4fce9f4369ba280e3489791aa473.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_467a954b4ecf4fce9f4369ba280e3489791aa473.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_69888496c502a48f800b83b95ee722c789a27b06.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_69888496c502a48f800b83b95ee722c789a27b06.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_36a45220d229b84c934af2ebdcbcd08659fce8fd.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_36a45220d229b84c934af2ebdcbcd08659fce8fd.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_3e6e52cf9790f0e16b2ba5e8381d446a84db978e.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_3e6e52cf9790f0e16b2ba5e8381d446a84db978e.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_7b31ead1d26492a2dc73a0310bdefa76df3847fb.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_7b31ead1d26492a2dc73a0310bdefa76df3847fb.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_7688d26c9c2fdd883a5c60f1022d62d4fb7a84e0.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_7688d26c9c2fdd883a5c60f1022d62d4fb7a84e0.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_a9e03d3697511ea9625c5125623de9980b5fa73a.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_a9e03d3697511ea9625c5125623de9980b5fa73a.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_33e0e028bd92e246e6d480046dd8ee098a2ba072.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_33e0e028bd92e246e6d480046dd8ee098a2ba072.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_00e64ef49a2fc13484ab30d760a119dfb9581deb.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_00e64ef49a2fc13484ab30d760a119dfb9581deb.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_21092bc5f190be1d45ac354b580040b3a09f0d8a.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_21092bc5f190be1d45ac354b580040b3a09f0d8a.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_953c56217b437ce822f019fe8178d44253ff6ff2.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_953c56217b437ce822f019fe8178d44253ff6ff2.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_fd5b8ce79450024466354513fcb3ee8f5e3021cd.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_fd5b8ce79450024466354513fcb3ee8f5e3021cd.1920x1080.jpg?t=1681490626"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_59afc3aa94af15f211e978e705413fd3442129e8.600x338.jpg?t=1681490626",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/ss_59afc3aa94af15f211e978e705413fd3442129e8.1920x1080.jpg?t=1681490626"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256941235,
+          "name": "Prospecting Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941235/movie.293x165.jpg?t=1681490546",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941235/movie480_vp9.webm?t=1681490546",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941235/movie_max_vp9.webm?t=1681490546"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941235/movie480.mp4?t=1681490546",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941235/movie_max.mp4?t=1681490546"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256778421,
+          "name": "HydroTrailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256778421/movie.293x165.jpg?t=1652028854",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256778421/movie480_vp9.webm?t=1652028854",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256778421/movie_max_vp9.webm?t=1652028854"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256778421/movie480.mp4?t=1652028854",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256778421/movie_max.mp4?t=1652028854"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256915490,
+          "name": "Farming Season Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256915490/movie.293x165.jpg?t=1670609016",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256915490/movie480_vp9.webm?t=1670609016",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256915490/movie_max_vp9.webm?t=1670609016"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256915490/movie480.mp4?t=1670609016",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256915490/movie_max.mp4?t=1670609016"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 18220
+      },
+      "achievements": {
+        "total": 51,
+        "highlighted": [
+          {
+            "name": "Tutorial Complete!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/a21571ebebbc621dffeb70a1a2ec0fc5b2013a02.jpg"
+          },
+          {
+            "name": "Let There Be Light",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/73c2ac14a76812f9d3628a087de3b6df98cf6d12.jpg"
+          },
+          {
+            "name": "My First Hydrocoin",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/800a95f033308e673406d1f5cfb8a60a3786e7af.jpg"
+          },
+          {
+            "name": "Smelt It, Dealt It.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/b9d1ce8ba3658dbc43c5c2e8d304388b20eb8ebd.jpg"
+          },
+          {
+            "name": "Tall Order",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/9d6e0eed4b726e1433a9098c166fb4f12e3e8ab5.jpg"
+          },
+          {
+            "name": "Dirty Rock Go Gzz Now Sparkle",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/1f175ab9ecbf72eb6c1f814aad76f083be3caf54.jpg"
+          },
+          {
+            "name": "Diamonds Are Forever",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/326d924ccb4bb82a1d2262ea68f9b8a89f50fb6d.jpg"
+          },
+          {
+            "name": "A New Home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/bc23daeccb7cda76235b8941d80551be41aab41c.jpg"
+          },
+          {
+            "name": "Where's The Water?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/bc23daeccb7cda76235b8941d80551be41aab41c.jpg"
+          },
+          {
+            "name": "Don't Worry About The Quarry",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1106840/bc23daeccb7cda76235b8941d80551be41aab41c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 8, 2020"
+      },
+      "support_info": {
+        "url": "https://discord.gg/hgYBTGP",
+        "email": "support@foulballhangover.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/page_bg_generated_v6b.jpg?t=1681490626",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1106840/page.bg.jpg?t=1681490626",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

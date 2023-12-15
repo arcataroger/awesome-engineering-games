@@ -1,0 +1,283 @@
+{
+  "1457320": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Techtonica",
+      "steam_appid": 1457320,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2477520
+      ],
+      "detailed_description": "<h1>Roadmap</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TechtonicaRoadmap_BB_COMPLETE_small.png?t=1702576558\" /></p><br><h1>About the Game</h1><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Ftechtonica\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT-Discord-Banner.png?t=1702576558\" /></a><br><br>Welcome to the strangely beautiful, bioluminescent, and mysterious sub-surface alien world of <i>Techtonica</i>. You’ll begin with only the basics for digging, mining, and resource production.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Build.gif?t=1702576558\" /><br><br>Discovering everything in <i>Techtonica</i> demands unique equipment, power, and resources. Build specialized machines to optimize gathering and production as you arm yourself with the tools needed to go further and deeper.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Automate.gif?t=1702576558\" /><br><br>Connect a network of machines and resources with Conveyor Belts and Inserters that enable you to automate your lines of production and optimize your factory’s flow.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Sprawl22.gif?t=1702576558\" /><br><br>Take mining and production to new heights by constructing sprawling, efficient factories and turning the alien caverns into your base of operations. Bend the ground to your will to make and clear space for your machines.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Explore.gif?t=1702576558\" /><br><br>Exploration pays off in <i>Techtonica</i>. Tunnel your way to massive ore deposits, research-rich facilities, and hidden caves to find rewards and scan aging artifacts. You’ll unlock new recipes for enhanced automation systems and even more powerful technology. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_MYSTERIES.gif?t=1702576558\" /><br><br>A complete science fiction narrative awaits and explains who you are and why you are building your factory. Something is off beneath the surface of Calyx. A mysterious talking cube enlists your help to figure out the truth.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li><strong>BEAUTIFUL WORLD.</strong> Explore the cavernous depths of Techtonica surrounded by bioluminescent flora in first-person.<br></li><li><strong>FACTORY AUTOMATION.</strong> Conveyor belts and unique travel systems make sprawling, automated factories easier to build, connect, and traverse.<br></li><li><strong>REWARDING UPGRADES.</strong> Start small and get massive with gameplay systems that continually evolve with new challenges and solutions.<br></li><li><strong>DIG ANYWHERE.</strong> Carve out the perfect home for your machines using the MOLE, a black hole gun.<br></li><li><strong>SCI-FI MYSTERY.</strong> A genre-first, unravel the mysteries that lie beneath the surface of the rogue planet Calyx.<br></li><li><strong>AURAL NIRVANA.</strong> Techtonica arrives with a build-inspiring original soundtrack from Cityfires (<i>20XX</i>, <i>Catlateral Damage: Remeowstered</i>).<br></li><li><strong>CO-OP. </strong>Techtonica will be entirely playable alone or with up to four-player co-op.</li></ul><br><a href=\"https://store.steampowered.com/app/1457320/Techtonica/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1457320/Techtonica/</a>",
+      "about_the_game": "<a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Ftechtonica\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT-Discord-Banner.png?t=1702576558\" /></a><br><br>Welcome to the strangely beautiful, bioluminescent, and mysterious sub-surface alien world of <i>Techtonica</i>. You’ll begin with only the basics for digging, mining, and resource production.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Build.gif?t=1702576558\" /><br><br>Discovering everything in <i>Techtonica</i> demands unique equipment, power, and resources. Build specialized machines to optimize gathering and production as you arm yourself with the tools needed to go further and deeper.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Automate.gif?t=1702576558\" /><br><br>Connect a network of machines and resources with Conveyor Belts and Inserters that enable you to automate your lines of production and optimize your factory’s flow.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Sprawl22.gif?t=1702576558\" /><br><br>Take mining and production to new heights by constructing sprawling, efficient factories and turning the alien caverns into your base of operations. Bend the ground to your will to make and clear space for your machines.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_Explore.gif?t=1702576558\" /><br><br>Exploration pays off in <i>Techtonica</i>. Tunnel your way to massive ore deposits, research-rich facilities, and hidden caves to find rewards and scan aging artifacts. You’ll unlock new recipes for enhanced automation systems and even more powerful technology. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1457320/extras/TT_MYSTERIES.gif?t=1702576558\" /><br><br>A complete science fiction narrative awaits and explains who you are and why you are building your factory. Something is off beneath the surface of Calyx. A mysterious talking cube enlists your help to figure out the truth.<h2 class=\"bb_tag\">FEATURES</h2><br><ul class=\"bb_ul\"><li><strong>BEAUTIFUL WORLD.</strong> Explore the cavernous depths of Techtonica surrounded by bioluminescent flora in first-person.<br></li><li><strong>FACTORY AUTOMATION.</strong> Conveyor belts and unique travel systems make sprawling, automated factories easier to build, connect, and traverse.<br></li><li><strong>REWARDING UPGRADES.</strong> Start small and get massive with gameplay systems that continually evolve with new challenges and solutions.<br></li><li><strong>DIG ANYWHERE.</strong> Carve out the perfect home for your machines using the MOLE, a black hole gun.<br></li><li><strong>SCI-FI MYSTERY.</strong> A genre-first, unravel the mysteries that lie beneath the surface of the rogue planet Calyx.<br></li><li><strong>AURAL NIRVANA.</strong> Techtonica arrives with a build-inspiring original soundtrack from Cityfires (<i>20XX</i>, <i>Catlateral Damage: Remeowstered</i>).<br></li><li><strong>CO-OP. </strong>Techtonica will be entirely playable alone or with up to four-player co-op.</li></ul><br><a href=\"https://store.steampowered.com/app/1457320/Techtonica/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1457320/Techtonica/</a>",
+      "short_description": "Techtonica is a first-person factory automation game set beneath the surface of an alien planet. Work alone or in co-op to build factories, gather resources, research new technologies, mold the destructible terrain, establish a base of operations, and uncover long-forgotten secrets.",
+      "supported_languages": "English<strong>*</strong>, French, German, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Dutch<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/header.jpg?t=1702576558",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/capsule_231x87.jpg?t=1702576558",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/capsule_184x69.jpg?t=1702576558",
+      "website": "https://techtonicagame.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or Later (64-bit)<br></li><li><strong>Processor:</strong> Intel Core or AMD Ryzen processor (3 GHz or greater / 4 cores or greater)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1650 4GB VRAM (or equivalent) / AMD RX 560 4GB VRAM (or equivalent)<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required for mutliplayer.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or Later (64-bit)<br></li><li><strong>Processor:</strong> Intel Core or AMD Ryzen processor (3.5 GHz or greater / 6 cores or greater)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1070 8GB VRAM (or equivalent) / AMD RX 5700 XT 8GB VRAM (or equivalent<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required for mutliplayer.</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "©2023 Fire Hose Games, Inc. All Rights Reserved",
+      "developers": [
+        "Fire Hose Games"
+      ],
+      "publishers": [
+        "Fire Hose Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        513081
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Techtonica",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 513081,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Techtonica - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_57e9a162517713613e3bc2acac1cf89aa1e5de52.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_57e9a162517713613e3bc2acac1cf89aa1e5de52.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_3af826c22fc1c667688ba3c1d523eaa8df4b2239.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_3af826c22fc1c667688ba3c1d523eaa8df4b2239.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_7b9afd6fc04283a14aa203647d311286435856bf.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_7b9afd6fc04283a14aa203647d311286435856bf.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_3c729993c4a1744813544448879c30be2af6bd10.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_3c729993c4a1744813544448879c30be2af6bd10.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_dc522a4072185eac8d7d88f665a64c00d31c52c8.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_dc522a4072185eac8d7d88f665a64c00d31c52c8.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_cb893be7a3acc71c0be3babfe5e3b3302fe09d79.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_cb893be7a3acc71c0be3babfe5e3b3302fe09d79.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_a0d72ce867258eb49aa9e9088d9a58358ee4a99f.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_a0d72ce867258eb49aa9e9088d9a58358ee4a99f.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_c4e28abff2c588ab33b6d282323796b60cb7fd93.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_c4e28abff2c588ab33b6d282323796b60cb7fd93.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_9be09b65e1d73def41d2c37340b4772bd3b505cd.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_9be09b65e1d73def41d2c37340b4772bd3b505cd.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_bb2ab280b053c0a0832da82568741fb8cae87911.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_bb2ab280b053c0a0832da82568741fb8cae87911.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_6acd330390e10e1893bf0a384482bbebe2fdced8.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_6acd330390e10e1893bf0a384482bbebe2fdced8.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_347cdaf95ecbeae4fc8368fada5c74762b03ad21.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_347cdaf95ecbeae4fc8368fada5c74762b03ad21.1920x1080.jpg?t=1702576558"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_a1b14bd4fbcc8c7d25371d5b685cb9fb9aa236ef.600x338.jpg?t=1702576558",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/ss_a1b14bd4fbcc8c7d25371d5b685cb9fb9aa236ef.1920x1080.jpg?t=1702576558"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256988850,
+          "name": "Techtonica - Base Building Update Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256988850/movie.293x165.jpg?t=1702576550",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988850/movie480_vp9.webm?t=1702576550",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988850/movie_max_vp9.webm?t=1702576550"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256988850/movie480.mp4?t=1702576550",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256988850/movie_max.mp4?t=1702576550"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256958902,
+          "name": "Techtonica Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256958902/movie.293x165.jpg?t=1689712382",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958902/movie480_vp9.webm?t=1689712382",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958902/movie_max_vp9.webm?t=1689712382"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256958902/movie480.mp4?t=1689712382",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256958902/movie_max.mp4?t=1689712382"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1114
+      },
+      "achievements": {
+        "total": 22,
+        "highlighted": [
+          {
+            "name": "Groundbreakers, Assemble!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/cab13ef8da34eaa130d4e00272571bc23b63da68.jpg"
+          },
+          {
+            "name": "Many Hands",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/d728b055898fbae2eff920364ac54a4d87f9d286.jpg"
+          },
+          {
+            "name": "Getting the Point",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/5b109e013eb81fb6fe5a07a6cc7b085a4af00663.jpg"
+          },
+          {
+            "name": "Dreaming of Electric Sheep",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/5dec5aa05cc22f2ed8ad4e7223fff9eaac7295d4.jpg"
+          },
+          {
+            "name": "Overclocked",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/15c9f6f0776b460879a03135ca4f02bc26f0ec6e.jpg"
+          },
+          {
+            "name": "Cool S",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/42904828732dfa4be7e4a3587614942f1b338b13.jpg"
+          },
+          {
+            "name": "Circuit Breaker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/24811584f4b1c98e1e4f35823cb78519610df903.jpg"
+          },
+          {
+            "name": "Belter Loader",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/b61d5a79a30a8338783c610a68c214569ae7c9e9.jpg"
+          },
+          {
+            "name": "Monumental",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/1f1e1d38c4212fa6776a7ab65e7d5cc0ded168b4.jpg"
+          },
+          {
+            "name": "Twist of Freight",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1457320/35f4504707cfbd233697a0f3eca2a380bf1528af.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 18, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@firehosegames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/page_bg_generated_v6b.jpg?t=1702576558",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1457320/page.bg.jpg?t=1702576558",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

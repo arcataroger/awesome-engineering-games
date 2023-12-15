@@ -1,0 +1,237 @@
+{
+  "92800": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "SpaceChem",
+      "steam_appid": 92800,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        92803
+      ],
+      "detailed_description": "Zachtronics is back with an ambitious new design-based puzzle game. Take on the role of a Reactor Engineer working for <strong>SpaceChem</strong>, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products! Streamline your designs to meet production quotas and survive encounters with the sinister threats that plague <strong>SpaceChem</strong>.<h2 class=\"bb_tag\">KEY FEATURES:</h2><ul class=\"bb_ul\"><li>Over Fifty Mind-bending Puzzles!<br></li><li>An original soundtrack by Evan Le Ny, whose music was featured in The Codex of Alchemical Engineering!<br></li><li>Twenty challenging achievements!</li></ul>",
+      "about_the_game": "Zachtronics is back with an ambitious new design-based puzzle game. Take on the role of a Reactor Engineer working for <strong>SpaceChem</strong>, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products! Streamline your designs to meet production quotas and survive encounters with the sinister threats that plague <strong>SpaceChem</strong>.<h2 class=\"bb_tag\">KEY FEATURES:</h2><ul class=\"bb_ul\"><li>Over Fifty Mind-bending Puzzles!<br></li><li>An original soundtrack by Evan Le Ny, whose music was featured in The Codex of Alchemical Engineering!<br></li><li>Twenty challenging achievements!</li></ul>",
+      "short_description": "Zachtronics is back with an ambitious new design-based puzzle game. Take on the role of a Reactor Engineer working for SpaceChem, the leading chemical synthesizer for frontier colonies. Construct elaborate factories to transform raw materials into valuable chemical products!",
+      "supported_languages": "English, French, German, Russian, Italian, Japanese, Portuguese - Brazil, Spanish - Latin America",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/92800/header.jpg?t=1667072182",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/92800/capsule_231x87.jpg?t=1667072182",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/92800/capsule_184x69.jpg?t=1667072182",
+      "website": "http://www.zachtronics.com/spacechem",
+      "pc_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP3 / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz Processor<br></li><li><strong>Memory:</strong> 1GB RAM<br></li><li><strong>Hard Disk Space:</strong> 300MB\t<br></li><li><strong>Graphics:</strong> frame buffer support recommended</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9 Mavericks or later<br></li><li><strong>Processor:</strong> 2.0 GHz Processor<br></li><li><strong>Memory:</strong> 1GB RAM<br></li><li><strong>Hard Drive:</strong> 300MB<br></li><li><strong>Graphics:</strong> frame buffer support recommended</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> glibc 2.17+, 64-bit only<br></li><li><strong>Processor:</strong> 2.0 GHz Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Hard Drive:</strong> 300 MB<br></li><li><strong>Graphics:</strong> frame buffer support recommended</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        7388
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy SpaceChem",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 7388,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SpaceChem - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 84,
+        "url": "https://www.metacritic.com/game/pc/spacechem?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_be32a115f2b8b7febcda75485e2810ba6f70bec9.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_be32a115f2b8b7febcda75485e2810ba6f70bec9.1920x1080.jpg?t=1667072182"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_42f0bbecf8ec63fb5c649d567d7ff1b75f6fde6b.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_42f0bbecf8ec63fb5c649d567d7ff1b75f6fde6b.1920x1080.jpg?t=1667072182"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_61801bb4ff4f4d6f23eb8a531fa53908abfcc3cb.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_61801bb4ff4f4d6f23eb8a531fa53908abfcc3cb.1920x1080.jpg?t=1667072182"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_55448be442e88bd6e6ba6d0b00fbacb1cad8540a.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_55448be442e88bd6e6ba6d0b00fbacb1cad8540a.1920x1080.jpg?t=1667072182"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_a099da323c9996d7e336f968b657ce764d7795cf.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_a099da323c9996d7e336f968b657ce764d7795cf.1920x1080.jpg?t=1667072182"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_c2149c7361768dd2eb24999ce82570c523821c5c.600x338.jpg?t=1667072182",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/92800/ss_c2149c7361768dd2eb24999ce82570c523821c5c.1920x1080.jpg?t=1667072182"
+        }
+      ],
+      "movies": [
+        {
+          "id": 80609,
+          "name": "SpaceChem How To Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/80609/movie.293x165.jpg?t=1667072174",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/80609/movie480.webm?t=1667072174",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/80609/movie_max.webm?t=1667072174"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/80609/movie480.mp4?t=1667072174",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/80609/movie_max.mp4?t=1667072174"
+          },
+          "highlight": true
+        },
+        {
+          "id": 80608,
+          "name": "SpaceChem Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/80608/movie.293x165.jpg?t=1667072180",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/80608/movie480.webm?t=1667072180",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/80608/movie_max.webm?t=1667072180"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/80608/movie480.mp4?t=1667072180",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/80608/movie_max.mp4?t=1667072180"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2415
+      },
+      "achievements": {
+        "total": 20,
+        "highlighted": [
+          {
+            "name": "Chief Executive Officer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/14f0256181bbca3553821f2aa524c9310bb0b5fb.jpg"
+          },
+          {
+            "name": "Junior Permutation Technician",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/601335fe766e8b6e6196102530b734ddf87549bc.jpg"
+          },
+          {
+            "name": "Environmental Engineer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/9423d8fa0e97a91cfb7da6a75189103c249d393c.jpg"
+          },
+          {
+            "name": "Industrial Physicist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/8ab6ae71fa7c1bee57c8b6d7c51a4c258799694b.jpg"
+          },
+          {
+            "name": "Materials Engineer of the People",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/14f0256181bbca3553821f2aa524c9310bb0b5fb.jpg"
+          },
+          {
+            "name": "Junior Performance Specialist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/601335fe766e8b6e6196102530b734ddf87549bc.jpg"
+          },
+          {
+            "name": "Performance Specialist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/9423d8fa0e97a91cfb7da6a75189103c249d393c.jpg"
+          },
+          {
+            "name": "Performance Specialist II",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/8ab6ae71fa7c1bee57c8b6d7c51a4c258799694b.jpg"
+          },
+          {
+            "name": "Senior Performance Specialist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/14f0256181bbca3553821f2aa524c9310bb0b5fb.jpg"
+          },
+          {
+            "name": "Efficiency Specialist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/92800/9423d8fa0e97a91cfb7da6a75189103c249d393c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 2, 2011"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/92800/page_bg_generated_v6b.jpg?t=1667072182",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/92800/page_bg_generated.jpg?t=1667072182",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

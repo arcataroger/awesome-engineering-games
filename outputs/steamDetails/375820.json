@@ -1,0 +1,255 @@
+{
+  "375820": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Human Resource Machine",
+      "steam_appid": 375820,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1273200
+      ],
+      "detailed_description": "<strong>Update: now includes the official soundtrack</strong><br><br>Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.<br><br>Human Resource Machine is a puzzle game for nerds. In each level, your boss gives you a job. Automate it by programming your little office worker. If you succeed, you'll be promoted up to the next level for another year of work in the vast office building. Congratulations!<br><br>Don't worry if you've never programmed before - <strong>programming is just puzzle solving</strong>. If you strip away all the 1's and 0's and scary squiggly brackets, programming is actually really simple, logical, beautiful, and something that anyone can understand and have fun with! Are you already an expert? There will be extra challenges for you.<br><br>From the creators of <strong>World of Goo</strong> and <strong>Little Inferno</strong>. Have fun! Management is watching.",
+      "about_the_game": "<strong>Update: now includes the official soundtrack</strong><br><br>Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.<br><br>Human Resource Machine is a puzzle game for nerds. In each level, your boss gives you a job. Automate it by programming your little office worker. If you succeed, you'll be promoted up to the next level for another year of work in the vast office building. Congratulations!<br><br>Don't worry if you've never programmed before - <strong>programming is just puzzle solving</strong>. If you strip away all the 1's and 0's and scary squiggly brackets, programming is actually really simple, logical, beautiful, and something that anyone can understand and have fun with! Are you already an expert? There will be extra challenges for you.<br><br>From the creators of <strong>World of Goo</strong> and <strong>Little Inferno</strong>. Have fun! Management is watching.",
+      "short_description": "Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job. From the creators of World of Goo and Little Inferno.",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Dutch, Polish, Italian, Russian, Portuguese - Brazil, Swedish, Norwegian, Czech, Danish, Hungarian, Simplified Chinese, Turkish, Japanese, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/375820/header.jpg?t=1692721273",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/375820/capsule_231x87.jpg?t=1692721273",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/375820/capsule_184x69.jpg?t=1692721273",
+      "website": "http://tomorrowcorporation.com/humanresourcemachine",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP or later<br></li><li><strong>Processor:</strong> 1.5Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports Shader Model 2.0 or greater<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.7 or later (Compatible with macOS Catalina)<br></li><li><strong>Processor:</strong> 1.5Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports OpenGL 2.1<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1.5Ghz CPU<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> graphics card that supports OpenGL 2.1<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "legal_notice": "© 2015 Experimental Gameplay Group, LLC",
+      "developers": [
+        "Tomorrow Corporation"
+      ],
+      "publishers": [
+        "Tomorrow Corporation"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        69478,
+        391388
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Human Resource Machine",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 69478,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Human Resource Machine - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            },
+            {
+              "packageid": 391388,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Human Resource Machine - Commercial License - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 78,
+        "url": "https://www.metacritic.com/game/pc/human-resource-machine?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_5de238ca62f67dc97c940bd6af61c03a4320c981.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_5de238ca62f67dc97c940bd6af61c03a4320c981.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_5b2cf252a11583639ba0eb958fa961e502e04de4.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_5b2cf252a11583639ba0eb958fa961e502e04de4.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_f4e8f9fb77175499ce1fd94866b6c25c96ba342b.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_f4e8f9fb77175499ce1fd94866b6c25c96ba342b.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_616cc4fd06f072e5610439bde791f54abc802e87.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_616cc4fd06f072e5610439bde791f54abc802e87.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_4a55aa15071a8ae58b2a90015dbb4e35ecaa8723.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_4a55aa15071a8ae58b2a90015dbb4e35ecaa8723.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_129cb0b640223063cdcbc2f20c4b4b9e0e5d071e.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_129cb0b640223063cdcbc2f20c4b4b9e0e5d071e.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_48cad8f74bae909b10040b543fc4f83f70374d5a.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_48cad8f74bae909b10040b543fc4f83f70374d5a.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_0f4b5c177fe87b0b3ad6eeb3106f5104146decb4.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_0f4b5c177fe87b0b3ad6eeb3106f5104146decb4.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_9c0e12dc1c43978bdbbb657bdf814b3e6eb623e9.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_9c0e12dc1c43978bdbbb657bdf814b3e6eb623e9.1920x1080.jpg?t=1692721273"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_eed19c65fcb61b9a1d211d0a2670e623c571ad23.600x338.jpg?t=1692721273",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/375820/ss_eed19c65fcb61b9a1d211d0a2670e623c571ad23.1920x1080.jpg?t=1692721273"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2039895,
+          "name": "Human Resource Machine Trailer #1",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2039895/movie.293x165.jpg?t=1519876287",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2039895/movie480.webm?t=1519876287",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2039895/movie_max.webm?t=1519876287"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2039895/movie480.mp4?t=1519876287",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2039895/movie_max.mp4?t=1519876287"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2715
+      },
+      "achievements": {
+        "total": 16,
+        "highlighted": [
+          {
+            "name": "Green Optimization Award",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/a525d10a52f2940d44a8e7630dae3ae11ed41569.jpg"
+          },
+          {
+            "name": "Blue Optimization Award",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/9e379e6fa702e5489919c5748ca5ef38d495ed5b.jpg"
+          },
+          {
+            "name": "Orange Optimization Award",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/53111058b68fff922d59e12ba6e7eb39a11b0b92.jpg"
+          },
+          {
+            "name": "Social Engineer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/1e9a7908c470bfbe9e46cab6112bda5b32936e6c.jpg"
+          },
+          {
+            "name": "Queen of Inefficiency",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/eecd407fdb136f864ea4ec94c13cf28796b05bbd.jpg"
+          },
+          {
+            "name": "King of Verbosity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/dcb7c814cba252950affde4450600c5d933fddf6.jpg"
+          },
+          {
+            "name": "Career Milestone 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/dd4bd5f1417ad3fd1db767686b11343715bc9989.jpg"
+          },
+          {
+            "name": "Career Milestone 2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/6ed1cdcf645d9bc1d00572f05f83c8745e642658.jpg"
+          },
+          {
+            "name": "Career Milestone 3",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/b8e02d8337b926d7c620c40127441fd3434fac5b.jpg"
+          },
+          {
+            "name": "Career Milestone 4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/375820/3d2ff8f09bf15c231883174f41dc866d58f3558c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 15, 2015"
+      },
+      "support_info": {
+        "url": "https://tomorrowcorporation.com/faq#HumanResourceMachine",
+        "email": "contact@tomorrowcorporation.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/375820/page_bg_generated_v6b.jpg?t=1692721273",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/375820/page.bg.jpg?t=1692721273",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

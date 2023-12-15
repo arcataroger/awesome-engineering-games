@@ -1,0 +1,255 @@
+{
+  "1355090": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "RAILGRADE",
+      "steam_appid": 1355090,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_TrainsIndustry.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_Build.gif?t=1701562013\" /><br>Construct intricate railway networks and use the power of trains to connect vital industries with the resources they require. Manage inputs and outputs to optimise production, and create efficient supply chains using multi-level tracks and a variety of unique engine types.<br>    • Customise your trains using different engines and freight types, with hundreds of unique engine and cargo combinations.<br>    • Create efficient supply chains by connecting industrial sources and placing dozens of busy trains on the map.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_Campaign.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_Campaign.gif?t=1701562013\" /><br>Combine strategic decision-making with creative construction in order to rebuild a thriving industrial colony. Succeed, and you might just impress your corporate overlords enough to be allowed back home to earth.<br>    • Help restore prosperity to an industrial colony across a single player campaign with over 50 missions.<br>    • Spend tokens awarded by each mission and use them to unlock new industries, upgrades and options.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_ResourceManagement.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_QuickBuild.gif?t=1701562013\" /><br>    • Use effortless construction tools to instantly build and manage a busy railway network packed by trains.<br>    • Optimise your train set-up and place tracks strategically to navigate challenging environmental terrain and create the most effective delivery route possible.<br>    • Control the flow of resource production through careful management of inputs and outputs. Watch out for bottlenecks to keep trains and their precious cargo moving.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_TrainRide.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_TrainRide.gif?t=1701562013\" /><br>    • Admire your fleet of trains with the cinematic view mode.<br>    • Challenge yourself in bonus side missions. Explore arid deserts in search of oil supplies, or develop a rocket launch program.<br>    • Show off your most impressive railway setups with a photo mode that includes a variety of filters and visual options.<br>    • Invest in the growth of your cities, or use zeppelins to export goods for extra profit.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_Roadmap.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_RoadMap.png?t=1701562013\" />",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_TrainsIndustry.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_Build.gif?t=1701562013\" /><br>Construct intricate railway networks and use the power of trains to connect vital industries with the resources they require. Manage inputs and outputs to optimise production, and create efficient supply chains using multi-level tracks and a variety of unique engine types.<br>    • Customise your trains using different engines and freight types, with hundreds of unique engine and cargo combinations.<br>    • Create efficient supply chains by connecting industrial sources and placing dozens of busy trains on the map.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_Campaign.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_Campaign.gif?t=1701562013\" /><br>Combine strategic decision-making with creative construction in order to rebuild a thriving industrial colony. Succeed, and you might just impress your corporate overlords enough to be allowed back home to earth.<br>    • Help restore prosperity to an industrial colony across a single player campaign with over 50 missions.<br>    • Spend tokens awarded by each mission and use them to unlock new industries, upgrades and options.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_ResourceManagement.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_QuickBuild.gif?t=1701562013\" /><br>    • Use effortless construction tools to instantly build and manage a busy railway network packed by trains.<br>    • Optimise your train set-up and place tracks strategically to navigate challenging environmental terrain and create the most effective delivery route possible.<br>    • Control the flow of resource production through careful management of inputs and outputs. Watch out for bottlenecks to keep trains and their precious cargo moving.<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_TrainRide.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_Store_TrainRide.gif?t=1701562013\" /><br>    • Admire your fleet of trains with the cinematic view mode.<br>    • Challenge yourself in bonus side missions. Explore arid deserts in search of oil supplies, or develop a rocket launch program.<br>    • Show off your most impressive railway setups with a photo mode that includes a variety of filters and visual options.<br>    • Invest in the growth of your cities, or use zeppelins to export goods for extra profit.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/RG_Header_Roadmap.png?t=1701562013\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1355090/extras/Railgrade_RoadMap.png?t=1701562013\" />",
+      "short_description": "RAILGRADE is a train resource management game! Construct dense vertical railroads, build cities, construct vast factory chains with train automation! Restore an off world colony's economy all in the story driven campaign!",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Traditional Chinese, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/header.jpg?t=1701562013",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/capsule_231x87.jpg?t=1701562013",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/capsule_184x69.jpg?t=1701562013",
+      "website": "http://railgrade.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Core i5 2.8 Ghz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GPU 4GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Core i5 2.8 Ghz or better<br></li><li><strong>Graphics:</strong> GPU 8GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Sonoma 14<br></li><li><strong>Processor:</strong> Intel x86_64<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Intel GPU<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Maybe<br></li><li><strong>Additional Notes:</strong> Ventura 13 may work for Intel Macs but crashes have been reported</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Sonoma 14<br></li><li><strong>Processor:</strong> M1 Arm<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Integrated M1 GPU<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>Additional Notes:</strong> Since CPU is not our performance bottleneck on the Mac, I'm shipping an intel binary for compatibility and since that is what I've managed to get compiling.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Minakata Dynamics"
+      ],
+      "publishers": [
+        "Minakata Dynamics",
+        "Gamera Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        474817
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy RAILGRADE",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 474817,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Railgrade - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 79,
+        "url": "https://www.metacritic.com/game/pc/railgrade?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_36668f1bf07ea9f8273f4964df30319087ff720e.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_36668f1bf07ea9f8273f4964df30319087ff720e.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_1ad3a5fc08190dd84eea97d1b3ec953c86b6bfc8.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_1ad3a5fc08190dd84eea97d1b3ec953c86b6bfc8.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_65a8bdeff81a4c5814cfae2a442766b0b30bdad9.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_65a8bdeff81a4c5814cfae2a442766b0b30bdad9.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_33f361caa401e70f9ecc9da954a8e358f9d791ef.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_33f361caa401e70f9ecc9da954a8e358f9d791ef.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_47fbe6f81c8363bb4d6ccba86268768ff02eb4fa.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_47fbe6f81c8363bb4d6ccba86268768ff02eb4fa.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_9207655b2fd38c48b74f8e6b004549fe17533adf.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_9207655b2fd38c48b74f8e6b004549fe17533adf.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_138602f94205d1616e82ef528856cfab061ceec0.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_138602f94205d1616e82ef528856cfab061ceec0.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_cec60b5e3537b25148dd3693010401fc9e1e7e03.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_cec60b5e3537b25148dd3693010401fc9e1e7e03.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_c13f02c51c2878fc41eb9084e6d108bf77a2885e.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_c13f02c51c2878fc41eb9084e6d108bf77a2885e.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_f3ae26fc6e3c30dc8dca738cd3b07d07493c7105.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_f3ae26fc6e3c30dc8dca738cd3b07d07493c7105.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_65ab4619eb0e4a3888276beea592ee70a4546de2.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_65ab4619eb0e4a3888276beea592ee70a4546de2.1920x1080.jpg?t=1701562013"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_5e8b92883d782762754b8ea29b22ab8833e724a0.600x338.jpg?t=1701562013",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/ss_5e8b92883d782762754b8ea29b22ab8833e724a0.1920x1080.jpg?t=1701562013"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256942353,
+          "name": "RAILGRADE Store Game Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942353/movie.293x165.jpg?t=1683305396",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942353/movie480_vp9.webm?t=1683305396",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942353/movie_max_vp9.webm?t=1683305396"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942353/movie480.mp4?t=1683305396",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942353/movie_max.mp4?t=1683305396"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 368
+      },
+      "achievements": {
+        "total": 37,
+        "highlighted": [
+          {
+            "name": "High Flier",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/8f18d69e4cf09ef351e28486a67ad92abd8cf24f.jpg"
+          },
+          {
+            "name": "Deertastic",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/ed3d971ca94c45d17343cf479e41d2e911a88cd2.jpg"
+          },
+          {
+            "name": "Going the Distance",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/64847c5324d16707b6cabf8ea06d262b1be88aed.jpg"
+          },
+          {
+            "name": "Eraser",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/1640d14425052923eceb58fa78a5b81fda799629.jpg"
+          },
+          {
+            "name": "Perfectionist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/3dd84e1929c8cfa4b91146ad2dbb73358873f76b.jpg"
+          },
+          {
+            "name": "Indecisive",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/0738370363c06e0485cf5aa009c128d7e0951bfc.jpg"
+          },
+          {
+            "name": "Multiverse",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/5f3f08a509ce90352ecbe686f3d77bf32e3bc877.jpg"
+          },
+          {
+            "name": "Simplification",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/f05a9ca9a1b9b36005de1895e36d753704118e40.jpg"
+          },
+          {
+            "name": "Minimalist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/5cf0547057926394feb3045b803ed0ef027d6904.jpg"
+          },
+          {
+            "name": "Trevithick's Legacy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1355090/77cb9299ba30540bc91b2b0ce2e48a806e9e35bf.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 13, 2023"
+      },
+      "support_info": {
+        "url": "http://railgrade.com/support/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/page_bg_generated_v6b.jpg?t=1701562013",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1355090/page.bg.jpg?t=1701562013",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

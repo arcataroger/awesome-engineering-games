@@ -1,0 +1,255 @@
+{
+  "367450": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Poly Bridge",
+      "steam_appid": 367450,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        447410
+      ],
+      "detailed_description": "<h1>Workshop</h1><p>Discover <strong>thousands </strong>of additional levels made by other players, and if you're feeling creative design your own level in the Sandbox and submit it for other players to solve!</p><br><h1>About the Game</h1>Unleash your engineering creativity with an engaging and fresh <strong>bridge-building</strong> simulator with all the bells and whistles.<br>Enjoy hours of physics-based puzzle solving in the  <strong>Campaign</strong> and then jump in the <strong>Sandbox</strong> to create your own bridge designs and puzzles.<br>Challenge friends and the rest of the Steam Workshop community to solve your puzzles and <strong>download more levels</strong> submitted by other players.<h2 class=\"bb_tag\">Check out the Online Gallery at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgallery.drycactus.com\" target=\"_blank\" rel=\" noopener\"  >http://gallery.drycactus.com</a> !</h2><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-campaign.png?t=1567634023\" /><br>Enjoy hours of bridge-building fun with loads of levels to solve, ranging from simple light car bridges to multi-deck draw-bridges and jumps, just to name a few!<br>Levels get increasingly challenging from the engineering aspect and restrictions are also imposed on the resources you can use to build your bridge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-sandbox.png?t=1567634023\" /><br>What would an awesome bridge-builder game be without an equally awesome Sandbox?<br>Go wild and create the most complex bridge the world has ever seen, or just an absurd creation that pushes the mechanics of the game in a new direction, and if you're feeling like it publish your design online as a puzzle level on the Workshop for everyone to try and solve!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-workshop.png?t=1567634023\" /><br>Download hundreds of extra levels from the Workshop!<br>We'll also be featuring the most original and fun bridge designs that are submitted, making it easier for you to find the ones that are worth the challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-gallery.png?t=1567634023\" /><br>One of our favorite features of the game!<br>Save a super cool looking animated GIF of your bridge in all its glory (or failure!) and save it locally, upload it to the Poly Bridge Online Gallery and/or share it Twitter, Facebook, Reddit or Tumblr without ever leaving the game!<br>Check out the Online Gallery at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgallery.drycactus.com\" target=\"_blank\" rel=\" noopener\"  >http://gallery.drycactus.com</a> !<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-advanced.png?t=1567634023\" /><br>Unleash your true engineer using the advanced building and level designing tools in-game, such as:<br><br><ul class=\"bb_ul\"><li> Advanced Hydraulics<br></li><li> Multi-phase Hydraulics Controller (control which hydraulic piston activates when)<br></li><li> Node-base event system<br></li><li> Multiple types of checkpoints<br></li><li> Copy &amp; Paste tools<br></li><li> Line Tracer tools (draw perfect arcs or straight lines and fill them in with your material of choice)<br></li><li> And much more...</li></ul>",
+      "about_the_game": "Unleash your engineering creativity with an engaging and fresh <strong>bridge-building</strong> simulator with all the bells and whistles.<br>Enjoy hours of physics-based puzzle solving in the  <strong>Campaign</strong> and then jump in the <strong>Sandbox</strong> to create your own bridge designs and puzzles.<br>Challenge friends and the rest of the Steam Workshop community to solve your puzzles and <strong>download more levels</strong> submitted by other players.<h2 class=\"bb_tag\">Check out the Online Gallery at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgallery.drycactus.com\" target=\"_blank\" rel=\" noopener\"  >http://gallery.drycactus.com</a> !</h2><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-campaign.png?t=1567634023\" /><br>Enjoy hours of bridge-building fun with loads of levels to solve, ranging from simple light car bridges to multi-deck draw-bridges and jumps, just to name a few!<br>Levels get increasingly challenging from the engineering aspect and restrictions are also imposed on the resources you can use to build your bridge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-sandbox.png?t=1567634023\" /><br>What would an awesome bridge-builder game be without an equally awesome Sandbox?<br>Go wild and create the most complex bridge the world has ever seen, or just an absurd creation that pushes the mechanics of the game in a new direction, and if you're feeling like it publish your design online as a puzzle level on the Workshop for everyone to try and solve!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-workshop.png?t=1567634023\" /><br>Download hundreds of extra levels from the Workshop!<br>We'll also be featuring the most original and fun bridge designs that are submitted, making it easier for you to find the ones that are worth the challenge.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-gallery.png?t=1567634023\" /><br>One of our favorite features of the game!<br>Save a super cool looking animated GIF of your bridge in all its glory (or failure!) and save it locally, upload it to the Poly Bridge Online Gallery and/or share it Twitter, Facebook, Reddit or Tumblr without ever leaving the game!<br>Check out the Online Gallery at <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgallery.drycactus.com\" target=\"_blank\" rel=\" noopener\"  >http://gallery.drycactus.com</a> !<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/367450/extras/header-advanced.png?t=1567634023\" /><br>Unleash your true engineer using the advanced building and level designing tools in-game, such as:<br><br><ul class=\"bb_ul\"><li> Advanced Hydraulics<br></li><li> Multi-phase Hydraulics Controller (control which hydraulic piston activates when)<br></li><li> Node-base event system<br></li><li> Multiple types of checkpoints<br></li><li> Copy &amp; Paste tools<br></li><li> Line Tracer tools (draw perfect arcs or straight lines and fill them in with your material of choice)<br></li><li> And much more...</li></ul>",
+      "short_description": "Unleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles. Enjoy hours of physics-based puzzle solving in the Campaign and then jump in the Sandbox to create your own bridge designs and puzzles!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/367450/header.jpg?t=1567634023",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/367450/capsule_231x87.jpg?t=1567634023",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/367450/capsule_184x69.jpg?t=1567634023",
+      "website": "http://www.drycactus.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512Mb<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512Mb<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.3<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512Mb<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+      },
+      "legal_notice": "Copyright 2015 Dry Cactus Limited",
+      "developers": [
+        "Dry Cactus"
+      ],
+      "publishers": [
+        "Dry Cactus"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        66595,
+        97022
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Poly Bridge",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 66595,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Poly Bridge - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 97022,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Poly Bridge Deluxe Edition - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 73,
+        "url": "https://www.metacritic.com/game/pc/poly-bridge?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_b3dce890393c16349a1af732e27637ca265d5f82.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_b3dce890393c16349a1af732e27637ca265d5f82.1920x1080.jpg?t=1567634023"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_41be75d110af3553a634db07d3d670c175e3a86f.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_41be75d110af3553a634db07d3d670c175e3a86f.1920x1080.jpg?t=1567634023"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_dbb885ba96575538c64e21e9d53cf321c07b237c.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_dbb885ba96575538c64e21e9d53cf321c07b237c.1920x1080.jpg?t=1567634023"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_86ffa5d4abbcf063547a3a6aeee61dcc6e701624.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_86ffa5d4abbcf063547a3a6aeee61dcc6e701624.1920x1080.jpg?t=1567634023"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_54c237cd4a018028fbb97742ac0c012da46b4f24.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_54c237cd4a018028fbb97742ac0c012da46b4f24.1920x1080.jpg?t=1567634023"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_aabb845a9d8c0106d7cdbf45cea94626662e59a8.600x338.jpg?t=1567634023",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/367450/ss_aabb845a9d8c0106d7cdbf45cea94626662e59a8.1920x1080.jpg?t=1567634023"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256666608,
+          "name": "Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256666608/movie.293x165.jpg?t=1468342261",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256666608/movie480.webm?t=1468342261",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256666608/movie_max.webm?t=1468342261"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256666608/movie480.mp4?t=1468342261",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256666608/movie_max.mp4?t=1468342261"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 14763
+      },
+      "achievements": {
+        "total": 22,
+        "highlighted": [
+          {
+            "name": "Tutorial Completed",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/3263bf1fd114fe1a6ece19c9c2f0e5b6b79162a2.jpg"
+          },
+          {
+            "name": "Completed Alpine Meadows",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/36b69427cd0fdc61bf7fd613306035b022317e63.jpg"
+          },
+          {
+            "name": "Completed Alpine Meadows Under Budget ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/a31c946d13db6bfb6e8fd2ae2fba6eb9f16acabe.jpg"
+          },
+          {
+            "name": "Completed Desert Winds",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/bd263b7054c41a75e07bcf125f1ad16dca90a194.jpg"
+          },
+          {
+            "name": "Completed Desert Winds Under Budget",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/ca1c41245982807e5bc79c92561dc4293cb39031.jpg"
+          },
+          {
+            "name": "Completed Ancient Ruins",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/3369e4ab24a91b02f16d18c088bf0548edccc7ef.jpg"
+          },
+          {
+            "name": "Completed Ancient Ruins Under Budget",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/899e51d0af8b5fa00b5cc54b39061b76b3c9e73d.jpg"
+          },
+          {
+            "name": "Completed Fun Land",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/7c906747cc67e955ed91f572ac903fed0a5c1ad3.jpg"
+          },
+          {
+            "name": "Completed Fun Land Under Budget",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/25cb0ddf46c5349a5adb6f0ad7d0777c0fcc510b.jpg"
+          },
+          {
+            "name": "Completed Snow Drift",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/367450/30d1b32505aaf0566d89a438f2cec6a46b17655c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 12, 2016"
+      },
+      "support_info": {
+        "url": "http://polybridge.drycactus.com",
+        "email": "support@drycactus.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/367450/page_bg_generated_v6b.jpg?t=1567634023",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/367450/page.bg.jpg?t=1567634023",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

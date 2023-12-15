@@ -1,0 +1,228 @@
+{
+  "300570": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Infinifactory",
+      "steam_appid": 300570,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Infinifactory is a sandbox puzzle game by Zachtronics, the creators of SpaceChem and Infiniminer. Build factories that assemble products for your alien overlords, and try not to die in the process.<br><br><ul class=\"bb_ul\"><li><strong>LIKE SPACECHEM… IN 3D!</strong> Design and run factories in a first-person, fully 3D environment.<br></li><li><strong>HISTOGRAMS ARE BACK!</strong> Optimize your solutions, and then optimize them more when you see how much better your friends did.<br></li><li><strong>VISIT EXOTIC ALIEN LOCALES!</strong> Explore a story-driven campaign with 50+ puzzles, audio logs, and more.<br></li><li><strong>BLOCKS THAT MOVE!</strong> Go beyond the campaign and push the limits of Infinifactory’s next-generation block engine in the sandbox.<br></li><li><strong>STEAM WORKSHOP INTEGRATION!</strong> Create, share, and play custom puzzles on Steam Workshop.</li></ul>",
+      "about_the_game": "Infinifactory is a sandbox puzzle game by Zachtronics, the creators of SpaceChem and Infiniminer. Build factories that assemble products for your alien overlords, and try not to die in the process.<br><br><ul class=\"bb_ul\"><li><strong>LIKE SPACECHEM… IN 3D!</strong> Design and run factories in a first-person, fully 3D environment.<br></li><li><strong>HISTOGRAMS ARE BACK!</strong> Optimize your solutions, and then optimize them more when you see how much better your friends did.<br></li><li><strong>VISIT EXOTIC ALIEN LOCALES!</strong> Explore a story-driven campaign with 50+ puzzles, audio logs, and more.<br></li><li><strong>BLOCKS THAT MOVE!</strong> Go beyond the campaign and push the limits of Infinifactory’s next-generation block engine in the sandbox.<br></li><li><strong>STEAM WORKSHOP INTEGRATION!</strong> Create, share, and play custom puzzles on Steam Workshop.</li></ul>",
+      "short_description": "Infinifactory is a sandbox puzzle game by Zachtronics, the creators of SpaceChem and Infiniminer. Build factories that assemble products for your alien overlords, and try not to die in the process.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/300570/header.jpg?t=1667071348",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/300570/capsule_231x87.jpg?t=1667071348",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/300570/capsule_184x69.jpg?t=1667071348",
+      "website": "http://www.zachtronics.com/infinifactory",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9, or later<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        43884
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Infinifactory",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 43884,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Infinifactory - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_e257d63329fbb08768f4a8fb76195ad87bd1dadc.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_e257d63329fbb08768f4a8fb76195ad87bd1dadc.1920x1080.jpg?t=1667071348"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_b5dc8cd012171e5b404e9c52cb5cd5eaafe41a8f.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_b5dc8cd012171e5b404e9c52cb5cd5eaafe41a8f.1920x1080.jpg?t=1667071348"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_e477241165b9a935bfab05ae7e77b3924a0adc73.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_e477241165b9a935bfab05ae7e77b3924a0adc73.1920x1080.jpg?t=1667071348"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_213e50c3411ccfd63f06cee22622b3d941891f4d.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_213e50c3411ccfd63f06cee22622b3d941891f4d.1920x1080.jpg?t=1667071348"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_168e1e054b06864fd4c05b64e74ed259ca0c5283.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_168e1e054b06864fd4c05b64e74ed259ca0c5283.1920x1080.jpg?t=1667071348"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_f960841bef298eb3beaf97dc75d03de646df688b.600x338.jpg?t=1667071348",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/300570/ss_f960841bef298eb3beaf97dc75d03de646df688b.1920x1080.jpg?t=1667071348"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2036692,
+          "name": "Infinifactory Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2036692/movie.293x165.jpg?t=1447367828",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2036692/movie480.webm?t=1447367828",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2036692/movie_max.webm?t=1447367828"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2036692/movie480.mp4?t=1447367828",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2036692/movie_max.mp4?t=1447367828"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1670
+      },
+      "achievements": {
+        "total": 22,
+        "highlighted": [
+          {
+            "name": "Job Security",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/d00c98175ac89476111c809f66c62721ae0620a8.jpg"
+          },
+          {
+            "name": "Save the Whales",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/23b1125362d4ea76cc24259c10cf0cb034f7aa4f.jpg"
+          },
+          {
+            "name": "Lemming Party",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/7fa6c31afc36586acbf1aa2044fda2ce3e74973b.jpg"
+          },
+          {
+            "name": "Subversive Engineering",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/40edc163d28791f19ef8a3054d588e15b4b0e3eb.jpg"
+          },
+          {
+            "name": "Flat-pack Factory",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/fe502dbe54501c362e0d9f2d8950a45194516af2.jpg"
+          },
+          {
+            "name": "Optimization (Training Routine 1)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/e4e7a979198c8d0d2659ebd6aa7163f5a4098008.jpg"
+          },
+          {
+            "name": "Optimization (Training Routine 5)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/2ee2d07c1ebe56549f26d8e8775a3c97414b2a14.jpg"
+          },
+          {
+            "name": "Optimization (Wave Detection Array)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/2a1f4cc451f8a8e9708b3879da813983cd93ae03.jpg"
+          },
+          {
+            "name": "Optimization (Guided Javelin Type 1)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/7721a8923e61d5463800f2033d8fc6f4882d9804.jpg"
+          },
+          {
+            "name": "Optimization (Small Excavator)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300570/f2d45f8691d62ef43e549b5a0c15c0af83c13b59.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 30, 2015"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/300570/page_bg_generated_v6b.jpg?t=1667071348",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/300570/page.bg.jpg?t=1667071348",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

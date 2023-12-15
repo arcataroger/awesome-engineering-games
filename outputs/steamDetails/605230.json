@@ -1,0 +1,214 @@
+{
+  "605230": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Grey Hack",
+      "steam_appid": 605230,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Language Packs</h1><p><a href=\"https://steamcommunity.com/workshop/browse/?appid=605230\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/605230/extras/translations_comm.jpg?t=1700106172\" /></a></p><br><h1>About the Game</h1>Grey Hack is a massively multiplayer hacking simulator game.<br><br>You're a hacker with full freedom to act as you wish on a vast network of procedurally generated computers.<br><br>File Explorer, Terminal and Text Editor are some of the programs that will be available from the start of the game. As you improve your skills you will find new utilities that you may install and use.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/605230/extras/anim01c.gif?t=1700106172\" /><h2 class=\"bb_tag\">A living persistent world</h2>Explore the Grey Hack universe and forge your own reputation in a world shared by all players. When you leave the game, <strong>the online universe remains actively running 24/7</strong>.<br><br>This always active game session means that the changes you have made in any computer in the world can be seen by players who connect to them even if you are no longer online. Your progress will be saved, but your actions may have consequences.<h2 class=\"bb_tag\">Plan your attacks</h2>Each network in the world has a totally different configuration, size and security, also using a dynamic and deep exploit system so that each network and computer poses a different challenge. Study your target; use social engineering, scan the system for administrator flaws that allow a backdoor to be opened, test different possible exploits, but above all, cover your tracks when you're done.<h2 class=\"bb_tag\">Create, modify, share</h2>The terminal has a fundamental role, based on real UNIX commands; it is an indispensable tool for carrying out successful attacks.<br><br>Terminal commands and exploits have been built using the scripting language available in the game, this means that you can modify any existing command or create your own if you wish. In the same way you can create your own exploits if the ones that are already available in the world do not satisfy your needs.<h2 class=\"bb_tag\">Sandbox</h2>Grey Hack offers a non-linear experience where you progress at your own pace. Publish web pages to share your creations, create guilds and organize attacks against other players, carry out commissioned missions to earn money and reputation, or explore the world on your own where special missions and other secrets are hidden.<h2 class=\"bb_tag\">Single Player Mode</h2>Grey Hack is intended to be played in Multiplayer Mode, benefiting from the richer environment of an always-online universe, but the game also offers a single player mode for those so inclined. In Single Player mode, you play in a world created on your computer. Unlike Online Mode, when you exit the game in Single Player, the in-game universe stops, and progress resumes only upon your return.<h2 class=\"bb_tag\">Roadmap</h2>Grey Hack is in the Alpha phase version 0.7. You can check the <a href=\"https://steamcommunity.com/app/605230/discussions/1/2561864094342538308/\" target=\"_blank\" rel=\"\"  >Roadmap here</a>. I am open for suggestions. If there is any feature you would like to see in the game, do not hesitate to let me know through the Steam forums or the official <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fgreyhack\" target=\"_blank\" rel=\" noopener\"  >Discord server</a>.",
+      "about_the_game": "Grey Hack is a massively multiplayer hacking simulator game.<br><br>You're a hacker with full freedom to act as you wish on a vast network of procedurally generated computers.<br><br>File Explorer, Terminal and Text Editor are some of the programs that will be available from the start of the game. As you improve your skills you will find new utilities that you may install and use.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/605230/extras/anim01c.gif?t=1700106172\" /><h2 class=\"bb_tag\">A living persistent world</h2>Explore the Grey Hack universe and forge your own reputation in a world shared by all players. When you leave the game, <strong>the online universe remains actively running 24/7</strong>.<br><br>This always active game session means that the changes you have made in any computer in the world can be seen by players who connect to them even if you are no longer online. Your progress will be saved, but your actions may have consequences.<h2 class=\"bb_tag\">Plan your attacks</h2>Each network in the world has a totally different configuration, size and security, also using a dynamic and deep exploit system so that each network and computer poses a different challenge. Study your target; use social engineering, scan the system for administrator flaws that allow a backdoor to be opened, test different possible exploits, but above all, cover your tracks when you're done.<h2 class=\"bb_tag\">Create, modify, share</h2>The terminal has a fundamental role, based on real UNIX commands; it is an indispensable tool for carrying out successful attacks.<br><br>Terminal commands and exploits have been built using the scripting language available in the game, this means that you can modify any existing command or create your own if you wish. In the same way you can create your own exploits if the ones that are already available in the world do not satisfy your needs.<h2 class=\"bb_tag\">Sandbox</h2>Grey Hack offers a non-linear experience where you progress at your own pace. Publish web pages to share your creations, create guilds and organize attacks against other players, carry out commissioned missions to earn money and reputation, or explore the world on your own where special missions and other secrets are hidden.<h2 class=\"bb_tag\">Single Player Mode</h2>Grey Hack is intended to be played in Multiplayer Mode, benefiting from the richer environment of an always-online universe, but the game also offers a single player mode for those so inclined. In Single Player mode, you play in a world created on your computer. Unlike Online Mode, when you exit the game in Single Player, the in-game universe stops, and progress resumes only upon your return.<h2 class=\"bb_tag\">Roadmap</h2>Grey Hack is in the Alpha phase version 0.7. You can check the <a href=\"https://steamcommunity.com/app/605230/discussions/1/2561864094342538308/\" target=\"_blank\" rel=\"\"  >Roadmap here</a>. I am open for suggestions. If there is any feature you would like to see in the game, do not hesitate to let me know through the Steam forums or the official <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fgreyhack\" target=\"_blank\" rel=\" noopener\"  >Discord server</a>.",
+      "short_description": "Grey Hack is a massively multiplayer hacking simulator game. You're a hacker with full freedom to act as you wish on a vast network of procedurally generated computers.",
+      "supported_languages": "English, Spanish - Spain",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/605230/header.jpg?t=1700106172",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/605230/capsule_231x87.jpg?t=1700106172",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/605230/capsule_184x69.jpg?t=1700106172",
+      "website": "https://greyhackgame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10, Windows 11<br></li><li><strong>Processor:</strong> SSE2 instruction set support<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable GPU<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> High Sierra 10.13+<br></li><li><strong>Processor:</strong> x64 architecture with SSE2<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Metal capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong> 560 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 18.04, Ubuntu 20.04 and CentOS 7<br></li><li><strong>Processor:</strong> x64 architecture with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+, Vulkan capable<br></li><li><strong>Storage:</strong> 545 MB available space</li></ul>"
+      },
+      "developers": [
+        "Loading Home"
+      ],
+      "publishers": [
+        "Loading Home"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        159542
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Grey Hack",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 159542,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Grey Hack - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 20,
+          "description": "MMO"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "29",
+          "description": "Massively Multiplayer"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_642ed690bb031beb688be1dc5d37174d79c89065.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_642ed690bb031beb688be1dc5d37174d79c89065.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_38c356d35aa72a3dbfdbf6ffe1d6f001eec1e1cc.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_38c356d35aa72a3dbfdbf6ffe1d6f001eec1e1cc.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_d401a0163ac0d5e42cff330829230c21f97308b8.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_d401a0163ac0d5e42cff330829230c21f97308b8.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_7d90c7f76c67a713cfa9f157d61b772f4d178cba.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_7d90c7f76c67a713cfa9f157d61b772f4d178cba.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_5b629c403a2ccd05b933b82eb1d7ceffce21c21d.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_5b629c403a2ccd05b933b82eb1d7ceffce21c21d.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_30262fb9a7a9bb57386edb1c165a34d6c21a5f59.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_30262fb9a7a9bb57386edb1c165a34d6c21a5f59.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_f782af2351b789f34190d30dd94fad1b2cbb43a9.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_f782af2351b789f34190d30dd94fad1b2cbb43a9.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_3fa81aa80455b07136c915a53dca57074ced09d8.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_3fa81aa80455b07136c915a53dca57074ced09d8.1920x1080.jpg?t=1700106172"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_3db21f95e353b43470013d9ab751955933ae7b20.600x338.jpg?t=1700106172",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/605230/ss_3db21f95e353b43470013d9ab751955933ae7b20.1920x1080.jpg?t=1700106172"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256738332,
+          "name": "Trailer Gameplay 2.0",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256738332/movie.293x165.jpg?t=1544746970",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256738332/movie480.webm?t=1544746970",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256738332/movie_max.webm?t=1544746970"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256738332/movie480.mp4?t=1544746970",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256738332/movie_max.mp4?t=1544746970"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1125
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 14, 2017"
+      },
+      "support_info": {
+        "url": "",
+        "email": "greyhack@loadinghome.net"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/605230/page_bg_generated_v6b.jpg?t=1700106172",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/605230/page_bg_generated.jpg?t=1700106172",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

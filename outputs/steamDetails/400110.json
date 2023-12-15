@@ -1,0 +1,224 @@
+{
+  "400110": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Else Heart.Break()",
+      "steam_appid": 400110,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<i>Sebastian has just landed his first job in the distant city of Dorisburg. He moves there to start his adult life and figure out who he really wants to be. Among a strange collection of people, hackers and activists he finds some true friends – perhaps even love. But can they stop the terrible deeds of the people ruling the city? And who will get their heart broken in the end?</i><br><br>Else Heart.Break() is a reimagination of the adventure game – a fantastic story set in a fully dynamic and interactive world. Instead of rigid puzzles you will learn (with the help from other characters in the game) how the reality of the game can be changed through programming and how any problem can be solved in whatever way you find suitable.<br><br>From the creators of Blueberry Garden, Clairvoyance and Kometen, a new and unforgettable adventure!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> An expansive 3D world, begging to be explored.<br></li><li> Many hours of engaging story, set in a meticulously simulated city, with people that feel truly alive.<br></li><li> A challenging game where your actions matter and nothing can ever be unsaid or undone.<br></li><li> Tons of every-day objects and computers that work and can be modified.<br></li><li> A laid-back experience where you can just go to the café and have a coffee whenever things get too hectic.<br></li><li> A delicious soundtrack with over 50 songs.<br></li><li> No previous hacking skills required.</li></ul>",
+      "about_the_game": "<i>Sebastian has just landed his first job in the distant city of Dorisburg. He moves there to start his adult life and figure out who he really wants to be. Among a strange collection of people, hackers and activists he finds some true friends – perhaps even love. But can they stop the terrible deeds of the people ruling the city? And who will get their heart broken in the end?</i><br><br>Else Heart.Break() is a reimagination of the adventure game – a fantastic story set in a fully dynamic and interactive world. Instead of rigid puzzles you will learn (with the help from other characters in the game) how the reality of the game can be changed through programming and how any problem can be solved in whatever way you find suitable.<br><br>From the creators of Blueberry Garden, Clairvoyance and Kometen, a new and unforgettable adventure!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> An expansive 3D world, begging to be explored.<br></li><li> Many hours of engaging story, set in a meticulously simulated city, with people that feel truly alive.<br></li><li> A challenging game where your actions matter and nothing can ever be unsaid or undone.<br></li><li> Tons of every-day objects and computers that work and can be modified.<br></li><li> A laid-back experience where you can just go to the café and have a coffee whenever things get too hectic.<br></li><li> A delicious soundtrack with over 50 songs.<br></li><li> No previous hacking skills required.</li></ul>",
+      "short_description": "A game about friendship, love and technology in a place where bits have replaced atoms.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/400110/header.jpg?t=1610473048",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/400110/capsule_231x87.jpg?t=1610473048",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/400110/capsule_184x69.jpg?t=1610473048",
+      "website": "http://elseheartbreak.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7<br></li><li><strong>Processor:</strong> Intel Core i3 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 650M or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10<br></li><li><strong>Processor:</strong> Intel Core i3 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 650M or equivalent<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14<br></li><li><strong>Processor:</strong> Intel Core i3 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 650M or equivalent<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>"
+      },
+      "developers": [
+        "Erik Svedäng",
+        "El Huervo / Niklas Åkerblad",
+        "Tobias Sjögren",
+        "Oscar \"Ratvader\" Rydelius",
+        "Johannes Gotlén"
+      ],
+      "publishers": [
+        "Erik Svedäng AB"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        77567
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Else Heart.Break()",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 77567,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Else Heart.Break() - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 79,
+        "url": "https://www.metacritic.com/game/pc/else-heartbreak()?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_7715564c64b83df838496f4196da6050cc09d8af.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_7715564c64b83df838496f4196da6050cc09d8af.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_a649babaa023226657b3a74a7dc8d8fabd9056cb.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_a649babaa023226657b3a74a7dc8d8fabd9056cb.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_da8ea9f75d13495301eb99862526069aaa2b76dd.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_da8ea9f75d13495301eb99862526069aaa2b76dd.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_102f73de3ab9bb3c06818ebf44a6bc5442b3daa8.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_102f73de3ab9bb3c06818ebf44a6bc5442b3daa8.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_9a7152e9f1a864b49ceac62ba468b7beb7c6d49e.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_9a7152e9f1a864b49ceac62ba468b7beb7c6d49e.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_82dbf038954fc0b7b8be389ad64f08dc95bbab54.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_82dbf038954fc0b7b8be389ad64f08dc95bbab54.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_8c876323cbcd1643fd16f10760ca2652b1f9be98.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_8c876323cbcd1643fd16f10760ca2652b1f9be98.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_e1ece7f537c3f060af26c2c7db0a1df897eec496.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_e1ece7f537c3f060af26c2c7db0a1df897eec496.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_fbe50f9bff0e2c3b97091444a38bb264a0a5907d.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_fbe50f9bff0e2c3b97091444a38bb264a0a5907d.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0c6997762259e92eabb2d7d996d7b4a176f11aa2.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0c6997762259e92eabb2d7d996d7b4a176f11aa2.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_62f3824cb49f00f9bb902c1c9b7180837380072b.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_62f3824cb49f00f9bb902c1c9b7180837380072b.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_5baabe8cf66cb306e88efe134ebcc86e57251324.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_5baabe8cf66cb306e88efe134ebcc86e57251324.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0af0428e4e4f0c665f08b50d2b8491f3f1c37e84.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0af0428e4e4f0c665f08b50d2b8491f3f1c37e84.1920x1080.jpg?t=1610473048"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0af0428e4e4f0c665f08b50d2b8491f3f1c37e84.600x338.jpg?t=1610473048",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/400110/ss_0af0428e4e4f0c665f08b50d2b8491f3f1c37e84.1920x1080.jpg?t=1610473048"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256656164,
+          "name": "Official Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256656164/movie.293x165.jpg?t=1447377853",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656164/movie480.webm?t=1447377853",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656164/movie_max.webm?t=1447377853"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656164/movie480.mp4?t=1447377853",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656164/movie_max.mp4?t=1447377853"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256656168,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256656168/movie.293x165.jpg?t=1447377854",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656168/movie480.webm?t=1447377854",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656168/movie_max.webm?t=1447377854"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656168/movie480.mp4?t=1447377854",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656168/movie_max.mp4?t=1447377854"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 288
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 24, 2015"
+      },
+      "support_info": {
+        "url": "http://elseheartbreak.com/support.html",
+        "email": "support@elseheartbreak.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/400110/page_bg_generated_v6b.jpg?t=1610473048",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/400110/page.bg.jpg?t=1610473048",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

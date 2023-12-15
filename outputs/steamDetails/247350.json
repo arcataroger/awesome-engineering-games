@@ -1,0 +1,232 @@
+{
+  "247350": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Artemis Spaceship Bridge Simulator",
+      "steam_appid": 247350,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Just Updated</h1><p>Version 2.7.0 is now available!  Updated monsters, new torpedo types, and many upgrades and changes!</p><br><h1>About the Game</h1>Artemis is designed for anyone who watched Star Trek and dreamed of what it would be like to sit on the bridge of a star ship. <br><br>Artemis simulates a spaceship bridge by networking several computers together.<strong> You cannot play Artemis single-player!</strong>  One computer runs the simulation and the &quot;main screen&quot;, while the others serve as workstations for the normal jobs a bridge officer might do, like Helm, Communication, Engineering, and Weapon Control. <br><br>Artemis is a social game where several players are together in one room (&quot;bridge&quot;) , and while they all work together, one player plays the Captain, a person who sits in the middle, doesn't have a workstation, and tells everyone what to do.",
+      "about_the_game": "Artemis is designed for anyone who watched Star Trek and dreamed of what it would be like to sit on the bridge of a star ship. <br><br>Artemis simulates a spaceship bridge by networking several computers together.<strong> You cannot play Artemis single-player!</strong>  One computer runs the simulation and the &quot;main screen&quot;, while the others serve as workstations for the normal jobs a bridge officer might do, like Helm, Communication, Engineering, and Weapon Control. <br><br>Artemis is a social game where several players are together in one room (&quot;bridge&quot;) , and while they all work together, one player plays the Captain, a person who sits in the middle, doesn't have a workstation, and tells everyone what to do.",
+      "short_description": "Artemis is designed for anyone who watched Star Trek and dreamed of what it would be like to sit on the bridge of a star ship. Artemis simulates a spaceship bridge by networking several computers together. You cannot play Artemis single-player!",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“Artemis isn’t an official Star Trek game, but it is the Star Trek game you’ve always dreamed of.”<br><a href=\"http://www.pcgamer.com/2011/10/27/all-hands-on-desk-pcg-plays-the-best-star-trek-game-youve-never-heard-of-artemis-spaceship-bridge-simulator/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“Artemis Spaceship Bridge Simulator is ridiculously good fun.”<br><a href=\"http://www.wired.co.uk/news/archive/2010-11/10/artemis-spaceship-bridge-simulator\" target=\"_blank\" rel=\"\"  >Wired</a><br><br>“It's aim is to better simulate a Star Trek type bridge environment by allowing up to six players to network six separate computers together, although the game does support an online network.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.giantbomb.com%2Fartemis-spaceship-bridge-simulator%2F3030-37304%2F\" target=\"_blank\" rel=\" noopener\"  >Giant Bomb</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/247350/header.jpg?t=1518791376",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/247350/capsule_231x87.jpg?t=1518791376",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/247350/capsule_184x69.jpg?t=1518791376",
+      "website": "http://artemisspaceshipbridge.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "publishers": [
+        ""
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        29600,
+        31847
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Artemis Spaceship Bridge Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 29600,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Artemis Spaceship Bridge Simulator - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            },
+            {
+              "packageid": 31847,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Artemis Spaceship Bridge Simulator 6-Pack - $34.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_6bbff82d9a9281d2a689d917a8eab66a76f4beed.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_6bbff82d9a9281d2a689d917a8eab66a76f4beed.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_db07136525df188788b20f5e3d0d4c48d7167643.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_db07136525df188788b20f5e3d0d4c48d7167643.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_2428febaa022b1bba341b60003d93cdddb84d9b3.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_2428febaa022b1bba341b60003d93cdddb84d9b3.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_8fe2de56a41a96e26b146ad7b099e52ad223d24a.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_8fe2de56a41a96e26b146ad7b099e52ad223d24a.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_945ecdea194cd4eeda58d0a55ddf6feeaa0396a7.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_945ecdea194cd4eeda58d0a55ddf6feeaa0396a7.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_38736eda0773cac710bec58fb292006989c21cb0.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_38736eda0773cac710bec58fb292006989c21cb0.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_531da8410cec394ac67cae5ffd34c548878a8758.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_531da8410cec394ac67cae5ffd34c548878a8758.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_8da1d7207eb3f8db717eb0467f5d3daca860a23d.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_8da1d7207eb3f8db717eb0467f5d3daca860a23d.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_c8387f2821e9f0934ee16daf9f9ef199cd2c7ff1.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_c8387f2821e9f0934ee16daf9f9ef199cd2c7ff1.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_33ab658ab1ccf98291913b07de6b01c3a60543b2.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_33ab658ab1ccf98291913b07de6b01c3a60543b2.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_ca2f53a6ab87750c19f1277322afcd70173ed233.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_ca2f53a6ab87750c19f1277322afcd70173ed233.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_c8e267668cbd67a06e07fa46ba5ba2f3075efd83.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_c8e267668cbd67a06e07fa46ba5ba2f3075efd83.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_4b00adde4e11605e0faad38aa6c6d6e83545bb74.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_4b00adde4e11605e0faad38aa6c6d6e83545bb74.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_16d99ff9a6a14677d41b1f51a762f460548e940f.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_16d99ff9a6a14677d41b1f51a762f460548e940f.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_dc7dab352ea4613349d21d2517e82434a43d9c3c.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_dc7dab352ea4613349d21d2517e82434a43d9c3c.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_3fa4698c153f532fc8b7b73b3c4b0445a55afb3b.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_3fa4698c153f532fc8b7b73b3c4b0445a55afb3b.1920x1080.jpg?t=1518791376"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_de91c71921ee2b87ca5e29a9ca09c3926ff40bb4.600x338.jpg?t=1518791376",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/247350/ss_de91c71921ee2b87ca5e29a9ca09c3926ff40bb4.1920x1080.jpg?t=1518791376"
+        }
+      ],
+      "movies": [
+        {
+          "id": 2029323,
+          "name": "Artemis crew saving the sector",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2029323/movie.293x165.jpg?t=1447358789",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2029323/movie480.webm?t=1447358789",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2029323/movie_max.webm?t=1447358789"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2029323/movie480.mp4?t=1447358789",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2029323/movie_max.mp4?t=1447358789"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 295
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 16, 2013"
+      },
+      "support_info": {
+        "url": "",
+        "email": "artemissbs@gmail.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/247350/page_bg_generated_v6b.jpg?t=1518791376",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/247350/page.bg.jpg?t=1518791376",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "268650": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "From the Depths",
+      "steam_appid": 268650,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1829380,
+        2288680
+      ],
+      "detailed_description": "<h1>Workshop for vehicles, planets and mods</h1><p>Share your vehicle blueprints, planets (factions, campaigns, missions, multiplayer maps) and mods via the workshop</p><br><h1>Feature List</h1><p><ul class=\"bb_ul\"><li>A large map with AI factions to fight.<br></li><li> Interesting damage simulations.<br></li><li> Battle against fleets of AI craft and build your own to meet the menace.<br></li><li> Battle other factions in campaign mode.<br></li><li> In-game Steam workshop support to share your creations with the world.<br></li><li>Comprehensive in-game planet, campaign, mission and multiplayer map editor.<br></li><li> Available now on PC, Mac and Linux.</li></ul></p><br><h1>About the Game</h1><h2 class=\"bb_tag\">Summary</h2>In From the Depths you can build and take first-person command of battleships, planes, submarines, space ships, hot air balloons and more! The game contains a wide range of single player content including: <br><ul class=\"bb_ul\"><li>A creative mode allowing you to push your designs to the limit and ensure the total annihilation of your opponents.  <br></li><li>A strategic campaign waged over hundreds of islands against eight unique factions.  <br></li><li>A Story Mode where you can play some action orientated mission focused on upgrading a design to fit a role.<br></li><li>Adventure mode where you start on a raft and must build up your fleet and travel a dangerous universe fighting or running from enemy fleets   </li></ul> <br>As well as a wide range of multiplayer content<br><ul class=\"bb_ul\"><li> Design with your friends in co-op designer <br></li><li> Play a range of adversarial modes<br></li><li> Play the entire single player campaign together in co-op</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Robot1.png?t=1702562524\" /><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Design and build your fleet, fortresses and structures however you want. There are currently over 1000 unique components blocks, not including 38 different components for making missiles, torpedoes, depth charges and bombs and 34 different components for making the ultimate cannon shell!<br></li><li>The sky's the limit, you can equip your vehicle with cannons, lasers, mines, bombs, missiles, torpedoes, propellers, rudders, jet engines, wings, hydrofoils, hot air balloons, anchors, blueprint spawners, repair bots, air pumps, automated control blocks and many, many more!<br></li><li>Physics - every block destroyed or added affects the vehicle's functionality, physics and control. Drag, inertia tensors, buoyancy and sealed compartments are all updated based on the design of your vehicle and the damage sustained.  <br></li><li>Be part of a fantastic community with new releases made on average once a week. Community organised challenges and blueprint sharing make it an extremely friendly place to hang out! <br></li><li>Loads of single player and multiplayer content in which to use your designs (campaigns, co-op campaigns, missions, adventures)<br></li><li> Design your own planets/campaigns/missions/multiplayer maps using the planet editor or add your own mods easily using a fully integrated modding interface</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Plane1.png?t=1702562524\" /><h2 class=\"bb_tag\">Customizable Components</h2>The customizable components in From the Depths allow a unique level of engineering customization:<br><ul class=\"bb_ul\"><li>Design custom missiles, bombs, depth charges and torpedoes by combining various warheads types, fuse types, IR seekers, laser beam riders, laser designators, thrusters, navigation algorithms, sonar seekers, buoyancy compartments and propellers, to deliver a truly bespoke weapon. <br></li><li>Design cannons by combining four different barrel types and lengths with auto-loaders, warhead types, ammo boxes and auxiliary components to create everything from AA cannons to howitzers. <br></li><li>Design AIs by combining an AI mainframe with 'AI cards' slotted into motherboard blocks. Add radar detection, laser detection and tracking and local weapon controllers to give partial or full control to AI. Create anything from a fully AI controlled aircraft carrier to a battery powered drone. <br></li><li>Design custom engines using crank shafts, cylinders, carburetors, super chargers, exhausts and fuel injectors. Electric engines, generators and chargers are also available for backup power supplies and drones.<br></li><li>Similar systems exist for the creation of anti-vehicle and anti-missile lasers, drills that can cut even the largest of battleships in half, Particle Cannons, Jet engines and more</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Boat1.png?t=1702562524\" />",
+      "about_the_game": "<h2 class=\"bb_tag\">Summary</h2>In From the Depths you can build and take first-person command of battleships, planes, submarines, space ships, hot air balloons and more! The game contains a wide range of single player content including: <br><ul class=\"bb_ul\"><li>A creative mode allowing you to push your designs to the limit and ensure the total annihilation of your opponents.  <br></li><li>A strategic campaign waged over hundreds of islands against eight unique factions.  <br></li><li>A Story Mode where you can play some action orientated mission focused on upgrading a design to fit a role.<br></li><li>Adventure mode where you start on a raft and must build up your fleet and travel a dangerous universe fighting or running from enemy fleets   </li></ul> <br>As well as a wide range of multiplayer content<br><ul class=\"bb_ul\"><li> Design with your friends in co-op designer <br></li><li> Play a range of adversarial modes<br></li><li> Play the entire single player campaign together in co-op</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Robot1.png?t=1702562524\" /><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Design and build your fleet, fortresses and structures however you want. There are currently over 1000 unique components blocks, not including 38 different components for making missiles, torpedoes, depth charges and bombs and 34 different components for making the ultimate cannon shell!<br></li><li>The sky's the limit, you can equip your vehicle with cannons, lasers, mines, bombs, missiles, torpedoes, propellers, rudders, jet engines, wings, hydrofoils, hot air balloons, anchors, blueprint spawners, repair bots, air pumps, automated control blocks and many, many more!<br></li><li>Physics - every block destroyed or added affects the vehicle's functionality, physics and control. Drag, inertia tensors, buoyancy and sealed compartments are all updated based on the design of your vehicle and the damage sustained.  <br></li><li>Be part of a fantastic community with new releases made on average once a week. Community organised challenges and blueprint sharing make it an extremely friendly place to hang out! <br></li><li>Loads of single player and multiplayer content in which to use your designs (campaigns, co-op campaigns, missions, adventures)<br></li><li> Design your own planets/campaigns/missions/multiplayer maps using the planet editor or add your own mods easily using a fully integrated modding interface</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Plane1.png?t=1702562524\" /><h2 class=\"bb_tag\">Customizable Components</h2>The customizable components in From the Depths allow a unique level of engineering customization:<br><ul class=\"bb_ul\"><li>Design custom missiles, bombs, depth charges and torpedoes by combining various warheads types, fuse types, IR seekers, laser beam riders, laser designators, thrusters, navigation algorithms, sonar seekers, buoyancy compartments and propellers, to deliver a truly bespoke weapon. <br></li><li>Design cannons by combining four different barrel types and lengths with auto-loaders, warhead types, ammo boxes and auxiliary components to create everything from AA cannons to howitzers. <br></li><li>Design AIs by combining an AI mainframe with 'AI cards' slotted into motherboard blocks. Add radar detection, laser detection and tracking and local weapon controllers to give partial or full control to AI. Create anything from a fully AI controlled aircraft carrier to a battery powered drone. <br></li><li>Design custom engines using crank shafts, cylinders, carburetors, super chargers, exhausts and fuel injectors. Electric engines, generators and chargers are also available for backup power supplies and drones.<br></li><li>Similar systems exist for the creation of anti-vehicle and anti-missile lasers, drills that can cut even the largest of battleships in half, Particle Cannons, Jet engines and more</li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/268650/extras/Boat1.png?t=1702562524\" />",
+      "short_description": "Over 1000 unique components allow you to build and command voxel vehicles from the deep ocean to outer space! Forge strategies, allegiances and fleets strong enough to destroy eight deadly factions of the planet and reign supreme. A genre-defying mashup of simulation, building, RTS and RPG.",
+      "supported_languages": "English<strong>*</strong>, Simplified Chinese, Russian<br><strong>*</strong>languages with full audio support",
+      "reviews": "“My jaw almost hit the floor when I installed a few community made vehicle blueprints. The creativity and ingenuity on display was simply incredible [...] there is no doubt that this game is going to be truly epic”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.gameramble.com%2Fearly-access-previews%2Ffrom-the-depths-early-access-preview-brilliant-skies-ltd\" target=\"_blank\" rel=\" noopener\"  >Game Ramble</a><br><br>“The game’s physics system is especially impressive. Giant galleons feel like absolute tanks trudging through the ocean, while speedboats slice through the waves at a precarious pace [...] Combat is chaotic and intimately customizable. There is perhaps no greater pleasure than executing a successful broadside”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.denkiphile.com%2F2014%2F08%2F12%2Fgame-preview-from-the-depths-pc%2F\" target=\"_blank\" rel=\" noopener\"  >Denkiphile</a><br><br>“From the Depths is a very fine-tuned and detailed strategy title, one that offers amazing customization options and the opportunity to test out your own creation live on the battlefield. If you're a strategy enthusiast and love vehicle design, this one deserves your attention.”<br><a href=\"http://indiegamemag.com/\" target=\"_blank\" rel=\"\"  >The Indie Game Magazine (Issue 43 Nov 2014)</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/268650/header.jpg?t=1702562524",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/268650/capsule_231x87.jpg?t=1702562524",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/268650/capsule_184x69.jpg?t=1702562524",
+      "website": "http://www.fromthedepthsgame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows7<br></li><li><strong>Processor:</strong> Intel Core2 Duo 2.0 GHz (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8800GT / ATI Radeon HD 3870 / Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX® compatible on-board<br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong> Intel Quad Core i5 @ 2.5 GHz (or AMD equivalent)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 / AMD Radeon HD 7800 series<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> <br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Steam connection required to play the game</li></ul>"
+      },
+      "developers": [
+        "Brilliant Skies Ltd."
+      ],
+      "publishers": [
+        "Brilliant Skies Ltd."
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        35620
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy From the Depths",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 35620,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "From The Depths - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_e48710c022bf1907f9d9b98eea3d70de6f94ad45.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_e48710c022bf1907f9d9b98eea3d70de6f94ad45.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_20fe87d4613c3bf62d176e5ee0e58ecb0e1cc919.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_20fe87d4613c3bf62d176e5ee0e58ecb0e1cc919.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_181ce4d408aa369e8e3baddc9027296cb2836f43.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_181ce4d408aa369e8e3baddc9027296cb2836f43.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_0e22224edff00edd69a2b3982c10bb4ca090ba24.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_0e22224edff00edd69a2b3982c10bb4ca090ba24.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_d7fb056977e8c63b82b9cc3e63f9cacb1bbc7bbe.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_d7fb056977e8c63b82b9cc3e63f9cacb1bbc7bbe.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_c65bc2d126257c48a16b9e7a14ce3eb6646ed4a1.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_c65bc2d126257c48a16b9e7a14ce3eb6646ed4a1.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_8a4efcddc16525d01843d42806385a5dd10c99a7.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_8a4efcddc16525d01843d42806385a5dd10c99a7.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_374cbf827447324d04f6585cae32f63e11265808.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_374cbf827447324d04f6585cae32f63e11265808.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_86f4a00d1f36ff67691786435a3b80a8487d25de.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_86f4a00d1f36ff67691786435a3b80a8487d25de.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_724f454d1ca629586f4e2eec5ce15621d32b2a80.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_724f454d1ca629586f4e2eec5ce15621d32b2a80.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_334cb065dad7ea4f83262e7a72bfaf8c8f2c33a2.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_334cb065dad7ea4f83262e7a72bfaf8c8f2c33a2.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_07b8e1cb09ce8f5f44f9804c2dfb37fc7145a2f8.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_07b8e1cb09ce8f5f44f9804c2dfb37fc7145a2f8.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_f5207780b5f418772d98ab4d18d7bfca1170b9af.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_f5207780b5f418772d98ab4d18d7bfca1170b9af.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_81b1c1c22b567af428da1272610f9efaf8f4261d.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_81b1c1c22b567af428da1272610f9efaf8f4261d.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_9997b299429231399afd6cc75fba727c1908bbbc.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_9997b299429231399afd6cc75fba727c1908bbbc.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_3d955e45576415ab332c5bf681958304507e70f0.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_3d955e45576415ab332c5bf681958304507e70f0.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_353be2eb109f2562b7de38f6e33cfe2529441b15.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_353be2eb109f2562b7de38f6e33cfe2529441b15.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_601767d268ac505cf1546cb09828cd3f9133c563.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_601767d268ac505cf1546cb09828cd3f9133c563.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_61ff69420923b4ba22c282fd4f87b2567f44168c.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_61ff69420923b4ba22c282fd4f87b2567f44168c.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_854e1e17fd7189e858af163b6e79e5679b5d9117.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_854e1e17fd7189e858af163b6e79e5679b5d9117.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_ec60cacf82fdd725d9c7dcbaec39e2801d24544d.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_ec60cacf82fdd725d9c7dcbaec39e2801d24544d.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_5174f50e02917869a99fc48a3c9f76db3314338b.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_5174f50e02917869a99fc48a3c9f76db3314338b.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_ecfc8e44edfc7cc276ae5361dfa78ec655bc1546.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_ecfc8e44edfc7cc276ae5361dfa78ec655bc1546.1920x1080.jpg?t=1702562524"
+        },
+        {
+          "id": 25,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_adde42a0a7f372b078ecd58aea47c94a7290e2b6.600x338.jpg?t=1702562524",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/268650/ss_adde42a0a7f372b078ecd58aea47c94a7290e2b6.1920x1080.jpg?t=1702562524"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256759457,
+          "name": "Release trailer 2020",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256759457/movie.293x165.jpg?t=1645564437",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256759457/movie480.webm?t=1645564437",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256759457/movie_max.webm?t=1645564437"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256759457/movie480.mp4?t=1645564437",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256759457/movie_max.mp4?t=1645564437"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 8872
+      },
+      "achievements": {
+        "total": 53,
+        "highlighted": [
+          {
+            "name": "Fast Learner!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/5ac0dae9672139b863cab1ede8898bb3bfc1f3d4.jpg"
+          },
+          {
+            "name": "DWG Easy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/7414cd18c00d542f64c3ad265664834c97710709.jpg"
+          },
+          {
+            "name": "DWG Medium",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/9752acebe473db57d1728e148d5aa9619ef75691.jpg"
+          },
+          {
+            "name": "DWG Hard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/52cf3af407a6f5b497206c3c2b0c10089713e3a9.jpg"
+          },
+          {
+            "name": "DWG Godly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/885adb5a89461a60c0eec4a15e1fedeee463ed46.jpg"
+          },
+          {
+            "name": "OW Easy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/97531a99fe3e5cc21231378f29a909f8275cc46f.jpg"
+          },
+          {
+            "name": "OW Medium",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/27437ecaf65df595df42adbc3ac46a4a91ec9f5e.jpg"
+          },
+          {
+            "name": "OW Hard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/9ebdcd0cfb4693f9a6fc96faf875dcc18d90f903.jpg"
+          },
+          {
+            "name": "OW Godly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/0def866906a749c9bb0a10a500c60a6e787f4ee1.jpg"
+          },
+          {
+            "name": "WF Easy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/268650/2c3302010a19c4871355bdf29dff51d5c194a253.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 6, 2020"
+      },
+      "support_info": {
+        "url": "https://brilliantskies.customercase.com/forums/support-private",
+        "email": "nick.smart@brilliantskies.co.uk"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/268650/page_bg_generated_v6b.jpg?t=1702562524",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/268650/page.bg.jpg?t=1702562524",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

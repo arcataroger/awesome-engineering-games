@@ -1,0 +1,210 @@
+{
+  "799600": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Cosmoteer: Starship Architect & Commander",
+      "steam_appid": 799600,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>CLICK TO VIEW THE ROADMAP</h1><p><a href=\"https://store.steampowered.com/news/app/799600/view/3391799364882219760\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/Early_Access_Roadmap.png?t=1701181903\" /></a></p><br><h1>CLICK TO JOIN THE COMMUNITY</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fcosmoteer\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/Join_Our_Discord.png?t=1701181903\" /></a></p><br><h1>About the Game</h1>A starship builder perfect for fans of games like FTL, Starsector, SPAZ, Space Engineers, Escape Velocity, Avorion, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/design_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/building.gif?t=1701181903\" /><br><strong>Design awesome starships using intuitive ship creation tools</strong> that are easy to learn but hard to master. Fully customize your ship's shape and floor plan, choosing where to place individual modules including weapons, engines, hallways, and crew's quarters. Your ship's design is key to its survival, and every decision you make will impact its performance in battle. Easily share your designs with others through the Steam Workshop, Forums, and Discord.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/crew_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/crew.gif?t=1701181903\" /><br><strong>A ship's crew is its lifeblood.</strong> Numbering from half-a-dozen to a thousand or more individually-simulated people, your crew will pilot your ship, operate its weapons, and carry munitions. How efficiently they operate determines how well your ship will perform in combat. Your crew are autonomous but you can optionally customize their behavior with specific roles and job priorities.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/command_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/battle.gif?t=1701181903\" /><br><strong>Command your ship or fleet in real-time tactical battles.</strong> Combat is physics-driven, explosive, and immensely satisfying. Each module can be individually targeted and destroyed, and whole ships can even break apart into multiple pieces. Target an enemy's weapons to eliminate its offensive capability, destroy its shields to lower its defenses, or go for the kill by taking out its reactor.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/adventure_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/career.gif?t=1701181903\" /><br><strong>Become the most famous &quot;Cosmoteer'' in the universe</strong> by battling A.I. ships, taking on contracts for factions, earning loot, and upgrading your own ship while exploring a procedurally-generated galaxy, alone or in online co-op with friends. Then test your ship design and command skills online against other players in multiple PvP battle modes. Or let your imagination fly free in the Creative Mode where you can build whatever you want with unlimited resources.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/mods_text.png?t=1701181903\" /><br>Still want more? <strong>A powerful modding framework and Steam Workshop</strong> will keep Cosmoteer constantly feeling fresh with new player-created weapons, modules, and other enhancements.",
+      "about_the_game": "A starship builder perfect for fans of games like FTL, Starsector, SPAZ, Space Engineers, Escape Velocity, Avorion, and more.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/design_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/building.gif?t=1701181903\" /><br><strong>Design awesome starships using intuitive ship creation tools</strong> that are easy to learn but hard to master. Fully customize your ship's shape and floor plan, choosing where to place individual modules including weapons, engines, hallways, and crew's quarters. Your ship's design is key to its survival, and every decision you make will impact its performance in battle. Easily share your designs with others through the Steam Workshop, Forums, and Discord.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/crew_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/crew.gif?t=1701181903\" /><br><strong>A ship's crew is its lifeblood.</strong> Numbering from half-a-dozen to a thousand or more individually-simulated people, your crew will pilot your ship, operate its weapons, and carry munitions. How efficiently they operate determines how well your ship will perform in combat. Your crew are autonomous but you can optionally customize their behavior with specific roles and job priorities.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/command_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/battle.gif?t=1701181903\" /><br><strong>Command your ship or fleet in real-time tactical battles.</strong> Combat is physics-driven, explosive, and immensely satisfying. Each module can be individually targeted and destroyed, and whole ships can even break apart into multiple pieces. Target an enemy's weapons to eliminate its offensive capability, destroy its shields to lower its defenses, or go for the kill by taking out its reactor.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/adventure_text.png?t=1701181903\" /><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/career.gif?t=1701181903\" /><br><strong>Become the most famous &quot;Cosmoteer'' in the universe</strong> by battling A.I. ships, taking on contracts for factions, earning loot, and upgrading your own ship while exploring a procedurally-generated galaxy, alone or in online co-op with friends. Then test your ship design and command skills online against other players in multiple PvP battle modes. Or let your imagination fly free in the Creative Mode where you can build whatever you want with unlimited resources.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/799600/extras/mods_text.png?t=1701181903\" /><br>Still want more? <strong>A powerful modding framework and Steam Workshop</strong> will keep Cosmoteer constantly feeling fresh with new player-created weapons, modules, and other enhancements.",
+      "short_description": "Design and simulate the starship of your dreams! Command it in epic battles and manage your crew while exploring a dangerous galaxy. Play alone or with friends, test your ship in online PvP, and let your imagination reach for the stars!",
+      "supported_languages": "English, French, German, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
+      "reviews": "“The shipbuilding is addictive.”<br><a href=\"https://www.youtube.com/watch?v=3wZDoSggeWE\" target=\"_blank\" rel=\"\"  >Splattercatgaming</a><br><br>“... deep and satisfying space sim.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.dualshockers.com%2Fcosmoteer-spaceship-architect-commander-review%2F\" target=\"_blank\" rel=\" noopener\"  >Dual Shockers</a><br><br>“It's honestly a fantastic game.”<br><a href=\"https://www.youtube.com/watch?v=FP6oJwZAgKM\" target=\"_blank\" rel=\"\"  >Lathland</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/799600/header.jpg?t=1701181903",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/799600/capsule_231x87.jpg?t=1701181903",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/799600/capsule_184x69.jpg?t=1701181903",
+      "website": "https://cosmoteer.net/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 32-bit or 64-bit Microsoft Windows 10, 11, or newer<br></li><li><strong>Processor:</strong> Dual-core Intel 2.0 GHz (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB DirectX 9 Graphics Card or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 32-bit or 64-bit Microsoft Windows 10, 11, or newer<br></li><li><strong>Processor:</strong> Quad-core Intel 2.5 GHz (or AMD equivalent) or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB DirectX 11 Graphics Card or better<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Copyright © 2022 Walternate Realities™ LLC. All rights reserved.",
+      "developers": [
+        "Walternate Realities"
+      ],
+      "publishers": [
+        "Walternate Realities"
+      ],
+      "demos": [
+        {
+          "appid": 1110960,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1599,
+        "discount_percent": 20,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$15.99"
+      },
+      "packages": [
+        243101
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Cosmoteer: Starship Architect & Commander",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 243101,
+              "percent_savings_text": "-20% ",
+              "percent_savings": 0,
+              "option_text": "Cosmoteer: Starship Architect & Commander - <span class=\"discount_original_price\">$19.99</span> $15.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 48,
+          "description": "LAN Co-op"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_0a09a0eecd6e1b3a04d802abb75e587adbfd07c5.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_0a09a0eecd6e1b3a04d802abb75e587adbfd07c5.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_a8eaa74137b474fe004f8c02b9fcbced96781713.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_a8eaa74137b474fe004f8c02b9fcbced96781713.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_2f0cd77599a8d8d8bb0687c405c717830e947d70.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_2f0cd77599a8d8d8bb0687c405c717830e947d70.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_769330b214586e3cf13525b24fe0dd929429d119.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_769330b214586e3cf13525b24fe0dd929429d119.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_5764e597c2ec20db270c7f37c4fecb34f48c56fe.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_5764e597c2ec20db270c7f37c4fecb34f48c56fe.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_4daa718874bd09b80a92bd707613601d6f838bc3.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_4daa718874bd09b80a92bd707613601d6f838bc3.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_9ed05b46e58556122a927a292a9f0a99289ab00b.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_9ed05b46e58556122a927a292a9f0a99289ab00b.1920x1080.jpg?t=1701181903"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_944ba6e1bfe6cdfa70299eadf8e50fab252446b0.600x338.jpg?t=1701181903",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/799600/ss_944ba6e1bfe6cdfa70299eadf8e50fab252446b0.1920x1080.jpg?t=1701181903"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256898088,
+          "name": "Cosmoteer Gameplay Trailer 2022",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256898088/movie.293x165.jpg?t=1690655140",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256898088/movie480_vp9.webm?t=1690655140",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256898088/movie_max_vp9.webm?t=1690655140"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256898088/movie480.mp4?t=1690655140",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256898088/movie_max.mp4?t=1690655140"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 7765
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 24, 2022"
+      },
+      "support_info": {
+        "url": "http://support.cosmoteer.net",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/799600/page_bg_generated_v6b.jpg?t=1701181903",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/799600/page.bg.jpg?t=1701181903",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

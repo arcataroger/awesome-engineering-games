@@ -1,0 +1,212 @@
+{
+  "684270": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Silicon Zeroes",
+      "steam_appid": 684270,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        715420
+      ],
+      "detailed_description": "The makers of Manufactoria return with a new open-ended puzzle game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/684270/extras/looper_hd.png?t=1635015162\" /><br><br><ul class=\"bb_ul\"><li>Build complex electronics from a variety of simple components, like Adders, Latches and Multiplexers.<br></li><li>Travel back to the 60s to Silicon Valley's very first startup, and do your best to keep the whole thing from imploding.<br></li><li>Solve more than seventy puzzles, from straightforward introductions to building fully functional CPUs.<br></li><li>Original soundtrack by Craig Barnes, composer for <i>Streets of Rogue</i> and <i>Enyo</i>.</li></ul><br>&quot;The best game about CPU design that I can imagine​&quot; -- Zach Barth (SpaceChem, TIS-100).<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/684270/extras/half_instr.png?t=1635015162\" />",
+      "about_the_game": "The makers of Manufactoria return with a new open-ended puzzle game.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/684270/extras/looper_hd.png?t=1635015162\" /><br><br><ul class=\"bb_ul\"><li>Build complex electronics from a variety of simple components, like Adders, Latches and Multiplexers.<br></li><li>Travel back to the 60s to Silicon Valley's very first startup, and do your best to keep the whole thing from imploding.<br></li><li>Solve more than seventy puzzles, from straightforward introductions to building fully functional CPUs.<br></li><li>Original soundtrack by Craig Barnes, composer for <i>Streets of Rogue</i> and <i>Enyo</i>.</li></ul><br>&quot;The best game about CPU design that I can imagine​&quot; -- Zach Barth (SpaceChem, TIS-100).<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/684270/extras/half_instr.png?t=1635015162\" />",
+      "short_description": "Build hardware. Solve puzzles. From the creator of Manufactoria, a new open-ended puzzle game set in Silicon Valley's first startup.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/684270/header.jpg?t=1635015162",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/684270/capsule_231x87.jpg?t=1635015162",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/684270/capsule_184x69.jpg?t=1635015162",
+      "website": "http://pleasingfungus.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9 through 10.13<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional Notes:</strong> 10.14 (Mojave) has known bugs; apologies!</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "developers": [
+        "PleasingFungus Games"
+      ],
+      "publishers": [
+        "PleasingFungus Games"
+      ],
+      "demos": [
+        {
+          "appid": 700150,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        195702
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Silicon Zeroes",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 195702,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Silicon Zeroes - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_94d39f1fb45e306ec6f8f1998bca1bf79ba1099e.600x338.jpg?t=1635015162",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_94d39f1fb45e306ec6f8f1998bca1bf79ba1099e.1920x1080.jpg?t=1635015162"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_d698a1f03d97b42a6cc12b887bae683c313d6eac.600x338.jpg?t=1635015162",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_d698a1f03d97b42a6cc12b887bae683c313d6eac.1920x1080.jpg?t=1635015162"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_21590110c4ab906086473584f8a36f24ef8c5693.600x338.jpg?t=1635015162",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_21590110c4ab906086473584f8a36f24ef8c5693.1920x1080.jpg?t=1635015162"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_94a485e1e423088558379a1d96ac59e6e6673625.600x338.jpg?t=1635015162",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_94a485e1e423088558379a1d96ac59e6e6673625.1920x1080.jpg?t=1635015162"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_477ddb609b7ba820153ecc9b7887f2ccfd732977.600x338.jpg?t=1635015162",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/684270/ss_477ddb609b7ba820153ecc9b7887f2ccfd732977.1920x1080.jpg?t=1635015162"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256692429,
+          "name": "Silicon Zeroes",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256692429/movie.293x165.jpg?t=1502576360",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256692429/movie480.webm?t=1502576360",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256692429/movie_max.webm?t=1502576360"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256692429/movie480.mp4?t=1502576360",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256692429/movie_max.mp4?t=1502576360"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 224
+      },
+      "achievements": {
+        "total": 13,
+        "highlighted": [
+          {
+            "name": "Lighting The Spark",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/a3adee24ed3737d77e1d299b50070706a2f6609a.jpg"
+          },
+          {
+            "name": "Wealth",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/0095f8d6bb7ffff89851dc8ec880de94e86a325f.jpg"
+          },
+          {
+            "name": "Hope",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/841f82d33768e863a9a33a17620d7b093612c115.jpg"
+          },
+          {
+            "name": "Senior Engineer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/f3abfe00f4ac93ebe0c083f5f3b2fb47ee83f958.jpg"
+          },
+          {
+            "name": "Visionary",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/16338f5454b01ec1f6b7a440159fd3d108f453fc.jpg"
+          },
+          {
+            "name": "Credit Where Credit Is Due",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/f48f218e9129162dd7852277ce3f4208a148844d.jpg"
+          },
+          {
+            "name": "Revolutionary",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/5b83499e9f0b23affd2e142031f390af9f722f9f.jpg"
+          },
+          {
+            "name": "A Fine Product",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/00ed98b5ff9adb6380dc400052fb1215c08036fc.jpg"
+          },
+          {
+            "name": "Stellar Achievement",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/fba7a877f26b273c97994857fef917d8d4f0b717.jpg"
+          },
+          {
+            "name": "Ne Plus Ultra?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/684270/4ba4ffbf656f6f92f0f36600c95d5675a2e2450e.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 18, 2017"
+      },
+      "support_info": {
+        "url": "",
+        "email": "pleasingfung@gmail.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/684270/page_bg_generated_v6b.jpg?t=1635015162",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/684270/page.bg.jpg?t=1635015162",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

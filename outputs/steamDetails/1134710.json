@@ -1,0 +1,289 @@
+{
+  "1134710": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "NIMBY Rails",
+      "steam_appid": 1134710,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Steam Workshop</h1><p>Download mods made by the player community in the NIMBY Rails Depot.</p><br><h1>About the Game</h1>NIMBY Rails is a management sandbox for railways you build in the real world. Design train tracks, set up lines, and get that stock rolling to make money and serve the needs of the population. Do you have <i>strong opinions</i> on rail projects and want to test your own ideas? This game was made for you.<br><br><ul class=\"bb_ul\"><li> The world is your canvas. Design and play on a fully detailed real world map with 1cm resolution. A rail link from Lisbon to Shanghai? Anchorage to Buenos Aires? Cape Town to Rabat? Why not!<br></li><li> Your tracks will need to respect real, existing roads and streets. Too many crossings may make your designs not viable.<br></li><li> Streamlined circulation mechanics so you don't get bogged down by the details. Build and run a large network easily.<br></li><li> Only as complex as you want it. Easily build stations with automatic double track and automatic entrance/exit signaling, and link them in a couple clicks with automatic double tracks.<br></li><li> But do you have your own ideas about signals? Want to dive into detailed station design? Have a flying junction concept you are dying to test? Just disable the automatic aids in the track editor and individually control every every track, signal and building if you desire to do so.<br></li><li> Trams, subways, commuter, regional and high speed trains. Tunnels, viaducts and ground tracks with a variety trade offs on the environment, train speed, and your company wallet.<br></li><li> Simulated train and station demand, down to simulating individual passengers. Passengers can, and will, engage in train trips that make them board multiple trains, waiting in transfer stations.<br></li><li> Demand flow based on time of day and time of week, with time zone support. Find it boring when night time comes and the stations are deserted? No problem, start a new line ten time zones away.<br></li><li> Passengers will continuously rate their experience based on the trip time and the fares you impose on them, with effects on the demand of the stations they visit.<br></li><li> Single player and offline first.<br></li><li> Optional cooperative multiplayer: build together in real time with friends and others you invite to your hosted server session.</li></ul>",
+      "about_the_game": "NIMBY Rails is a management sandbox for railways you build in the real world. Design train tracks, set up lines, and get that stock rolling to make money and serve the needs of the population. Do you have <i>strong opinions</i> on rail projects and want to test your own ideas? This game was made for you.<br><br><ul class=\"bb_ul\"><li> The world is your canvas. Design and play on a fully detailed real world map with 1cm resolution. A rail link from Lisbon to Shanghai? Anchorage to Buenos Aires? Cape Town to Rabat? Why not!<br></li><li> Your tracks will need to respect real, existing roads and streets. Too many crossings may make your designs not viable.<br></li><li> Streamlined circulation mechanics so you don't get bogged down by the details. Build and run a large network easily.<br></li><li> Only as complex as you want it. Easily build stations with automatic double track and automatic entrance/exit signaling, and link them in a couple clicks with automatic double tracks.<br></li><li> But do you have your own ideas about signals? Want to dive into detailed station design? Have a flying junction concept you are dying to test? Just disable the automatic aids in the track editor and individually control every every track, signal and building if you desire to do so.<br></li><li> Trams, subways, commuter, regional and high speed trains. Tunnels, viaducts and ground tracks with a variety trade offs on the environment, train speed, and your company wallet.<br></li><li> Simulated train and station demand, down to simulating individual passengers. Passengers can, and will, engage in train trips that make them board multiple trains, waiting in transfer stations.<br></li><li> Demand flow based on time of day and time of week, with time zone support. Find it boring when night time comes and the stations are deserted? No problem, start a new line ten time zones away.<br></li><li> Passengers will continuously rate their experience based on the trip time and the fares you impose on them, with effects on the demand of the stations they visit.<br></li><li> Single player and offline first.<br></li><li> Optional cooperative multiplayer: build together in real time with friends and others you invite to your hosted server session.</li></ul>",
+      "short_description": "Design and run your own railroads for the real world. Solve global transportation dilemmas. Unleash your inner railway engineer and transit policy manager.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/header.jpg?t=1696874444",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/capsule_231x87.jpg?t=1696874444",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/capsule_184x69.jpg?t=1696874444",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Dual core, 2 Ghz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5000<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 28 GB available space<br></li><li><strong>Additional Notes:</strong> Installing in FAT32 is not supported.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Quad core, 4 Ghz+<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD GCN, Nvidia Pascal, 4GB or more of VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 28 GB available space<br></li><li><strong>Additional Notes:</strong> Install in SSD for the best experience</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2022 Weird and Wry S.L.",
+      "developers": [
+        "Weird and Wry"
+      ],
+      "publishers": [
+        "Weird and Wry"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1899,
+        "final": 1899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$18.99"
+      },
+      "packages": [
+        385838
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy NIMBY Rails",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 385838,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "NIMBY Rails - $18.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_60635b7ff40e05c7f4e340a8f0f06f0720f7d6d6.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_60635b7ff40e05c7f4e340a8f0f06f0720f7d6d6.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c2349964fa522f09e6ee8421a873f11619907fb6.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c2349964fa522f09e6ee8421a873f11619907fb6.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b4605143e75d4f2e03da21b48f939788707e7ea2.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b4605143e75d4f2e03da21b48f939788707e7ea2.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_023437d7bfb505115c97195ca39df87c16094b85.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_023437d7bfb505115c97195ca39df87c16094b85.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_0af76b4d735321aada25b4beeb71a42b6c3d01d2.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_0af76b4d735321aada25b4beeb71a42b6c3d01d2.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_d0e4fe97d0fa588ef3c55a1e760f1a904e07b827.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_d0e4fe97d0fa588ef3c55a1e760f1a904e07b827.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b0e0aa1a156f9ae840b3203b14788f460752d2fd.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b0e0aa1a156f9ae840b3203b14788f460752d2fd.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c7e48b0199300aaa613adc94ffc78c1789e0d71e.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c7e48b0199300aaa613adc94ffc78c1789e0d71e.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_e4b4b910498690e72c33b34a0edd8eb2046eef10.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_e4b4b910498690e72c33b34a0edd8eb2046eef10.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_4e190bc026ec473af3eea7fd13a9003fc351f52f.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_4e190bc026ec473af3eea7fd13a9003fc351f52f.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_641b3d854b88deb60e3f8903a1bbc410d65ff14c.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_641b3d854b88deb60e3f8903a1bbc410d65ff14c.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_42396cf30f3f1c39df24999f6119ddb222919f65.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_42396cf30f3f1c39df24999f6119ddb222919f65.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_cf296d136bd37127638dd652bbcd7a1a9421ea8a.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_cf296d136bd37127638dd652bbcd7a1a9421ea8a.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_079f5ef3c743b910b361276277b0a12fc32c36b5.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_079f5ef3c743b910b361276277b0a12fc32c36b5.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c4889e8de0ad3477528f89da4c61d3f08c04384f.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_c4889e8de0ad3477528f89da4c61d3f08c04384f.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_e4b994b1f7def9f082bcee5f3138979d7f796824.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_e4b994b1f7def9f082bcee5f3138979d7f796824.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_61b151ed0b191a5ca1d6ad598b149f0096706375.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_61b151ed0b191a5ca1d6ad598b149f0096706375.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_90b22b19ccde3e0220d8c840a819692e924a4c7d.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_90b22b19ccde3e0220d8c840a819692e924a4c7d.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_20460b805f202f7422fcdc948833efb8d23219ec.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_20460b805f202f7422fcdc948833efb8d23219ec.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_38aa10b645145f362ff6e575670bcce6b83bfe83.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_38aa10b645145f362ff6e575670bcce6b83bfe83.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_a8a82b16afdb1ba905a6819e4949ad236137d191.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_a8a82b16afdb1ba905a6819e4949ad236137d191.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_d3c388dfe617112b970237aa2cc4a8406308370e.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_d3c388dfe617112b970237aa2cc4a8406308370e.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_4d56db0c4b5460eaa5831376a6602d63a9776423.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_4d56db0c4b5460eaa5831376a6602d63a9776423.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_46a3f3f90b61a4c3693c21f8cc503f0a3b948f97.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_46a3f3f90b61a4c3693c21f8cc503f0a3b948f97.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_752f50be6f733d8d198049c23c410e819297079e.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_752f50be6f733d8d198049c23c410e819297079e.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 25,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b0739a4cc9aa60b4ed6322dc643faaa630d60cd5.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_b0739a4cc9aa60b4ed6322dc643faaa630d60cd5.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 26,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_80d2771a625df91267cc4aad757f41c30a5d6165.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_80d2771a625df91267cc4aad757f41c30a5d6165.1920x1080.jpg?t=1696874444"
+        },
+        {
+          "id": 27,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_bc830090c81992e8fc760caf3366d78800b21f4f.600x338.jpg?t=1696874444",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/ss_bc830090c81992e8fc760caf3366d78800b21f4f.1920x1080.jpg?t=1696874444"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256818384,
+          "name": "NIMBY Rails Early Access Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256818384/movie.293x165.jpg?t=1610750452",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256818384/movie480_vp9.webm?t=1610750452",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256818384/movie_max_vp9.webm?t=1610750452"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256818384/movie480.mp4?t=1610750452",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256818384/movie_max.mp4?t=1610750452"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1489
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 26, 2021"
+      },
+      "support_info": {
+        "url": "https://weirdandwry.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/page_bg_generated_v6b.jpg?t=1696874444",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1134710/page_bg_generated.jpg?t=1696874444",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

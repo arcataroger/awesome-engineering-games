@@ -1,0 +1,280 @@
+{
+  "1532200": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mars First Logistics",
+      "steam_appid": 1532200,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2465430
+      ],
+      "detailed_description": "<h1>Visit the Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FtttamKbsNp\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/discord_img.png?t=1695519012\" /></a></p><br><h1>About the Game</h1>Mars First Logistics is an open world physics simulation game where you create your very own mechanized martian rover. Play solo or join up to 3 friends in online co-op!<h2 class=\"bb_tag\">Design</h2>Assemble your rover using an intuitive and tactile editor! Combine over 50 parts such as servo motors, hydraulic cylinders and rocket engines. Tailor your creations to the unique challenges of each job and unlock blueprints of ready-made machines!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/design.gif?t=1695519012\" /><h2 class=\"bb_tag\">Drive</h2>Pilot your creation across the vast procedurally generated surface of Mars! Heavy cargo, fragile cargo, bouncy cargo, cargo that’s trying to float away – you never know what the next station will bring! <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/drive.gif?t=1695519012\" /><h2 class=\"bb_tag\">Develop</h2>Help the martians make a new home on Mars by moving their awkwardly shaped cargo from place to place. With each successful delivery you'll contribute to building up the space settlement with a variety of fun new structures.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/deliver.gif?t=1695519012\" />",
+      "about_the_game": "Mars First Logistics is an open world physics simulation game where you create your very own mechanized martian rover. Play solo or join up to 3 friends in online co-op!<h2 class=\"bb_tag\">Design</h2>Assemble your rover using an intuitive and tactile editor! Combine over 50 parts such as servo motors, hydraulic cylinders and rocket engines. Tailor your creations to the unique challenges of each job and unlock blueprints of ready-made machines!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/design.gif?t=1695519012\" /><h2 class=\"bb_tag\">Drive</h2>Pilot your creation across the vast procedurally generated surface of Mars! Heavy cargo, fragile cargo, bouncy cargo, cargo that’s trying to float away – you never know what the next station will bring! <br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/drive.gif?t=1695519012\" /><h2 class=\"bb_tag\">Develop</h2>Help the martians make a new home on Mars by moving their awkwardly shaped cargo from place to place. With each successful delivery you'll contribute to building up the space settlement with a variety of fun new structures.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1532200/extras/deliver.gif?t=1695519012\" />",
+      "short_description": "Build physically simulated rovers and transport awkwardly shaped cargo across the surface of Mars. Earn funds, unlock new parts, and use your ingenuity to help the martians establish a new home. Playable solo or in online co-op!",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/header.jpg?t=1695519012",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/capsule_231x87.jpg?t=1695519012",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/capsule_184x69.jpg?t=1695519012",
+      "website": "https://shapeshop.games",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64 bit<br></li><li><strong>Processor:</strong> 4-core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 660 or AMD HD 6970<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2022-2023 Shape Shop Pty Ltd",
+      "developers": [
+        "Shape Shop"
+      ],
+      "publishers": [
+        "Shape Shop",
+        "Outersloth"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        540753
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mars First Logistics",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 540753,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Mars First Logistics - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_5a20ad051fa1ff05e39b06113777a71a9eefa840.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_5a20ad051fa1ff05e39b06113777a71a9eefa840.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_f7f5e85c748768bf83b0dd366391562588d725e8.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_f7f5e85c748768bf83b0dd366391562588d725e8.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_db553f718af1371b24ab723e75939d9b2398e892.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_db553f718af1371b24ab723e75939d9b2398e892.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_760362927757e80b90ef4d1013f6327e3d737f22.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_760362927757e80b90ef4d1013f6327e3d737f22.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_1dc078854f9e2e03d87bec939224b35e2209f3c2.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_1dc078854f9e2e03d87bec939224b35e2209f3c2.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_3e97d2558170e7747c8f6ddcf777b74f4dd09634.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_3e97d2558170e7747c8f6ddcf777b74f4dd09634.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_5002aef37f31f402c28fb815967da379c4335b75.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_5002aef37f31f402c28fb815967da379c4335b75.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_09019153264c114d1ecd9f6be8c7faee095dc986.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_09019153264c114d1ecd9f6be8c7faee095dc986.1920x1080.jpg?t=1695519012"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_a66d0fdb41751c4d98ae606d46596bb3143cb569.600x338.jpg?t=1695519012",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/ss_a66d0fdb41751c4d98ae606d46596bb3143cb569.1920x1080.jpg?t=1695519012"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256970993,
+          "name": "Update 1 Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256970993/movie.293x165.jpg?t=1695362146",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970993/movie480_vp9.webm?t=1695362146",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970993/movie_max_vp9.webm?t=1695362146"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256970993/movie480.mp4?t=1695362146",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256970993/movie_max.mp4?t=1695362146"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256925948,
+          "name": "Main Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256925948/movie.293x165.jpg?t=1686261708",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925948/movie480_vp9.webm?t=1686261708",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925948/movie_max_vp9.webm?t=1686261708"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925948/movie480.mp4?t=1686261708",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925948/movie_max.mp4?t=1686261708"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256925947,
+          "name": "Gameplay Explainer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256925947/movie.293x165.jpg?t=1683076971",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925947/movie480_vp9.webm?t=1683076971",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925947/movie_max_vp9.webm?t=1683076971"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256925947/movie480.mp4?t=1683076971",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256925947/movie_max.mp4?t=1683076971"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 638
+      },
+      "achievements": {
+        "total": 11,
+        "highlighted": [
+          {
+            "name": "First Day",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/7a43fc6537a63630324f8efe3067fedfd015b4b5.jpg"
+          },
+          {
+            "name": "Builder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/4ae2508663aff3d4bcf22b42263d14bc5601ecc7.jpg"
+          },
+          {
+            "name": "Handyman",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/570006215f03eeb5a461001e42b910a45a466548.jpg"
+          },
+          {
+            "name": "Water on Mars?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/89faaff53fe26849febc8e758f81281a3c8877af.jpg"
+          },
+          {
+            "name": "Pole Position",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/17080db2271aff876e1f3f2a2882eb733c22a6c8.jpg"
+          },
+          {
+            "name": "Laduma!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/d19965d9291a2e2fa8a31e6411ca4dcc7120d424.jpg"
+          },
+          {
+            "name": "Heavenly Body",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/7ac359e5c996fc1d2f909ef707a93a9f4fb5af9c.jpg"
+          },
+          {
+            "name": "Blast Off",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/5cf8eae9f35a79f2048607462cb39bbbb165ffa9.jpg"
+          },
+          {
+            "name": "Pest",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/e281aa6cf904b11d0c8d11a665e056bbdedbcbd9.jpg"
+          },
+          {
+            "name": "Biologist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532200/2e60dc3084e4cda1fc8b91cb5767f6ec168b1117.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 21, 2023"
+      },
+      "support_info": {
+        "url": "https://shapeshop.games",
+        "email": "support@shapeshop.games"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/page_bg_generated_v6b.jpg?t=1695519012",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1532200/page.bg.jpg?t=1695519012",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

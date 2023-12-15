@@ -1,0 +1,229 @@
+{
+  "1127500": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mini Motorways",
+      "steam_appid": 1127500,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127500/extras/SteamBanner_01-Resized.gif?t=1667780984\" /><br><br>Have you ever been stuck in traffic and wished you could do something to fix it? <br>In Mini Motorways, the city’s traffic problems are in your hands.<br><br>From the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Draw roads in dynamic cities that grow and change - every game is unique!<br></li><li>Explore stunning maps inspired by cities all around the world.<br></li><li>Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!<br></li><li>Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.<br></li><li>Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.<br></li><li>Select different colour palettes on every map including colourblind and night modes.<br></li><li>Relax to a responsive soundtrack from Disasterpeace that grows along with your city.<br></li><li>Unlock new maps and achievements as you achieve mastery. <br></li><li>Export GIFs of your city layouts to share with your friends.<br></li><li>Compete against other players in Daily and Weekly Challenges.</li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1127500/extras/SteamBanner_01-Resized.gif?t=1667780984\" /><br><br>Have you ever been stuck in traffic and wished you could do something to fix it? <br>In Mini Motorways, the city’s traffic problems are in your hands.<br><br>From the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Draw roads in dynamic cities that grow and change - every game is unique!<br></li><li>Explore stunning maps inspired by cities all around the world.<br></li><li>Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!<br></li><li>Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.<br></li><li>Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.<br></li><li>Select different colour palettes on every map including colourblind and night modes.<br></li><li>Relax to a responsive soundtrack from Disasterpeace that grows along with your city.<br></li><li>Unlock new maps and achievements as you achieve mastery. <br></li><li>Export GIFs of your city layouts to share with your friends.<br></li><li>Compete against other players in Daily and Weekly Challenges.</li></ul>",
+      "short_description": "Mini Motorways is a strategy simulation game about designing the road map for a growing city. Build a traffic network, one road at a time, to create a bustling metropolis. Redesign your roads and place your motorways to get everyone where they need to go. How long can you keep the city moving?",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+      "reviews": "“Meant to be played over and over again... Building on the excellent Mini Metro that came before it, Mini Motorways is a great evolution of Dinosaur Polo Club's minimalist transport sim.”<br>Bestest Best – <a href=\"https://www.rockpapershotgun.com/mini-motorways-review\" target=\"_blank\" rel=\"\"  >Rock Paper Shotgun</a><br><br>“A city builder that balances precision and beauty.”<br>Essential – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.eurogamer.net%2Farticles%2F2021-07-22-mini-motorways-review-a-city-builder-that-balances-precision-and-beauty\" target=\"_blank\" rel=\" noopener\"  >Eurogamer</a><br><br>“Endlessly replayable, beautiful to look at and featuring engrossing gameplay, this is another roaring success.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ftraxion.gg%2Fmini-motorways-review%2F\" target=\"_blank\" rel=\" noopener\"  >Traxion</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/header.jpg?t=1667780984",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/capsule_231x87.jpg?t=1667780984",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/capsule_184x69.jpg?t=1667780984",
+      "website": "https://dinopoloclub.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 SP1+<br></li><li><strong>Processor:</strong> 2 GHz or faster processor<br></li><li><strong>Graphics:</strong> Shader Model 4.0<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.14 Mojave or later<br></li><li><strong>Processor:</strong> 2 GHz or faster processor<br></li><li><strong>Graphics:</strong> Shader Model 4.0<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "© Codepoint Limited 2021<br />\r\nMini Motorways is a registered trademark of Codepoint Limited",
+      "developers": [
+        "Dinosaur Polo Club"
+      ],
+      "publishers": [
+        "Dinosaur Polo Club"
+      ],
+      "price_overview": {
+        "currency": "CAD",
+        "initial": 1149,
+        "final": 1149,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "CDN$ 11.49"
+      },
+      "packages": [
+        382983
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mini Motorways",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 382983,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Mini Motorways - CDN$ 11.49",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1149
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 87,
+        "url": "https://www.metacritic.com/game/pc/mini-motorways?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_605e3ca3cea0ce5dd5d784e51afd7a1b681f9443.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_605e3ca3cea0ce5dd5d784e51afd7a1b681f9443.1920x1080.jpg?t=1667780984"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_7a57d11fd0d3a097b02645f96b49f81793b6ac7f.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_7a57d11fd0d3a097b02645f96b49f81793b6ac7f.1920x1080.jpg?t=1667780984"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_4663377e2e6e33cb039352da077e044948d08674.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_4663377e2e6e33cb039352da077e044948d08674.1920x1080.jpg?t=1667780984"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_a298bbb1acde51828194c749bfdd13eb5a9c5019.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_a298bbb1acde51828194c749bfdd13eb5a9c5019.1920x1080.jpg?t=1667780984"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_95528cae7a6937d9c1d8feea676f6205fbfa61d0.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_95528cae7a6937d9c1d8feea676f6205fbfa61d0.1920x1080.jpg?t=1667780984"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_9c2854c0af54f9512d5d480a2fdaa547f6ab876e.600x338.jpg?t=1667780984",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/ss_9c2854c0af54f9512d5d480a2fdaa547f6ab876e.1920x1080.jpg?t=1667780984"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256843552,
+          "name": "Release Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256843552/movie.293x165.jpg?t=1626792750",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256843552/movie480_vp9.webm?t=1626792750",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256843552/movie_max_vp9.webm?t=1626792750"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256843552/movie480.mp4?t=1626792750",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256843552/movie_max.mp4?t=1626792750"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 17298
+      },
+      "achievements": {
+        "total": 135,
+        "highlighted": [
+          {
+            "name": "Driver's License",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/a83da6eb79d9c8c16c9dfdfb848518f022234664.jpg"
+          },
+          {
+            "name": "Los Angeles Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Beijing Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Dar Es Salaam Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/970f866c376d0cdfea9c9eb233ee34e0f55bdb46.jpg"
+          },
+          {
+            "name": "Manila Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Moscow Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Munich Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Rio de Janeiro Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/970f866c376d0cdfea9c9eb233ee34e0f55bdb46.jpg"
+          },
+          {
+            "name": "Tokyo Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          },
+          {
+            "name": "Zurich Tourist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1127500/296ded288697502c0514f2eedc5fa9ed0ffeef40.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Jul, 2021"
+      },
+      "support_info": {
+        "url": "https://dinopoloclub.com/support/mini-motorways/",
+        "email": "support@dinopoloclub.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/page_bg_generated_v6b.jpg?t=1667780984",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1127500/page.bg.jpg?t=1667780984",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

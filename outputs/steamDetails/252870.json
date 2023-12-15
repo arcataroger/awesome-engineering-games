@@ -1,0 +1,258 @@
+{
+  "252870": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "PULSAR: Lost Colony",
+      "steam_appid": 252870,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "Team up to operate a starship and explore a randomized galaxy falling into chaos. Each player assumes a role aboard the ship: Captain, Pilot, Scientist, Weapons Specialist and Engineer. Coordination between your crewmembers is essential to survive the perils that await you.<br><br>Control the various stations that run your ship. Reroute power between ship systems, operate turrets, run powerful programs, scan enemy vessels for information to give you an edge in battle, or start up the warp drive to escape a fight you cannot win. The strategies you use are up to you—or your Captain.<br><br>Embark on missions, investigate abandoned stations, and scavenge for components that could aid you in your voyage. Teleport down to the surfaces of planets where you may face extreme environments and dangerous creatures. Trek across the galaxy, and discover what lies on its fringes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/252870/extras/KeyFeatures.png?t=1624378806\" /><br><ul class=\"bb_ul\"><li>Online co-op multiplayer (1 - 5 players)<br></li><li>Offline / singleplayer mode<br></li><li>Customizable AI crew bots in online and offline mode<br></li><li>Five unique classes; everyone plays a role on the ship<br></li><li>Fast-paced and tactical ship-to-ship space combat<br></li><li>Teleport to other ships, planets or stations to join the away team<br></li><li>Loot planets and stations for valuable items<br></li><li>Board enemy ships to capture them or destroy their systems<br></li><li>VR mode (with motion controller support)</li></ul>",
+      "about_the_game": "Team up to operate a starship and explore a randomized galaxy falling into chaos. Each player assumes a role aboard the ship: Captain, Pilot, Scientist, Weapons Specialist and Engineer. Coordination between your crewmembers is essential to survive the perils that await you.<br><br>Control the various stations that run your ship. Reroute power between ship systems, operate turrets, run powerful programs, scan enemy vessels for information to give you an edge in battle, or start up the warp drive to escape a fight you cannot win. The strategies you use are up to you—or your Captain.<br><br>Embark on missions, investigate abandoned stations, and scavenge for components that could aid you in your voyage. Teleport down to the surfaces of planets where you may face extreme environments and dangerous creatures. Trek across the galaxy, and discover what lies on its fringes.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/252870/extras/KeyFeatures.png?t=1624378806\" /><br><ul class=\"bb_ul\"><li>Online co-op multiplayer (1 - 5 players)<br></li><li>Offline / singleplayer mode<br></li><li>Customizable AI crew bots in online and offline mode<br></li><li>Five unique classes; everyone plays a role on the ship<br></li><li>Fast-paced and tactical ship-to-ship space combat<br></li><li>Teleport to other ships, planets or stations to join the away team<br></li><li>Loot planets and stations for valuable items<br></li><li>Board enemy ships to capture them or destroy their systems<br></li><li>VR mode (with motion controller support)</li></ul>",
+      "short_description": "Team up to operate a starship and explore a randomized galaxy falling into chaos. Coordination between your crewmembers is essential to survive the perils that await you.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/252870/header.jpg?t=1624378806",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/252870/capsule_231x87.jpg?t=1624378806",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/252870/capsule_184x69.jpg?t=1624378806",
+      "website": "https://www.pulsarthegame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5000 (Shader Model 3)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>VR Support:</strong> SteamVR<br></li><li><strong>Additional Notes:</strong> Modern Graphics Card Required (Supported By Manufacturer)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.8 GHz Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5000 (Shader Model 3)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> Modern Graphics Card Required (Supported By Manufacturer)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.10<br></li><li><strong>Processor:</strong> 2.8 GHz Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB Dedicated Graphics<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 (32 bit)<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 5000 (Shader Model 3)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> Modern Graphics Card Required (Supported By Manufacturer)</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 (32 bit)<br></li><li><strong>Processor:</strong> 2.8 GHz Quad Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+      },
+      "developers": [
+        "Leafy Games"
+      ],
+      "publishers": [
+        "Leafy Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        30936
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy PULSAR: Lost Colony",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 30936,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "PULSAR: Lost Colony - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_606d981e92798c2527230cc68c7f990e44ed3886.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_606d981e92798c2527230cc68c7f990e44ed3886.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_0290e051c424404781a3486576403fb6bdd72d57.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_0290e051c424404781a3486576403fb6bdd72d57.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_f9db0374c51e5ee1e7c9ac870425749148a34c40.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_f9db0374c51e5ee1e7c9ac870425749148a34c40.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_1e7a456698d831f3662d09c28b4a1928245d6091.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_1e7a456698d831f3662d09c28b4a1928245d6091.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_fe729101e970179abc53ffa1530c828a0c238266.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_fe729101e970179abc53ffa1530c828a0c238266.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_f38052a703c8815110fea7c1aab7a5acad5665ed.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_f38052a703c8815110fea7c1aab7a5acad5665ed.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_a235e33209758ad6f63d09d0d3a3d0c2db0603e7.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_a235e33209758ad6f63d09d0d3a3d0c2db0603e7.1920x1080.jpg?t=1624378806"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_41dcd50c7b8843dd02e7155d8c295041d6d502d7.600x338.jpg?t=1624378806",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/252870/ss_41dcd50c7b8843dd02e7155d8c295041d6d502d7.1920x1080.jpg?t=1624378806"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256840046,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256840046/movie.293x165.jpg?t=1624378796",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256840046/movie480_vp9.webm?t=1624378796",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256840046/movie_max_vp9.webm?t=1624378796"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256840046/movie480.mp4?t=1624378796",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256840046/movie_max.mp4?t=1624378796"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 4077
+      },
+      "achievements": {
+        "total": 41,
+        "highlighted": [
+          {
+            "name": "Veteran Crew",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/91c7dbc2a0f484aaf715fc4172da96dc8ea0e009.jpg"
+          },
+          {
+            "name": "The Ancient Sentry",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/f18a859d17129a4ac9107219f4fe395d293027f3.jpg"
+          },
+          {
+            "name": "No Questions Asked",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/c7ee36f1a762e9250ee6b5ce0deedbff5a3b89ef.jpg"
+          },
+          {
+            "name": "Sandscarred",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/b4d6aea24e19caea98e7e5d1e99b8e3dac928e72.jpg"
+          },
+          {
+            "name": "Big Spender",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/cda7ec351d4c72271c0c0c7095f7681854a302ea.jpg"
+          },
+          {
+            "name": "Master Chef",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/e000cf6596eab0684f99c60b711b6a6d3ca41a30.jpg"
+          },
+          {
+            "name": "Biscuit Madness",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/0e3c39b020663afdd5bea1c674d2620102931dd0.jpg"
+          },
+          {
+            "name": "Leap of Faith",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/ac9e69eb2a86627d98d2627ec7186887b28970d0.jpg"
+          },
+          {
+            "name": "The Caustic Corsair",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/c8e096119df9d69db29bcc5b964bdc0feb544d04.jpg"
+          },
+          {
+            "name": "Seeking Death",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252870/7f3c7c2eccd328209d34aef8d4a266c58e9ef321.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 22, 2021"
+      },
+      "support_info": {
+        "url": "https://www.pulsarthegame.com/faq",
+        "email": "team@leafygames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/252870/page_bg_generated_v6b.jpg?t=1624378806",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/252870/page_bg_generated.jpg?t=1624378806",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

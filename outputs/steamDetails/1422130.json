@@ -1,0 +1,322 @@
+{
+  "1422130": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "SimRail - The Railway Simulator",
+      "steam_appid": 1422130,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>CHECK OUT MORE OUR GAMES</h1><p><a href=\"https://store.steampowered.com/app/2582310/MetroSim__The_Subway_Simulator/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2582310/MetroSim__The_Subway_Simulator/</a><br><a href=\"https://store.steampowered.com/app/1472730/SimBus/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1472730/SimBus/</a></p><br><h1>About the Game</h1>SimRail is a new era of railway simulators. Realistic driving physics, the environment generated on the basis of geodetic data and an extensive multi-player mode are just some of the elements that game includes.<h2 class=\"bb_tag\"><strong>Join the travel...</strong></h2>and visit about 500 km of real routes created with all details. Choose present europan high speed, long distance and suburban tracks or travel back in time to '80 and drive steam train at sand railway of Upper Silesia, Poland - the socialist land of coal and steel.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/kabina.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Take control of a trains...</strong></h2>from different eras and drive safety to the final station on time. Most popular steam, diesel and electric vehicles uses realistic physics based on technology known before only in professional simulators for training drivers.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/tabor.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Enter signal box...</strong></h2>and become train dispatcher. Take a care of your station, prepare the path for the train keeping in mind the rules and schedule. Use devices from different eras, but remember that something can break!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/nastawnia.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Enjoy multiplayer...</strong></h2>and cooperate with players from around the world as a train driver oraz dispatcher with real-time weather and communication. Take over the selected train or signal box and start an adventure unprecedented in other rail simulators. It is our response to the expectations of players.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/multi.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>The quality of the graphics...</strong></h2>thanks to use of Unity game engine allows you to lose yourself in the virtual world. The grass and trees moving depends on the wind, dynamic weather system with puddles and snow drifts, living world with animated passengers connected with scenarios randomization.",
+      "about_the_game": "SimRail is a new era of railway simulators. Realistic driving physics, the environment generated on the basis of geodetic data and an extensive multi-player mode are just some of the elements that game includes.<h2 class=\"bb_tag\"><strong>Join the travel...</strong></h2>and visit about 500 km of real routes created with all details. Choose present europan high speed, long distance and suburban tracks or travel back in time to '80 and drive steam train at sand railway of Upper Silesia, Poland - the socialist land of coal and steel.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/kabina.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Take control of a trains...</strong></h2>from different eras and drive safety to the final station on time. Most popular steam, diesel and electric vehicles uses realistic physics based on technology known before only in professional simulators for training drivers.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/tabor.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Enter signal box...</strong></h2>and become train dispatcher. Take a care of your station, prepare the path for the train keeping in mind the rules and schedule. Use devices from different eras, but remember that something can break!<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/nastawnia.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>Enjoy multiplayer...</strong></h2>and cooperate with players from around the world as a train driver oraz dispatcher with real-time weather and communication. Take over the selected train or signal box and start an adventure unprecedented in other rail simulators. It is our response to the expectations of players.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1422130/extras/multi.gif?t=1700588535\" /><h2 class=\"bb_tag\"><strong>The quality of the graphics...</strong></h2>thanks to use of Unity game engine allows you to lose yourself in the virtual world. The grass and trees moving depends on the wind, dynamic weather system with puddles and snow drifts, living world with animated passengers connected with scenarios randomization.",
+      "short_description": "SimRail is new, advanced railway simulator. Master high-speed long-distance EMU, heavy freight hauls and suburban trains. Travel 500 km of geodetic-data based real routes. Become train dispatcher and control the traffic according to the schedule or cooperate with other players on multiplayer mode.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish<strong>*</strong>, Czech, Simplified Chinese, Russian, Hungarian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/header.jpg?t=1700588535",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/capsule_231x87.jpg?t=1700588535",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/capsule_184x69.jpg?t=1700588535",
+      "website": "https://www.facebook.com/simrail2021/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7 Service Pack 1, Windows 8 / 8.1 or Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4690 @ 3.5 GHz or AMD Ryzen 5 1500X @ 3.7 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 | AMD Radeon RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7 Service Pack 1, Windows 8 / 8.1 or Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 @ 3.6 GHz or AMD Ryzen 7 1700 @ 3.8 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 | AMD Radeon RX 590<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "SimRail S.A."
+      ],
+      "publishers": [
+        "PlayWay S.A."
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3499,
+        "final": 3499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$34.99"
+      },
+      "packages": [
+        499356
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy SimRail - The Railway Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 499356,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SimRail - The Railway Simulator - $34.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_d1966872b273364957e68e379031acb9a1cde4df.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_d1966872b273364957e68e379031acb9a1cde4df.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_bc0fbc87c7a180c079c7f5d3b18ba2dc1aa15f72.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_bc0fbc87c7a180c079c7f5d3b18ba2dc1aa15f72.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_6813606d1e395c0c3293afe7b3e34971a78a2865.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_6813606d1e395c0c3293afe7b3e34971a78a2865.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_9fa8f7f9a1de4734ad862db3d312b58d704a8bc6.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_9fa8f7f9a1de4734ad862db3d312b58d704a8bc6.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_eb973fc09f4f4efae907b0a1c91d9b9128c7a6a9.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_eb973fc09f4f4efae907b0a1c91d9b9128c7a6a9.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_0e3507f7946496be37ddfb6e5d460598fe204770.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_0e3507f7946496be37ddfb6e5d460598fe204770.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_96a4108287d6b78d22a9569b4995553dce4cd82d.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_96a4108287d6b78d22a9569b4995553dce4cd82d.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_0a7fc34bb21a205f7f9d82b1011a8110486a28d8.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_0a7fc34bb21a205f7f9d82b1011a8110486a28d8.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_eff87555d225a39916507e4fbf1467cdf8d82055.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_eff87555d225a39916507e4fbf1467cdf8d82055.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_e3b09b7609155cfe87de6a4f66d78981bb06073f.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_e3b09b7609155cfe87de6a4f66d78981bb06073f.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_74aef3e36a59e0ed6ad00b7cb25c749269bcb234.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_74aef3e36a59e0ed6ad00b7cb25c749269bcb234.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_ead0435c203d15af556b503043cbf4322109de50.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_ead0435c203d15af556b503043cbf4322109de50.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_94b44f4437154cdf5072aad04e6407a325a59106.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_94b44f4437154cdf5072aad04e6407a325a59106.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_c872653bc1a99acd076eaee1faef05552e0ff898.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_c872653bc1a99acd076eaee1faef05552e0ff898.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_3e5e87fc2336de2145e598dc4944e3b5f3b423fb.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_3e5e87fc2336de2145e598dc4944e3b5f3b423fb.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_386817aa2b9e91fa17de98d84dc82062c9fa316a.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_386817aa2b9e91fa17de98d84dc82062c9fa316a.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_fa6e599a2f80b178e488468cb68b891ff2cc2c8d.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_fa6e599a2f80b178e488468cb68b891ff2cc2c8d.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_43bc9b8e629ba1d628173af8f9ebaba3c8889b85.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_43bc9b8e629ba1d628173af8f9ebaba3c8889b85.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_d64bd607479e4ccc9209c41b40564d29f3856833.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_d64bd607479e4ccc9209c41b40564d29f3856833.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 35,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_3751455a9a134c577e55c38e82bb7b6f48a3f9f4.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_3751455a9a134c577e55c38e82bb7b6f48a3f9f4.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 43,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_316204451792ef51c43b94638ba37403fb07d92a.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_316204451792ef51c43b94638ba37403fb07d92a.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 46,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_619b020bc931f51541eff53828e72ad451a30983.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_619b020bc931f51541eff53828e72ad451a30983.1920x1080.jpg?t=1700588535"
+        },
+        {
+          "id": 47,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_b17da49552947d9a8cf0a0cdf7934d751732ea5d.600x338.jpg?t=1700588535",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/ss_b17da49552947d9a8cf0a0cdf7934d751732ea5d.1920x1080.jpg?t=1700588535"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256918085,
+          "name": "SimRail - Multiplayer Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256918085/movie.293x165.jpg?t=1669496409",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256918085/movie480_vp9.webm?t=1669496409",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256918085/movie_max_vp9.webm?t=1669496409"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256918085/movie480.mp4?t=1669496409",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256918085/movie_max.mp4?t=1669496409"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256900807,
+          "name": "SimRail - Gameplay Teaser",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256900807/movie.293x165.jpg?t=1660512560",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900807/movie480_vp9.webm?t=1660512560",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900807/movie_max_vp9.webm?t=1660512560"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256900807/movie480.mp4?t=1660512560",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256900807/movie_max.mp4?t=1660512560"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256865492,
+          "name": "SimRail Prologue - Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256865492/movie.293x165.jpg?t=1639707065",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865492/movie480_vp9.webm?t=1639707065",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865492/movie_max_vp9.webm?t=1639707065"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865492/movie480.mp4?t=1639707065",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865492/movie_max.mp4?t=1639707065"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256801251,
+          "name": "SimRail - first trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256801251/movie.293x165.jpg?t=1647955657",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256801251/movie480_vp9.webm?t=1647955657",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256801251/movie_max_vp9.webm?t=1647955657"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256801251/movie480.mp4?t=1647955657",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256801251/movie_max.mp4?t=1647955657"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2513
+      },
+      "achievements": {
+        "total": 4,
+        "highlighted": [
+          {
+            "name": "Mission finished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1422130/4182f43ac28b24e6545fc0997c82fabc32796eaf.jpg"
+          },
+          {
+            "name": "On time",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1422130/35adb101e6643279924fa3c68a076ebf9504424b.jpg"
+          },
+          {
+            "name": "Night run",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1422130/20c4d79d6463aa0ea2ddca15eaf1a6ad2c7591d4.jpg"
+          },
+          {
+            "name": "Heavy hauler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1422130/625dcb61abad2d3871cb86d0cc7b532714e3ceb2.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 13, 2023"
+      },
+      "support_info": {
+        "url": "https://forum.simrail.eu/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/page_bg_generated_v6b.jpg?t=1700588535",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1422130/page_bg_generated.jpg?t=1700588535",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

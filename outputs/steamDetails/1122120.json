@@ -1,0 +1,232 @@
+{
+  "1122120": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "STATIONflow",
+      "steam_appid": 1122120,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1245400
+      ],
+      "detailed_description": "Have you ever been stuck in a train or subway station, crowded and congested, fighting to get on the escalator? Have you ever wandered around lost, cursing the lack of proper signage? Have you ever thought to yourself <i>“I could design this station better”</i>?<br><br><strong>STATION<i>flow</i></strong> is a game about controlling the <i>flow</i> of thousands of passengers by building and managing an efficient underground train station.<br><br><ul class=\"bb_ul\"><li>Manage the <i>flow</i> of thousands of passengers with different needs, stats and targets, simulated in real time.<br></li><li>Build complex 3D layouts in a multilayered map.<br></li><li>Place and shape corridors and structures freely, without the constraints of a grid.<br></li><li>Connect your station with stairs, escalators and elevators as efficiently as you can, but make sure everything is accessible.<br></li><li>Keep things functional and efficient: your goal is to avoid congestion and to get passengers to where they want to go as quickly and smoothly as possible.<br></li><li>Guide passengers via signage, and watch the <i>flow</i> of passengers change. Manipulate the path people take to avoid crowds—sometimes the shortest route is not the most efficient.<br></li><li>Satisfy your passengers’ desires for various services: place vending machines and kiosks, construct bathrooms, restaurants and more. Passengers will expect more than just to find their exit on time.<br></li><li>Don’t forget about upkeeps. You’re on a budget, so you'll want to keep your station lean and efficient⁠—but make sure it isn't at the cost of passenger satisfaction!<br></li><li>And of course, the higher-ups are always watching. You will receive daily evaluations based on passenger feedback. Do well, and you will be rewarded with an extended budget and additional construction options, but also given increased responsibilities. Do poorly, and you may well be on your way to bankruptcy...<br></li><li>Create your own maps and share them through the Steam Workshop, or browse other players' creations for your next playthrough.<br></li><li>Adjust the game's difficulty to your liking via multiple settings. Give yourself a relaxed sandbox experience, or something to really test your station-building abilities⁠...</li></ul>Good luck.",
+      "about_the_game": "Have you ever been stuck in a train or subway station, crowded and congested, fighting to get on the escalator? Have you ever wandered around lost, cursing the lack of proper signage? Have you ever thought to yourself <i>“I could design this station better”</i>?<br><br><strong>STATION<i>flow</i></strong> is a game about controlling the <i>flow</i> of thousands of passengers by building and managing an efficient underground train station.<br><br><ul class=\"bb_ul\"><li>Manage the <i>flow</i> of thousands of passengers with different needs, stats and targets, simulated in real time.<br></li><li>Build complex 3D layouts in a multilayered map.<br></li><li>Place and shape corridors and structures freely, without the constraints of a grid.<br></li><li>Connect your station with stairs, escalators and elevators as efficiently as you can, but make sure everything is accessible.<br></li><li>Keep things functional and efficient: your goal is to avoid congestion and to get passengers to where they want to go as quickly and smoothly as possible.<br></li><li>Guide passengers via signage, and watch the <i>flow</i> of passengers change. Manipulate the path people take to avoid crowds—sometimes the shortest route is not the most efficient.<br></li><li>Satisfy your passengers’ desires for various services: place vending machines and kiosks, construct bathrooms, restaurants and more. Passengers will expect more than just to find their exit on time.<br></li><li>Don’t forget about upkeeps. You’re on a budget, so you'll want to keep your station lean and efficient⁠—but make sure it isn't at the cost of passenger satisfaction!<br></li><li>And of course, the higher-ups are always watching. You will receive daily evaluations based on passenger feedback. Do well, and you will be rewarded with an extended budget and additional construction options, but also given increased responsibilities. Do poorly, and you may well be on your way to bankruptcy...<br></li><li>Create your own maps and share them through the Steam Workshop, or browse other players' creations for your next playthrough.<br></li><li>Adjust the game's difficulty to your liking via multiple settings. Give yourself a relaxed sandbox experience, or something to really test your station-building abilities⁠...</li></ul>Good luck.",
+      "short_description": "STATIONflow is a game about controlling the flow of thousands of passengers by building and managing an efficient underground train station.",
+      "supported_languages": "English, French, German, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese",
+      "reviews": "“Overall, [STATIONflow] is a solid strategy-simulation title with plenty of depth in its simple and easy to understand design. It brings several degrees of challenge, but at the same time, allows you to tackle each at your own pace and in a way that suits your style.”<br>8/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamereactor.eu%2Fstationflow-review%2F\" target=\"_blank\" rel=\" noopener\"  >GameReactor</a><br><br>“STATIONflow delivers a fantastically engrossing dilemma. Starting from a simple platform, it returns an astonishingly deep experience that plays like Mini Metro from another perspective.”<br>7/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamespace.com%2Ffeatured%2Fstationflow-review%2F\" target=\"_blank\" rel=\" noopener\"  >GameSpace</a><br><br>“STATIONflow is a joyful and creative toybox, with plenty of room for tinkering and enacting crazy designs.”<br>7/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.indiegamewebsite.com%2F2020%2F04%2F15%2Fstationflow-review%2F\" target=\"_blank\" rel=\" noopener\"  >Indie Game Website</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/header.jpg?t=1666856281",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/capsule_231x87.jpg?t=1666856281",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/capsule_184x69.jpg?t=1666856281",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (64-bit only)<br></li><li><strong>Processor:</strong> 2.5MHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit only)<br></li><li><strong>Processor:</strong> 3.0MHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 Mavericks<br></li><li><strong>Processor:</strong> 2.5MHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1.5GB VRAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.14 Mojave<br></li><li><strong>Processor:</strong> 3.0MHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit only<br></li><li><strong>Processor:</strong> 2.5MHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit only<br></li><li><strong>Processor:</strong> 3.0MHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "legal_notice": "©︎2020 EXNOA LLC",
+      "developers": [
+        "DMM GAMES"
+      ],
+      "publishers": [
+        "DMM GAMES"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1799,
+        "final": 1799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$17.99"
+      },
+      "packages": [
+        380385
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy STATIONflow",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 380385,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "STATIONflow - $17.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 74,
+        "url": "https://www.metacritic.com/game/pc/stationflow?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_04895d8a6839c21967e098e15690853b8737031c.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_04895d8a6839c21967e098e15690853b8737031c.1920x1080.jpg?t=1666856281"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_3e5bb991ac9ca57c45c78e13dd8ee9a07341efe4.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_3e5bb991ac9ca57c45c78e13dd8ee9a07341efe4.1920x1080.jpg?t=1666856281"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_c2b52bc1f2c252247ec84eaba47a9e18954bbcce.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_c2b52bc1f2c252247ec84eaba47a9e18954bbcce.1920x1080.jpg?t=1666856281"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_325d7b4775108f0b59b075ccec6da099acd8862a.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_325d7b4775108f0b59b075ccec6da099acd8862a.1920x1080.jpg?t=1666856281"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_3c42cf4c9e78cd8cd1b7da6f00f55d255014db94.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_3c42cf4c9e78cd8cd1b7da6f00f55d255014db94.1920x1080.jpg?t=1666856281"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_e3844c869159bae33d73285b3751503c0906f8cc.600x338.jpg?t=1666856281",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/ss_e3844c869159bae33d73285b3751503c0906f8cc.1920x1080.jpg?t=1666856281"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256781767,
+          "name": "STATIONflow Launch Trailer EN",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256781767/movie.293x165.jpg?t=1586960517",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256781767/movie480_vp9.webm?t=1586960517",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256781767/movie_max_vp9.webm?t=1586960517"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256781767/movie480.mp4?t=1586960517",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256781767/movie_max.mp4?t=1586960517"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 429
+      },
+      "achievements": {
+        "total": 30,
+        "highlighted": [
+          {
+            "name": "Perfection",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/868307f4812f437e1ccb149a855d40865fe24311.jpg"
+          },
+          {
+            "name": "Not Because It's Easy...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/9b90520466dbcfd9f73f7a67c24b7bc8272f6db0.jpg"
+          },
+          {
+            "name": "...But Because It's Very Hard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/9543fa9c8c34bca4458c5d61aac92fe733027fc9.jpg"
+          },
+          {
+            "name": "Just A Few",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/1731ba716c876b2e6198f05f75b1cb04f2d18402.jpg"
+          },
+          {
+            "name": "A Few More",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/df1e549c0228f3bcb65d55899e052fb41c25c935.jpg"
+          },
+          {
+            "name": "One Mirrion Troops",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/c9d2272a2f77917af7fa14b1287c52403e7f17df.jpg"
+          },
+          {
+            "name": "Lucky Seven",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/41e3233d398d4409bf07f5f5f6f1cc5f7e39aef5.jpg"
+          },
+          {
+            "name": "Tokyo",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/8e3fff5293c4b6ea2e72c355d36570fbf42434fc.jpg"
+          },
+          {
+            "name": "A Thousand",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/5500ac7c373aff5871c5ade36f5d87931fcfdef1.jpg"
+          },
+          {
+            "name": "Three is a Crowd",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1122120/360596414760ef8683a8f4bb9b6c7d9f875870e6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 15, 2020"
+      },
+      "support_info": {
+        "url": "https://dmmgames-os-inquiry.zendesk.com/hc/ja/requests/new",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/page_bg_generated_v6b.jpg?t=1666856281",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/page.bg.jpg?t=1666856281",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "619150": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "while True: learn()",
+      "steam_appid": 619150,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1019360,
+        1022720,
+        1026800
+      ],
+      "detailed_description": "<h1>Wishlist to stay updated!</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fludenio\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/discord_small.png?t=1702560610\" /></a></p><br><h1>About the Game</h1><a href=\"https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/</a><br><br><strong>while True: learn()</strong> is a puzzle/simulation game about even more puzzling stuff: machine learning, neural networks, big data and AI. But most importantly, it’s about understanding your cat.<br><br>In this game, you play as a coder who accidentally found out that their cat is extremely good at coding, but not as good at speaking human language. Now this coder (it’s you!) must learn all there is to know about machine learning and use visual programming to build a cat-to-human speech recognition system.<br><br>This game fits best for...<br>- People who want to know more about how machine learning and related technologies work<br>- Parents and teachers who are looking for a fun and easy way to make an intro to logical thinking, programming, and technologies for kids<br>- Programmers who want to learn new concepts that they can apply to their own coding<br>- Those who want to play games and not feel guilty about ‘wasting their time’ (although we believe you shouldn’t feel guilty at all while playing games!)<br>- Players who like to keep their brains busy and working in different ways, while still having fun<br>- Gamers looking to improve their problem-solving skills and feel immense sense of satisfaction and achievement that comes along with it<br>- People who like smart cats<h2 class=\"bb_tag\"><strong>Learn how machine learning works in real life!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_learn.gif?t=1702560610\" /><br>The game is loosely based on real-life machine learning technologies: from goofy Expert Systems to mighty Recurrent Neural Networks, capable of predicting the future. Don’t worry: it all plays out as a puzzle game. No coding experience required!<h2 class=\"bb_tag\"><strong>Train yourself into a data science wizard!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_wizard.gif?t=1702560610\" /><br>Drag objects around your screen with a mouse! Connect them with lines (oh yeah)! Try. Fail. Optimize. Try again. Then press “Release” button and see that sweet pieces of data flow smoothly through your screen.<h2 class=\"bb_tag\"><strong>Embrace an adventurous lifestyle of a machine learning specialist! </strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_lifestyle.gif?t=1702560610\" /><br>Designing a groundbreaking technology requires time, experience and money. That means you’ll have to work as a freelancer, with all the excitement that comes along with it. Receive emails! Accept contracts! Sit alone in a dark room for days without saying a single word! Socialize on forums! That’s what real data scientists do!<h2 class=\"bb_tag\"><strong>Coding just got real!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_world.gif?t=1702560610\" /><br>Our quests are based on actual problems, solved by machine learning. This includes building a self-driving car (with your cat as a pilot). And if you really want to test your programming might, you can become a CTO of a startup: it’s your skills and your schemes against the savage laws of the market! Earn a fortune, flip off your bosses and become a tech guru… Or lose everything and crawl back to the doorstep of HR department: at least it was worth trying, right?<h2 class=\"bb_tag\"><strong>Improve your gear, improve your life!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_improve.gif?t=1702560610\" /><br>Once you ensure a stable cashflow, you’ll be able to buy yourself a bunch of fancy hardware to improve your performance. But it’s not just about the hardware! Buy yourself a new smartphone or a geeky figurine! Buy fancy outfits for your cat! Hell, you can even buy yourself an aloe!<br><br><strong>Fun fact:</strong> this is what machine learning specialists actually do. Now, you can become one of them (minus the money)! while True: learn() is the best game about being a data science specialist because no one else has been weird enough to make another one!",
+      "about_the_game": "<a href=\"https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >https://store.steampowered.com/app/1724140/Craftomation_101_Programming__Craft/</a><br><br><strong>while True: learn()</strong> is a puzzle/simulation game about even more puzzling stuff: machine learning, neural networks, big data and AI. But most importantly, it’s about understanding your cat.<br><br>In this game, you play as a coder who accidentally found out that their cat is extremely good at coding, but not as good at speaking human language. Now this coder (it’s you!) must learn all there is to know about machine learning and use visual programming to build a cat-to-human speech recognition system.<br><br>This game fits best for...<br>- People who want to know more about how machine learning and related technologies work<br>- Parents and teachers who are looking for a fun and easy way to make an intro to logical thinking, programming, and technologies for kids<br>- Programmers who want to learn new concepts that they can apply to their own coding<br>- Those who want to play games and not feel guilty about ‘wasting their time’ (although we believe you shouldn’t feel guilty at all while playing games!)<br>- Players who like to keep their brains busy and working in different ways, while still having fun<br>- Gamers looking to improve their problem-solving skills and feel immense sense of satisfaction and achievement that comes along with it<br>- People who like smart cats<h2 class=\"bb_tag\"><strong>Learn how machine learning works in real life!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_learn.gif?t=1702560610\" /><br>The game is loosely based on real-life machine learning technologies: from goofy Expert Systems to mighty Recurrent Neural Networks, capable of predicting the future. Don’t worry: it all plays out as a puzzle game. No coding experience required!<h2 class=\"bb_tag\"><strong>Train yourself into a data science wizard!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_wizard.gif?t=1702560610\" /><br>Drag objects around your screen with a mouse! Connect them with lines (oh yeah)! Try. Fail. Optimize. Try again. Then press “Release” button and see that sweet pieces of data flow smoothly through your screen.<h2 class=\"bb_tag\"><strong>Embrace an adventurous lifestyle of a machine learning specialist! </strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_lifestyle.gif?t=1702560610\" /><br>Designing a groundbreaking technology requires time, experience and money. That means you’ll have to work as a freelancer, with all the excitement that comes along with it. Receive emails! Accept contracts! Sit alone in a dark room for days without saying a single word! Socialize on forums! That’s what real data scientists do!<h2 class=\"bb_tag\"><strong>Coding just got real!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_world.gif?t=1702560610\" /><br>Our quests are based on actual problems, solved by machine learning. This includes building a self-driving car (with your cat as a pilot). And if you really want to test your programming might, you can become a CTO of a startup: it’s your skills and your schemes against the savage laws of the market! Earn a fortune, flip off your bosses and become a tech guru… Or lose everything and crawl back to the doorstep of HR department: at least it was worth trying, right?<h2 class=\"bb_tag\"><strong>Improve your gear, improve your life!</strong></h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/619150/extras/desc_improve.gif?t=1702560610\" /><br>Once you ensure a stable cashflow, you’ll be able to buy yourself a bunch of fancy hardware to improve your performance. But it’s not just about the hardware! Buy yourself a new smartphone or a geeky figurine! Buy fancy outfits for your cat! Hell, you can even buy yourself an aloe!<br><br><strong>Fun fact:</strong> this is what machine learning specialists actually do. Now, you can become one of them (minus the money)! while True: learn() is the best game about being a data science specialist because no one else has been weird enough to make another one!",
+      "short_description": "You’re a machine learning specialist who makes neural networks but your cat seems to be better at it. Now you must solve puzzles to build a cat-to-human translation system (who knows what else this cat is capable of!). Earn a fortune, buy kickass cat outfits, learn how machine learning really works!",
+      "supported_languages": "English, Russian, German, Hungarian, Korean, Greek, Portuguese - Brazil, Simplified Chinese, Polish, French, Italian, Spanish - Spain, Czech, Japanese, Spanish - Latin America, Traditional Chinese, Turkish, Vietnamese, Arabic, Bulgarian, Danish, Dutch, Finnish, Indonesian, Portuguese - Portugal, Romanian, Swedish, Thai, Ukrainian, Hebrew, Norwegian",
+      "reviews": "“WT:L has truly turned out to be a one-of-a-kind title. It's a rare case when a studio tackles a bold task and manages to create a game never seen before.”<br><a href=\"http://ru.ign.com/while-true-learn/89749/feature/ludenio-o-razrabotke-nestandartnykh-igr\" target=\"_blank\" rel=\"\"  >IGN</a><br><br>“WT:L is a fantastic puzzle game”<br>8.5 – <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcultureofgaming.com%2Fwhile-true-learn-review%2F\" target=\"_blank\" rel=\" noopener\"  >Culture Of Gaming</a><br><br>“Want to understand neural networks? This game might teach you how.”<br><a href=\"https://www.pcgamer.com/use-machine-learning-to-talk-to-a-cat-in-while-true-learn/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/619150/header_alt_assets_2.jpg?t=1702560610",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/619150/capsule_231x87_alt_assets_2.jpg?t=1702560610",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/619150/capsule_184x69_alt_assets_2.jpg?t=1702560610",
+      "website": "https://luden.io/wtl/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10 / 11<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13+<br></li><li><strong>Processor:</strong> Apple Silicon is supported / Intel 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "legal_notice": "All rights reserved. All trademarks and registered trademarks are the property of their respective owners.",
+      "developers": [
+        "Luden.io"
+      ],
+      "publishers": [
+        "Luden.io"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1299,
+        "final": 1299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$12.99"
+      },
+      "packages": [
+        166198,
+        418393
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy while True: learn()",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 166198,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "while True: learn() - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            },
+            {
+              "packageid": 418393,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "while True: learn() - Academic License - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_cc0cffc39063993c96bf8d95d71b7410bfa0d9c3.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_cc0cffc39063993c96bf8d95d71b7410bfa0d9c3.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_d47401f0c2cb061fefed9962a93142941e2e628b.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_d47401f0c2cb061fefed9962a93142941e2e628b.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_a9d7d2ea9580ec666612638d336ae9bab1b3236d.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_a9d7d2ea9580ec666612638d336ae9bab1b3236d.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_34c4b0f02dfcc170346771f47e813e5c859bd73c.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_34c4b0f02dfcc170346771f47e813e5c859bd73c.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_76cd78937a5dce741d7936d1d1d20776b2afeb0a.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_76cd78937a5dce741d7936d1d1d20776b2afeb0a.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_24a10b1dca8dd0d2b7acb79ec8bd78098e24cad8.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_24a10b1dca8dd0d2b7acb79ec8bd78098e24cad8.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_6de516880e7e4f4ff8c8957c1dd576179b8dcf64.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_6de516880e7e4f4ff8c8957c1dd576179b8dcf64.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_dbecbcb0320e6ca5ca632cd66db6ed50591130ca.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_dbecbcb0320e6ca5ca632cd66db6ed50591130ca.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_44e61fe615e52507847450766a85670cdd5574a1.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_44e61fe615e52507847450766a85670cdd5574a1.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_e810d59be19280e60036305005adf7f97027908f.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_e810d59be19280e60036305005adf7f97027908f.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0603b17406d77bac0854e3816479ea70332dc4d2.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0603b17406d77bac0854e3816479ea70332dc4d2.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_18bffdb2f8a0bc2db4ba70ff793fc65567b7e8ee.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_18bffdb2f8a0bc2db4ba70ff793fc65567b7e8ee.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_e386cdbd0fd97a4899c96541fc447def5c738bb4.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_e386cdbd0fd97a4899c96541fc447def5c738bb4.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_3d49f4f8be699c8f976e1fbeadf2a2cfe82d8bf9.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_3d49f4f8be699c8f976e1fbeadf2a2cfe82d8bf9.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_366c764780796f5bf239b109bab38c9db666c998.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_366c764780796f5bf239b109bab38c9db666c998.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_f7ce43bd840900de2b73db1305a8442619f69e8a.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_f7ce43bd840900de2b73db1305a8442619f69e8a.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_215d6ea1c5b31cc1a72007532150f360f1c1fe3d.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_215d6ea1c5b31cc1a72007532150f360f1c1fe3d.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0e84be62e076517d81de6f9654b67371c5cc53e1.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0e84be62e076517d81de6f9654b67371c5cc53e1.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_42b0c6543d63d2a2cab70902464bb43b23f0d417.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_42b0c6543d63d2a2cab70902464bb43b23f0d417.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_7b449e12ff249fa9ae4397b9ad5aa31cc80a1234.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_7b449e12ff249fa9ae4397b9ad5aa31cc80a1234.1920x1080.jpg?t=1702560610"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0db0a23980645a7f98ef617d8738d5dd96da8301.600x338.jpg?t=1702560610",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/619150/ss_0db0a23980645a7f98ef617d8738d5dd96da8301.1920x1080.jpg?t=1702560610"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256735426,
+          "name": "WTL Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256735426/movie.293x165.jpg?t=1699342600",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256735426/movie480_vp9.webm?t=1699342600",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256735426/movie_max_vp9.webm?t=1699342600"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256735426/movie480.mp4?t=1699342600",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256735426/movie_max.mp4?t=1699342600"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 5850
+      },
+      "achievements": {
+        "total": 31,
+        "highlighted": [
+          {
+            "name": "We need more gold!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/a367250a7c41857d5a4997417a3dc3f770d4168e.jpg"
+          },
+          {
+            "name": "First .. Bit?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/9f0db507427c176878612500297a8ec539422063.jpg"
+          },
+          {
+            "name": "The dawn of civilization",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/c342435a2ffdee79482bb8fc402daa860d0a8881.jpg"
+          },
+          {
+            "name": "Step by step",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/49b9f1bcef30c85410efda16f2cba0c2153531b4.jpg"
+          },
+          {
+            "name": "That's one small step for a man...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/1852c94910b7ac8d4041e281f57004a023298f12.jpg"
+          },
+          {
+            "name": "Skynet, is that you?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/2803cbf53e3809459618b785496fb5eda273a8f9.jpg"
+          },
+          {
+            "name": "Cyber-Geek 2047",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/4fc6d984dca1511d9397fd6e05c7d87525693e7c.jpg"
+          },
+          {
+            "name": "Magna cum laude",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/51052b98b7d6c81dd4eb1835ea5a467f38d66382.jpg"
+          },
+          {
+            "name": "Speak friend and enter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/d6ea5a3c9028cffa05938659d71e1c78059736b6.jpg"
+          },
+          {
+            "name": "Half a year at a low interest rate",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/619150/459476e6dce648445f9edb5ad0c93926bbcc27bf.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 17, 2019"
+      },
+      "support_info": {
+        "url": "https://luden.io/wtl/",
+        "email": "info@luden.io"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/619150/page_bg_generated_v6b.jpg?t=1702560610",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/619150/page_bg_generated.jpg?t=1702560610",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

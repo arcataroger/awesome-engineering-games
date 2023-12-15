@@ -1,0 +1,318 @@
+{
+  "644930": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "They Are Billions",
+      "steam_appid": 644930,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1100130
+      ],
+      "detailed_description": "<strong>They Are Billions</strong> is a strategy game in a distant future about building and managing human colonies after a zombie apocalypse destroyed almost all of human kind. Now there are only a few thousand humans left alive that must struggle to survive under the threat of the infection. Billions of infected roam around the world in massive swarms seeking the last living human colonies.<h2 class=\"bb_tag\">Campaign: The New Empire - Available now!</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/TheNewEmpireBanner_600px.jpg?t=1595631876\" /><br>Lead the campaign under the orders of Quintus Crane, ruler of the New Empire, and reconquer the lands devastated by the infected.<br><br><ul class=\"bb_ul\"><li>48 missions with more than 60 hours of gameplay.<br></li><li>Build fortified colonies to survive in infected territories<br></li><li>Destroy the swarms of infected with the Imperial Army.<br></li><li>Make your colonies evolve with more than 90 available technologies.<br></li><li>Explore the ancient human fortresses with your Hero.<br></li><li>Discover the story behind the apocalypse... how did the pandemic start?</li></ul><h2 class=\"bb_tag\">Survival Mode</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/TheyAreBillions-GuardTowers600px.jpg?t=1595631876\" /><br>In this mode, a random world is generated with its own events, weather, geography, and infected population. You must build a successful colony that must survive for a specific period of time against the swarms of infected. It is a fast and ultra addictive game mode. We plan to release a challenge of the week where all players must play the same random map. The best scores will be published in a leaderboard.<h2 class=\"bb_tag\">Real Time with Pause</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureRTSPaused.jpg?t=1595631876\" /><br>This is a real-time strategy game, but don’t get too nervous. <strong>You can pause the action to take the best strategic and tactical decisions.</strong><br>In Pause Mode, you can place structures to build, give orders to your army, or consult all of the game’s information.<br>This game is all about strategy, not player performance or the player’s skill to memorize and quickly execute dozens of key commands. Pause the game and take all the time you need!<h2 class=\"bb_tag\">Build your Colony</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/They-Are-Billions---Foundry600px.jpg?t=1595631876\" /><br>Build dwellings and acquire food for the colonists. They will come to live and work for the colony.<br>Collect resources from the environment using various building structures. Upgrade buildings to make them more efficient.<br>Expand the energy distribution of the colony by placing Tesla Towers and build mills and power plants to feed the energy to your buildings.<br>Build walls, gates, towers, and structures to watch the surroundings. Don’t let the infected take over the colony!<h2 class=\"bb_tag\">Build an Army</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureArmy.jpg?t=1595631876\" /><br>What kind of people would want to combat the infected?<br>Only the maddest ones. Train and contract mercenaries to protect the colony. They demand their money and food, and you will have to listen to their awful comments, but these tormented heroes will be your best weapon to destroy the infected.<br>Every unit is unique and has their own skills and personality – discover them!<h2 class=\"bb_tag\">Thousands of Units on Screen</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/LucifersInTheDesert600px.jpg?t=1595631876\" /><br>Yes! They are billions! The world is full of infected creatures… they roam, smell, and listen. Every one of them has their own AI. Make noise and they will come – kill some of them to access an oil deposit and hundred of them will come to investigate.<br>We have created our custom engine to handle hordes of thousands of the infected, up to 20,000 units in real time.<br>Do you think your colony is safe? Wait for the swarms of thousands of infected that are roaming the world. Sometimes your colony is in their path!<h2 class=\"bb_tag\">Prevent the Infection</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureInfection.jpg?t=1595631876\" /><br>If just one of the infected breaks into a building, all the colonies and workers inside will become infected. The infected workers will then run rabid to infect more buildings. Infections must be eradicated from the beginning, otherwise, it will grow exponentially becoming impossible to contain.<h2 class=\"bb_tag\">Beautiful 4K Graphics!</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/Feature4K.jpg?t=1595631876\" /><br>Prepare to enjoy these ultra high definition graphics. Our artists have created tons of art pieces: Beautiful buildings with their own animations, thousands of frames of animation to get the smoothest movements and everything with a crazy Steampunk and Victorian style!",
+      "about_the_game": "<strong>They Are Billions</strong> is a strategy game in a distant future about building and managing human colonies after a zombie apocalypse destroyed almost all of human kind. Now there are only a few thousand humans left alive that must struggle to survive under the threat of the infection. Billions of infected roam around the world in massive swarms seeking the last living human colonies.<h2 class=\"bb_tag\">Campaign: The New Empire - Available now!</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/TheNewEmpireBanner_600px.jpg?t=1595631876\" /><br>Lead the campaign under the orders of Quintus Crane, ruler of the New Empire, and reconquer the lands devastated by the infected.<br><br><ul class=\"bb_ul\"><li>48 missions with more than 60 hours of gameplay.<br></li><li>Build fortified colonies to survive in infected territories<br></li><li>Destroy the swarms of infected with the Imperial Army.<br></li><li>Make your colonies evolve with more than 90 available technologies.<br></li><li>Explore the ancient human fortresses with your Hero.<br></li><li>Discover the story behind the apocalypse... how did the pandemic start?</li></ul><h2 class=\"bb_tag\">Survival Mode</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/TheyAreBillions-GuardTowers600px.jpg?t=1595631876\" /><br>In this mode, a random world is generated with its own events, weather, geography, and infected population. You must build a successful colony that must survive for a specific period of time against the swarms of infected. It is a fast and ultra addictive game mode. We plan to release a challenge of the week where all players must play the same random map. The best scores will be published in a leaderboard.<h2 class=\"bb_tag\">Real Time with Pause</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureRTSPaused.jpg?t=1595631876\" /><br>This is a real-time strategy game, but don’t get too nervous. <strong>You can pause the action to take the best strategic and tactical decisions.</strong><br>In Pause Mode, you can place structures to build, give orders to your army, or consult all of the game’s information.<br>This game is all about strategy, not player performance or the player’s skill to memorize and quickly execute dozens of key commands. Pause the game and take all the time you need!<h2 class=\"bb_tag\">Build your Colony</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/They-Are-Billions---Foundry600px.jpg?t=1595631876\" /><br>Build dwellings and acquire food for the colonists. They will come to live and work for the colony.<br>Collect resources from the environment using various building structures. Upgrade buildings to make them more efficient.<br>Expand the energy distribution of the colony by placing Tesla Towers and build mills and power plants to feed the energy to your buildings.<br>Build walls, gates, towers, and structures to watch the surroundings. Don’t let the infected take over the colony!<h2 class=\"bb_tag\">Build an Army</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureArmy.jpg?t=1595631876\" /><br>What kind of people would want to combat the infected?<br>Only the maddest ones. Train and contract mercenaries to protect the colony. They demand their money and food, and you will have to listen to their awful comments, but these tormented heroes will be your best weapon to destroy the infected.<br>Every unit is unique and has their own skills and personality – discover them!<h2 class=\"bb_tag\">Thousands of Units on Screen</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/LucifersInTheDesert600px.jpg?t=1595631876\" /><br>Yes! They are billions! The world is full of infected creatures… they roam, smell, and listen. Every one of them has their own AI. Make noise and they will come – kill some of them to access an oil deposit and hundred of them will come to investigate.<br>We have created our custom engine to handle hordes of thousands of the infected, up to 20,000 units in real time.<br>Do you think your colony is safe? Wait for the swarms of thousands of infected that are roaming the world. Sometimes your colony is in their path!<h2 class=\"bb_tag\">Prevent the Infection</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/FeatureInfection.jpg?t=1595631876\" /><br>If just one of the infected breaks into a building, all the colonies and workers inside will become infected. The infected workers will then run rabid to infect more buildings. Infections must be eradicated from the beginning, otherwise, it will grow exponentially becoming impossible to contain.<h2 class=\"bb_tag\">Beautiful 4K Graphics!</h2><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/644930/extras/Feature4K.jpg?t=1595631876\" /><br>Prepare to enjoy these ultra high definition graphics. Our artists have created tons of art pieces: Beautiful buildings with their own animations, thousands of frames of animation to get the smoothest movements and everything with a crazy Steampunk and Victorian style!",
+      "short_description": "They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?",
+      "supported_languages": "English<strong>*</strong>, Spanish - Spain, French, German, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Italian<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/644930/header.jpg?t=1595631876",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/644930/capsule_231x87.jpg?t=1595631876",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/644930/capsule_184x69.jpg?t=1595631876",
+      "website": "http://www.numantiangames.com/theyarebillions",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10 (32 and 64 bits)<br></li><li><strong>Processor:</strong> INTEL, AMD 2 cores CPU at 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD3000, Radeon, Nvidia card with shader model 3, 1GB video ram.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Minimum resolution: 1360x768, recomended FULL HD 1920x1080.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8, 10  (64 bits)<br></li><li><strong>Processor:</strong> INTEL. AMD 4 cores CPU at 3Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon 7950 or above, Nvidia GTX 670 or above.  4GB video ram.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> 4K Monitor (3840x2160)</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Copyright Numantian Games 2018.",
+      "developers": [
+        "Numantian Games"
+      ],
+      "publishers": [
+        "Numantian Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        180987,
+        303228
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy They Are Billions",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 180987,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "They Are Billions - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            },
+            {
+              "packageid": 303228,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "They Are Billions - Commercial License - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 77,
+        "url": "https://www.metacritic.com/game/pc/they-are-billions?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6df3b09ed1be7b6e7d3db4d89cddba9709c3cf1e.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6df3b09ed1be7b6e7d3db4d89cddba9709c3cf1e.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_c886762978b9088bacd9d1b69681f5b2fe40ad8b.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_c886762978b9088bacd9d1b69681f5b2fe40ad8b.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_e53b2c7d2d71caa35c95653d10e9dda925d1c9a6.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_e53b2c7d2d71caa35c95653d10e9dda925d1c9a6.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6585e02470091ca84b8dcd3a3079976ad197fbcc.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6585e02470091ca84b8dcd3a3079976ad197fbcc.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_e34e580ea478bdc88935d3fac6b5df5319832ff7.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_e34e580ea478bdc88935d3fac6b5df5319832ff7.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_507057a725883d22e643ca54da6219bdbaa077b2.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_507057a725883d22e643ca54da6219bdbaa077b2.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_b389baab5bedc42d0a4dcbfa13738914a5f12183.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_b389baab5bedc42d0a4dcbfa13738914a5f12183.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_c22cdb6b95177b1c406f36acd755bd68cfc45e13.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_c22cdb6b95177b1c406f36acd755bd68cfc45e13.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_4c32c120efcf58bac44ae8316f22a1b2a722185f.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_4c32c120efcf58bac44ae8316f22a1b2a722185f.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_932f662211434939a57ccdb76bb739166742cd12.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_932f662211434939a57ccdb76bb739166742cd12.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_19bfd289a70f4076a69ec6e6734377779be5545c.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_19bfd289a70f4076a69ec6e6734377779be5545c.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_a00653eeaee1fceba207426ca93ccc13ea5c46a7.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_a00653eeaee1fceba207426ca93ccc13ea5c46a7.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_997b104c194f3d2627f8471bd51020ed16523727.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_997b104c194f3d2627f8471bd51020ed16523727.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_5a6c3c13ddf90b45481a49eb5fa14df542158658.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_5a6c3c13ddf90b45481a49eb5fa14df542158658.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6f59817caddc20fab4bd2b3e5ceed4d8fa27d494.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_6f59817caddc20fab4bd2b3e5ceed4d8fa27d494.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_b48a595ba19bc1290cec6ac91eb10c0aea1fc753.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_b48a595ba19bc1290cec6ac91eb10c0aea1fc753.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_7bad76a955454c67b3407c22694573ab13288351.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_7bad76a955454c67b3407c22694573ab13288351.1920x1080.jpg?t=1595631876"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_3590cb48794c93c85a15d7e90b474e8361be3519.600x338.jpg?t=1595631876",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/644930/ss_3590cb48794c93c85a15d7e90b474e8361be3519.1920x1080.jpg?t=1595631876"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256753058,
+          "name": "The New Empire",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256753058/movie.293x165.jpg?t=1560875080",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256753058/movie480.webm?t=1560875080",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256753058/movie_max.webm?t=1560875080"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256753058/movie480.mp4?t=1560875080",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256753058/movie_max.mp4?t=1560875080"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256685679,
+          "name": "They Are Billions - Teaser",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256685679/movie.293x165.jpg?t=1496212471",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685679/movie480.webm?t=1496212471",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685679/movie_max.webm?t=1496212471"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256685679/movie480.mp4?t=1496212471",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256685679/movie_max.mp4?t=1496212471"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 39797
+      },
+      "achievements": {
+        "total": 34,
+        "highlighted": [
+          {
+            "name": "Infected Killer Level 1",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/8434bf6a0faf99d5de4c8b888fb5f3ca5a724f3d.jpg"
+          },
+          {
+            "name": "Infected Killer Level 2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/9c8f1327be2a7e2aa04139cd374fb080e118bc54.jpg"
+          },
+          {
+            "name": "Infected Killer Level 3",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/4546d160ae496053086cea57d227b56c57611420.jpg"
+          },
+          {
+            "name": "Infected Killer Level 4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/eeff6a8d1dabd1a0067be28e2bcb37e7d4ed3a7e.jpg"
+          },
+          {
+            "name": "Infected Killer Level 5",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/85c017f4481b3459f9807274d0e78216bfffa035.jpg"
+          },
+          {
+            "name": "Infected Killer Level 6",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/662bd2ae5b9040046ea9e8576bb384d212afcaf8.jpg"
+          },
+          {
+            "name": "Infected Killer Level 7",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/cb04c9fdfb09eaf069901a657448c503d5eaad3a.jpg"
+          },
+          {
+            "name": "Infected Killer Level 8",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/591a57316fd9079c1265a9b0c864730a45ab410c.jpg"
+          },
+          {
+            "name": "Infected Killer Level 9",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/b8c8fc4aaed6f260fc90aad580c702ed144f9bc3.jpg"
+          },
+          {
+            "name": "Infected Killer Level 10",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/644930/c22ca772930953140e03578a6320a4fcd494b506.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 18, 2019"
+      },
+      "support_info": {
+        "url": "http://www.numantiangames.com/",
+        "email": "support@numantiangames.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/644930/page_bg_generated_v6b.jpg?t=1595631876",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/644930/page.bg.jpg?t=1595631876",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

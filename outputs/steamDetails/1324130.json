@@ -1,0 +1,305 @@
+{
+  "1324130": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Stranded: Alien Dawn",
+      "steam_appid": 1324130,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2395740,
+        2104870
+      ],
+      "detailed_description": "Brave a new world in Stranded: Alien Dawn, a planet survival sim placing the fate of a small marooned group in your hands. Forge your story through compelling and immersive strategic gameplay as you make vital decisions to protect your survivors from starvation, disease, extreme weather and more. From basic camps to fortified bases, create a stronghold to defend the survivors from attacks by alien creatures that roam an expansive and deadly alien world. Experience an epic and unpredictable journey.<br><br>\t<ul class=\"bb_ul\"><li>Discover an expansive, living 3D world with remarkable flora and fauna<br></li><li>Manage your survivors’ needs, health and happiness<br></li><li>Construct and evolve your own unique base, and devise cunning defences to protect it and survivors from being attacked<br></li><li>Plant, grow, harvest and hunt down food. Stockpile useful resources and salvage material from fallen space debris<br></li><li>Research technologies to expand your horizons. <br></li><li>Provide heat, light, devices for relaxation and more to keep survivors on top of their game, ready to face the next challenge. <br></li><li>React to fluctuating weather and environmental events</li></ul> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1324130/extras/roughlanding.gif?t=1699365820\" /><h2 class=\"bb_tag\">AN UNFORGIVING WORLD</h2>Stranded: Alien Dawn pushes you and your survivors to the brink. Limited resources, unpredictable weather, illness and hostile alien creatures make it hard to establish a foothold on an unforgiving world. The next challenge is never far away, requiring construction of an increasingly robust base using advanced resources and improved defences.<h2 class=\"bb_tag\">STRANDED SURVIVORS</h2>Ensure your group’s physical and mental wellbeing by providing weapons, medicine, and much-needed entertainment. Every survivor has a unique backstory, varying levels of ability in key skills, and both positive and negative traits. Only by improving their skills and maximising their potential will you survive.<h2 class=\"bb_tag\">AN UNPREDICTABLE JOURNEY</h2>In Stranded: Alien Dawn, every playthrough is unique. Experience a journey driven by random story events, alien wildlife threats and adverse weather. There will be setbacks; devise your own innovative solutions to problems and manage multiple crises at the same time. However, actions have consequences and as you strive to plan ahead, you must make difficult choices to shape the story of your survivors, balancing short and long-term outcomes with risk and reward.<h2 class=\"bb_tag\">MODULAR BASE-BUILDING</h2>Design and build your base on an alien world and transform it from simple shelter to high-tech outpost. Protect it with perimeter defences, decorate it with furnishings, introduce automated devices such as defensive turrets, and discover new technology to create your own functioning space pad.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1324130/extras/alien.gif?t=1699365820\" />",
+      "about_the_game": "Brave a new world in Stranded: Alien Dawn, a planet survival sim placing the fate of a small marooned group in your hands. Forge your story through compelling and immersive strategic gameplay as you make vital decisions to protect your survivors from starvation, disease, extreme weather and more. From basic camps to fortified bases, create a stronghold to defend the survivors from attacks by alien creatures that roam an expansive and deadly alien world. Experience an epic and unpredictable journey.<br><br>\t<ul class=\"bb_ul\"><li>Discover an expansive, living 3D world with remarkable flora and fauna<br></li><li>Manage your survivors’ needs, health and happiness<br></li><li>Construct and evolve your own unique base, and devise cunning defences to protect it and survivors from being attacked<br></li><li>Plant, grow, harvest and hunt down food. Stockpile useful resources and salvage material from fallen space debris<br></li><li>Research technologies to expand your horizons. <br></li><li>Provide heat, light, devices for relaxation and more to keep survivors on top of their game, ready to face the next challenge. <br></li><li>React to fluctuating weather and environmental events</li></ul> <br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1324130/extras/roughlanding.gif?t=1699365820\" /><h2 class=\"bb_tag\">AN UNFORGIVING WORLD</h2>Stranded: Alien Dawn pushes you and your survivors to the brink. Limited resources, unpredictable weather, illness and hostile alien creatures make it hard to establish a foothold on an unforgiving world. The next challenge is never far away, requiring construction of an increasingly robust base using advanced resources and improved defences.<h2 class=\"bb_tag\">STRANDED SURVIVORS</h2>Ensure your group’s physical and mental wellbeing by providing weapons, medicine, and much-needed entertainment. Every survivor has a unique backstory, varying levels of ability in key skills, and both positive and negative traits. Only by improving their skills and maximising their potential will you survive.<h2 class=\"bb_tag\">AN UNPREDICTABLE JOURNEY</h2>In Stranded: Alien Dawn, every playthrough is unique. Experience a journey driven by random story events, alien wildlife threats and adverse weather. There will be setbacks; devise your own innovative solutions to problems and manage multiple crises at the same time. However, actions have consequences and as you strive to plan ahead, you must make difficult choices to shape the story of your survivors, balancing short and long-term outcomes with risk and reward.<h2 class=\"bb_tag\">MODULAR BASE-BUILDING</h2>Design and build your base on an alien world and transform it from simple shelter to high-tech outpost. Protect it with perimeter defences, decorate it with furnishings, introduce automated devices such as defensive turrets, and discover new technology to create your own functioning space pad.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1324130/extras/alien.gif?t=1699365820\" />",
+      "short_description": "Brave a new world in Stranded: Alien Dawn, a planet survival sim placing the fate of a small marooned group in your hands. Forge your story through compelling and immersive strategic gameplay as you make vital decisions to protect your survivors.",
+      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/header.jpg?t=1699365820",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/capsule_231x87.jpg?t=1699365820",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/capsule_184x69.jpg?t=1699365820",
+      "website": "https://www.strandedaliendawn.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel i7-6700 or AMD FX 8370<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon RX 480 or  GeForce GTX 1050 Ti<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 11 64bit<br></li><li><strong>Processor:</strong> Intel Core i5-10600K or AMD Ryzen 7 2700<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce RTX 2060 or Radeon RX 5600 XT<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Stranded: Alien Dawn © 2023 Haemimont Games AD. All Rights Reserved. Published by Frontier Developments PLC. \"Frontier\", \"Frontier Foundry\" and the Frontier logo are trademarks of Frontier Developments PLC. All rights reserved.",
+      "drm_notice": "Denuvo Anti-tamper",
+      "developers": [
+        "Haemimont Games"
+      ],
+      "publishers": [
+        "Frontier Foundry"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3499,
+        "final": 3499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$34.99"
+      },
+      "packages": [
+        832551
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Stranded: Alien Dawn",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 832551,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Stranded: Alien Dawn - $34.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 81,
+        "url": "https://www.metacritic.com/game/pc/stranded-alien-dawn?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5470a6be5e662ccfe2a9146cb1a80d1d8927983b.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5470a6be5e662ccfe2a9146cb1a80d1d8927983b.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_a829ed20bd1654bc1d241c6ab984177925adff67.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_a829ed20bd1654bc1d241c6ab984177925adff67.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_2829ce01ec92768b08d18e7bbde6d2614dcb0ba4.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_2829ce01ec92768b08d18e7bbde6d2614dcb0ba4.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_b50e39e21469555160a709edd81c4cea6a346f5b.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_b50e39e21469555160a709edd81c4cea6a346f5b.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_f9564919b1f7c236c75b8e68ac2e34a2fa3225c8.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_f9564919b1f7c236c75b8e68ac2e34a2fa3225c8.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_c351af505e7a5966e446d93d4ca0862d143f868a.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_c351af505e7a5966e446d93d4ca0862d143f868a.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_1d4feb05c8b4276170635c87470f63c1707bbe1b.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_1d4feb05c8b4276170635c87470f63c1707bbe1b.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_f4f6df32429586e6e7c4f536fa34f5cf4b3953c7.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_f4f6df32429586e6e7c4f536fa34f5cf4b3953c7.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_cf60903c8f1034ef1711ed2df25971330146394e.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_cf60903c8f1034ef1711ed2df25971330146394e.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5000f6feaef30af32bba022f971db4a392b01fa9.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5000f6feaef30af32bba022f971db4a392b01fa9.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_ee9fddf6d6677e8124f0a7449a82b9734fd16cf4.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_ee9fddf6d6677e8124f0a7449a82b9734fd16cf4.1920x1080.jpg?t=1699365820"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5b24d0e1ec72a85422246e0fdef1e93fd984a7c1.600x338.jpg?t=1699365820",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/ss_5b24d0e1ec72a85422246e0fdef1e93fd984a7c1.1920x1080.jpg?t=1699365820"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256942941,
+          "name": "Stranded Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256942941/movie.293x165.jpg?t=1688115607",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942941/movie480_vp9.webm?t=1688115607",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942941/movie_max_vp9.webm?t=1688115607"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256942941/movie480.mp4?t=1688115607",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256942941/movie_max.mp4?t=1688115607"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256955735,
+          "name": "Stranded Jungle Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256955735/movie.293x165.jpg?t=1688115611",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955735/movie480_vp9.webm?t=1688115611",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955735/movie_max_vp9.webm?t=1688115611"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256955735/movie480.mp4?t=1688115611",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256955735/movie_max.mp4?t=1688115611"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256941045,
+          "name": "Stranded_Military Update_Unrated",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256941045/movie.293x165.jpg?t=1684745523",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941045/movie480_vp9.webm?t=1684745523",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941045/movie_max_vp9.webm?t=1684745523"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256941045/movie480.mp4?t=1684745523",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256941045/movie_max.mp4?t=1684745523"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256910484,
+          "name": "Stranded_Gameplay_ESRB",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256910484/movie.293x165.jpg?t=1684745531",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256910484/movie480_vp9.webm?t=1684745531",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256910484/movie_max_vp9.webm?t=1684745531"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256910484/movie480.mp4?t=1684745531",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256910484/movie_max.mp4?t=1684745531"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 6081
+      },
+      "achievements": {
+        "total": 58,
+        "highlighted": [
+          {
+            "name": "Eureka!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/3b5e131cb4e952d844d89d534d8de44ac059cda3.jpg"
+          },
+          {
+            "name": "I call her Vera",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/441067e92d2249be5247d47d1ee316dccdf7d1cd.jpg"
+          },
+          {
+            "name": "There and back again",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/97f7f95732390bec02ca2a59b57dc9844c38f585.jpg"
+          },
+          {
+            "name": "Four walls, floor and a roof",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/fd9028b4296447b2880a64ea5232b7f59992513f.jpg"
+          },
+          {
+            "name": "Electrifying!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/5c37e0fae081e331f19f48b86fc7825f188272e5.jpg"
+          },
+          {
+            "name": "Winter is going",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/bb5cba2149a5d1c7de2a0ad45e76f59e28c36331.jpg"
+          },
+          {
+            "name": "Sound off",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/9dba896ee86451afb5dcda8a22dfc98ffcf72972.jpg"
+          },
+          {
+            "name": "Calling home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/f99aa751f72bf1a9878ccebbcfa98298d49a40dc.jpg"
+          },
+          {
+            "name": "Gone!!!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/3e16be84d04d9b10040b37ac11f6db0c727d8352.jpg"
+          },
+          {
+            "name": "Getting the hang of this",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1324130/244f1e405bfa56dd9b43aa57ebee2938005e4800.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 25, 2023"
+      },
+      "support_info": {
+        "url": "https://support.frontier.co.uk/kb/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/page_bg_generated_v6b.jpg?t=1699365820",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1324130/page.bg.jpg?t=1699365820",
+      "content_descriptors": {
+        "ids": [
+          2,
+          5
+        ],
+        "notes": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content\r\n"
+      }
+    }
+  }
+}

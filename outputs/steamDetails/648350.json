@@ -1,0 +1,301 @@
+{
+  "648350": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Jurassic World Evolution",
+      "steam_appid": 648350,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1144410,
+        1144420,
+        1107760,
+        1028430,
+        953940,
+        979930,
+        817550,
+        988470
+      ],
+      "detailed_description": "<h1>Digital Deluxe Edition</h1><p>A pack of 5 extra dinosaurs that can be accessed through dig sites within the game.<br><br>Styracosaurus<br>Crichtonsaurus <br>Majungasaurus<br>Archaeornithomimus <br>Suchomimus<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/648350/extras/Steam_Deluxe_Edition_v3.png?t=1667390336\" /></p><br><h1>About the Game</h1>Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.<br><br>Bioengineer dinosaurs that think, feel and react intelligently to the world around them. Play with life itself to give your dinosaurs unique behaviors, traits and appearances, then contain and profit from them to fund your global search for lost dinosaur DNA.<br><br>Control the big picture with deep management tools or go hands-on to confront challenges on the ground or in the air. Expand your islands and choose your own journey in an all-new narrative featuring iconic characters from across the franchise and decades of Jurassic lore at your fingertips.",
+      "about_the_game": "Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.<br />\r\n<br />\r\nBioengineer dinosaurs that think, feel and react intelligently to the world around them. Play with life itself to give your dinosaurs unique behaviors, traits and appearances, then contain and profit from them to fund your global search for lost dinosaur DNA.<br />\r\n<br />\r\nControl the big picture with deep management tools or go hands-on to confront challenges on the ground or in the air. Expand your islands and choose your own journey in an all-new narrative featuring iconic characters from across the franchise and decades of Jurassic lore at your fingertips.",
+      "short_description": "Place yourself at the heart of the Jurassic franchise and build your own Jurassic World. Bioengineer dinosaurs that think, feel and react intelligently to the world around them and face threats posed by espionage, breakouts and devastating tropical storms in an uncertain world where life always finds a way.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese, Italian<strong>*</strong>, Korean<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/648350/header.jpg?t=1667390336",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/648350/capsule_231x87.jpg?t=1667390336",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/648350/capsule_184x69.jpg?t=1667390336",
+      "website": "http://www.jurassicworldevolutiongame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (SP1+)/8.1/10 64bit<br></li><li><strong>Processor:</strong> Intel i5-2300/AMD FX-4300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 (Legacy GPU: GeForce GTX 660) / AMD Radeon 7850 (2GB)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (SP1+) / 8.1/10 64bit<br></li><li><strong>Processor:</strong> Intel i7-4770/AMD FX-8350<br></li><li><strong>Memory:</strong> 12 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 / AMD RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2019 Frontier Developments, plc. All rights reserved. Frontier and the Frontier Developments logo are trademarks or registered trademarks of Frontier Developments, plc. <br />\r\n© 2019 Universal Studios and Amblin Entertainment, Inc. Jurassic World, Jurassic World Fallen Kingdom, Jurassic World Evolution and their respective logos are trademarks of Universal Studios and Amblin Entertainment, Inc. Jurassic World and Jurassic World Fallen Kingdom motion pictures © 2015-2019 Universal Studios, Amblin Entertainment, Inc. and Legendary Pictures. Licensed by Universal Studios. All Rights Reserved.",
+      "drm_notice": "Denuvo Antitamper",
+      "developers": [
+        "Frontier Developments"
+      ],
+      "publishers": [
+        "Frontier Developments"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 4499,
+        "final": 4499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$44.99"
+      },
+      "packages": [
+        182321,
+        251887
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Jurassic World Evolution",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 182321,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Jurassic World Evolution - $44.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4499
+            },
+            {
+              "packageid": 251887,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Jurassic World Evolution Deluxe - $49.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 69,
+        "url": "https://www.metacritic.com/game/pc/jurassic-world-evolution?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        }
+      ],
+      "genres": [
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_0e5d96d2e970b62ab3df2ace87d772dffaa2bef8.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_0e5d96d2e970b62ab3df2ace87d772dffaa2bef8.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3104ffdbca844907f82a7d3d1706a9ca9bccd117.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3104ffdbca844907f82a7d3d1706a9ca9bccd117.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_1fb0d2006d3c28dac6a8ba8dab137cd8fb929c31.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_1fb0d2006d3c28dac6a8ba8dab137cd8fb929c31.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_5bb5b1548a5358c348bf09c40df436a1f6c12791.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_5bb5b1548a5358c348bf09c40df436a1f6c12791.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_553d07ff659f0570157e221047bf64367df57432.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_553d07ff659f0570157e221047bf64367df57432.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3b567606699681633b39bc0335e923d138b03fde.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3b567606699681633b39bc0335e923d138b03fde.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_c74ecf164c81920f8da57e871fe2ad094fe9e7ae.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_c74ecf164c81920f8da57e871fe2ad094fe9e7ae.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_239bababcf8e32d1ecf75ab6cffb711cf3e5822e.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_239bababcf8e32d1ecf75ab6cffb711cf3e5822e.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_6062bc87b549ef44acb16e48944b6b69de818325.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_6062bc87b549ef44acb16e48944b6b69de818325.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_c7660bd9817ddb58ce2c94d49a3fc37d01d60b06.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_c7660bd9817ddb58ce2c94d49a3fc37d01d60b06.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_25621aefd0f01b56d777260cc63c75100869d828.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_25621aefd0f01b56d777260cc63c75100869d828.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_cc84465f1c7cfb51014780093529888237a894b9.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_cc84465f1c7cfb51014780093529888237a894b9.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3cd930d79ab40e040f452fe2f8d98c55cd603cb5.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_3cd930d79ab40e040f452fe2f8d98c55cd603cb5.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_a1d0c9e90fdd2dc1c1402d337520c8764669ea94.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_a1d0c9e90fdd2dc1c1402d337520c8764669ea94.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_df605a042a929ca99c92f7142fb34c860120a97f.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_df605a042a929ca99c92f7142fb34c860120a97f.1920x1080.jpg?t=1667390336"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_5566c1ffb55224c0b394e334e9eab92901bd30bb.600x338.jpg?t=1667390336",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/648350/ss_5566c1ffb55224c0b394e334e9eab92901bd30bb.1920x1080.jpg?t=1667390336"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256719789,
+          "name": "JWE - Launch Accolade ESRB",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256719789/movie.293x165.jpg?t=1536845418",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719789/movie480.webm?t=1536845418",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719789/movie_max.webm?t=1536845418"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256719789/movie480.mp4?t=1536845418",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256719789/movie_max.mp4?t=1536845418"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 45696
+      },
+      "achievements": {
+        "total": 73,
+        "highlighted": [
+          {
+            "name": "Not alone on this island",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/5d3f9a96b16f398ef0e95304aaf6ba1661c516c1.jpg"
+          },
+          {
+            "name": "Going to make a fortune with this place",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/35313c9dcad5568d7015b60300dd7cfafcb53872.jpg"
+          },
+          {
+            "name": "On this island there's no such thing as safe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/0016c9681992e089aa270db1e1b80dcc9a9312ef.jpg"
+          },
+          {
+            "name": "Thank God for Site B",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/9b519e6f12f7b9f0ea516b6548f994c07a1807be.jpg"
+          },
+          {
+            "name": "Spared no expense",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/2fb8b22a197675f43fbb846c2c43829e0f27e178.jpg"
+          },
+          {
+            "name": "How did you do this?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/ded8c718b6848e6cd4677b9f53fdaf5b574dd4fe.jpg"
+          },
+          {
+            "name": "I don't understand this Luddite attitude",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/b59b0ceabb49638592ac887cbcdef306f049851b.jpg"
+          },
+          {
+            "name": "Instinct that we can program",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/e26845a640d0f672f8235a107bf3924a18abe070.jpg"
+          },
+          {
+            "name": "Bigger. Louder. More Teeth.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/ba221923847b72f308d256a88927aade00c71d5d.jpg"
+          },
+          {
+            "name": "Using sophisticated techniques",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/648350/48bd55494741cc515a2f33e9a8a8d0a844bf5b43.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 11, 2018"
+      },
+      "support_info": {
+        "url": "https://support.frontier.co.uk/kb/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/648350/page_bg_generated_v6b.jpg?t=1667390336",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/648350/page.bg.jpg?t=1667390336",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

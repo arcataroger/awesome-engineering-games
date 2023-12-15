@@ -1,0 +1,316 @@
+{
+  "4000": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Garry's Mod",
+      "steam_appid": 4000,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.<br><br>You spawn objects and weld them together to create your own contraptions - whether that's a car, a rocket, a catapult or something that doesn't have a name yet - that's up to you. You can do it offline, or join the thousands of players who play online each day. <br><br>If you're not too great at construction - don't worry! You can place a variety of characters in silly positions. But if you want to do more, we have the means.<h2 class=\"bb_tag\">Beyond the Sandbox</h2><br>The Garry's Mod community is a tremendous source of content and has added hundreds of unique modes to the game. In Trouble In Terrorist Town, you can be a detective solving an online murder as criminals attempt to cover up their homicides. Be a ball, a plant, a chair, or anything else in Prop Hunt's elaborate, shape-shifting game of Hide &amp; Seek. Elevator: Source is gaming's first elevator thrill ride, delivering players to airlocks and kitten dance parties. <br><br>We have one of the most vibrant Steam Community Workshops, with over 300'000 models, maps, and contraptions to download. It has everything from new tools to improve your builds, to guns that fire rainbow-tinged nuclear blasts from space. Take as much or as little as you need: it’s all free. <br><br><strong>Please note: Some multiplayer servers and game-modes might require you to own other games - such as Counter-Strike: Source and Team Fortress 2.</strong>",
+      "about_the_game": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.<br><br>You spawn objects and weld them together to create your own contraptions - whether that's a car, a rocket, a catapult or something that doesn't have a name yet - that's up to you. You can do it offline, or join the thousands of players who play online each day. <br><br>If you're not too great at construction - don't worry! You can place a variety of characters in silly positions. But if you want to do more, we have the means.<h2 class=\"bb_tag\">Beyond the Sandbox</h2><br>The Garry's Mod community is a tremendous source of content and has added hundreds of unique modes to the game. In Trouble In Terrorist Town, you can be a detective solving an online murder as criminals attempt to cover up their homicides. Be a ball, a plant, a chair, or anything else in Prop Hunt's elaborate, shape-shifting game of Hide &amp; Seek. Elevator: Source is gaming's first elevator thrill ride, delivering players to airlocks and kitten dance parties. <br><br>We have one of the most vibrant Steam Community Workshops, with over 300'000 models, maps, and contraptions to download. It has everything from new tools to improve your builds, to guns that fire rainbow-tinged nuclear blasts from space. Take as much or as little as you need: it’s all free. <br><br><strong>Please note: Some multiplayer servers and game-modes might require you to own other games - such as Counter-Strike: Source and Team Fortress 2.</strong>",
+      "short_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "reviews": "“It brings back the silly glee of unbridled experimentation, intuitive learning and playful social interactions that most of us haven't experienced since childhood. For that, it's essential.”<br>88 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.computerandvideogames.com%2F152602%2Freviews%2Fgarrys-mod-review%2F\" target=\"_blank\" rel=\" noopener\"  >PC Gamer</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/header.jpg?t=1698777053",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_231x87.jpg?t=1698777053",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_184x69.jpg?t=1698777053",
+      "website": "https://gmod.facepunch.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® XP/Vista<br></li><li><strong>Processor:</strong> 2 GHz Processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> DirectX® 9 compatible<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Monitor</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® 7/8/8.1/10<br></li><li><strong>Processor:</strong> 2.5 GHz Processor or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Snow Leopard 10.6.3<br></li><li><strong>Processor:</strong> 2 GHz Processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Monitor</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Latest OS X version<br></li><li><strong>Processor:</strong> 2.5 GHz Processor or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1GB dedicated VRAM or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 2 GHz Processor or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB dedicated VRAM or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Mouse, Keyboard, Monitor</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Latest Ubuntu<br></li><li><strong>Processor:</strong> 2.5 GHz Processor or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1GB dedicated VRAM or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+      },
+      "developers": [
+        "Facepunch Studios"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        218,
+        295508
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Garry's Mod",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 218,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Garry's Mod - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 295508,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Garry's Mod - Commercial License - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 47,
+          "description": "LAN PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 48,
+          "description": "LAN Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 8,
+          "description": "Valve Anti-Cheat enabled"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 16,
+          "description": "Includes Source SDK"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000826.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000826.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_1a9b6c5aaf53e82c00daca46b108774d0d39c32f.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_1a9b6c5aaf53e82c00daca46b108774d0d39c32f.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000824.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000824.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000822.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000822.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000829.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000829.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000828.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000828.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000827.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000827.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000825.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000825.1920x1080.jpg?t=1698777053"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000830.600x338.jpg?t=1698777053",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/4000/0000000830.1920x1080.jpg?t=1698777053"
+        }
+      ],
+      "recommendations": {
+        "total": 878141
+      },
+      "achievements": {
+        "total": 29,
+        "highlighted": [
+          {
+            "name": "Play Singleplayer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/b8ce64f366e8a8a1c2aef231cca8ec82f3115d63.jpg"
+          },
+          {
+            "name": "Play Multiplayer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/d6b5b7ac882b0865415218642cb21bfb5a5fca77.jpg"
+          },
+          {
+            "name": "Startup Millenium",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/f4bc0f96a846eeaa63a9ea92d11757b342376374.jpg"
+          },
+          {
+            "name": "Secret Phrase",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/f331d3e21b7fc96c8f117787fe3e2d5e26b9952e.jpg"
+          },
+          {
+            "name": "Addict",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/9d99453c08ea180230b5ad24f904c0749e6ce139.jpg"
+          },
+          {
+            "name": "Map Loader",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/7cb317f7a953204e79a3fc2923aad8eb77df74bd.jpg"
+          },
+          {
+            "name": "Play Around",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/c1421b7d9609b03bca96bae9abde44da628d20a1.jpg"
+          },
+          {
+            "name": "War Zone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/88f7f6f51232d0792f70683599a55974b14086d1.jpg"
+          },
+          {
+            "name": "Friendly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/14f07b40867ab5ceb305fa99fc1b112fc96abb14.jpg"
+          },
+          {
+            "name": "Yes, I am the real garry!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/4000/b018137e2177a4a1ac63460f8b20757d4e7ef2da.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 29, 2006"
+      },
+      "support_info": {
+        "url": "https://support.facepunchstudios.com/",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/4000/page_bg_generated_v6b.jpg?t=1698777053",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/4000/page_bg_generated.jpg?t=1698777053",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

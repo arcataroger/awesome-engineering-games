@@ -1,0 +1,265 @@
+{
+  "569480": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Kingdoms and Castles",
+      "steam_appid": 569480,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1308200,
+        1764300
+      ],
+      "detailed_description": "<h1>Wishlist our Next Game!</h1><p><a href=\"https://store.steampowered.com/app/2426530/Nova_Roma/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2426530/Nova_Roma/</a></p><br><h1>Join the Discord - Chat with the Devs!</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fkingdomsandcastles\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/discordbanner.png?t=1686933738\" /></a></p><br><h1>About the Game</h1>Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle.<br><br>Your kingdom must survive a living and dangerous world. Do the viking raiders make off with your villagers? Or are they stopped, full of arrows, at the castle gates? Does a dragon torch your granary, your people dying of starvation in the winter, or are you able to turn the beast back? The success of your kingdom depends solely on your skill as a city and castle planner.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/cd.png?t=1686933738\" /><br>Strategically layout your town to improve your peasants' happiness and to attract new residents. Tax them just enough to fund your castle. Make sure your peasants are fed in the winter and healed of plagues. Build churches to keep them from despair and taverns to keep them happy. You can even throw festivals if you've built a town square! Send out wood cutters to collect wood, set up stone quarries to build your castles, and farm the land efficiently so your town can grow and thrive.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_city.jpg?t=1686933738\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/rect7730-4-ff2.png?t=1686933738\" /><br>The new land you're settling is at risk of viking invasion. These raiders seek to kidnap and kill your peasants, steal your resources, and burn your town to the ground. Use a powerful castle building system where castles are constructed using blocks which can be placed anywhere. Towers and walls are dynamically created based on how you stack and arrange them. Archer towers and other weapon emplacements have longer range the higher their tower. Try different layouts to best protect your kingdom and express your glory as a king or queen.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_castle.jpg?t=1686933738\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/text4275-2-6.png?t=1686933738\" /><br>And it all takes place in a beautiful dynamic world with a stylized procedural cloud system and season cycle from summer to winter.  A realistic tree growth algorithm simulates the forests. Depending on your needs, wood cutters can clear cut or responsibly manage your forests.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_world.jpg?t=1686933738\" /><br><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/Funded_with_Fig_Logo_v01_Large.png?t=1686933738\" /><br>Kingdoms and Castles is the first Fig funded game to be released. Its crowd funding campaign succeeded with 725% of its goal and was supported by 1,400 backers. Supporters of the game could both pledge and invest during the Fig campaign.",
+      "about_the_game": "Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle.<br><br>Your kingdom must survive a living and dangerous world. Do the viking raiders make off with your villagers? Or are they stopped, full of arrows, at the castle gates? Does a dragon torch your granary, your people dying of starvation in the winter, or are you able to turn the beast back? The success of your kingdom depends solely on your skill as a city and castle planner.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/cd.png?t=1686933738\" /><br>Strategically layout your town to improve your peasants' happiness and to attract new residents. Tax them just enough to fund your castle. Make sure your peasants are fed in the winter and healed of plagues. Build churches to keep them from despair and taverns to keep them happy. You can even throw festivals if you've built a town square! Send out wood cutters to collect wood, set up stone quarries to build your castles, and farm the land efficiently so your town can grow and thrive.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_city.jpg?t=1686933738\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/rect7730-4-ff2.png?t=1686933738\" /><br>The new land you're settling is at risk of viking invasion. These raiders seek to kidnap and kill your peasants, steal your resources, and burn your town to the ground. Use a powerful castle building system where castles are constructed using blocks which can be placed anywhere. Towers and walls are dynamically created based on how you stack and arrange them. Archer towers and other weapon emplacements have longer range the higher their tower. Try different layouts to best protect your kingdom and express your glory as a king or queen.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_castle.jpg?t=1686933738\" /><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/text4275-2-6.png?t=1686933738\" /><br>And it all takes place in a beautiful dynamic world with a stylized procedural cloud system and season cycle from summer to winter.  A realistic tree growth algorithm simulates the forests. Depending on your needs, wood cutters can clear cut or responsibly manage your forests.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/banner_world.jpg?t=1686933738\" /><br><br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/569480/extras/Funded_with_Fig_Logo_v01_Large.png?t=1686933738\" /><br>Kingdoms and Castles is the first Fig funded game to be released. Its crowd funding campaign succeeded with 725% of its goal and was supported by 1,400 backers. Supporters of the game could both pledge and invest during the Fig campaign.",
+      "short_description": "Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle. Make trade agreements, alliance, and war with neighboring AI controlled kingdoms. Each villager and resource is individually simulated.",
+      "supported_languages": "English, German, French, Simplified Chinese, Traditional Chinese, Dutch, Portuguese - Brazil, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Ukrainian, Swedish, Turkish, Spanish - Latin America",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/569480/header.jpg?t=1686933738",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/569480/capsule_231x87.jpg?t=1686933738",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/569480/capsule_184x69.jpg?t=1686933738",
+      "website": "http://kingdomsandcastles.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft Windows XP/Vista/7/8/8.1 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo, 2.0GHz or AMD Athlon 64 X2 6400+, 2.5GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 260 256mb or ATI Radeon HD 5670 256mb or Intel HD Graphics 4600<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft Windows XP/Vista/7/8/8.1 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5-3470, 2.7GHz or AMD FX-6300, 3.2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 660, 1gb or AMD Radeon HD 7870, 1gb<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo, 2.0GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 260 256mb or ATI Radeon HD 5670 256mb or Intel HD Graphics 4600<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5-3470, 2.7GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 660, 1gb or AMD Radeon HD 7870, 1gb<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo, 2.0GHz or AMD Athlon 64 X2 6400+, 2.5GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 260 256mb or ATI Radeon HD 5670 256mb or Intel HD Graphics 4600<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5-3470, 2.7GHz or AMD FX-6300, 3.2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVIDIA GeForce GTX 660, 1gb or AMD Radeon HD 7870, 1gb<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Lion Shield, LLC"
+      ],
+      "publishers": [
+        "Lion Shield, LLC"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        144249
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Kingdoms and Castles",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 144249,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Kingdoms and Castles - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_c720d04f507059f75d1f5dc040e5123dcf36826b.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_c720d04f507059f75d1f5dc040e5123dcf36826b.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_8edcd3c9cb93ee1e38df6ad676166ff567d4a7cb.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_8edcd3c9cb93ee1e38df6ad676166ff567d4a7cb.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_b352f28aa3450b0813fab1a4f94e9eadd87a0be8.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_b352f28aa3450b0813fab1a4f94e9eadd87a0be8.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_cf083ffaa79178888ee345cbbfb6a01e92584280.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_cf083ffaa79178888ee345cbbfb6a01e92584280.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_a0e16d2a2bcdfbed5494b7985c879dfa3ce044b4.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_a0e16d2a2bcdfbed5494b7985c879dfa3ce044b4.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_af7361cb88294d6515bd7cb85b94c90dc3e070ec.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_af7361cb88294d6515bd7cb85b94c90dc3e070ec.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_9e5b222d7250382eaa8b4184146db5cc6ce88f26.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_9e5b222d7250382eaa8b4184146db5cc6ce88f26.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_99a1347c2d42958e7a1c02dfbf61430fe53f0612.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_99a1347c2d42958e7a1c02dfbf61430fe53f0612.1920x1080.jpg?t=1686933738"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_0b6d2395af77542f35371f5fd98b0c6b8630ba1f.600x338.jpg?t=1686933738",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/569480/ss_0b6d2395af77542f35371f5fd98b0c6b8630ba1f.1920x1080.jpg?t=1686933738"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256883785,
+          "name": "AI Kingdoms 3",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256883785/movie.293x165.jpg?t=1653324316",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883785/movie480_vp9.webm?t=1653324316",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883785/movie_max_vp9.webm?t=1653324316"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256883785/movie480.mp4?t=1653324316",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256883785/movie_max.mp4?t=1653324316"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256690416,
+          "name": "Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256690416/movie.293x165.jpg?t=1500278756",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256690416/movie480.webm?t=1500278756",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256690416/movie_max.webm?t=1500278756"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256690416/movie480.mp4?t=1500278756",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256690416/movie_max.mp4?t=1500278756"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 25574
+      },
+      "achievements": {
+        "total": 12,
+        "highlighted": [
+          {
+            "name": "Your First Hamlet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/41485a81ab84aa317b20715b1ac43531aeb35516.jpg"
+          },
+          {
+            "name": "Your First Village",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/2326c6f412b0b788f386f256c0fb5f76f1edc553.jpg"
+          },
+          {
+            "name": "Your First Town",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/d70cfd8fe5639b76c9677db0132c5f95980e0726.jpg"
+          },
+          {
+            "name": "Your First City",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/d9faf22636a9da2a312cbbcd1fceb3b9a75f0946.jpg"
+          },
+          {
+            "name": "Humble Kingdom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/a7b84cb871c63ac79f25370cdaa8a52295bdd046.jpg"
+          },
+          {
+            "name": "Thriving Kingdom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/0f6b8584b397f68938bce5eaafce814eaeb335a1.jpg"
+          },
+          {
+            "name": "Dignified Kingdom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/163bea95b4508e001334bad07d5db7fafb6119ec.jpg"
+          },
+          {
+            "name": "Magnificent Kingdom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/cd6ecdd2bfe24325037823de55b2a41d3b5ea749.jpg"
+          },
+          {
+            "name": "Kingdom of the Gods",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/fe3602c935314c350b585ff563c2bd065ee84ff6.jpg"
+          },
+          {
+            "name": "Tower of Babel",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/569480/732e27333835139bf92fcac88c27475d9dd2f9f1.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 20, 2017"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@lionshieldstudios.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/569480/page_bg_generated_v6b.jpg?t=1686933738",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/569480/page.bg.jpg?t=1686933738",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

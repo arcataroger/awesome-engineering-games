@@ -1,0 +1,224 @@
+{
+  "716490": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "EXAPUNKS",
+      "steam_appid": 716490,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<strong>The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.</strong><br><br>EXAPUNKS is the latest open-ended puzzle game from Zachtronics, the creators of Opus Magnum, SHENZHEN I/O, TIS-100, and more.<br><br><ul class=\"bb_ul\"><li><strong>READ ZINES</strong> - Learn to hack from TRASH WORLD NEWS, the underground computer magazine. Tutorials, hacking tips, secret information, searing commentary— TRASH WORLD NEWS has you covered.<br></li><li><strong>WRITE VIRUSES</strong> - Program your EXAs (EXecution Agents) to tear through networks, replicate themselves, trash files, terminate other EXAs— and leave without a trace. <br></li><li><strong>HACK EVERYTHING</strong> - Hack banks, universities, factories, TV stations, highway signs, game consoles, the government... oh yeah, and your own body.<br></li><li><strong>SLACK OFF</strong> - Play ПАСЬЯНС, if you hack the server where it’s stored. Or play HACK*MATCH, if you hack the region lock on your Sawayama WonderDisc. Or create your own homebrew games for the TEC Redshift… if you hack the development kit.<br></li><li><strong>TAKE DOWN YOUR FRIENDS</strong> - Compete with your friends by running your programs directly against theirs in all-out hacker battles. Make every cycle count.<br></li><li><strong>CREATE YOUR OWN PUZZLES</strong> - Create your own networks to hack, and share them with the world on Steam Workshop.</li></ul>",
+      "about_the_game": "<strong>The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.</strong><br><br>EXAPUNKS is the latest open-ended puzzle game from Zachtronics, the creators of Opus Magnum, SHENZHEN I/O, TIS-100, and more.<br><br><ul class=\"bb_ul\"><li><strong>READ ZINES</strong> - Learn to hack from TRASH WORLD NEWS, the underground computer magazine. Tutorials, hacking tips, secret information, searing commentary— TRASH WORLD NEWS has you covered.<br></li><li><strong>WRITE VIRUSES</strong> - Program your EXAs (EXecution Agents) to tear through networks, replicate themselves, trash files, terminate other EXAs— and leave without a trace. <br></li><li><strong>HACK EVERYTHING</strong> - Hack banks, universities, factories, TV stations, highway signs, game consoles, the government... oh yeah, and your own body.<br></li><li><strong>SLACK OFF</strong> - Play ПАСЬЯНС, if you hack the server where it’s stored. Or play HACK*MATCH, if you hack the region lock on your Sawayama WonderDisc. Or create your own homebrew games for the TEC Redshift… if you hack the development kit.<br></li><li><strong>TAKE DOWN YOUR FRIENDS</strong> - Compete with your friends by running your programs directly against theirs in all-out hacker battles. Make every cycle count.<br></li><li><strong>CREATE YOUR OWN PUZZLES</strong> - Create your own networks to hack, and share them with the world on Steam Workshop.</li></ul>",
+      "short_description": "The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“Exapunks doesn't mess around.”<br><a href=\"https://www.pcgamer.com/exapunks-review/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“The only game I’ve ever played that made the hacking seem real.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.vice.com%2Fen_us%2Farticle%2Fmb44dn%2Fexapunks-pc-steam-game-review\" target=\"_blank\" rel=\" noopener\"  >Vice</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/716490/header.jpg?t=1667071547",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/716490/capsule_231x87.jpg?t=1667071547",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/716490/capsule_184x69.jpg?t=1667071547",
+      "website": "http://www.zachtronics.com/exapunks",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 660 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 3840 x 2160<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 660 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1366 x 768<br></li><li><strong>Storage:</strong> 690 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.9+<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 3840 x 2160<br></li><li><strong>Storage:</strong> 690 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3, 1366 x 768<br></li><li><strong>Storage:</strong> 720 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+, SteamOS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3, 3840 x 2160<br></li><li><strong>Storage:</strong> 720 MB available space</li></ul>"
+      },
+      "developers": [
+        "Zachtronics"
+      ],
+      "publishers": [
+        "Zachtronics"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        207667
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy EXAPUNKS",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 207667,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "EXAPUNKS - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_d8d2e9ca43db1c4b35ff2abe6d4da473e32bcc29.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_d8d2e9ca43db1c4b35ff2abe6d4da473e32bcc29.1920x1080.jpg?t=1667071547"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_095a537be3c4d00052554b9bc639fdc5312db810.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_095a537be3c4d00052554b9bc639fdc5312db810.1920x1080.jpg?t=1667071547"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_38028764e6093da3090c838d394628aa33234d11.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_38028764e6093da3090c838d394628aa33234d11.1920x1080.jpg?t=1667071547"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_6da39c77fdf24e158ec6091d827088494caf8410.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_6da39c77fdf24e158ec6091d827088494caf8410.1920x1080.jpg?t=1667071547"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_a8ba61f54c281447f3a804e264a6828932d5db05.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_a8ba61f54c281447f3a804e264a6828932d5db05.1920x1080.jpg?t=1667071547"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_04f3ab44402750e4ffa859050d20a32b09e8c9f7.600x338.jpg?t=1667071547",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/716490/ss_04f3ab44402750e4ffa859050d20a32b09e8c9f7.1920x1080.jpg?t=1667071547"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256722610,
+          "name": "EXAPUNKS Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256722610/movie.293x165.jpg?t=1531936178",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256722610/movie480.webm?t=1531936178",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256722610/movie_max.webm?t=1531936178"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256722610/movie480.mp4?t=1531936178",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256722610/movie_max.mp4?t=1531936178"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1153
+      },
+      "achievements": {
+        "total": 16,
+        "highlighted": [
+          {
+            "name": "EXAPUNK",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/162d112fd17858a0562309f8b497d8b5d704e8a4.jpg"
+          },
+          {
+            "name": "АГИТАТОР",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/b7c865c94cb94d5e793666798022a7801213b912.jpg"
+          },
+          {
+            "name": "РЕВОЛЮЦИОНЕР",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/2855b9fecb933702aacf12cee5de18a4ede9bfad.jpg"
+          },
+          {
+            "name": "ГЕРОЙ_НАРОДА",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/462b304823918212e0d5240fd49acbeb9010f268.jpg"
+          },
+          {
+            "name": "ゲーマー",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/f8392acc503b5aab6d262518e493a43fbb2f220b.jpg"
+          },
+          {
+            "name": "熟練ゲーマー",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/b754f6f0ef29fe25723262ab206dd2da696c17d8.jpg"
+          },
+          {
+            "name": "究極のゲーマー",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/9af6dde5f082c01e5b1e888fc21540ec6f045783.jpg"
+          },
+          {
+            "name": "PIZZA_PARTY",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/9346cd9cf9e5dec5a079fff9b2b095c412d6d652.jpg"
+          },
+          {
+            "name": "DISC_READ_ERROR",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/e6160d6abae71176b2f4648ae40e6ff3630a4b9f.jpg"
+          },
+          {
+            "name": "HOME_RUN",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/716490/f5ecf666299e2f814e6198f740d45e8f41bd3dc0.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 22, 2018"
+      },
+      "support_info": {
+        "url": "http://www.zachtronics.com/support/",
+        "email": "support@zachtronics.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/716490/page_bg_generated_v6b.jpg?t=1667071547",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/716490/page_bg_generated.jpg?t=1667071547",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

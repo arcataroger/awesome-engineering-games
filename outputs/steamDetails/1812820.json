@@ -1,0 +1,225 @@
+{
+  "1812820": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bitburner",
+      "steam_appid": 1812820,
+      "required_age": 0,
+      "is_free": true,
+      "detailed_description": "After 5 years of development, contributions from hundreds of developers, the critically acclaimed open source programming hacking sim is available on Steam.<br><br>Inspired by games like Else Heart.break(), Hacknet, Uplink, and Deus Ex, Bitburner is a programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game provides a variety of mechanics and systems that can be changed through coding and solved or automated in whatever way you find suitable. <br><br>While a very basic programming background is recommended, it is not required to play the game!<br><br><ul class=\"bb_ul\"><li> Write scripts in JavaScript to automate your gameplay<br></li><li> Hack through a network of servers to train your abilities and earn money<br></li><li> Solve real programming questions to hone your skills and earn rewards <br></li><li> Improve your character with 100+ Augmentations<br></li><li> Trade in the stock market and write automated trading scripts<br></li><li> Interact with various gameplay mechanics to increase your stats and earn money<br></li><li> Explore the world and discover different companies, locations, and factions<br></li><li> Mini-games<br></li><li> Unlock secret perma-upgrades<br></li><li> Continuing development!</li></ul><br>This game will be available on linux soon but in the meantime you can play it here <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdanielyxie.github.io%2Fbitburner%2F\" target=\"_blank\" rel=\" noopener\"  >https://danielyxie.github.io/bitburner/</a>",
+      "about_the_game": "After 5 years of development, contributions from hundreds of developers, the critically acclaimed open source programming hacking sim is available on Steam.<br><br>Inspired by games like Else Heart.break(), Hacknet, Uplink, and Deus Ex, Bitburner is a programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game provides a variety of mechanics and systems that can be changed through coding and solved or automated in whatever way you find suitable. <br><br>While a very basic programming background is recommended, it is not required to play the game!<br><br><ul class=\"bb_ul\"><li> Write scripts in JavaScript to automate your gameplay<br></li><li> Hack through a network of servers to train your abilities and earn money<br></li><li> Solve real programming questions to hone your skills and earn rewards <br></li><li> Improve your character with 100+ Augmentations<br></li><li> Trade in the stock market and write automated trading scripts<br></li><li> Interact with various gameplay mechanics to increase your stats and earn money<br></li><li> Explore the world and discover different companies, locations, and factions<br></li><li> Mini-games<br></li><li> Unlock secret perma-upgrades<br></li><li> Continuing development!</li></ul><br>This game will be available on linux soon but in the meantime you can play it here <a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdanielyxie.github.io%2Fbitburner%2F\" target=\"_blank\" rel=\" noopener\"  >https://danielyxie.github.io/bitburner/</a>",
+      "short_description": "Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.",
+      "supported_languages": "English",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/header.jpg?t=1675874284",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/capsule_231x87.jpg?t=1675874284",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/capsule_184x69.jpg?t=1675874284",
+      "website": "https://github.com/danielyxie/bitburner",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 and later are supported<br></li><li><strong>Processor:</strong> An Intel Pentium 4 processor or later that's SSE2 capable<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Integrated Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mojave 10.14.0<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Integrated<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> None</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux<br></li><li><strong>Processor:</strong> 1.5 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Integrated Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> N/A</li></ul>"
+      },
+      "developers": [
+        "Fulcrum Games",
+        "Hydroflame",
+        "over 250 github contributors"
+      ],
+      "publishers": [
+        "Fulcrum Games"
+      ],
+      "package_groups": [],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "37",
+          "description": "Free to Play"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8e9e570615f3e64786f41d60dae1480392eaed11.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8e9e570615f3e64786f41d60dae1480392eaed11.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_e112280e8f552d2ddff89cc3e673b3f6b9b5c8f3.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_e112280e8f552d2ddff89cc3e673b3f6b9b5c8f3.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_5d6b98dc8379ff00cbdada5e6341107e8eef9d63.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_5d6b98dc8379ff00cbdada5e6341107e8eef9d63.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_f68c730dd043be88553c208c9ffd6ea90e20d5d0.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_f68c730dd043be88553c208c9ffd6ea90e20d5d0.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_b7fa9106bd91578de026c3d59e86f2810239dcfc.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_b7fa9106bd91578de026c3d59e86f2810239dcfc.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_32419a527c176cc13addc0d7d95742e6e41eb166.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_32419a527c176cc13addc0d7d95742e6e41eb166.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_ffc59ec1160cf47812ec7d9513a2252cb666df96.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_ffc59ec1160cf47812ec7d9513a2252cb666df96.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_c5bee5b9bbc1663482b478536e6ad4ab81d2a7bd.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_c5bee5b9bbc1663482b478536e6ad4ab81d2a7bd.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_70936c5cdbbf2ae2569acb3f1d5a5c2c3767a332.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_70936c5cdbbf2ae2569acb3f1d5a5c2c3767a332.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_930e4393bbb653b9c57942bad3425d793a770013.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_930e4393bbb653b9c57942bad3425d793a770013.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_c752c992478517002fd822c5fb02073f0ba47023.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_c752c992478517002fd822c5fb02073f0ba47023.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_30af18a1f27e8c2cd6b4dd2d8d8244f7bce74273.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_30af18a1f27e8c2cd6b4dd2d8d8244f7bce74273.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_2e0785ae59badbb15dd4012a3b1b1ebba63db45b.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_2e0785ae59badbb15dd4012a3b1b1ebba63db45b.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_0e9023916f923514d8f61996e3b565c4968d86b5.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_0e9023916f923514d8f61996e3b565c4968d86b5.1920x1080.jpg?t=1675874284"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_b8925ea99915480043d83233fd639c076afd9616.600x338.jpg?t=1675874284",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/ss_b8925ea99915480043d83233fd639c076afd9616.1920x1080.jpg?t=1675874284"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256860635,
+          "name": "BitburnerTrailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256860635/movie.293x165.jpg?t=1637973500",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256860635/movie480_vp9.webm?t=1637973500",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256860635/movie_max_vp9.webm?t=1637973500"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256860635/movie480.mp4?t=1637973500",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256860635/movie_max.mp4?t=1637973500"
+          },
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 98,
+        "highlighted": [
+          {
+            "name": "CyberSec",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/b9e9c729a20183a2d274bcb14438cc724707eeca.jpg"
+          },
+          {
+            "name": "avmnite-02h",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/fbd0b20d4378b2ad1cbe35a68d3d0b9997a90750.jpg"
+          },
+          {
+            "name": "I.I.I.I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/cd84d6a9357c7d8086b2c409d3228920502d8825.jpg"
+          },
+          {
+            "name": "run4theh111z",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/7d5d665364869ef2be9c718083ed0ad50d81f5b2.jpg"
+          },
+          {
+            "name": "fl1ght.exe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/0ce0a689c7729f739d02870da3a2c5f4cf851e15.jpg"
+          },
+          {
+            "name": "The Covenant",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/aa608f01684a1a96865dee8b1d494639e12440de.jpg"
+          },
+          {
+            "name": "Illuminati",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/9e2d515b9f9cae01ca9f47782be363e0fa925181.jpg"
+          },
+          {
+            "name": "BruteSSH.exe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/7e8724968f40b6309c21f2a8c5c31b363b174f4b.jpg"
+          },
+          {
+            "name": "FTPCrack.exe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/cafb6464ea0cddf8c44b2a3a4fb7cad5c7f7b477.jpg"
+          },
+          {
+            "name": "relaySMTP.exe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1812820/213268d0f38b0943ef512af0b6ed9717012ed3a0.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 10, 2021"
+      },
+      "support_info": {
+        "url": "https://discord.com/invite/TFc3hKD",
+        "email": ""
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/page_bg_generated_v6b.jpg?t=1675874284",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/page_bg_generated.jpg?t=1675874284",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "241240": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Contraption Maker",
+      "steam_appid": 241240,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        462540,
+        464480,
+        745580,
+        786010
+      ],
+      "detailed_description": "<h1>INTRODUCING: MINIGOLF BLAST</h1><p><a href=\"https://store.steampowered.com/app/683660/Minigolf_Blast/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/683660/Minigolf_Blast/</a></p><br><h1>JOIN THE DISCORD COMMUNITY</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FbQB7xzQube\" target=\"_blank\" rel=\" noopener\"  >https://discord.gg/bQB7xzQube</a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/FireworksCompressed.gif?t=1692977588\" /><br>Play over 200 official puzzles and over 1,000 user created puzzles in the Workshop.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/WhimsicalCharactersCompressed.gif?t=1692977588\" /><br>Use the many characters that interact in amusing ways.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/Multiplayer.gif?t=1692977588\" /> <br>Play online to build contraptions together with up to 8 players in the Maker Lab.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/JavascriptModsCompressed.gif?t=1692977588\" /><br>Make your own games with the built-in <strong>JavaScript Editor</strong> using Contraption Maker's physics and parts.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/IngeniousContraptionsCompressed.gif?t=1692977588\" /><br>Build your own ingenious contraptions and puzzles and share them.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/CheeseFactoryCompressed.gif?t=1692977588\" /><br>Create your own Cheese Factory or anything else that you can imagine.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/MarbleRun2023.gif?t=1692977588\" /><br>You can make large elaborate endless machines.",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/FireworksCompressed.gif?t=1692977588\" /><br>Play over 200 official puzzles and over 1,000 user created puzzles in the Workshop.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/WhimsicalCharactersCompressed.gif?t=1692977588\" /><br>Use the many characters that interact in amusing ways.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/Multiplayer.gif?t=1692977588\" /> <br>Play online to build contraptions together with up to 8 players in the Maker Lab.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/JavascriptModsCompressed.gif?t=1692977588\" /><br>Make your own games with the built-in <strong>JavaScript Editor</strong> using Contraption Maker's physics and parts.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/IngeniousContraptionsCompressed.gif?t=1692977588\" /><br>Build your own ingenious contraptions and puzzles and share them.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/CheeseFactoryCompressed.gif?t=1692977588\" /><br>Create your own Cheese Factory or anything else that you can imagine.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/241240/extras/MarbleRun2023.gif?t=1692977588\" /><br>You can make large elaborate endless machines.",
+      "short_description": "Contraption Maker is a physics sandbox puzzle game from the designer/programmer of The Incredible Machine.Play 100s of puzzles. Build and share elaborate contraptions with an amazing variety of parts and critters.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“Contraption Maker is from the makers of that genre-defining classic, and it's already a recognisable heir to the throne...It's already worth your time and money.”<br><a href=\"http://www.pcgamer.com/2014/04/16/the-early-access-report-contraption-maker-broforce-and-centration/\" target=\"_blank\" rel=\"\"  >PC Gamer</a><br><br>“It's an amazing game and I love it to pieces”<br><a href=\"https://www.youtube.com/watch?v=fmbZFkjYNyc\" target=\"_blank\" rel=\"\"  >Markiplier</a><br><br>“It is a from-the-ground-up modernization, with enough familiar elements to instantly excite old fans of The Incredible Machine and enough modern touches to fuel the imaginations of gamers who have never touched the original.”<br><a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fgamingtrend.com%2F2013%2F09%2F16%2Fmake-things-inside-contraption-maker-alpha%2F\" target=\"_blank\" rel=\" noopener\"  >Gaming Trend</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/241240/header.jpg?t=1692977588",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/241240/capsule_231x87.jpg?t=1692977588",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/241240/capsule_184x69.jpg?t=1692977588",
+      "website": "http://contraptionmaker.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista<br></li><li><strong>Processor:</strong> 1.7Ghz or Higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM, Pixel Shader 2.0 or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS/X 10.8<br></li><li><strong>Processor:</strong> 1.7Ghz or Higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM, Pixel Shader 2.0 or higher<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS 64-bit<br></li><li><strong>Processor:</strong> 1.7Ghz or Higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM, Pixel Shader 2.0 or higher<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> OpenGL: Version 2.0 or higher</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "legal_notice": "© 2017 Top Meadow Inc - All Rights Reserved<br />\r\n\"The Incredible Machine\" is a registered trademark of its respective owner.",
+      "developers": [
+        "Kevin Ryan"
+      ],
+      "publishers": [
+        "Top Meadow"
+      ],
+      "demos": [
+        {
+          "appid": 2368140,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        30306
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Contraption Maker",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 30306,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Contraption Maker - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_8c66c2fff2eff0915ee6de5dbb023081035b02c2.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_8c66c2fff2eff0915ee6de5dbb023081035b02c2.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_d5c06881c60edfd7a00535fe0345cb0b21760814.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_d5c06881c60edfd7a00535fe0345cb0b21760814.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_009d97037d4fc2f5f5e055c69cd0f7ea2df4ef6b.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_009d97037d4fc2f5f5e055c69cd0f7ea2df4ef6b.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_31556af1101c19a98c90d63547400a703736e979.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_31556af1101c19a98c90d63547400a703736e979.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_1d50cabd372b5b5bc51f9d416416e51d2f4e6b1f.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_1d50cabd372b5b5bc51f9d416416e51d2f4e6b1f.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_29d08761c3d74bf4d242a8ab7bbd4f70e2388062.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_29d08761c3d74bf4d242a8ab7bbd4f70e2388062.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_b8fb27a4668e431204306ded75deb9fa7361a657.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_b8fb27a4668e431204306ded75deb9fa7361a657.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_8b5e03d09fb0dfa2cfd1e292dc8d2fb0d091e8b0.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_8b5e03d09fb0dfa2cfd1e292dc8d2fb0d091e8b0.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_eb87ec6c84f0890eade1a6572ada37eed051f8e8.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_eb87ec6c84f0890eade1a6572ada37eed051f8e8.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_09af4c1ae59e159654121c2e05959c985c6aa321.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_09af4c1ae59e159654121c2e05959c985c6aa321.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_5154046085e3bcca7cdf3437909b3b4b459c9b64.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_5154046085e3bcca7cdf3437909b3b4b459c9b64.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_d15f5eee0456816d839698e9852f25f0dfbb351a.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_d15f5eee0456816d839698e9852f25f0dfbb351a.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_9c1618a5c1bb3ef56462daf8f4f22672ff05d2b0.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_9c1618a5c1bb3ef56462daf8f4f22672ff05d2b0.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_7d971be01c704d6f60cc6ea91ff808abf0648c9e.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_7d971be01c704d6f60cc6ea91ff808abf0648c9e.1920x1080.jpg?t=1692977588"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_5dc5181db706be348f912530456ac50ec03c9dcf.600x338.jpg?t=1692977588",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/241240/ss_5dc5181db706be348f912530456ac50ec03c9dcf.1920x1080.jpg?t=1692977588"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256960761,
+          "name": "Contraption Maker",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256960761/movie.293x165.jpg?t=1690584491",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256960761/movie480_vp9.webm?t=1690584491",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256960761/movie_max_vp9.webm?t=1690584491"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256960761/movie480.mp4?t=1690584491",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256960761/movie_max.mp4?t=1690584491"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256844262,
+          "name": "Introducing Contraption Maker",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256844262/movie.293x165.jpg?t=1686861090",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256844262/movie480_vp9.webm?t=1686861090",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256844262/movie_max_vp9.webm?t=1686861090"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256844262/movie480.mp4?t=1686861090",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256844262/movie_max.mp4?t=1686861090"
+          },
+          "highlight": true
+        },
+        {
+          "id": 2036277,
+          "name": "Contraption Maker Winter Update",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2036277/movie.293x165.jpg?t=1686861099",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2036277/movie480.webm?t=1686861099",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2036277/movie_max.webm?t=1686861099"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/2036277/movie480.mp4?t=1686861099",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/2036277/movie_max.mp4?t=1686861099"
+          },
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 819
+      },
+      "achievements": {
+        "total": 22,
+        "highlighted": [
+          {
+            "name": "Puzzle Rookie",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/b37b6538ab774563f16cc13873d72f597d87072c.jpg"
+          },
+          {
+            "name": "Puzzle Solver",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/5c8eb1ac3421c1440218c34c163030e3bf82bd15.jpg"
+          },
+          {
+            "name": "Puzzle Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/8dcb39855b50e6a2084c4c8107c6a52f8e12377f.jpg"
+          },
+          {
+            "name": "Puzzle Ninja",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/6dcf2d8dcdb58964d0bb9e776e695ff0fa5b5f51.jpg"
+          },
+          {
+            "name": "Puzzle Superstar",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/ad855550dd835d71fd92161120b1e04e2bc1c6c8.jpg"
+          },
+          {
+            "name": "Community Member",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/b78258f561e7146c30d422fcc477337245901060.jpg"
+          },
+          {
+            "name": "Share The Love",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/05ab4a8de8c55a2542c57c715cc6cb319626082c.jpg"
+          },
+          {
+            "name": "Share Creativity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/6d67ab248e2cc8b968aa987c7558480913e83ec5.jpg"
+          },
+          {
+            "name": "Reeeeeemix",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/43fc08cc593ad44965ea169c75833d2b05d15c46.jpg"
+          },
+          {
+            "name": "I Would Walk 500 Miles",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241240/a0b37fd13199fe6d6af0bc47bf1ace3a6e0fd650.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 7, 2014"
+      },
+      "support_info": {
+        "url": "http://topm.com/support/",
+        "email": "support@topm.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/241240/page_bg_generated_v6b.jpg?t=1692977588",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/241240/page.bg.jpg?t=1692977588",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

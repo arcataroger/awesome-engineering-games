@@ -1,0 +1,314 @@
+{
+  "892970": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Valheim",
+      "steam_appid": 892970,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1620250
+      ],
+      "detailed_description": "<h1>Join our Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2Fvalheim\" target=\"_blank\" rel=\" noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/discord_banner_620.jpg?t=1701931405\" /></a></p><br><h1>About the Game</h1><strong>Valheim </strong>is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_EXPLORE.gif?t=1701931405\" /><br><strong>EXPLORE THE TENTH WORLD</strong><br>Explore a world shrouded in mystery. Discover distinct environments with unique enemies to battle, resources to gather and secrets to uncover! Be a viking, sail the open seas in search of lands unknown, and fight bloodthirsty monsters.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_BUILD.gif?t=1701931405\" /><br><strong>BUILD MIGHTY HALLS</strong><br>Raise viking longhouses and build bases that offer reprieve from the dangers ahead. Customise buildings, both inside and out, with a detailed building system. Progress through building tiers to upgrade, expand and defend your base.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_CRAFT_SURVIVE.gif?t=1701931405\" /><br><strong>GATHER, CRAFT AND SURVIVE</strong><br>Struggle to survive as you gather materials and craft weapons, armor, tools, ships, and defenses. Decorate your hearths and sharpen your blades, grow crops and vegetables, prepare food, brew meads and potions, and progress as you defeat more difficult bosses and discover new recipes and blueprints.<br><br><strong>KEY FEATURES:</strong><br><ul class=\"bb_ul\"><li>Massive procedurally-generated world where every biome is immersive and distinct, with unique enemies, resources and crafting recipes to discover.<br></li><li>Play alone or with up to 10 players on player-hosted dedicated servers and experience unlimited world creation and enemies that scale in difficulty.<br></li><li>Staminabased combat that rewards preparation and skill. Utilize weapon types with unique attacks, different blocking styles, ranged combat, dodges and parries to fight your enemies.<br></li><li>Rewarding food system where you cannot starve and are not punished for not eating, instead you gain health, stamina and regeneration buffs depending on what foods you consume.<br></li><li>Intuitive crafting where recipes are discovered as you explore the world, and pick up new resources and ingredients.<br></li><li>Flexible building system that takes structural integrity and ventilation into account. Build a small shelter or an entire village, make outposts or claim abandoned buildings as your own. Then customize to your liking.<br></li><li>Sail boats and ships to reach distant lands and explore the sea that offers riches to claim and monsters to fight.<br></li><li>Epic boss fights that will test even the best prepared vikings and offer rewards that help you on your journey.<br><br><strong>Community-translated languages:</strong><br>In addition to the officially supported languages, Valheim has several community-translated languages. As the name would suggest these are all translated by fans and members of the community, and is an ongoing process. <strong>We can't guarantee the quality nor completeness of any specific translation effort.</strong></li></ul>",
+      "about_the_game": "<strong>Valheim </strong>is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_EXPLORE.gif?t=1701931405\" /><br><strong>EXPLORE THE TENTH WORLD</strong><br>Explore a world shrouded in mystery. Discover distinct environments with unique enemies to battle, resources to gather and secrets to uncover! Be a viking, sail the open seas in search of lands unknown, and fight bloodthirsty monsters.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_BUILD.gif?t=1701931405\" /><br><strong>BUILD MIGHTY HALLS</strong><br>Raise viking longhouses and build bases that offer reprieve from the dangers ahead. Customise buildings, both inside and out, with a detailed building system. Progress through building tiers to upgrade, expand and defend your base.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/892970/extras/VALHEIM_CRAFT_SURVIVE.gif?t=1701931405\" /><br><strong>GATHER, CRAFT AND SURVIVE</strong><br>Struggle to survive as you gather materials and craft weapons, armor, tools, ships, and defenses. Decorate your hearths and sharpen your blades, grow crops and vegetables, prepare food, brew meads and potions, and progress as you defeat more difficult bosses and discover new recipes and blueprints.<br><br><strong>KEY FEATURES:</strong><br><ul class=\"bb_ul\"><li>Massive procedurally-generated world where every biome is immersive and distinct, with unique enemies, resources and crafting recipes to discover.<br></li><li>Play alone or with up to 10 players on player-hosted dedicated servers and experience unlimited world creation and enemies that scale in difficulty.<br></li><li>Staminabased combat that rewards preparation and skill. Utilize weapon types with unique attacks, different blocking styles, ranged combat, dodges and parries to fight your enemies.<br></li><li>Rewarding food system where you cannot starve and are not punished for not eating, instead you gain health, stamina and regeneration buffs depending on what foods you consume.<br></li><li>Intuitive crafting where recipes are discovered as you explore the world, and pick up new resources and ingredients.<br></li><li>Flexible building system that takes structural integrity and ventilation into account. Build a small shelter or an entire village, make outposts or claim abandoned buildings as your own. Then customize to your liking.<br></li><li>Sail boats and ships to reach distant lands and explore the sea that offers riches to claim and monsters to fight.<br></li><li>Epic boss fights that will test even the best prepared vikings and offer rewards that help you on your journey.<br><br><strong>Community-translated languages:</strong><br>In addition to the officially supported languages, Valheim has several community-translated languages. As the name would suggest these are all translated by fans and members of the community, and is an ongoing process. <strong>We can't guarantee the quality nor completeness of any specific translation effort.</strong></li></ul>",
+      "short_description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+      "supported_languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Turkish, Dutch, Japanese, Portuguese - Brazil, Polish, Ukrainian",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg?t=1701931405",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_231x87.jpg?t=1701931405",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_184x69.jpg?t=1701931405",
+      "website": "http://www.valheimgame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 Mavericks<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core or similar<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 500 series or similar<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 Mavericks<br></li><li><strong>Processor:</strong> i5 3GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 970 series or similar<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any up to date version<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core or similar<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any up to date version<br></li><li><strong>Processor:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Iron Gate AB"
+      ],
+      "publishers": [
+        "Coffee Stain Publishing"
+      ],
+      "price_overview": {
+        "currency": "CAD",
+        "initial": 2279,
+        "final": 1367,
+        "discount_percent": 40,
+        "initial_formatted": "CDN$ 22.79",
+        "final_formatted": "CDN$ 13.67"
+      },
+      "packages": [
+        285032
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Valheim",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 285032,
+              "percent_savings_text": "-40% ",
+              "percent_savings": 0,
+              "option_text": "Valheim - <span class=\"discount_original_price\">CDN$ 22.79</span> CDN$ 13.67",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1367
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_8db2e5f40b64e105c7174b3d3679fce6d7a04d20.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_8db2e5f40b64e105c7174b3d3679fce6d7a04d20.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_b3c171e257dd1a3173254b1b61a7995dec204df4.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_b3c171e257dd1a3173254b1b61a7995dec204df4.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.1920x1080.jpg?t=1701931405"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.600x338.jpg?t=1701931405",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.1920x1080.jpg?t=1701931405"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256919598,
+          "name": "Mistlands Gameplay Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256919598/movie.293x165.jpg?t=1670328406",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919598/movie480_vp9.webm?t=1670328406",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919598/movie_max_vp9.webm?t=1670328406"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919598/movie480.mp4?t=1670328406",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919598/movie_max.mp4?t=1670328406"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256820008,
+          "name": "Early Access Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256820008/movie.293x165.jpg?t=1612278985",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256820008/movie480_vp9.webm?t=1612278985",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256820008/movie_max_vp9.webm?t=1612278985"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256820008/movie480.mp4?t=1612278985",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256820008/movie_max.mp4?t=1612278985"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256919597,
+          "name": "Mistlands Animated trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256919597/movie.293x165.jpg?t=1670328411",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919597/movie480_vp9.webm?t=1670328411",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919597/movie_max_vp9.webm?t=1670328411"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256919597/movie480.mp4?t=1670328411",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256919597/movie_max.mp4?t=1670328411"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256863747,
+          "name": "Hearth & Home",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256863747/movie.293x165.jpg?t=1639060621",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256863747/movie480_vp9.webm?t=1639060621",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256863747/movie_max_vp9.webm?t=1639060621"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256863747/movie480.mp4?t=1639060621",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256863747/movie_max.mp4?t=1639060621"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256851823,
+          "name": "Hearth And Home Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256851823/movie.293x165.jpg?t=1631797230",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256851823/movie480_vp9.webm?t=1631797230",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256851823/movie_max_vp9.webm?t=1631797230"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256851823/movie480.mp4?t=1631797230",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256851823/movie_max.mp4?t=1631797230"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 368117
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "2 Feb, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@irongatestudio.se"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/892970/page_bg_generated_v6b.jpg?t=1701931405",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/892970/page.bg.jpg?t=1701931405",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}

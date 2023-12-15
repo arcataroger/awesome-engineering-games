@@ -1,0 +1,280 @@
+{
+  "353640": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Train Valley",
+      "steam_appid": 353640,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        459120,
+        492480
+      ],
+      "detailed_description": "<h1>WISHLIST NOW!</h1><p><a href=\"https://store.steampowered.com/app/2244470/Train_Valley_World/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/2244470/Train_Valley_World/</a></p><br><h1>Train Valley 2</h1><p><a href=\"http://store.steampowered.com/app/602320/\" target=\"_blank\" rel=\"\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/602320/</a></p><br><h1>New DLC Available</h1><p><a href=\"http://store.steampowered.com/app/459120/\" target=\"_blank\" rel=\"\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/353640/extras/TVG_612.jpg?t=1689252911\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/353640/extras/trv_back.jpg?t=1689252911\" /><br><br><ul class=\"bb_ul\"><li>Build railroads in order to connect cities, tunnels and bridges. New railways are cheap when laid across bare fields, but can be expensive when demolishing forests, villages and other existing structures.<br></li><li>Manage increasing traffic by constructing, switches, sidings and spurs so that multiple trains can run without delays, at the same time.<br></li><li>Stay accident-free by precisely controlling trains during crucial moments, using pause for planning (you can build railways and schedule trains while on pause).<br></li><li>Play through 4 seasons: Europe (1830–1980), America (1840–1960), USSR (1880–1980) and Japan (1900–2020).<br></li><li>Complete the story mode featuring such real-life events as the Gold Rush of 1849, the construction of the Florida Overseas Railroad, World War II, the Cold War, the launch of the first manned space flight Vostok 1 and more.<br></li><li>Explore the game in different game modes: in story mode (5-10 minutes), in random mode (15-20 minutes – the level looks and develops differently every time you launch) or in sandbox-like regime (can be turned on for both story and random modes. It allows to play without time and money limits).<br></li><li>Discover 15 types of trains – from early steam-powered locomotives to modern high-speed trains, driving 18 types of cars – from old-time passenger cars to hoppers and cisterns and to military-use tank and gun platforms.</li></ul>",
+      "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/353640/extras/trv_back.jpg?t=1689252911\" /><br><br><ul class=\"bb_ul\"><li>Build railroads in order to connect cities, tunnels and bridges. New railways are cheap when laid across bare fields, but can be expensive when demolishing forests, villages and other existing structures.<br></li><li>Manage increasing traffic by constructing, switches, sidings and spurs so that multiple trains can run without delays, at the same time.<br></li><li>Stay accident-free by precisely controlling trains during crucial moments, using pause for planning (you can build railways and schedule trains while on pause).<br></li><li>Play through 4 seasons: Europe (1830–1980), America (1840–1960), USSR (1880–1980) and Japan (1900–2020).<br></li><li>Complete the story mode featuring such real-life events as the Gold Rush of 1849, the construction of the Florida Overseas Railroad, World War II, the Cold War, the launch of the first manned space flight Vostok 1 and more.<br></li><li>Explore the game in different game modes: in story mode (5-10 minutes), in random mode (15-20 minutes – the level looks and develops differently every time you launch) or in sandbox-like regime (can be turned on for both story and random modes. It allows to play without time and money limits).<br></li><li>Discover 15 types of trains – from early steam-powered locomotives to modern high-speed trains, driving 18 types of cars – from old-time passenger cars to hoppers and cisterns and to military-use tank and gun platforms.</li></ul>",
+      "short_description": "Build railways, manage traffic and stay accident-free. Play in Europe, America, Japan and USSR in 1830-2020. Complete the story mode from the Gold Rush of 1849 to the first manned spaceflight, and then explore the random mode. Management. Construction. Trains. Welcome to Train Valley!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Romanian, Japanese, Simplified Chinese, Turkish",
+      "reviews": "“The care and attention to detail in the scenes helps create a beautiful game.”<br>88/100 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.impulsegamer.com%2Ftrain-valley-pc-review%2F\" target=\"_blank\" rel=\" noopener\"  >Impulsegamer</a><br><br>“The gameplay is the real winner in Train Valley.”<br>8/10 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.thesixthaxis.com%2F2015%2F10%2F14%2Ftrain-valley-review%2F\" target=\"_blank\" rel=\" noopener\"  >The Sixth Axis</a><br><br>“If you're looking for a game you can play for countless hours, this may be it.”<br>75/100 – <a href=\"https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.vandal.net%2Fanalisis%2Fpc%2Ftrain-valley%2F30831\" target=\"_blank\" rel=\" noopener\"  >Vandal Online</a><br>",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/353640/header.jpg?t=1689252911",
+      "capsule_image": "https://cdn.akamai.steamstatic.com/steam/apps/353640/capsule_231x87.jpg?t=1689252911",
+      "capsule_imagev5": "https://cdn.akamai.steamstatic.com/steam/apps/353640/capsule_184x69.jpg?t=1689252911",
+      "website": "http://train-valley.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP (SP3)+ (can crash in Win10)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E4500 @ 2.2GHz or AMD Athlon 64 X2 5600+ @ 2.8 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATi Radeon HD 2400 or NVIDIA GeForce 7600 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12+<br></li><li><strong>Processor:</strong> 1.7 GHz Intel Core i5<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600M or better / ATi Radeon 2400 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10+ or SteamOS+<br></li><li><strong>Processor:</strong> 2.2 GHz CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2400 or NVIDIA GeForce 7600 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Alexey Davydov",
+        "Sergey Dvoynikov",
+        "Timofey Shargorodskiy"
+      ],
+      "publishers": [
+        "Flazm",
+        "META Publishing"
+      ],
+      "demos": [
+        {
+          "appid": 380930,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        61964
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Train Valley",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 61964,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Train Valley - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 69,
+        "url": "https://www.metacritic.com/game/pc/train-valley?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_6d4f818edc50003489babdfe2a430d4b518c3691.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_6d4f818edc50003489babdfe2a430d4b518c3691.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_4f87e167a6c52ad6f76e152d37c95330503ca77f.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_4f87e167a6c52ad6f76e152d37c95330503ca77f.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_5fa92c77cc5e72508d266f5853cf2c036d2bae6b.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_5fa92c77cc5e72508d266f5853cf2c036d2bae6b.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_f643281bf1a5bdacf80b332ebbea6cf0202afd4c.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_f643281bf1a5bdacf80b332ebbea6cf0202afd4c.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_00edf99b7c69d3107d49c2e4806a4d5444c344ca.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_00edf99b7c69d3107d49c2e4806a4d5444c344ca.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_2cc33513dde2e9c91188bf3db32d3c75d4112e5d.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_2cc33513dde2e9c91188bf3db32d3c75d4112e5d.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_cd5587b51025a22855d0ee17aeab8bdbf2275e19.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_cd5587b51025a22855d0ee17aeab8bdbf2275e19.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_757535628260e6474b6667479b2b646ccf667c15.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_757535628260e6474b6667479b2b646ccf667c15.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_5c4d35dc10037a317ffb874fe7978f83f5b78330.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_5c4d35dc10037a317ffb874fe7978f83f5b78330.1920x1080.jpg?t=1689252911"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_ae3f741d45e5d9001f4d701a2ee47851e83de405.600x338.jpg?t=1689252911",
+          "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/353640/ss_ae3f741d45e5d9001f4d701a2ee47851e83de405.1920x1080.jpg?t=1689252911"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256856395,
+          "name": "Train Valley - New Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256856395/movie.293x165.jpg?t=1683820313",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256856395/movie480_vp9.webm?t=1683820313",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256856395/movie_max_vp9.webm?t=1683820313"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256856395/movie480.mp4?t=1683820313",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256856395/movie_max.mp4?t=1683820313"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256656496,
+          "name": "Train Valley - Launch Trailer",
+          "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256656496/movie.293x165.jpg?t=1683820316",
+          "webm": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656496/movie480.webm?t=1683820316",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656496/movie_max.webm?t=1683820316"
+          },
+          "mp4": {
+            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256656496/movie480.mp4?t=1683820316",
+            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256656496/movie_max.mp4?t=1683820316"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2358
+      },
+      "achievements": {
+        "total": 39,
+        "highlighted": [
+          {
+            "name": "Getting started",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/1fe6207596f05795f62d197678e5ab01204051d5.jpg"
+          },
+          {
+            "name": "Collector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/7619482f2387de8054cc9ffd4cb8fb0f9e266d2d.jpg"
+          },
+          {
+            "name": "Philatelist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/dd8981807c413b252576ed6e5a8ad7cff01d8b93.jpg"
+          },
+          {
+            "name": "Tycoon",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/2025f4d4607779b76dc07678a13b866225a710b6.jpg"
+          },
+          {
+            "name": "Prick of conscience",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/64a128637eac93f1fcbb7152823cdc1739716f2c.jpg"
+          },
+          {
+            "name": "Living it large",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/4dc98af92a60d337fba66ed843ec079df36b0985.jpg"
+          },
+          {
+            "name": "Europe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/25525d358ee52dadf3c91a4b96dca72c4d88f533.jpg"
+          },
+          {
+            "name": "America",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/fe57ed6068ea81648da895b3e034c66f04829836.jpg"
+          },
+          {
+            "name": "Russia",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/d8a829b7293702d5339131f996fdbcec44d980f6.jpg"
+          },
+          {
+            "name": "Japan",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/353640/148e311f1c67018593ddd84d34e4c16c6fa2177b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 16, 2015"
+      },
+      "support_info": {
+        "url": "http://train-valley.com/tv1.html#contacts",
+        "email": "info@flazm.com"
+      },
+      "background": "https://cdn.akamai.steamstatic.com/steam/apps/353640/page_bg_generated_v6b.jpg?t=1689252911",
+      "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/353640/page.bg.jpg?t=1689252911",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      }
+    }
+  }
+}
