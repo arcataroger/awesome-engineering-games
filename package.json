@@ -10,7 +10,8 @@
   },
   "scripts": {
     "parse-to-json": "esrun scripts/parse-to-json.ts",
-    "fetch-details": "esrun scripts/fetch-details-from-steam.ts"
+    "fetch-details": "esrun scripts/fetch-details-from-steam.ts",
+    "fetch-steamIds-from-geforce-now": "esrun scripts/fetch-steamIds-from-geforce-now.js"
   },
   "private": true,
   "devDependencies": {
