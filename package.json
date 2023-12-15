@@ -11,17 +11,28 @@
   "scripts": {
     "parse-to-json": "esrun scripts/parse-to-json.ts",
     "fetch-details": "esrun scripts/fetch-details-from-steam.ts",
-    "fetch-steamIds-from-geforce-now": "esrun scripts/fetch-steamIds-from-geforce-now.js"
+    "fetch-steamIds-from-geforce-now": "esrun scripts/fetch-steamIds-from-geforce-now.js",
+    "generate-datocms-ts-types": "graphql-codegen -r dotenv/config"
   },
   "private": true,
   "devDependencies": {
+    "@datocms/cma-client-node": "^3.0.9",
     "@digitak/esrun": "^3.2.25",
     "@types/node": "^20.10.4",
     "deepdash-es": "^5.3.9",
+    "dotenv": "^16.3.1",
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-gfm": "^3.0.0",
     "mdast-zone": "^6.1.0",
     "micromark-extension-gfm": "^3.0.0",
-    "p-queue": "^8.0.1"
+    "p-queue": "^8.0.1",
+    "remeda": "^1.30.0"
+  },
+  "dependencies": {
+    "@graphql-codegen/cli": "^5.0.0",
+    "@graphql-codegen/typed-document-node": "^5.0.1",
+    "@graphql-codegen/typescript": "^4.0.1",
+    "@graphql-codegen/typescript-operations": "^4.0.1",
+    "@graphql-typed-document-node/core": "^3.2.0"
   }
 }

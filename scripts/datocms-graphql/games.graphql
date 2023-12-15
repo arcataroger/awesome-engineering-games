@@ -1,0 +1,29 @@
+query MyQuery {
+    allGames {
+        id
+        steamId
+        steamJson
+        tags
+        title
+        curatorsThoughts(markdown: true)
+        capsuleImage {
+            ...ResponsiveImageFragment
+        }
+        headerImage {
+            ...ResponsiveImageFragment
+        }
+        _publishedAt
+        _updatedAt
+        _status
+        _isValid
+
+    }
+}
+
+fragment ResponsiveImageFragment on FileField {
+    id
+    _updatedAt
+    filename
+    md5
+    url
+}
