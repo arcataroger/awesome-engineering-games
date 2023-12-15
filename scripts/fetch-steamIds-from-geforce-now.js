@@ -85,7 +85,10 @@ const getSteamIds = async () => {
     }
 };
 
+const engineeringGameIds = JSON.parse(readFileSync(resolve(__dirname, "../outputs/steamIds.json"), 'utf8'))
+
 getSteamIds().then((ids) => {
-    const steamIdsOnGeForceNow = [...new Set(ids.sort())]
-    writeFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), JSON.stringify(steamIdsOnGeForceNow))
+    const steamIdsOnGeForceNow = new Set(ids)
+    const engineeringGameIdsOnGeForceNow = engineeringGameIds.filter(id => steamIdsOnGeForceNow.has(id))
+    writeFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), JSON.stringify(engineeringGameIdsOnGeForceNow))
 });
