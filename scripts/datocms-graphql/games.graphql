@@ -12,17 +12,11 @@ query MyQuery {
         headerImage {
             ...ResponsiveImageFragment
         }
-        _publishedAt
-        _updatedAt
-        _status
-        _isValid
-
     }
 }
 
 fragment ResponsiveImageFragment on FileField {
     id
-    _updatedAt
     filename
     md5
     url

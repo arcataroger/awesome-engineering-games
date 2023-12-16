@@ -12,7 +12,8 @@
     "parse-to-json": "esrun scripts/parse-to-json.ts",
     "fetch-details": "esrun scripts/fetch-details-from-steam.ts",
     "fetch-steamIds-from-geforce-now": "esrun scripts/fetch-steamIds-from-geforce-now.js",
-    "generate-datocms-ts-types": "graphql-codegen -r dotenv/config"
+    "generate-datocms-ts-types": "graphql-codegen -r dotenv/config",
+    "upload-to-datocms": "esrun scripts/upload-to-datocms.ts"
   },
   "private": true,
   "devDependencies": {
