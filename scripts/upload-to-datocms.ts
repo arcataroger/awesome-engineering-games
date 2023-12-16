@@ -5,6 +5,7 @@ import PQueue from 'p-queue';
 import {readFileSync} from 'node:fs'
 import {resolve} from "node:path";
 import {SteamGame} from "./steamTypes";
+import {parseDate} from 'chrono-node';
 
 dotenv.config(); // Read env variables (like the API key) from .env
 
@@ -22,9 +23,9 @@ const queue = new PQueue({
     carryoverConcurrencyCount: true,
 });
 
-const getRecordIdsByItemType = async (type: ItemInstancesHrefSchema['filter']['type']): Promise<string[]> => {
+const getSteamGamesFromDato = async (type: ItemInstancesHrefSchema['filter']['type']): Promise<Map<number, string>> => {
     console.log(`Fetching all records of type ${type}`);
-    let ids: string[] = [];
+    let steamIdToDatoIdMap: Map<number, string> = new Map()
     for await (const record of client.items.listPagedIterator({
             filter: {type: type},
         },
@@ -32,71 +33,97 @@ const getRecordIdsByItemType = async (type: ItemInstancesHrefSchema['filter']['t
             perPage: 200,
             concurrency: 3,
         })) {
-        ids.push(record.id);
+
+        steamIdToDatoIdMap.set(Number(record.steam_id), record.id)
     }
-    console.log(`I fetched ${ids.length} record IDs.`);
-    return ids;
+    console.log(`I fetched ${steamIdToDatoIdMap.size} record IDs.`);
+    return steamIdToDatoIdMap;
 };
 
-// const allGames = await getRecordIdsByItemType("game");
+const gamesOnDatoMap = await getSteamGamesFromDato("game");
 
-// console.log(allGames)
+console.log(gamesOnDatoMap)
 
-const engineeringGames:Array<number> = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamIds.json`), 'utf8'))
-const gfnGames:Set<number> = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
+const allEngineeringGames: Array<number> = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamIds.json`), 'utf8'))
+const engineeringGamesAlreadyOnDato = [...gamesOnDatoMap.entries()]
+const engineeringGamesNotYetOnDato = allEngineeringGames.filter(steamId => !gamesOnDatoMap.has(steamId))
+const gfnGames: Set<number> = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
 
-const createNewGameRecord = async (id: number) => {
-    const steamDetails:SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${id}.json`), 'utf8'))[id].data
-    if(!steamDetails) return;
+const upsertGameRecord = async (steamId: number, update?: boolean, skipImagesOnUpdate?: boolean) => {
+    const steamDetails: SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${steamId}.json`), 'utf8'))[steamId].data
+    if (!steamDetails) return;
     const capsuleUrl = steamDetails.capsule_image;
     const headerUrl = steamDetails.header_image;
 
     let tags = []
-    if(gfnGames.has(id)) tags.push('gfn')
-    if(steamDetails.genres.some(genre => genre.id==='70')) tags.push('early-access')
-    if(steamDetails.genres.some(genre => genre.id==='37')) tags.push('f2p')
-    if(steamDetails.categories.some(category => category.id === 9 || category.id === 38)) tags.push('co-op')
-    if(steamDetails.categories.some(category => category.id === 49 || category.id === 36)) tags.push('pvp')
-    if(steamDetails.categories.some(category => category.id === 28 || category.id === 18)) tags.push('controller-support')
+    if (gfnGames.has(steamId)) tags.push('gfn')
+    if (steamDetails.genres.some(genre => genre.id === '70')) tags.push('early-access')
+    if (steamDetails.genres.some(genre => genre.id === '37')) tags.push('f2p')
+    if (steamDetails.categories.some(category => category.id === 9 || category.id === 38)) tags.push('co-op')
+    if (steamDetails.categories.some(category => category.id === 49 || category.id === 36)) tags.push('pvp')
+    if (steamDetails.categories.some(category => category.id === 28 || category.id === 18)) tags.push('controller-support')
 
-    const capsuleImage = capsuleUrl ? await client.uploads.createFromUrl({
+    const capsuleImage = capsuleUrl && (!update && !skipImagesOnUpdate) ? await client.uploads.createFromUrl({
         url: capsuleUrl,
-        filename: `${id}-capsule`,
+        filename: `${steamId}-capsule`,
         skipCreationIfAlreadyExists: true,
     }) : undefined;
 
-    const headerImage = headerUrl ? await client.uploads.createFromUrl({
+    const headerImage = headerUrl && (!update && !skipImagesOnUpdate) ? await client.uploads.createFromUrl({
         url: headerUrl,
-        filename: `${id}-header`,
+        filename: `${steamId}-header`,
         skipCreationIfAlreadyExists: true,
     }) : undefined;
 
-    console.log(capsuleImage)
+    const parsedDate: Date | undefined = steamDetails.release_date ? parseDate(steamDetails.release_date.date, {timezone: 'America/Los_Angeles'}) : undefined
+    const isoDate: string = parsedDate.toISOString().split("T")[0]
 
     const data: ItemCreateSchema = {
         item_type: {
             type: 'item_type',
             id: 'MD-Tx1HTQdyQtR5kV5zN5Q'
         },
-        steam_id: id.toString(),
+        steam_id: steamId.toString(),
         title: steamDetails.name,
         // curator_thoughts: "",
         capsule_image: capsuleImage?.id ? {
-           upload_id: capsuleImage.id
+            upload_id: capsuleImage.id
         } : undefined,
         header_image: headerImage?.id ? {
             upload_id: headerImage.id
         } : undefined,
         steam_json: JSON.stringify(steamDetails, null, 2),
-        tags: JSON.stringify(tags)
+        tags: JSON.stringify(tags),
+        about_the_game: steamDetails.about_the_game,
+        short_description: steamDetails.short_description,
+        detailed_description: steamDetails.detailed_description,
+        windows: steamDetails.platforms.windows,
+        mac: steamDetails.platforms.mac,
+        linux: steamDetails.platforms.linux,
+        recommendations: steamDetails.recommendations?.total ?? null,
+        early_access: steamDetails.genres.some(genre => genre.id === '70'),
+        co_op: steamDetails.categories.some(category => category.id === 9 || category.id === 38),
+        pvp: steamDetails.categories.some(category => category.id === 49 || category.id === 36),
+        controller_support: steamDetails.categories.some(category => category.id === 28 || category.id === 18),
+        f2p: steamDetails.genres.some(genre => genre.id === '37'),
+        gfn: gfnGames.has(steamId),
+        release_date_raw: steamDetails.release_date.date,
+        release_date_parsed: isoDate,
     }
 
-    await client.items.create(data)
+    if (update) {
+        await client.items.update(gamesOnDatoMap.get(steamId), data)
+    } else {
+        await client.items.create(data)
+    }
 }
 
 
 queue.addAll(
-    engineeringGames.map(id => () => createNewGameRecord(id))
+    [
+        ...engineeringGamesNotYetOnDato.map(id => () => upsertGameRecord(id)),
+        ...engineeringGamesAlreadyOnDato.map(([steamId, datoId]) => () => upsertGameRecord(steamId, true, true))
+    ]
 ).then(() => console.log('All done.'))
 
 
