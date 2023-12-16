@@ -2,9 +2,7 @@ import * as dotenv from 'dotenv';
 import {buildClient, LogLevel} from "@datocms/cma-client-node";
 import {ItemInstancesHrefSchema, ItemCreateSchema} from "@datocms/cma-client/dist/types/generated/SimpleSchemaTypes";
 import PQueue from 'p-queue';
-import {chunk} from 'remeda';
-import {readFileSync, writeFileSync} from 'node:fs'
-import {GameRecord, RecordInterface} from "./datocms-graphql/datocms-graphql-types";
+import {readFileSync} from 'node:fs'
 import {resolve} from "node:path";
 import {SteamGame} from "./steamTypes";
 
@@ -17,10 +15,10 @@ const client = buildClient({
 });
 
 const queue = new PQueue({
-    timeout: 1000 * 60 * 2, // Each request times out after 2 minutes. It takes a while to delete each batch of 200 records.
-    throwOnTimeout: false, // The queue will error if any requests time out
-    intervalCap: 30, // Maximum requests per interval cycle. We'll set it a little lower just to be conservative (half the real limit)
-    interval: 3000, // Interval cycle. DatoCMS rate limit is 60 requests every 3 seconds (https://www.datocms.com/docs/content-management-api/rate-limits)
+    timeout: 30000,
+    throwOnTimeout: true, // The queue will error if any requests time out
+    intervalCap: 10, // Maximum requests per interval cycle. We'll set it a little lower just to be conservative (half the real limit)
+    interval: 1000, // Interval cycle. DatoCMS rate limit is 60 requests every 3 seconds (https://www.datocms.com/docs/content-management-api/rate-limits)
     carryoverConcurrencyCount: true,
 });
 
@@ -40,14 +38,16 @@ const getRecordIdsByItemType = async (type: ItemInstancesHrefSchema['filter']['t
     return ids;
 };
 
-const allGames = await getRecordIdsByItemType("game");
+// const allGames = await getRecordIdsByItemType("game");
 
-console.log(allGames)
+// console.log(allGames)
 
-const gfnGames = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
+const engineeringGames:Array<number> = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamIds.json`), 'utf8'))
+const gfnGames:Set<number> = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
 
-const createNewGameRecord = async (id: string | number) => {
+const createNewGameRecord = async (id: number) => {
     const steamDetails:SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${id}.json`), 'utf8'))[id].data
+    if(!steamDetails) return;
     const capsuleUrl = steamDetails.capsule_image;
     const headerUrl = steamDetails.header_image;
 
@@ -94,25 +94,12 @@ const createNewGameRecord = async (id: string | number) => {
     await client.items.create(data)
 }
 
-await createNewGameRecord(1450900)
 
-/*
-const batchedRecords = chunk(recordIdsToDestroy, 200)
-const deleteBatch = async (batch: string[]) => {
-    await client.items.bulkDestroy({
-        items: batch.map(id => ({
-                type: 'item',
-                id: id
-            }
-        ))
-    })
-}
+queue.addAll(
+    engineeringGames.map(id => () => createNewGameRecord(id))
+).then(() => console.log('All done.'))
+
 
 queue.on('active', () => {
     console.log(`Queue Size: ${queue.size}  Pending: ${queue.pending}`);
 });
-
-queue.addAll(
-    batchedRecords.map((batch:string[]) => () => deleteBatch(batch))
-).then(() => console.log('All done.'))
-*/
