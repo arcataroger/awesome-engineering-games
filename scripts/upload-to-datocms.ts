@@ -6,6 +6,7 @@ import {chunk} from 'remeda';
 import {readFileSync, writeFileSync} from 'node:fs'
 import {GameRecord, RecordInterface} from "./datocms-graphql/datocms-graphql-types";
 import {resolve} from "node:path";
+import {SteamGame} from "./steamTypes";
 
 dotenv.config(); // Read env variables (like the API key) from .env
 
@@ -46,12 +47,17 @@ console.log(allGames)
 const gfnGames = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
 
 const createNewGameRecord = async (id: string | number) => {
-    const steamDetails = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${id}.json`), 'utf8'))[id].data
+    const steamDetails:SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${id}.json`), 'utf8'))[id].data
     const capsuleUrl = steamDetails.capsule_image;
     const headerUrl = steamDetails.header_image;
 
     let tags = []
     if(gfnGames.has(id)) tags.push('gfn')
+    if(steamDetails.genres.some(genre => genre.id==='70')) tags.push('early-access')
+    if(steamDetails.genres.some(genre => genre.id==='37')) tags.push('f2p')
+    if(steamDetails.categories.some(category => category.id === 9 || category.id === 38)) tags.push('co-op')
+    if(steamDetails.categories.some(category => category.id === 49 || category.id === 36)) tags.push('pvp')
+    if(steamDetails.categories.some(category => category.id === 28 || category.id === 18)) tags.push('controller-support')
 
     const capsuleImage = capsuleUrl ? await client.uploads.createFromUrl({
         url: capsuleUrl,
@@ -88,7 +94,7 @@ const createNewGameRecord = async (id: string | number) => {
     await client.items.create(data)
 }
 
-await createNewGameRecord(2330750)
+await createNewGameRecord(1450900)
 
 /*
 const batchedRecords = chunk(recordIdsToDestroy, 200)
