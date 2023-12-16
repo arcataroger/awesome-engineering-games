@@ -12,19 +12,19 @@ dotenv.config(); // Read env variables (like the API key) from .env
 const client = buildClient({
     apiToken: process.env.DATOCMS_TOKEN as string,
     extraHeaders: {"X-Exclude-Invalid": "true"},
-    // logLevel: LogLevel.BASIC,
+    // logLevel: LogLevel.BASIC, // Turn on to see HTTP methods and codes
 });
 
 const queue = new PQueue({
-    timeout: 30000,
+    timeout: 60000,
     throwOnTimeout: true, // The queue will error if any requests time out
-    intervalCap: 20, // Maximum requests per interval cycle
+    intervalCap: 10, // Maximum requests per interval cycle
     interval: 1000, // Interval cycle. DatoCMS rate limit is 60 requests every 3 seconds (https://www.datocms.com/docs/content-management-api/rate-limits)
     carryoverConcurrencyCount: true,
 });
 
 const getSteamGamesFromDato = async (type: ItemInstancesHrefSchema['filter']['type']): Promise<Map<number, string>> => {
-    console.log(`Fetching all records of type ${type}...`);
+    console.log(`Fetching all records of type "${type}"...`);
     let steamIdToDatoIdMap: Map<number, string> = new Map()
     for await (const record of client.items.listPagedIterator({
             filter: {type: type},
@@ -46,19 +46,19 @@ const engineeringGamesAlreadyOnDato = [...gamesOnDatoMap.keys()]
 const engineeringGamesNotYetOnDato = allEngineeringGames.filter(steamId => !gamesOnDatoMap.has(steamId))
 const gfnGames: Set<number> = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
 
-const upsertGameRecord = async (steamId: number, update?: boolean, skipImagesOnUpdate?: boolean) => {
+const upsertGameRecord = async (steamId: number, update?: boolean, skipImages?: boolean) => {
     const steamDetails: SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${steamId}.json`), 'utf8'))[steamId].data
     if (!steamDetails) return;
     const capsuleUrl = steamDetails.capsule_image;
     const headerUrl = steamDetails.header_image;
 
-    const capsuleImage = capsuleUrl && (!update && !skipImagesOnUpdate) ? await client.uploads.createFromUrl({
+    const capsuleImage = capsuleUrl && !skipImages ? await client.uploads.createFromUrl({
         url: capsuleUrl,
         filename: `${steamId}-capsule`,
         skipCreationIfAlreadyExists: true,
     }) : undefined;
 
-    const headerImage = headerUrl && (!update && !skipImagesOnUpdate) ? await client.uploads.createFromUrl({
+    const headerImage = headerUrl && !skipImages ? await client.uploads.createFromUrl({
         url: headerUrl,
         filename: `${steamId}-header`,
         skipCreationIfAlreadyExists: true,
@@ -100,10 +100,10 @@ const upsertGameRecord = async (steamId: number, update?: boolean, skipImagesOnU
 
     if (update) {
         const updated = await client.items.update(gamesOnDatoMap.get(steamId), data)
-        // console.log(`Updated ${steamDetails.name} (Dato ID ${updated.id})`)
+        console.log(`Updated ${steamDetails.name} (Dato ID "${updated.id}")`)
     } else {
         const added = await client.items.create(data)
-        // console.log(`Added ${steamDetails.name} (Dato ID ${added.id})`)
+        console.log(`Added ${steamDetails.name} (Dato ID "${added.id})"`)
     }
 }
 
@@ -111,7 +111,7 @@ const upsertGameRecord = async (steamId: number, update?: boolean, skipImagesOnU
 queue.addAll(
     [
         ...engineeringGamesNotYetOnDato.map(id => () => upsertGameRecord(id)),
-        ...engineeringGamesAlreadyOnDato.map((steamId) => () => upsertGameRecord(steamId, true, true))
+        ...engineeringGamesAlreadyOnDato.map((steamId) => () => upsertGameRecord(steamId, true, false))
     ]
 ).then(() => console.log('All done.'))
 
