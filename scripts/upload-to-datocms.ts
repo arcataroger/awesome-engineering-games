@@ -46,7 +46,7 @@ const engineeringGamesAlreadyOnDato = [...gamesOnDatoMap.keys()]
 const engineeringGamesNotYetOnDato = allEngineeringGames.filter(steamId => !gamesOnDatoMap.has(steamId))
 const gfnGames: Set<number> = new Set(JSON.parse(readFileSync(resolve(__dirname, `../outputs/games-on-geforce-now.json`), 'utf8')))
 
-const upsertGameRecord = async (steamId: number, update?: boolean, skipImages?: boolean) => {
+const createOrUpdateGameRecord = async (steamId: number, update?: boolean, skipImages?: boolean) => {
     const steamDetails: SteamGame = JSON.parse(readFileSync(resolve(__dirname, `../outputs/steamDetails/${steamId}.json`), 'utf8'))[steamId].data
     if (!steamDetails) return;
     const capsuleUrl = steamDetails.capsule_image;
@@ -110,8 +110,8 @@ const upsertGameRecord = async (steamId: number, update?: boolean, skipImages?: 
 
 queue.addAll(
     [
-        ...engineeringGamesNotYetOnDato.map(id => () => upsertGameRecord(id)),
-        ...engineeringGamesAlreadyOnDato.map((steamId) => () => upsertGameRecord(steamId, true, false))
+        ...engineeringGamesNotYetOnDato.map(id => () => createOrUpdateGameRecord(id)),
+        ...engineeringGamesAlreadyOnDato.map((steamId) => () => createOrUpdateGameRecord(steamId, true, true))
     ]
 ).then(() => console.log('All done.'))
 
