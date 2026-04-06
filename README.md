@@ -8,6 +8,7 @@ Games are divided into broad categories based on the type(s) of engineering they
 
 Feel free to suggest new games or update existing titles! For now, please [create a new Issue](https://github.com/arcataroger/awesome-engineering-games/issues/new) (or Pull Request if you know how). Easier submissions and better instructions are coming soon.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for engineering workflow orchestration, automated development pipeline management, and multi-agent coordination. MIT licensed.
 ### Ratings & Tags Explained
 
 * ❤️ = "Overwhelmingly Positive" overall reviews on Steam, meaning >= 95% of 500+ reviewers liked it.
