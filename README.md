@@ -461,3 +461,5 @@ And extra special thanks to:
   Dyson Sphere Program) for introducing me to these genres in the first place and inspiring this list
 
 [^ Back to Table of Contents](#table-of-contents)
+
+- [MECCHA CHAMELEON](https://mecchachameleon.art/) — A Steam hide-and-seek mimicry game and fan-made companion site.
